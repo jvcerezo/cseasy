@@ -60,7 +60,7 @@ void main() {
   test('mini mock keeps the full exam pace per item', () {
     final full = MockExamSpec.full(ExamLevel.professional);
     final mini = MockExamSpec.mini(ExamLevel.professional);
-    expect(full.itemCount, 170);
+    expect(full.itemCount, 150);
     expect(full.duration, const Duration(minutes: 190));
     expect(mini.itemCount, 50);
     expect(

@@ -8,7 +8,9 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:cseasy/core/content/content_providers.dart';
+import 'package:cseasy/core/content/question.dart';
 import 'package:cseasy/core/content/question_bank.dart';
+import 'package:cseasy/core/quiz/mock_exam.dart';
 import 'package:cseasy/core/strings.dart';
 import 'package:cseasy/core/theme/app_theme.dart';
 import 'package:cseasy/data/app_database.dart';
@@ -103,6 +105,9 @@ Future<void> _unmount(WidgetTester tester) async {
   await _settle(tester);
 }
 
+final _mini = MockExamSpec.mini(ExamLevel.professional);
+final _miniLabel = '${Strings.miniMock}\n${Strings.mockMeta(_mini.itemCount, _mini.duration)}';
+
 void main() {
   testWidgets('level picker (first launch)', (tester) async {
     await _pumpApp(tester, const LevelPickerScreen());
@@ -141,7 +146,7 @@ void main() {
 
   testWidgets('mini mock: answer, grid sheet, submit dialog, results', (tester) async {
     await _pumpApp(tester, const HomeScreen());
-    await _tapText(tester, 'Mini (50)\n50 items · 55m');
+    await _tapText(tester, _miniLabel);
     await _tapText(tester, 'A');
     await tester.tap(find.byTooltip('Flag for review'));
     await tester.pump();
@@ -160,7 +165,7 @@ void main() {
 
   testWidgets('leaving a mock asks for confirmation', (tester) async {
     await _pumpApp(tester, const HomeScreen());
-    await _tapText(tester, 'Mini (50)\n50 items · 55m');
+    await _tapText(tester, _miniLabel);
     final NavigatorState navigator = tester.state(find.byType(Navigator).first);
     unawaited(navigator.maybePop());
     await tester.pumpAndSettle();

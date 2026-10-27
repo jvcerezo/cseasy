@@ -23,14 +23,15 @@ class MockExamSpec {
   @override
   int get hashCode => Object.hash(label, itemCount, duration);
 
-  /// Full-length mocks follow the CSC's published format: Professional is
-  /// 170 items in 3h10m, Sub-Professional 165 items in 2h40m. CSC does not
-  /// publish section weights, so items are split evenly across sections.
+  /// Full-length mocks match the scored part of the CSC exam: Professional is
+  /// 150 items in 3h10m, Sub-Professional 145 items in 2h40m. (The booklets'
+  /// 170 and 165 include a 20-item unscored personal-data questionnaire.)
+  /// CSC does not publish section weights, so items are split evenly.
   static MockExamSpec full(ExamLevel level) => switch (level) {
         ExamLevel.professional =>
-          const MockExamSpec(label: 'Full mock exam', itemCount: 170, duration: Duration(minutes: 190)),
+          const MockExamSpec(label: 'Full mock exam', itemCount: 150, duration: Duration(minutes: 190)),
         ExamLevel.subprofessional =>
-          const MockExamSpec(label: 'Full mock exam', itemCount: 165, duration: Duration(minutes: 160)),
+          const MockExamSpec(label: 'Full mock exam', itemCount: 145, duration: Duration(minutes: 160)),
       };
 
   static const miniItemCount = 50;
