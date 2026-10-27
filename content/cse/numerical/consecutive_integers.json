@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-consecutive_integers-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive integers is 58. What is the largest?",
+    "choices": [
+      "14.5",
+      "17",
+      "16",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 58 ÷ 4 = 14.5, so the numbers are 13, 14, 15, 16. The largest is 16.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 115. What is the largest?",
+    "choices": [
+      "19",
+      "29",
+      "27",
+      "23"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 115 ÷ 5 = 23, so the numbers are 19, 21, 23, 25, 27. The largest is 27.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive even integers is 250. What is the smallest?",
+    "choices": [
+      "46",
+      "54",
+      "50",
+      "44"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 250 ÷ 5 = 50, so the numbers are 46, 48, 50, 52, 54. The smallest is 46.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive even integers is 68. What is the smallest?",
+    "choices": [
+      "12",
+      "17",
+      "14",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 68 ÷ 4 = 17, so the numbers are 14, 16, 18, 20. The smallest is 14.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive integers is 130. What is the largest?",
+    "choices": [
+      "31",
+      "34",
+      "35",
+      "32.5"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 130 ÷ 4 = 32.5, so the numbers are 31, 32, 33, 34. The largest is 34.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 245. What is the largest?",
+    "choices": [
+      "49",
+      "45",
+      "53",
+      "55"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 245 ÷ 5 = 49, so the numbers are 45, 47, 49, 51, 53. The largest is 53.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive even integers is 108. What is the smallest?",
+    "choices": [
+      "27",
+      "24",
+      "30",
+      "22"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 108 ÷ 4 = 27, so the numbers are 24, 26, 28, 30. The smallest is 24.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive odd integers is 51. What is the smallest?",
+    "choices": [
+      "17",
+      "13",
+      "15",
+      "19"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 51 ÷ 3 = 17, so the numbers are 15, 17, 19. The smallest is 15.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 195. What is the largest?",
+    "choices": [
+      "43",
+      "45",
+      "39",
+      "35"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 195 ÷ 5 = 39, so the numbers are 35, 37, 39, 41, 43. The largest is 43.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive odd integers is 216. What is the smallest?",
+    "choices": [
+      "54",
+      "57",
+      "51",
+      "49"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 216 ÷ 4 = 54, so the numbers are 51, 53, 55, 57. The smallest is 51.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive odd integers is 75. What is the largest?",
+    "choices": [
+      "27",
+      "23",
+      "25",
+      "29"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 75 ÷ 3 = 25, so the numbers are 23, 25, 27. The largest is 27.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive even integers is 50. What is the largest?",
+    "choices": [
+      "6",
+      "10",
+      "14",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 50 ÷ 5 = 10, so the numbers are 6, 8, 10, 12, 14. The largest is 14.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive even integers is 188. What is the smallest?",
+    "choices": [
+      "50",
+      "44",
+      "42",
+      "47"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 188 ÷ 4 = 47, so the numbers are 44, 46, 48, 50. The smallest is 44.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive odd integers is 129. What is the largest?",
+    "choices": [
+      "43",
+      "45",
+      "47",
+      "41"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 129 ÷ 3 = 43, so the numbers are 41, 43, 45. The largest is 45.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive integers is 78. What is the smallest?",
+    "choices": [
+      "24",
+      "27",
+      "26",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "The middle value is 78 ÷ 3 = 26, so the numbers are 25, 26, 27. The smallest is 25.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive integers is 125. What is the largest?",
+    "choices": [
+      "27",
+      "23",
+      "25",
+      "28"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 125 ÷ 5 = 25, so the numbers are 23, 24, 25, 26, 27. The largest is 27.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive even integers is 24. What is the largest?",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 24 ÷ 3 = 8, so the numbers are 6, 8, 10. The largest is 10.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive odd integers is 152. What is the smallest?",
+    "choices": [
+      "38",
+      "41",
+      "35",
+      "33"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 152 ÷ 4 = 38, so the numbers are 35, 37, 39, 41. The smallest is 35.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 205. What is the smallest?",
+    "choices": [
+      "35",
+      "45",
+      "41",
+      "37"
+    ],
+    "answer": 3,
+    "explanation": "The middle value is 205 ÷ 5 = 41, so the numbers are 37, 39, 41, 43, 45. The smallest is 37.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive even integers is 144. What is the smallest?",
+    "choices": [
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 144 ÷ 3 = 48, so the numbers are 46, 48, 50. The smallest is 46.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive integers is 275. What is the smallest?",
+    "choices": [
+      "52",
+      "53",
+      "55",
+      "57"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 275 ÷ 5 = 55, so the numbers are 53, 54, 55, 56, 57. The smallest is 53.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive integers is 194. What is the largest?",
+    "choices": [
+      "50",
+      "48.5",
+      "47",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 194 ÷ 4 = 48.5, so the numbers are 47, 48, 49, 50. The largest is 50.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive integers is 66. What is the largest?",
+    "choices": [
+      "23",
+      "24",
+      "21",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 66 ÷ 3 = 22, so the numbers are 21, 22, 23. The largest is 23.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive even integers is 164. What is the largest?",
+    "choices": [
+      "46",
+      "41",
+      "44",
+      "38"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 164 ÷ 4 = 41, so the numbers are 38, 40, 42, 44. The largest is 44.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive odd integers is 176. What is the largest?",
+    "choices": [
+      "44",
+      "47",
+      "41",
+      "49"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 176 ÷ 4 = 44, so the numbers are 41, 43, 45, 47. The largest is 47.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 265. What is the smallest?",
+    "choices": [
+      "53",
+      "57",
+      "47",
+      "49"
+    ],
+    "answer": 3,
+    "explanation": "The middle value is 265 ÷ 5 = 53, so the numbers are 49, 51, 53, 55, 57. The smallest is 49.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive integers is 102. What is the smallest?",
+    "choices": [
+      "34",
+      "32",
+      "35",
+      "33"
+    ],
+    "answer": 3,
+    "explanation": "The middle value is 102 ÷ 3 = 34, so the numbers are 33, 34, 35. The smallest is 33.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive integers is 162. What is the largest?",
+    "choices": [
+      "43",
+      "40.5",
+      "42",
+      "39"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 162 ÷ 4 = 40.5, so the numbers are 39, 40, 41, 42. The largest is 42.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive odd integers is 64. What is the smallest?",
+    "choices": [
+      "13",
+      "16",
+      "19",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 64 ÷ 4 = 16, so the numbers are 13, 15, 17, 19. The smallest is 13.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive even integers is 54. What is the smallest?",
+    "choices": [
+      "20",
+      "18",
+      "16",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 54 ÷ 3 = 18, so the numbers are 16, 18, 20. The smallest is 16.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive integers is 81. What is the largest?",
+    "choices": [
+      "28",
+      "26",
+      "29",
+      "27"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 81 ÷ 3 = 27, so the numbers are 26, 27, 28. The largest is 28.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive odd integers is 200. What is the largest?",
+    "choices": [
+      "53",
+      "55",
+      "47",
+      "50"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 200 ÷ 4 = 50, so the numbers are 47, 49, 51, 53. The largest is 53.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive integers is 90. What is the smallest?",
+    "choices": [
+      "31",
+      "29",
+      "28",
+      "30"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 90 ÷ 3 = 30, so the numbers are 29, 30, 31. The smallest is 29.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive even integers is 102. What is the smallest?",
+    "choices": [
+      "36",
+      "32",
+      "34",
+      "30"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 102 ÷ 3 = 34, so the numbers are 32, 34, 36. The smallest is 32.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 4 consecutive integers is 206. What is the largest?",
+    "choices": [
+      "53",
+      "50",
+      "51.5",
+      "54"
+    ],
+    "answer": 0,
+    "explanation": "The middle value is 206 ÷ 4 = 51.5, so the numbers are 50, 51, 52, 53. The largest is 53.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 45. What is the smallest?",
+    "choices": [
+      "9",
+      "5",
+      "3",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "The middle value is 45 ÷ 5 = 9, so the numbers are 5, 7, 9, 11, 13. The smallest is 5.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive integers is 220. What is the largest?",
+    "choices": [
+      "44",
+      "42",
+      "47",
+      "46"
+    ],
+    "answer": 3,
+    "explanation": "The middle value is 220 ÷ 5 = 44, so the numbers are 42, 43, 44, 45, 46. The largest is 46.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 285. What is the largest?",
+    "choices": [
+      "57",
+      "53",
+      "63",
+      "61"
+    ],
+    "answer": 3,
+    "explanation": "The middle value is 285 ÷ 5 = 57, so the numbers are 53, 55, 57, 59, 61. The largest is 61.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 3 consecutive even integers is 162. What is the smallest?",
+    "choices": [
+      "56",
+      "54",
+      "52",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "The middle value is 162 ÷ 3 = 54, so the numbers are 52, 54, 56. The smallest is 52.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-consecutive_integers-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "consecutive_integers",
+    "stem": "The sum of 5 consecutive odd integers is 65. What is the smallest?",
+    "choices": [
+      "17",
+      "7",
+      "13",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "The middle value is 65 ÷ 5 = 13, so the numbers are 9, 11, 13, 15, 17. The smallest is 9.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

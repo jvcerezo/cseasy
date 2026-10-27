@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-interest-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱195,000 earn at 12% per year for 4 years?",
+    "choices": [
+      "₱187,200",
+      "₱93,600",
+      "₱23,400",
+      "₱288,600"
+    ],
+    "answer": 1,
+    "explanation": "I = P × r × t = ₱195,000 × 12% × 4 = ₱93,600.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱107,000 from a cooperative at 9% simple interest per year. How much does she pay back in total after 3 years?",
+    "choices": [
+      "₱164,780",
+      "₱135,890",
+      "₱28,890",
+      "₱116,630"
+    ],
+    "answer": 1,
+    "explanation": "Interest = ₱107,000 × 9% × 3 = ₱28,890. Total = ₱107,000 + ₱28,890 = ₱135,890.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱23,000 from a cooperative at 7% simple interest per year. How much does she pay back in total after 2 years?",
+    "choices": [
+      "₱29,440",
+      "₱26,220",
+      "₱3,220",
+      "₱24,610"
+    ],
+    "answer": 1,
+    "explanation": "Interest = ₱23,000 × 7% × 2 = ₱3,220. Total = ₱23,000 + ₱3,220 = ₱26,220.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱200,000 is deposited at 10% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱240,000",
+      "₱220,000",
+      "₱262,000",
+      "₱242,000"
+    ],
+    "answer": 3,
+    "explanation": "Year 1: ₱200,000 × 1.1 = ₱220,000. Year 2: ₱220,000 × 1.1 = ₱242,000. (Simple interest would give only ₱240,000.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱69,000 from a cooperative at 7% simple interest per year. How much does she pay back in total after 4 years?",
+    "choices": [
+      "₱73,830",
+      "₱19,320",
+      "₱107,640",
+      "₱88,320"
+    ],
+    "answer": 3,
+    "explanation": "Interest = ₱69,000 × 7% × 4 = ₱19,320. Total = ₱69,000 + ₱19,320 = ₱88,320.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱168,000 from a cooperative at 12% simple interest per year. How much does she pay back in total after 2 years?",
+    "choices": [
+      "₱40,320",
+      "₱248,640",
+      "₱188,160",
+      "₱208,320"
+    ],
+    "answer": 3,
+    "explanation": "Interest = ₱168,000 × 12% × 2 = ₱40,320. Total = ₱168,000 + ₱40,320 = ₱208,320.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱64,000 from a cooperative at 5% simple interest per year. How much does she pay back in total after 3 years?",
+    "choices": [
+      "₱73,600",
+      "₱83,200",
+      "₱67,200",
+      "₱9,600"
+    ],
+    "answer": 0,
+    "explanation": "Interest = ₱64,000 × 5% × 3 = ₱9,600. Total = ₱64,000 + ₱9,600 = ₱73,600.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱86,000 from a cooperative at 11% simple interest per year. How much does she pay back in total after 3 years?",
+    "choices": [
+      "₱28,380",
+      "₱95,460",
+      "₱142,760",
+      "₱114,380"
+    ],
+    "answer": 3,
+    "explanation": "Interest = ₱86,000 × 11% × 3 = ₱28,380. Total = ₱86,000 + ₱28,380 = ₱114,380.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱166,000 earn at 7% per year for 3 years?",
+    "choices": [
+      "₱69,720",
+      "₱11,620",
+      "₱34,860",
+      "₱200,860"
+    ],
+    "answer": 2,
+    "explanation": "I = P × r × t = ₱166,000 × 7% × 3 = ₱34,860.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱145,000 earn at 3% per year for 2 years?",
+    "choices": [
+      "₱153,700",
+      "₱4,350",
+      "₱17,400",
+      "₱8,700"
+    ],
+    "answer": 3,
+    "explanation": "I = P × r × t = ₱145,000 × 3% × 2 = ₱8,700.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱175,000 from a cooperative at 11% simple interest per year. How much does she pay back in total after 5 years?",
+    "choices": [
+      "₱367,500",
+      "₱96,250",
+      "₱194,250",
+      "₱271,250"
+    ],
+    "answer": 3,
+    "explanation": "Interest = ₱175,000 × 11% × 5 = ₱96,250. Total = ₱175,000 + ₱96,250 = ₱271,250.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱10,000 from a cooperative at 9% simple interest per year. How much does she pay back in total after 2 years?",
+    "choices": [
+      "₱1,800",
+      "₱13,600",
+      "₱11,800",
+      "₱10,900"
+    ],
+    "answer": 2,
+    "explanation": "Interest = ₱10,000 × 9% × 2 = ₱1,800. Total = ₱10,000 + ₱1,800 = ₱11,800.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱149,000 from a cooperative at 10% simple interest per year. How much does she pay back in total after 5 years?",
+    "choices": [
+      "₱223,500",
+      "₱74,500",
+      "₱298,000",
+      "₱163,900"
+    ],
+    "answer": 0,
+    "explanation": "Interest = ₱149,000 × 10% × 5 = ₱74,500. Total = ₱149,000 + ₱74,500 = ₱223,500.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱94,000 from a cooperative at 7% simple interest per year. How much does she pay back in total after 5 years?",
+    "choices": [
+      "₱159,800",
+      "₱126,900",
+      "₱100,580",
+      "₱32,900"
+    ],
+    "answer": 1,
+    "explanation": "Interest = ₱94,000 × 7% × 5 = ₱32,900. Total = ₱94,000 + ₱32,900 = ₱126,900.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱6,000 earn at 6% per year for 3 years?",
+    "choices": [
+      "₱2,160",
+      "₱360",
+      "₱1,080",
+      "₱7,080"
+    ],
+    "answer": 2,
+    "explanation": "I = P × r × t = ₱6,000 × 6% × 3 = ₱1,080.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱140,000 is deposited at 8% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱163,296",
+      "₱174,496",
+      "₱151,200",
+      "₱162,400"
+    ],
+    "answer": 0,
+    "explanation": "Year 1: ₱140,000 × 1.08 = ₱151,200. Year 2: ₱151,200 × 1.08 = ₱163,296. (Simple interest would give only ₱162,400.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱70,000 is deposited at 6% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱74,200",
+      "₱82,852",
+      "₱78,400",
+      "₱78,652"
+    ],
+    "answer": 3,
+    "explanation": "Year 1: ₱70,000 × 1.06 = ₱74,200. Year 2: ₱74,200 × 1.06 = ₱78,652. (Simple interest would give only ₱78,400.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱162,000 from a cooperative at 7% simple interest per year. How much does she pay back in total after 3 years?",
+    "choices": [
+      "₱196,020",
+      "₱34,020",
+      "₱173,340",
+      "₱230,040"
+    ],
+    "answer": 0,
+    "explanation": "Interest = ₱162,000 × 7% × 3 = ₱34,020. Total = ₱162,000 + ₱34,020 = ₱196,020.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱55,000 earn at 4% per year for 5 years?",
+    "choices": [
+      "₱22,000",
+      "₱66,000",
+      "₱11,000",
+      "₱2,200"
+    ],
+    "answer": 2,
+    "explanation": "I = P × r × t = ₱55,000 × 4% × 5 = ₱11,000.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱159,000 earn at 10% per year for 5 years?",
+    "choices": [
+      "₱15,900",
+      "₱159,000",
+      "₱238,500",
+      "₱79,500"
+    ],
+    "answer": 3,
+    "explanation": "I = P × r × t = ₱159,000 × 10% × 5 = ₱79,500.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱179,000 earn at 10% per year for 4 years?",
+    "choices": [
+      "₱250,600",
+      "₱71,600",
+      "₱143,200",
+      "₱17,900"
+    ],
+    "answer": 1,
+    "explanation": "I = P × r × t = ₱179,000 × 10% × 4 = ₱71,600.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱193,000 earn at 5% per year for 2 years?",
+    "choices": [
+      "₱212,300",
+      "₱38,600",
+      "₱19,300",
+      "₱9,650"
+    ],
+    "answer": 2,
+    "explanation": "I = P × r × t = ₱193,000 × 5% × 2 = ₱19,300.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱109,000 earn at 9% per year for 2 years?",
+    "choices": [
+      "₱9,810",
+      "₱19,620",
+      "₱128,620",
+      "₱39,240"
+    ],
+    "answer": 1,
+    "explanation": "I = P × r × t = ₱109,000 × 9% × 2 = ₱19,620.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱16,000 from a cooperative at 8% simple interest per year. How much does she pay back in total after 2 years?",
+    "choices": [
+      "₱2,560",
+      "₱17,280",
+      "₱21,120",
+      "₱18,560"
+    ],
+    "answer": 3,
+    "explanation": "Interest = ₱16,000 × 8% × 2 = ₱2,560. Total = ₱16,000 + ₱2,560 = ₱18,560.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱58,000 from a cooperative at 10% simple interest per year. How much does she pay back in total after 4 years?",
+    "choices": [
+      "₱81,200",
+      "₱23,200",
+      "₱104,400",
+      "₱63,800"
+    ],
+    "answer": 0,
+    "explanation": "Interest = ₱58,000 × 10% × 4 = ₱23,200. Total = ₱58,000 + ₱23,200 = ₱81,200.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱105,000 earn at 4% per year for 4 years?",
+    "choices": [
+      "₱121,800",
+      "₱33,600",
+      "₱4,200",
+      "₱16,800"
+    ],
+    "answer": 3,
+    "explanation": "I = P × r × t = ₱105,000 × 4% × 4 = ₱16,800.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱10,000 is deposited at 4% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱11,216",
+      "₱10,800",
+      "₱10,816",
+      "₱10,400"
+    ],
+    "answer": 2,
+    "explanation": "Year 1: ₱10,000 × 1.04 = ₱10,400. Year 2: ₱10,400 × 1.04 = ₱10,816. (Simple interest would give only ₱10,800.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱149,000 earn at 6% per year for 3 years?",
+    "choices": [
+      "₱26,820",
+      "₱8,940",
+      "₱53,640",
+      "₱175,820"
+    ],
+    "answer": 0,
+    "explanation": "I = P × r × t = ₱149,000 × 6% × 3 = ₱26,820.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱180,000 is deposited at 4% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱194,688",
+      "₱187,200",
+      "₱201,888",
+      "₱194,400"
+    ],
+    "answer": 0,
+    "explanation": "Year 1: ₱180,000 × 1.04 = ₱187,200. Year 2: ₱187,200 × 1.04 = ₱194,688. (Simple interest would give only ₱194,400.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱180,000 is deposited at 10% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱216,000",
+      "₱217,800",
+      "₱198,000",
+      "₱235,800"
+    ],
+    "answer": 1,
+    "explanation": "Year 1: ₱180,000 × 1.1 = ₱198,000. Year 2: ₱198,000 × 1.1 = ₱217,800. (Simple interest would give only ₱216,000.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱63,000 earn at 8% per year for 2 years?",
+    "choices": [
+      "₱20,160",
+      "₱10,080",
+      "₱5,040",
+      "₱73,080"
+    ],
+    "answer": 1,
+    "explanation": "I = P × r × t = ₱63,000 × 8% × 2 = ₱10,080.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱31,000 earn at 3% per year for 5 years?",
+    "choices": [
+      "₱9,300",
+      "₱930",
+      "₱35,650",
+      "₱4,650"
+    ],
+    "answer": 3,
+    "explanation": "I = P × r × t = ₱31,000 × 3% × 5 = ₱4,650.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱144,000 earn at 6% per year for 2 years?",
+    "choices": [
+      "₱161,280",
+      "₱17,280",
+      "₱34,560",
+      "₱8,640"
+    ],
+    "answer": 1,
+    "explanation": "I = P × r × t = ₱144,000 × 6% × 2 = ₱17,280.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱17,000 earn at 11% per year for 5 years?",
+    "choices": [
+      "₱9,350",
+      "₱18,700",
+      "₱1,870",
+      "₱26,350"
+    ],
+    "answer": 0,
+    "explanation": "I = P × r × t = ₱17,000 × 11% × 5 = ₱9,350.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱170,000 is deposited at 10% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱204,000",
+      "₱187,000",
+      "₱222,700",
+      "₱205,700"
+    ],
+    "answer": 3,
+    "explanation": "Year 1: ₱170,000 × 1.1 = ₱187,000. Year 2: ₱187,000 × 1.1 = ₱205,700. (Simple interest would give only ₱204,000.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱43,000 earn at 7% per year for 2 years?",
+    "choices": [
+      "₱49,020",
+      "₱6,020",
+      "₱12,040",
+      "₱3,010"
+    ],
+    "answer": 1,
+    "explanation": "I = P × r × t = ₱43,000 × 7% × 2 = ₱6,020.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "How much simple interest does ₱68,000 earn at 3% per year for 4 years?",
+    "choices": [
+      "₱2,040",
+      "₱76,160",
+      "₱16,320",
+      "₱8,160"
+    ],
+    "answer": 3,
+    "explanation": "I = P × r × t = ₱68,000 × 3% × 4 = ₱8,160.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-interest-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "Ana borrows ₱14,000 from a cooperative at 3% simple interest per year. How much does she pay back in total after 5 years?",
+    "choices": [
+      "₱16,100",
+      "₱2,100",
+      "₱18,200",
+      "₱14,420"
+    ],
+    "answer": 0,
+    "explanation": "Interest = ₱14,000 × 3% × 5 = ₱2,100. Total = ₱14,000 + ₱2,100 = ₱16,100.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱20,000 is deposited at 8% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱23,328",
+      "₱21,600",
+      "₱23,200",
+      "₱24,928"
+    ],
+    "answer": 0,
+    "explanation": "Year 1: ₱20,000 × 1.08 = ₱21,600. Year 2: ₱21,600 × 1.08 = ₱23,328. (Simple interest would give only ₱23,200.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-interest-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "interest",
+    "stem": "₱140,000 is deposited at 5% interest compounded annually. How much is in the account after 2 years?",
+    "choices": [
+      "₱154,000",
+      "₱147,000",
+      "₱154,350",
+      "₱161,350"
+    ],
+    "answer": 2,
+    "explanation": "Year 1: ₱140,000 × 1.05 = ₱147,000. Year 2: ₱147,000 × 1.05 = ₱154,350. (Simple interest would give only ₱154,000.)",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

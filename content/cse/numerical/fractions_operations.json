@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-fractions_operations-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 1/2 × 5/2",
+    "choices": [
+      "1/5",
+      "5/4",
+      "3/2",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Multiply across: (1 × 5) / (2 × 2) = 5/4.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/8 + 2/9",
+    "choices": [
+      "5/72",
+      "43/72",
+      "1/12",
+      "5/17"
+    ],
+    "answer": 1,
+    "explanation": "Use a common denominator: 3/8 + 2/9 = 27/72 + 16/72 = 43/72.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 5/9 ÷ 4/3",
+    "choices": [
+      "12/5",
+      "5/12",
+      "20/27",
+      "1/2"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by the reciprocal: 5/9 × 3/4 = 5/12.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 7 + 5 × 2 − 10 ÷ 5",
+    "choices": [
+      "15",
+      "7",
+      "2.8",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "Multiply and divide first: 5 × 2 = 10 and 10 ÷ 5 = 2. Then 7 + 10 − 2 = 15.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 1/6 + 3/2",
+    "choices": [
+      "1/2",
+      "1/3",
+      "5/3",
+      "1/4"
+    ],
+    "answer": 2,
+    "explanation": "Use a common denominator: 1/6 + 3/2 = 2/12 + 18/12 = 5/3.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 4/9 × 7/6",
+    "choices": [
+      "14/27",
+      "8/21",
+      "29/18",
+      "28/15"
+    ],
+    "answer": 0,
+    "explanation": "Multiply across: (4 × 7) / (9 × 6) = 14/27.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 5 + 12 × 10 − 8 ÷ 8",
+    "choices": [
+      "117",
+      "169",
+      "124",
+      "20.25"
+    ],
+    "answer": 2,
+    "explanation": "Multiply and divide first: 12 × 10 = 120 and 8 ÷ 8 = 1. Then 5 + 120 − 1 = 124.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/5 × 5/8",
+    "choices": [
+      "49/40",
+      "15/13",
+      "24/25",
+      "3/8"
+    ],
+    "answer": 3,
+    "explanation": "Multiply across: (3 × 5) / (5 × 8) = 3/8.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 1/2 ÷ 9/2",
+    "choices": [
+      "2/9",
+      "9/4",
+      "9",
+      "1/9"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by the reciprocal: 1/2 × 2/9 = 1/9.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 7/9 + 5/4",
+    "choices": [
+      "35/36",
+      "73/36",
+      "12/13",
+      "1/3"
+    ],
+    "answer": 1,
+    "explanation": "Use a common denominator: 7/9 + 5/4 = 28/36 + 45/36 = 73/36.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 8/3 + 1/2",
+    "choices": [
+      "4/3",
+      "9/5",
+      "19/6",
+      "3/2"
+    ],
+    "answer": 2,
+    "explanation": "Use a common denominator: 8/3 + 1/2 = 16/6 + 3/6 = 19/6.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 1/7 + 5/2",
+    "choices": [
+      "2/3",
+      "5/14",
+      "3/7",
+      "37/14"
+    ],
+    "answer": 3,
+    "explanation": "Use a common denominator: 1/7 + 5/2 = 2/14 + 35/14 = 37/14.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 7/2 + 9/5",
+    "choices": [
+      "16/7",
+      "63/10",
+      "8/5",
+      "53/10"
+    ],
+    "answer": 3,
+    "explanation": "Use a common denominator: 7/2 + 9/5 = 35/10 + 18/10 = 53/10.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/4 + 5/6",
+    "choices": [
+      "5/8",
+      "4/5",
+      "1/3",
+      "19/12"
+    ],
+    "answer": 3,
+    "explanation": "Use a common denominator: 3/4 + 5/6 = 18/24 + 20/24 = 19/12.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 3 + 10 × 9 − 9 ÷ 3",
+    "choices": [
+      "84",
+      "90",
+      "114",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "Multiply and divide first: 10 × 9 = 90 and 9 ÷ 3 = 3. Then 3 + 90 − 3 = 90.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 1/2 + 7/6",
+    "choices": [
+      "7/12",
+      "5/3",
+      "1",
+      "2/3"
+    ],
+    "answer": 1,
+    "explanation": "Use a common denominator: 1/2 + 7/6 = 6/12 + 14/12 = 5/3.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 2 + 10 × 8 − 8 ÷ 4",
+    "choices": [
+      "94",
+      "22",
+      "80",
+      "74"
+    ],
+    "answer": 2,
+    "explanation": "Multiply and divide first: 10 × 8 = 80 and 8 ÷ 4 = 2. Then 2 + 80 − 2 = 80.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/8 × 3/7",
+    "choices": [
+      "9/56",
+      "3/5",
+      "7/8",
+      "45/56"
+    ],
+    "answer": 0,
+    "explanation": "Multiply across: (3 × 3) / (8 × 7) = 9/56.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 4/7 + 6/5",
+    "choices": [
+      "24/35",
+      "5/6",
+      "2/7",
+      "62/35"
+    ],
+    "answer": 3,
+    "explanation": "Use a common denominator: 4/7 + 6/5 = 20/35 + 42/35 = 62/35.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 10 + 2 × 10 − 10 ÷ 2",
+    "choices": [
+      "115",
+      "25",
+      "55",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Multiply and divide first: 2 × 10 = 20 and 10 ÷ 2 = 5. Then 10 + 20 − 5 = 25.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/8 + 3/2",
+    "choices": [
+      "3/5",
+      "9/16",
+      "3/8",
+      "15/8"
+    ],
+    "answer": 3,
+    "explanation": "Use a common denominator: 3/8 + 3/2 = 6/16 + 24/16 = 15/8.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 5/7 ÷ 5/9",
+    "choices": [
+      "9/7",
+      "25/63",
+      "10/63",
+      "7/9"
+    ],
+    "answer": 0,
+    "explanation": "Multiply by the reciprocal: 5/7 × 9/5 = 9/7.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 5/2 × 3/8",
+    "choices": [
+      "3/2",
+      "20/3",
+      "15/16",
+      "23/8"
+    ],
+    "answer": 2,
+    "explanation": "Multiply across: (5 × 3) / (2 × 8) = 15/16.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 7/9 × 8/7",
+    "choices": [
+      "7/2",
+      "121/63",
+      "49/72",
+      "8/9"
+    ],
+    "answer": 3,
+    "explanation": "Multiply across: (7 × 8) / (9 × 7) = 8/9.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 2/3 + 8/9",
+    "choices": [
+      "16/27",
+      "10/27",
+      "14/9",
+      "5/6"
+    ],
+    "answer": 2,
+    "explanation": "Use a common denominator: 2/3 + 8/9 = 18/27 + 24/27 = 14/9.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 9/5 ÷ 7/4",
+    "choices": [
+      "36/35",
+      "63/20",
+      "35/36",
+      "1/20"
+    ],
+    "answer": 0,
+    "explanation": "Multiply by the reciprocal: 9/5 × 4/7 = 36/35.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 9 + 12 × 2 − 9 ÷ 3",
+    "choices": [
+      "39",
+      "11",
+      "24",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "Multiply and divide first: 12 × 2 = 24 and 9 ÷ 3 = 3. Then 9 + 24 − 3 = 30.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 2/9 + 5/8",
+    "choices": [
+      "61/72",
+      "7/17",
+      "7/72",
+      "5/36"
+    ],
+    "answer": 0,
+    "explanation": "Use a common denominator: 2/9 + 5/8 = 16/72 + 45/72 = 61/72.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 9/4 ÷ 5/3",
+    "choices": [
+      "20/27",
+      "15/4",
+      "7/12",
+      "27/20"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by the reciprocal: 9/4 × 3/5 = 27/20.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/8 × 3/2",
+    "choices": [
+      "15/8",
+      "1/4",
+      "9/10",
+      "9/16"
+    ],
+    "answer": 3,
+    "explanation": "Multiply across: (3 × 3) / (8 × 2) = 9/16.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 7/9 + 3/2",
+    "choices": [
+      "41/18",
+      "5/9",
+      "10/11",
+      "7/6"
+    ],
+    "answer": 0,
+    "explanation": "Use a common denominator: 7/9 + 3/2 = 14/18 + 27/18 = 41/18.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 2/5 ÷ 7/2",
+    "choices": [
+      "7/5",
+      "4/35",
+      "1/7",
+      "35/4"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by the reciprocal: 2/5 × 2/7 = 4/35.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/2 × 1/6",
+    "choices": [
+      "9",
+      "3/8",
+      "5/3",
+      "1/4"
+    ],
+    "answer": 3,
+    "explanation": "Multiply across: (3 × 1) / (2 × 6) = 1/4.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 3 + 10 × 2 − 2 ÷ 2",
+    "choices": [
+      "12",
+      "25",
+      "22",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "Multiply and divide first: 10 × 2 = 20 and 2 ÷ 2 = 1. Then 3 + 20 − 1 = 22.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 4/3 ÷ 8/7",
+    "choices": [
+      "6/7",
+      "32/21",
+      "7/6",
+      "4/21"
+    ],
+    "answer": 2,
+    "explanation": "Multiply by the reciprocal: 4/3 × 7/8 = 7/6.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 3/2 ÷ 7/5",
+    "choices": [
+      "21/10",
+      "1/10",
+      "15/14",
+      "14/15"
+    ],
+    "answer": 2,
+    "explanation": "Multiply by the reciprocal: 3/2 × 5/7 = 15/14.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 1/7 ÷ 9/5",
+    "choices": [
+      "9/35",
+      "5/63",
+      "2/21",
+      "63/5"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by the reciprocal: 1/7 × 5/9 = 5/63.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-fractions_operations-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 10 + 8 × 8 − 11 ÷ 11",
+    "choices": [
+      "73",
+      "63",
+      "143",
+      "12.09"
+    ],
+    "answer": 0,
+    "explanation": "Multiply and divide first: 8 × 8 = 64 and 11 ÷ 11 = 1. Then 10 + 64 − 1 = 73.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Evaluate: 4 + 4 × 9 − 4 ÷ 4",
+    "choices": [
+      "36",
+      "17",
+      "39",
+      "71"
+    ],
+    "answer": 2,
+    "explanation": "Multiply and divide first: 4 × 9 = 36 and 4 ÷ 4 = 1. Then 4 + 36 − 1 = 39.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-fractions_operations-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "fractions_operations",
+    "stem": "Simplify: 6/5 × 2/5",
+    "choices": [
+      "3",
+      "8/5",
+      "12/25",
+      "6/5"
+    ],
+    "answer": 2,
+    "explanation": "Multiply across: (6 × 2) / (5 × 5) = 12/25.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-ratio_proportion-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "4 workers can paint a school building in 28 days. Working at the same rate, how many days would 7 workers take?",
+    "choices": [
+      "16 days",
+      "25 days",
+      "17 days",
+      "49 days"
+    ],
+    "answer": 0,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 4 × 28 = 112 worker-days, so 112 ÷ 7 = 16 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "10 workers can paint a school building in 25 days. Working at the same rate, how many days would 5 workers take?",
+    "choices": [
+      "12.5 days",
+      "51 days",
+      "30 days",
+      "50 days"
+    ],
+    "answer": 3,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 10 × 25 = 250 worker-days, so 250 ÷ 5 = 50 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "9 workers can paint a school building in 10 days. Working at the same rate, how many days would 2 workers take?",
+    "choices": [
+      "17 days",
+      "45 days",
+      "46 days",
+      "2.22 days"
+    ],
+    "answer": 1,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 9 × 10 = 90 worker-days, so 90 ÷ 2 = 45 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Liza and Ben share ₱700 in the ratio 3:4. How much does Liza get?",
+    "choices": [
+      "₱200",
+      "₱400",
+      "₱300",
+      "₱350"
+    ],
+    "answer": 2,
+    "explanation": "Total parts = 3 + 4 = 7. One part = ₱700 ÷ 7 = ₱100. Liza gets 3 × ₱100 = ₱300.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Liza, Vince and Mark share ₱2,250 in the ratio 3:5:1. How much does Vince get?",
+    "choices": [
+      "₱1,250",
+      "₱1,500",
+      "₱750",
+      "₱250"
+    ],
+    "answer": 0,
+    "explanation": "Total parts = 3 + 5 + 1 = 9. One part = ₱2,250 ÷ 9 = ₱250. Vince gets 5 × ₱250 = ₱1,250.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Dina, Paolo and Rico share ₱7,500 in the ratio 4:5:6. How much does Rico get?",
+    "choices": [
+      "₱3,500",
+      "₱3,000",
+      "₱2,500",
+      "₱2,000"
+    ],
+    "answer": 1,
+    "explanation": "Total parts = 4 + 5 + 6 = 15. One part = ₱7,500 ÷ 15 = ₱500. Rico gets 6 × ₱500 = ₱3,000.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 11 kilos of rice cost ₱1,540, how much do 8 kilos cost?",
+    "choices": [
+      "₱1,537",
+      "₱12,320",
+      "₱1,120",
+      "₱1,260"
+    ],
+    "answer": 2,
+    "explanation": "One costs ₱1,540 ÷ 11 = ₱140. So 8 cost 8 × ₱140 = ₱1,120.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "12 workers can paint a school building in 25 days. Working at the same rate, how many days would 6 workers take?",
+    "choices": [
+      "12.5 days",
+      "50 days",
+      "31 days",
+      "51 days"
+    ],
+    "answer": 1,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 12 × 25 = 300 worker-days, so 300 ÷ 6 = 50 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 7 cases of bottled water cost ₱210, how much do 10 cases cost?",
+    "choices": [
+      "₱300",
+      "₱2,100",
+      "₱330",
+      "₱213"
+    ],
+    "answer": 0,
+    "explanation": "One costs ₱210 ÷ 7 = ₱30. So 10 cost 10 × ₱30 = ₱300.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Ben, Ana and Nina share ₱1,400 in the ratio 7:5:2. How much does Ana get?",
+    "choices": [
+      "₱466.67",
+      "₱200",
+      "₱500",
+      "₱700"
+    ],
+    "answer": 2,
+    "explanation": "Total parts = 7 + 5 + 2 = 14. One part = ₱1,400 ÷ 14 = ₱100. Ana gets 5 × ₱100 = ₱500.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "8 workers can paint a school building in 27 days. Working at the same rate, how many days would 3 workers take?",
+    "choices": [
+      "32 days",
+      "72 days",
+      "10.12 days",
+      "73 days"
+    ],
+    "answer": 1,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 8 × 27 = 216 worker-days, so 216 ÷ 3 = 72 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Paolo and Ben share ₱3,000 in the ratio 7:5. How much does Ben get?",
+    "choices": [
+      "₱1,250",
+      "₱1,500",
+      "₱1,000",
+      "₱1,750"
+    ],
+    "answer": 0,
+    "explanation": "Total parts = 7 + 5 = 12. One part = ₱3,000 ÷ 12 = ₱250. Ben gets 5 × ₱250 = ₱1,250.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "11 workers can paint a school building in 12 days. Working at the same rate, how many days would 6 workers take?",
+    "choices": [
+      "17 days",
+      "22 days",
+      "6.55 days",
+      "23 days"
+    ],
+    "answer": 1,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 11 × 12 = 132 worker-days, so 132 ÷ 6 = 22 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Jun and Nina share ₱800 in the ratio 5:3. How much does Nina get?",
+    "choices": [
+      "₱500",
+      "₱200",
+      "₱300",
+      "₱400"
+    ],
+    "answer": 2,
+    "explanation": "Total parts = 5 + 3 = 8. One part = ₱800 ÷ 8 = ₱100. Nina gets 3 × ₱100 = ₱300.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "9 workers can paint a school building in 10 days. Working at the same rate, how many days would 15 workers take?",
+    "choices": [
+      "4 days",
+      "16.67 days",
+      "7 days",
+      "6 days"
+    ],
+    "answer": 3,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 9 × 10 = 90 worker-days, so 90 ÷ 15 = 6 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 10 dozens of notebooks cost ₱850, how much do 2 dozens cost?",
+    "choices": [
+      "₱1,700",
+      "₱170",
+      "₱255",
+      "₱842"
+    ],
+    "answer": 1,
+    "explanation": "One costs ₱850 ÷ 10 = ₱85. So 2 cost 2 × ₱85 = ₱170.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 9 cases of bottled water cost ₱2,565, how much do 6 cases cost?",
+    "choices": [
+      "₱2,562",
+      "₱1,710",
+      "₱1,995",
+      "₱15,390"
+    ],
+    "answer": 1,
+    "explanation": "One costs ₱2,565 ÷ 9 = ₱285. So 6 cost 6 × ₱285 = ₱1,710.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "7 workers can paint a school building in 20 days. Working at the same rate, how many days would 2 workers take?",
+    "choices": [
+      "71 days",
+      "25 days",
+      "5.71 days",
+      "70 days"
+    ],
+    "answer": 3,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 7 × 20 = 140 worker-days, so 140 ÷ 2 = 70 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Jun and Ella share ₱250 in the ratio 3:2. How much does Ella get?",
+    "choices": [
+      "₱150",
+      "₱50",
+      "₱100",
+      "₱125"
+    ],
+    "answer": 2,
+    "explanation": "Total parts = 3 + 2 = 5. One part = ₱250 ÷ 5 = ₱50. Ella gets 2 × ₱50 = ₱100.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "7 workers can paint a school building in 16 days. Working at the same rate, how many days would 14 workers take?",
+    "choices": [
+      "8 days",
+      "7 days",
+      "9 days",
+      "32 days"
+    ],
+    "answer": 0,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 7 × 16 = 112 worker-days, so 112 ÷ 14 = 8 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Nina and Tess share ₱450 in the ratio 3:6. How much does Tess get?",
+    "choices": [
+      "₱225",
+      "₱150",
+      "₱350",
+      "₱300"
+    ],
+    "answer": 3,
+    "explanation": "Total parts = 3 + 6 = 9. One part = ₱450 ÷ 9 = ₱50. Tess gets 6 × ₱50 = ₱300.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "3 workers can paint a school building in 28 days. Working at the same rate, how many days would 7 workers take?",
+    "choices": [
+      "13 days",
+      "12 days",
+      "24 days",
+      "65.33 days"
+    ],
+    "answer": 1,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 3 × 28 = 84 worker-days, so 84 ÷ 7 = 12 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Dina and Liza share ₱700 in the ratio 3:4. How much does Dina get?",
+    "choices": [
+      "₱400",
+      "₱200",
+      "₱350",
+      "₱300"
+    ],
+    "answer": 3,
+    "explanation": "Total parts = 3 + 4 = 7. One part = ₱700 ÷ 7 = ₱100. Dina gets 3 × ₱100 = ₱300.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 9 kilos of rice cost ₱2,565, how much do 4 kilos cost?",
+    "choices": [
+      "₱1,140",
+      "₱10,260",
+      "₱1,425",
+      "₱2,560"
+    ],
+    "answer": 0,
+    "explanation": "One costs ₱2,565 ÷ 9 = ₱285. So 4 cost 4 × ₱285 = ₱1,140.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 5 kilos of rice cost ₱925, how much do 6 kilos cost?",
+    "choices": [
+      "₱1,110",
+      "₱5,550",
+      "₱926",
+      "₱1,295"
+    ],
+    "answer": 0,
+    "explanation": "One costs ₱925 ÷ 5 = ₱185. So 6 cost 6 × ₱185 = ₱1,110.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "7 workers can paint a school building in 20 days. Working at the same rate, how many days would 10 workers take?",
+    "choices": [
+      "14 days",
+      "15 days",
+      "17 days",
+      "28.57 days"
+    ],
+    "answer": 0,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 7 × 20 = 140 worker-days, so 140 ÷ 10 = 14 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "12 workers can paint a school building in 17 days. Working at the same rate, how many days would 4 workers take?",
+    "choices": [
+      "52 days",
+      "5.67 days",
+      "25 days",
+      "51 days"
+    ],
+    "answer": 3,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 12 × 17 = 204 worker-days, so 204 ÷ 4 = 51 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "4 workers can paint a school building in 15 days. Working at the same rate, how many days would 5 workers take?",
+    "choices": [
+      "14 days",
+      "12 days",
+      "18.75 days",
+      "13 days"
+    ],
+    "answer": 1,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 4 × 15 = 60 worker-days, so 60 ÷ 5 = 12 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 10 reams of bond paper cost ₱1,950, how much do 8 reams cost?",
+    "choices": [
+      "₱1,948",
+      "₱1,755",
+      "₱1,560",
+      "₱15,600"
+    ],
+    "answer": 2,
+    "explanation": "One costs ₱1,950 ÷ 10 = ₱195. So 8 cost 8 × ₱195 = ₱1,560.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "8 workers can paint a school building in 6 days. Working at the same rate, how many days would 3 workers take?",
+    "choices": [
+      "16 days",
+      "17 days",
+      "11 days",
+      "2.25 days"
+    ],
+    "answer": 0,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 8 × 6 = 48 worker-days, so 48 ÷ 3 = 16 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 9 kilos of sugar cost ₱990, how much do 5 kilos cost?",
+    "choices": [
+      "₱986",
+      "₱550",
+      "₱660",
+      "₱4,950"
+    ],
+    "answer": 1,
+    "explanation": "One costs ₱990 ÷ 9 = ₱110. So 5 cost 5 × ₱110 = ₱550.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Nina, Tess and Rico share ₱2,500 in the ratio 3:6:1. How much does Rico get?",
+    "choices": [
+      "₱1,500",
+      "₱833.33",
+      "₱250",
+      "₱750"
+    ],
+    "answer": 2,
+    "explanation": "Total parts = 3 + 6 + 1 = 10. One part = ₱2,500 ÷ 10 = ₱250. Rico gets 1 × ₱250 = ₱250.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Carlo, Vince and Jun share ₱1,000 in the ratio 5:1:4. How much does Vince get?",
+    "choices": [
+      "₱100",
+      "₱400",
+      "₱500",
+      "₱333.33"
+    ],
+    "answer": 0,
+    "explanation": "Total parts = 5 + 1 + 4 = 10. One part = ₱1,000 ÷ 10 = ₱100. Vince gets 1 × ₱100 = ₱100.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "12 workers can paint a school building in 19 days. Working at the same rate, how many days would 3 workers take?",
+    "choices": [
+      "4.75 days",
+      "77 days",
+      "28 days",
+      "76 days"
+    ],
+    "answer": 3,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 12 × 19 = 228 worker-days, so 228 ÷ 3 = 76 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 2 trays of eggs cost ₱210, how much do 9 trays cost?",
+    "choices": [
+      "₱1,890",
+      "₱945",
+      "₱1,050",
+      "₱217"
+    ],
+    "answer": 1,
+    "explanation": "One costs ₱210 ÷ 2 = ₱105. So 9 cost 9 × ₱105 = ₱945.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-ratio_proportion-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Rico and Liza share ₱350 in the ratio 3:4. How much does Liza get?",
+    "choices": [
+      "₱175",
+      "₱200",
+      "₱250",
+      "₱150"
+    ],
+    "answer": 1,
+    "explanation": "Total parts = 3 + 4 = 7. One part = ₱350 ÷ 7 = ₱50. Liza gets 4 × ₱50 = ₱200.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "12 workers can paint a school building in 30 days. Working at the same rate, how many days would 20 workers take?",
+    "choices": [
+      "19 days",
+      "22 days",
+      "18 days",
+      "50 days"
+    ],
+    "answer": 2,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 12 × 30 = 360 worker-days, so 360 ÷ 20 = 18 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "10 workers can paint a school building in 15 days. Working at the same rate, how many days would 2 workers take?",
+    "choices": [
+      "23 days",
+      "75 days",
+      "3 days",
+      "76 days"
+    ],
+    "answer": 1,
+    "explanation": "More workers means fewer days (inverse proportion). The job is 10 × 15 = 150 worker-days, so 150 ÷ 2 = 75 days.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "Joy, Carlo and Rico share ₱3,250 in the ratio 2:4:7. How much does Rico get?",
+    "choices": [
+      "₱1,750",
+      "₱1,000",
+      "₱500",
+      "₱1,083.33"
+    ],
+    "answer": 0,
+    "explanation": "Total parts = 2 + 4 + 7 = 13. One part = ₱3,250 ÷ 13 = ₱250. Rico gets 7 × ₱250 = ₱1,750.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-ratio_proportion-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "ratio_proportion",
+    "stem": "If 6 kilos of sugar cost ₱1,170, how much do 10 kilos cost?",
+    "choices": [
+      "₱1,174",
+      "₱11,700",
+      "₱2,145",
+      "₱1,950"
+    ],
+    "answer": 3,
+    "explanation": "One costs ₱1,170 ÷ 6 = ₱195. So 10 cost 10 × ₱195 = ₱1,950.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-averages-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 84, 11, 61, 16 and 98?",
+    "choices": [
+      "54",
+      "61",
+      "67.5",
+      "56"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 270. Average = 270 ÷ 5 = 54.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 4 numbers is 90. If the number 114 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "90",
+      "61.5",
+      "82",
+      "83"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 4 × 90 = 360. Remove 114: 246. New average = 246 ÷ 3 = 82.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 47, 98, 75, 94 and 31?",
+    "choices": [
+      "75",
+      "69",
+      "71",
+      "86.25"
+    ],
+    "answer": 1,
+    "explanation": "Sum = 345. Average = 345 ÷ 5 = 69.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 31, 96, 76, 26 and 71?",
+    "choices": [
+      "71",
+      "60",
+      "62",
+      "75"
+    ],
+    "answer": 1,
+    "explanation": "Sum = 300. Average = 300 ÷ 5 = 60.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 3 quizzes is 86. What score does he need on the next quiz to raise his average to 89?",
+    "choices": [
+      "89",
+      "98",
+      "92",
+      "99"
+    ],
+    "answer": 1,
+    "explanation": "He needs a total of 89 × 4 = 356. He has 3 × 86 = 258. Needed = 356 − 258 = 98.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 36, 62, 86, 45 and 56?",
+    "choices": [
+      "56",
+      "59",
+      "71.25",
+      "57"
+    ],
+    "answer": 3,
+    "explanation": "Sum = 285. Average = 285 ÷ 5 = 57.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 76. What score does he need on the next quiz to raise his average to 80?",
+    "choices": [
+      "89",
+      "84",
+      "80",
+      "88"
+    ],
+    "answer": 3,
+    "explanation": "He needs a total of 80 × 3 = 240. He has 2 × 76 = 152. Needed = 240 − 152 = 88.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 6 numbers is 32. If the number 102 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "19",
+      "15",
+      "18",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 6 × 32 = 192. Remove 102: 90. New average = 90 ÷ 5 = 18.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 5 numbers is 43. If the number 107 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "43",
+      "21.6",
+      "27",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 5 × 43 = 215. Remove 107: 108. New average = 108 ÷ 4 = 27.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 8 numbers is 58. If the number 93 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "54",
+      "53",
+      "46.38",
+      "58"
+    ],
+    "answer": 1,
+    "explanation": "Sum = 8 × 58 = 464. Remove 93: 371. New average = 371 ÷ 7 = 53.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 75. What score does he need on the next quiz to raise his average to 80?",
+    "choices": [
+      "80",
+      "85",
+      "90",
+      "91"
+    ],
+    "answer": 2,
+    "explanation": "He needs a total of 80 × 3 = 240. He has 2 × 75 = 150. Needed = 240 − 150 = 90.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 3 quizzes is 76. What score does he need on the next quiz to raise his average to 79?",
+    "choices": [
+      "79",
+      "88",
+      "82",
+      "89"
+    ],
+    "answer": 1,
+    "explanation": "He needs a total of 79 × 4 = 316. He has 3 × 76 = 228. Needed = 316 − 228 = 88.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 48, 12, 66, 81 and 43?",
+    "choices": [
+      "52",
+      "62.5",
+      "48",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "Sum = 250. Average = 250 ÷ 5 = 50.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 74, 34, 16, 33 and 13?",
+    "choices": [
+      "42.5",
+      "34",
+      "33",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "Sum = 170. Average = 170 ÷ 5 = 34.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 84. What score does he need on the next quiz to raise his average to 88?",
+    "choices": [
+      "97",
+      "92",
+      "88",
+      "96"
+    ],
+    "answer": 3,
+    "explanation": "He needs a total of 88 × 3 = 264. He has 2 × 84 = 168. Needed = 264 − 168 = 96.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 5 numbers is 40. If the number 108 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "23",
+      "18.4",
+      "24",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 5 × 40 = 200. Remove 108: 92. New average = 92 ÷ 4 = 23.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 49, 48, 55, 49 and 54?",
+    "choices": [
+      "49",
+      "53",
+      "63.75",
+      "51"
+    ],
+    "answer": 3,
+    "explanation": "Sum = 255. Average = 255 ÷ 5 = 51.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 65, 67, 24, 14 and 60?",
+    "choices": [
+      "60",
+      "57.5",
+      "46",
+      "48"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 230. Average = 230 ÷ 5 = 46.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 4 numbers is 27. If the number 51 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "19",
+      "14.25",
+      "27",
+      "20"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 4 × 27 = 108. Remove 51: 57. New average = 57 ÷ 3 = 19.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 3 quizzes is 81. What score does he need on the next quiz to raise his average to 83?",
+    "choices": [
+      "83",
+      "90",
+      "89",
+      "85"
+    ],
+    "answer": 2,
+    "explanation": "He needs a total of 83 × 4 = 332. He has 3 × 81 = 243. Needed = 332 − 243 = 89.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 70, 92, 26, 74 and 18?",
+    "choices": [
+      "56",
+      "70",
+      "57",
+      "58"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 280. Average = 280 ÷ 5 = 56.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 70, 38, 59, 26 and 72?",
+    "choices": [
+      "53",
+      "59",
+      "66.25",
+      "55"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 265. Average = 265 ÷ 5 = 53.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 86. What score does he need on the next quiz to raise his average to 89?",
+    "choices": [
+      "95",
+      "96",
+      "89",
+      "92"
+    ],
+    "answer": 0,
+    "explanation": "He needs a total of 89 × 3 = 267. He has 2 × 86 = 172. Needed = 267 − 172 = 95.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 73. What score does he need on the next quiz to raise his average to 78?",
+    "choices": [
+      "83",
+      "89",
+      "78",
+      "88"
+    ],
+    "answer": 3,
+    "explanation": "He needs a total of 78 × 3 = 234. He has 2 × 73 = 146. Needed = 234 − 146 = 88.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 88. What score does he need on the next quiz to raise his average to 91?",
+    "choices": [
+      "94",
+      "98",
+      "91",
+      "97"
+    ],
+    "answer": 3,
+    "explanation": "He needs a total of 91 × 3 = 273. He has 2 × 88 = 176. Needed = 273 − 176 = 97.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 5 numbers is 32. If the number 56 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "26",
+      "27",
+      "20.8",
+      "32"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 5 × 32 = 160. Remove 56: 104. New average = 104 ÷ 4 = 26.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 79. What score does he need on the next quiz to raise his average to 82?",
+    "choices": [
+      "82",
+      "89",
+      "85",
+      "88"
+    ],
+    "answer": 3,
+    "explanation": "He needs a total of 82 × 3 = 246. He has 2 × 79 = 158. Needed = 246 − 158 = 88.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 15, 50, 64, 88 and 88?",
+    "choices": [
+      "61",
+      "63",
+      "76.25",
+      "64"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 305. Average = 305 ÷ 5 = 61.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 3 quizzes is 70. What score does he need on the next quiz to raise his average to 73?",
+    "choices": [
+      "76",
+      "82",
+      "83",
+      "73"
+    ],
+    "answer": 1,
+    "explanation": "He needs a total of 73 × 4 = 292. He has 3 × 70 = 210. Needed = 292 − 210 = 82.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 5 quizzes is 81. What score does he need on the next quiz to raise his average to 84?",
+    "choices": [
+      "84",
+      "99",
+      "100",
+      "87"
+    ],
+    "answer": 1,
+    "explanation": "He needs a total of 84 × 6 = 504. He has 5 × 81 = 405. Needed = 504 − 405 = 99.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 5 numbers is 64. If the number 52 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "64",
+      "53.6",
+      "67",
+      "68"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 5 × 64 = 320. Remove 52: 268. New average = 268 ÷ 4 = 67.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 65, 46, 88, 51 and 30?",
+    "choices": [
+      "51",
+      "70",
+      "56",
+      "58"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 280. Average = 280 ÷ 5 = 56.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 75. What score does he need on the next quiz to raise his average to 79?",
+    "choices": [
+      "79",
+      "83",
+      "87",
+      "88"
+    ],
+    "answer": 2,
+    "explanation": "He needs a total of 79 × 3 = 237. He has 2 × 75 = 150. Needed = 237 − 150 = 87.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "What is the average of 40, 36, 78, 57 and 74?",
+    "choices": [
+      "58",
+      "57",
+      "59",
+      "71.25"
+    ],
+    "answer": 1,
+    "explanation": "Sum = 285. Average = 285 ÷ 5 = 57.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-averages-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 4 numbers is 88. If the number 64 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "97",
+      "96",
+      "72",
+      "88"
+    ],
+    "answer": 1,
+    "explanation": "Sum = 4 × 88 = 352. Remove 64: 288. New average = 288 ÷ 3 = 96.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 3 quizzes is 78. What score does he need on the next quiz to raise his average to 82?",
+    "choices": [
+      "95",
+      "94",
+      "82",
+      "86"
+    ],
+    "answer": 1,
+    "explanation": "He needs a total of 82 × 4 = 328. He has 3 × 78 = 234. Needed = 328 − 234 = 94.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 3 quizzes is 86. What score does he need on the next quiz to raise his average to 88?",
+    "choices": [
+      "90",
+      "88",
+      "95",
+      "94"
+    ],
+    "answer": 3,
+    "explanation": "He needs a total of 88 × 4 = 352. He has 3 × 86 = 258. Needed = 352 − 258 = 94.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "The average of 8 numbers is 23. If the number 107 is removed, what is the average of the remaining numbers?",
+    "choices": [
+      "23",
+      "12",
+      "11",
+      "9.62"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 8 × 23 = 184. Remove 107: 77. New average = 77 ÷ 7 = 11.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 2 quizzes is 82. What score does he need on the next quiz to raise his average to 85?",
+    "choices": [
+      "91",
+      "88",
+      "85",
+      "92"
+    ],
+    "answer": 0,
+    "explanation": "He needs a total of 85 × 3 = 255. He has 2 × 82 = 164. Needed = 255 − 164 = 91.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-averages-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "averages",
+    "stem": "Jun's average on 3 quizzes is 74. What score does he need on the next quiz to raise his average to 79?",
+    "choices": [
+      "79",
+      "84",
+      "94",
+      "95"
+    ],
+    "answer": 2,
+    "explanation": "He needs a total of 79 × 4 = 316. He has 3 × 74 = 222. Needed = 316 − 222 = 94.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

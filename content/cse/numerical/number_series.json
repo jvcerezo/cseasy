@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-number_series-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n13, 16, 19, 22, 25, ___",
+    "choices": [
+      "29",
+      "28",
+      "31",
+      "26"
+    ],
+    "answer": 1,
+    "explanation": "Each term changes by +3. 25 + 3 = 28.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n3, 10, 13, 23, 36, 59, ___",
+    "choices": [
+      "96",
+      "118",
+      "95",
+      "82"
+    ],
+    "answer": 2,
+    "explanation": "Each term is the sum of the two before it. 36 + 59 = 95.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n14, 17, 21, 26, 32, 39, ___",
+    "choices": [
+      "47",
+      "46",
+      "49",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "The differences are 3, 4, 5, 6, 7, growing by 1 each time. The next difference is 8, so 39 + 8 = 47.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n20, 35, 24, 33, 28, 31, 32, ___",
+    "choices": [
+      "36",
+      "27",
+      "30",
+      "29"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate. Odd positions go 20, 24, … (+4 each); even positions go 35, 33, … (-2 each). The next term is in the even series: 31 − 2 = 29.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n108, 101, 94, 87, 80, ___",
+    "choices": [
+      "71",
+      "74",
+      "66",
+      "73"
+    ],
+    "answer": 3,
+    "explanation": "Each term changes by -7. 80 − 7 = 73.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n6, 26, 8, 31, 10, 36, 12, ___",
+    "choices": [
+      "14",
+      "46",
+      "41",
+      "42"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate. Odd positions go 6, 8, … (+2 each); even positions go 26, 31, … (+5 each). The next term is in the even series: 36 + 5 = 41.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n18, 44, 24, 47, 30, 50, 36, ___",
+    "choices": [
+      "54",
+      "56",
+      "53",
+      "42"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate. Odd positions go 18, 24, … (+6 each); even positions go 44, 47, … (+3 each). The next term is in the even series: 50 + 3 = 53.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n3, 6, 12, 24, 48, ___",
+    "choices": [
+      "96",
+      "192",
+      "93",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "Each term is multiplied by 2. 48 × 2 = 96.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n2, 4, 8, 16, 32, ___",
+    "choices": [
+      "48",
+      "128",
+      "64",
+      "62"
+    ],
+    "answer": 2,
+    "explanation": "Each term is multiplied by 2. 32 × 2 = 64.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n12, 58, 17, 51, 22, 44, 27, ___",
+    "choices": [
+      "37",
+      "38",
+      "32",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "Two series alternate. Odd positions go 12, 17, … (+5 each); even positions go 58, 51, … (-7 each). The next term is in the even series: 44 − 7 = 37.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n5, 10, 20, 40, 80, ___",
+    "choices": [
+      "160",
+      "320",
+      "120",
+      "155"
+    ],
+    "answer": 0,
+    "explanation": "Each term is multiplied by 2. 80 × 2 = 160.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n5, 47, 7, 45, 9, 43, 11, ___",
+    "choices": [
+      "41",
+      "42",
+      "13",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Two series alternate. Odd positions go 5, 7, … (+2 each); even positions go 47, 45, … (-2 each). The next term is in the even series: 43 − 2 = 41.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n181, 167, 153, 139, 125, ___",
+    "choices": [
+      "109",
+      "112",
+      "111",
+      "97"
+    ],
+    "answer": 2,
+    "explanation": "Each term changes by -14. 125 − 14 = 111.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n5, 10, 18, 29, 43, 60, ___",
+    "choices": [
+      "77",
+      "79",
+      "83",
+      "80"
+    ],
+    "answer": 3,
+    "explanation": "The differences are 5, 8, 11, 14, 17, growing by 3 each time. The next difference is 20, so 60 + 20 = 80.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n3, 9, 27, 81, 243, ___",
+    "choices": [
+      "2,187",
+      "726",
+      "405",
+      "729"
+    ],
+    "answer": 3,
+    "explanation": "Each term is multiplied by 3. 243 × 3 = 729.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n18, 67, 22, 64, 26, 61, 30, ___",
+    "choices": [
+      "55",
+      "59",
+      "34",
+      "58"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate. Odd positions go 18, 22, … (+4 each); even positions go 67, 64, … (-3 each). The next term is in the even series: 61 − 3 = 58.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n2, 49, 5, 46, 8, 43, 11, ___",
+    "choices": [
+      "41",
+      "37",
+      "40",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate. Odd positions go 2, 5, … (+3 each); even positions go 49, 46, … (-3 each). The next term is in the even series: 43 − 3 = 40.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n7, 9, 16, 25, 41, 66, ___",
+    "choices": [
+      "132",
+      "108",
+      "107",
+      "91"
+    ],
+    "answer": 2,
+    "explanation": "Each term is the sum of the two before it. 41 + 66 = 107.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n4, 8, 14, 22, 32, 44, ___",
+    "choices": [
+      "57",
+      "60",
+      "58",
+      "56"
+    ],
+    "answer": 2,
+    "explanation": "The differences are 4, 6, 8, 10, 12, growing by 2 each time. The next difference is 14, so 44 + 14 = 58.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n121, 114, 107, 100, 93, ___",
+    "choices": [
+      "87",
+      "84",
+      "79",
+      "86"
+    ],
+    "answer": 3,
+    "explanation": "Each term changes by -7. 93 − 7 = 86.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n5, 10, 15, 25, 40, 65, ___",
+    "choices": [
+      "106",
+      "90",
+      "105",
+      "130"
+    ],
+    "answer": 2,
+    "explanation": "Each term is the sum of the two before it. 40 + 65 = 105.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n50, 57, 64, 71, 78, ___",
+    "choices": [
+      "92",
+      "83",
+      "85",
+      "86"
+    ],
+    "answer": 2,
+    "explanation": "Each term changes by +7. 78 + 7 = 85.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n41, 38, 35, 32, 29, ___",
+    "choices": [
+      "27",
+      "26",
+      "24",
+      "23"
+    ],
+    "answer": 1,
+    "explanation": "Each term changes by -3. 29 − 3 = 26.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n158, 148, 138, 128, 118, ___",
+    "choices": [
+      "108",
+      "109",
+      "98",
+      "106"
+    ],
+    "answer": 0,
+    "explanation": "Each term changes by -10. 118 − 10 = 108.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n15, 63, 20, 56, 25, 49, 30, ___",
+    "choices": [
+      "43",
+      "41",
+      "42",
+      "35"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate. Odd positions go 15, 20, … (+5 each); even positions go 63, 56, … (-7 each). The next term is in the even series: 49 − 7 = 42.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n12, 15, 21, 30, 42, 57, ___",
+    "choices": [
+      "78",
+      "72",
+      "75",
+      "74"
+    ],
+    "answer": 2,
+    "explanation": "The differences are 3, 6, 9, 12, 15, growing by 3 each time. The next difference is 18, so 57 + 18 = 75.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n14, 69, 20, 66, 26, 63, 32, ___",
+    "choices": [
+      "57",
+      "61",
+      "38",
+      "60"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate. Odd positions go 14, 20, … (+6 each); even positions go 69, 66, … (-3 each). The next term is in the even series: 63 − 3 = 60.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n18, 50, 22, 54, 26, 58, 30, ___",
+    "choices": [
+      "63",
+      "34",
+      "66",
+      "62"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate. Odd positions go 18, 22, … (+4 each); even positions go 50, 54, … (+4 each). The next term is in the even series: 58 + 4 = 62.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n11, 14, 21, 32, 47, 66, ___",
+    "choices": [
+      "85",
+      "89",
+      "88",
+      "93"
+    ],
+    "answer": 1,
+    "explanation": "The differences are 3, 7, 11, 15, 19, growing by 4 each time. The next difference is 23, so 66 + 23 = 89.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n12, 13, 18, 27, 40, 57, ___",
+    "choices": [
+      "77",
+      "82",
+      "78",
+      "74"
+    ],
+    "answer": 2,
+    "explanation": "The differences are 1, 5, 9, 13, 17, growing by 4 each time. The next difference is 21, so 57 + 21 = 78.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n7, 12, 21, 34, 51, 72, ___",
+    "choices": [
+      "97",
+      "101",
+      "93",
+      "96"
+    ],
+    "answer": 0,
+    "explanation": "The differences are 5, 9, 13, 17, 21, growing by 4 each time. The next difference is 25, so 72 + 25 = 97.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n19, 22, 28, 37, 49, 64, ___",
+    "choices": [
+      "79",
+      "81",
+      "85",
+      "82"
+    ],
+    "answer": 3,
+    "explanation": "The differences are 3, 6, 9, 12, 15, growing by 3 each time. The next difference is 18, so 64 + 18 = 82.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n15, 36, 19, 34, 23, 32, 27, ___",
+    "choices": [
+      "29",
+      "31",
+      "30",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate. Odd positions go 15, 19, … (+4 each); even positions go 36, 34, … (-2 each). The next term is in the even series: 32 − 2 = 30.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n11, 61, 19, 55, 27, 49, 35, ___",
+    "choices": [
+      "37",
+      "43",
+      "44",
+      "42"
+    ],
+    "answer": 1,
+    "explanation": "Two series alternate. Odd positions go 11, 19, … (+8 each); even positions go 61, 55, … (-6 each). The next term is in the even series: 49 − 6 = 43.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n20, 26, 32, 38, 44, ___",
+    "choices": [
+      "50",
+      "51",
+      "48",
+      "56"
+    ],
+    "answer": 0,
+    "explanation": "Each term changes by +6. 44 + 6 = 50.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-number_series-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n20, 66, 23, 61, 26, 56, 29, ___",
+    "choices": [
+      "52",
+      "51",
+      "32",
+      "46"
+    ],
+    "answer": 1,
+    "explanation": "Two series alternate. Odd positions go 20, 23, … (+3 each); even positions go 66, 61, … (-5 each). The next term is in the even series: 56 − 5 = 51.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n5, 11, 19, 29, 41, 55, ___",
+    "choices": [
+      "71",
+      "70",
+      "73",
+      "69"
+    ],
+    "answer": 0,
+    "explanation": "The differences are 6, 8, 10, 12, 14, growing by 2 each time. The next difference is 16, so 55 + 16 = 71.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n19, 25, 35, 49, 67, 89, ___",
+    "choices": [
+      "111",
+      "114",
+      "115",
+      "119"
+    ],
+    "answer": 2,
+    "explanation": "The differences are 6, 10, 14, 18, 22, growing by 4 each time. The next difference is 26, so 89 + 26 = 115.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-number_series-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n9, 3, 12, 15, 27, 42, ___",
+    "choices": [
+      "57",
+      "70",
+      "84",
+      "69"
+    ],
+    "answer": 3,
+    "explanation": "Each term is the sum of the two before it. 27 + 42 = 69.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-number_series-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "number_series",
+    "stem": "What is the next number in the series?\n17, 23, 33, 47, 65, 87, ___",
+    "choices": [
+      "112",
+      "109",
+      "113",
+      "117"
+    ],
+    "answer": 2,
+    "explanation": "The differences are 6, 10, 14, 18, 22, growing by 4 each time. The next difference is 26, so 87 + 26 = 113.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  }
+]

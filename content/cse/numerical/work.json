@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-work-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Joy can encode a batch of records in 5 hours, while Ana can do it in 20 hours. How long will it take them working together?",
+    "choices": [
+      "4 hours",
+      "25 hours",
+      "12.5 hours",
+      "15 hours"
+    ],
+    "answer": 0,
+    "explanation": "Rates add: 1/5 + 1/20 = 1/4 of the job per hour. Time = 1 ÷ 1/4 = 4 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 40 hours. A drain empties the full tank in 48 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "240 hours",
+      "88 hours",
+      "21.82 hours",
+      "8 hours"
+    ],
+    "answer": 0,
+    "explanation": "Net rate = 1/40 − 1/48 = 1/240 of the tank per hour. Time = 1 ÷ 1/240 = 240 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Nina can encode a batch of records in 10 hours, while Ben can do it in 15 hours. How long will it take them working together?",
+    "choices": [
+      "6 hours",
+      "12.5 hours",
+      "5 hours",
+      "25 hours"
+    ],
+    "answer": 0,
+    "explanation": "Rates add: 1/10 + 1/15 = 1/6 of the job per hour. Time = 1 ÷ 1/6 = 6 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 5 hours. A drain empties the full tank in 6 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "1 hour",
+      "11 hours",
+      "2.73 hours",
+      "30 hours"
+    ],
+    "answer": 3,
+    "explanation": "Net rate = 1/5 − 1/6 = 1/30 of the tank per hour. Time = 1 ÷ 1/30 = 30 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 10 hours. A drain empties the full tank in 30 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "7.5 hours",
+      "20 hours",
+      "40 hours",
+      "15 hours"
+    ],
+    "answer": 3,
+    "explanation": "Net rate = 1/10 − 1/30 = 1/15 of the tank per hour. Time = 1 ÷ 1/15 = 15 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 28 hours. A drain empties the full tank in 30 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "2 hours",
+      "420 hours",
+      "14.48 hours",
+      "58 hours"
+    ],
+    "answer": 1,
+    "explanation": "Net rate = 1/28 − 1/30 = 1/420 of the tank per hour. Time = 1 ÷ 1/420 = 420 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Mark can encode a batch of records in 20 hours, while Liza can do it in 60 hours. How long will it take them working together?",
+    "choices": [
+      "15 hours",
+      "16 hours",
+      "80 hours",
+      "40 hours"
+    ],
+    "answer": 0,
+    "explanation": "Rates add: 1/20 + 1/60 = 1/15 of the job per hour. Time = 1 ÷ 1/15 = 15 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 26 hours. A drain empties the full tank in 30 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "56 hours",
+      "4 hours",
+      "13.93 hours",
+      "195 hours"
+    ],
+    "answer": 3,
+    "explanation": "Net rate = 1/26 − 1/30 = 1/195 of the tank per hour. Time = 1 ÷ 1/195 = 195 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 45 hours. A drain empties the full tank in 48 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "23.23 hours",
+      "93 hours",
+      "720 hours",
+      "3 hours"
+    ],
+    "answer": 2,
+    "explanation": "Net rate = 1/45 − 1/48 = 1/720 of the tank per hour. Time = 1 ÷ 1/720 = 720 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Dina can encode a batch of records in 27 hours, while Mark can do it in 54 hours. How long will it take them working together?",
+    "choices": [
+      "27 hours",
+      "40.5 hours",
+      "81 hours",
+      "18 hours"
+    ],
+    "answer": 3,
+    "explanation": "Rates add: 1/27 + 1/54 = 1/18 of the job per hour. Time = 1 ÷ 1/18 = 18 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Tess can encode a batch of records in 3 hours, while Paolo can do it in 6 hours. How long will it take them working together?",
+    "choices": [
+      "2 hours",
+      "9 hours",
+      "4.5 hours",
+      "3 hours"
+    ],
+    "answer": 0,
+    "explanation": "Rates add: 1/3 + 1/6 = 1/2 of the job per hour. Time = 1 ÷ 1/2 = 2 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 33 hours. A drain empties the full tank in 44 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "18.86 hours",
+      "132 hours",
+      "77 hours",
+      "11 hours"
+    ],
+    "answer": 1,
+    "explanation": "Net rate = 1/33 − 1/44 = 1/132 of the tank per hour. Time = 1 ÷ 1/132 = 132 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 18 hours. A drain empties the full tank in 30 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "48 hours",
+      "12 hours",
+      "45 hours",
+      "11.25 hours"
+    ],
+    "answer": 2,
+    "explanation": "Net rate = 1/18 − 1/30 = 1/45 of the tank per hour. Time = 1 ÷ 1/45 = 45 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 24 hours. A drain empties the full tank in 36 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "60 hours",
+      "12 hours",
+      "14.4 hours",
+      "72 hours"
+    ],
+    "answer": 3,
+    "explanation": "Net rate = 1/24 − 1/36 = 1/72 of the tank per hour. Time = 1 ÷ 1/72 = 72 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 8 hours. A drain empties the full tank in 24 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "12 hours",
+      "32 hours",
+      "16 hours",
+      "6 hours"
+    ],
+    "answer": 0,
+    "explanation": "Net rate = 1/8 − 1/24 = 1/12 of the tank per hour. Time = 1 ÷ 1/12 = 12 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Ben can encode a batch of records in 5 hours, while Carlo can do it in 20 hours. How long will it take them working together?",
+    "choices": [
+      "25 hours",
+      "15 hours",
+      "4 hours",
+      "12.5 hours"
+    ],
+    "answer": 2,
+    "explanation": "Rates add: 1/5 + 1/20 = 1/4 of the job per hour. Time = 1 ÷ 1/4 = 4 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Tess can encode a batch of records in 3 hours, while Nina can do it in 6 hours. How long will it take them working together?",
+    "choices": [
+      "4.5 hours",
+      "3 hours",
+      "2 hours",
+      "9 hours"
+    ],
+    "answer": 2,
+    "explanation": "Rates add: 1/3 + 1/6 = 1/2 of the job per hour. Time = 1 ÷ 1/2 = 2 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 14 hours. A drain empties the full tank in 15 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "210 hours",
+      "1 hour",
+      "7.24 hours",
+      "29 hours"
+    ],
+    "answer": 0,
+    "explanation": "Net rate = 1/14 − 1/15 = 1/210 of the tank per hour. Time = 1 ÷ 1/210 = 210 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Joy can encode a batch of records in 12 hours, while Nina can do it in 60 hours. How long will it take them working together?",
+    "choices": [
+      "10 hours",
+      "36 hours",
+      "48 hours",
+      "72 hours"
+    ],
+    "answer": 0,
+    "explanation": "Rates add: 1/12 + 1/60 = 1/10 of the job per hour. Time = 1 ÷ 1/10 = 10 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 13 hours. A drain empties the full tank in 26 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "13 hours",
+      "39 hours",
+      "8.67 hours",
+      "26 hours"
+    ],
+    "answer": 3,
+    "explanation": "Net rate = 1/13 − 1/26 = 1/26 of the tank per hour. Time = 1 ÷ 1/26 = 26 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 12 hours. A drain empties the full tank in 36 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "24 hours",
+      "18 hours",
+      "48 hours",
+      "9 hours"
+    ],
+    "answer": 1,
+    "explanation": "Net rate = 1/12 − 1/36 = 1/18 of the tank per hour. Time = 1 ÷ 1/18 = 18 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 38 hours. A drain empties the full tank in 39 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "19.25 hours",
+      "1,482 hours",
+      "1 hour",
+      "77 hours"
+    ],
+    "answer": 1,
+    "explanation": "Net rate = 1/38 − 1/39 = 1/1482 of the tank per hour. Time = 1 ÷ 1/1482 = 1482 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Joy can encode a batch of records in 5 hours, while Jun can do it in 20 hours. How long will it take them working together?",
+    "choices": [
+      "12.5 hours",
+      "25 hours",
+      "15 hours",
+      "4 hours"
+    ],
+    "answer": 3,
+    "explanation": "Rates add: 1/5 + 1/20 = 1/4 of the job per hour. Time = 1 ÷ 1/4 = 4 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 42 hours. A drain empties the full tank in 51 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "93 hours",
+      "9 hours",
+      "23.03 hours",
+      "238 hours"
+    ],
+    "answer": 3,
+    "explanation": "Net rate = 1/42 − 1/51 = 1/238 of the tank per hour. Time = 1 ÷ 1/238 = 238 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Carlo can encode a batch of records in 8 hours, while Rico can do it in 24 hours. How long will it take them working together?",
+    "choices": [
+      "16 hours",
+      "32 hours",
+      "6 hours",
+      "7 hours"
+    ],
+    "answer": 2,
+    "explanation": "Rates add: 1/8 + 1/24 = 1/6 of the job per hour. Time = 1 ÷ 1/6 = 6 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Paolo can encode a batch of records in 18 hours, while Rico can do it in 36 hours. How long will it take them working together?",
+    "choices": [
+      "27 hours",
+      "12 hours",
+      "18 hours",
+      "54 hours"
+    ],
+    "answer": 1,
+    "explanation": "Rates add: 1/18 + 1/36 = 1/12 of the job per hour. Time = 1 ÷ 1/12 = 12 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Joy can encode a batch of records in 12 hours, while Jun can do it in 36 hours. How long will it take them working together?",
+    "choices": [
+      "10 hours",
+      "9 hours",
+      "24 hours",
+      "48 hours"
+    ],
+    "answer": 1,
+    "explanation": "Rates add: 1/12 + 1/36 = 1/9 of the job per hour. Time = 1 ÷ 1/9 = 9 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Ella can encode a batch of records in 20 hours, while Dina can do it in 30 hours. How long will it take them working together?",
+    "choices": [
+      "25 hours",
+      "12 hours",
+      "10 hours",
+      "50 hours"
+    ],
+    "answer": 1,
+    "explanation": "Rates add: 1/20 + 1/30 = 1/12 of the job per hour. Time = 1 ÷ 1/12 = 12 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Jun can encode a batch of records in 40 hours, while Liza can do it in 60 hours. How long will it take them working together?",
+    "choices": [
+      "50 hours",
+      "20 hours",
+      "100 hours",
+      "24 hours"
+    ],
+    "answer": 3,
+    "explanation": "Rates add: 1/40 + 1/60 = 1/24 of the job per hour. Time = 1 ÷ 1/24 = 24 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Nina can encode a batch of records in 15 hours, while Vince can do it in 60 hours. How long will it take them working together?",
+    "choices": [
+      "45 hours",
+      "12 hours",
+      "75 hours",
+      "37.5 hours"
+    ],
+    "answer": 1,
+    "explanation": "Rates add: 1/15 + 1/60 = 1/12 of the job per hour. Time = 1 ÷ 1/12 = 12 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 36 hours. A drain empties the full tank in 52 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "117 hours",
+      "88 hours",
+      "16 hours",
+      "21.27 hours"
+    ],
+    "answer": 0,
+    "explanation": "Net rate = 1/36 − 1/52 = 1/117 of the tank per hour. Time = 1 ÷ 1/117 = 117 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Paolo can encode a batch of records in 20 hours, while Ben can do it in 30 hours. How long will it take them working together?",
+    "choices": [
+      "25 hours",
+      "50 hours",
+      "10 hours",
+      "12 hours"
+    ],
+    "answer": 3,
+    "explanation": "Rates add: 1/20 + 1/30 = 1/12 of the job per hour. Time = 1 ÷ 1/12 = 12 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 30 hours. A drain empties the full tank in 33 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "63 hours",
+      "330 hours",
+      "15.71 hours",
+      "3 hours"
+    ],
+    "answer": 1,
+    "explanation": "Net rate = 1/30 − 1/33 = 1/330 of the tank per hour. Time = 1 ÷ 1/330 = 330 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 50 hours. A drain empties the full tank in 54 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "4 hours",
+      "675 hours",
+      "25.96 hours",
+      "104 hours"
+    ],
+    "answer": 1,
+    "explanation": "Net rate = 1/50 − 1/54 = 1/675 of the tank per hour. Time = 1 ÷ 1/675 = 675 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 28 hours. A drain empties the full tank in 36 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "126 hours",
+      "8 hours",
+      "15.75 hours",
+      "64 hours"
+    ],
+    "answer": 0,
+    "explanation": "Net rate = 1/28 − 1/36 = 1/126 of the tank per hour. Time = 1 ÷ 1/126 = 126 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Tess can encode a batch of records in 20 hours, while Ana can do it in 60 hours. How long will it take them working together?",
+    "choices": [
+      "16 hours",
+      "40 hours",
+      "15 hours",
+      "80 hours"
+    ],
+    "answer": 2,
+    "explanation": "Rates add: 1/20 + 1/60 = 1/15 of the job per hour. Time = 1 ÷ 1/15 = 15 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 54 hours. A drain empties the full tank in 57 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "111 hours",
+      "3 hours",
+      "27.73 hours",
+      "1,026 hours"
+    ],
+    "answer": 3,
+    "explanation": "Net rate = 1/54 − 1/57 = 1/1026 of the tank per hour. Time = 1 ÷ 1/1026 = 1026 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-work-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Ella can encode a batch of records in 12 hours, while Mark can do it in 60 hours. How long will it take them working together?",
+    "choices": [
+      "10 hours",
+      "36 hours",
+      "72 hours",
+      "48 hours"
+    ],
+    "answer": 0,
+    "explanation": "Rates add: 1/12 + 1/60 = 1/10 of the job per hour. Time = 1 ÷ 1/10 = 10 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "Ben can encode a batch of records in 10 hours, while Joy can do it in 40 hours. How long will it take them working together?",
+    "choices": [
+      "50 hours",
+      "30 hours",
+      "25 hours",
+      "8 hours"
+    ],
+    "answer": 3,
+    "explanation": "Rates add: 1/10 + 1/40 = 1/8 of the job per hour. Time = 1 ÷ 1/8 = 8 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-num-work-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "work",
+    "stem": "An inlet pipe fills a tank in 21 hours. A drain empties the full tank in 42 hours. If both are open, how long will it take to fill the empty tank?",
+    "choices": [
+      "14 hours",
+      "63 hours",
+      "42 hours",
+      "21 hours"
+    ],
+    "answer": 2,
+    "explanation": "Net rate = 1/21 − 1/42 = 1/42 of the tank per hour. Time = 1 ÷ 1/42 = 42 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  }
+]

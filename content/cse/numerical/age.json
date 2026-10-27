@@ -1,0 +1,922 @@
+[
+  {
+    "id": "cse-num-age-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Carlo is 4 years older than Tess. The sum of their ages is 68. How old is Carlo?",
+    "choices": [
+      "32",
+      "64",
+      "34",
+      "36"
+    ],
+    "answer": 3,
+    "explanation": "Let Tess = x, so Carlo = x + 4. Then 2x + 4 = 68, x = 32, and Carlo is 32 + 4 = 36.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 3 times as old as Dina. In 11 years, Tess will be 2 times as old as Dina. How old is Tess now?",
+    "choices": [
+      "11",
+      "66",
+      "33",
+      "44"
+    ],
+    "answer": 2,
+    "explanation": "Let Dina = x, so Tess = 3x. In 11 years: 3x + 11 = 2(x + 11). So x = 11, x = 11. Tess is 3 × 11 = 33.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Nina is 15 years older than Ana. The sum of their ages is 53. How old is Nina?",
+    "choices": [
+      "19",
+      "34",
+      "26.5",
+      "38"
+    ],
+    "answer": 1,
+    "explanation": "Let Ana = x, so Nina = x + 15. Then 2x + 15 = 53, x = 19, and Nina is 19 + 15 = 34.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Dina is 4 years older than Liza. The sum of their ages is 54. How old is Dina?",
+    "choices": [
+      "27",
+      "50",
+      "29",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "Let Liza = x, so Dina = x + 4. Then 2x + 4 = 54, x = 25, and Dina is 25 + 4 = 29.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 5 years older than Dina. The sum of their ages is 77. How old is Tess?",
+    "choices": [
+      "72",
+      "36",
+      "41",
+      "38.5"
+    ],
+    "answer": 2,
+    "explanation": "Let Dina = x, so Tess = x + 5. Then 2x + 5 = 77, x = 36, and Tess is 36 + 5 = 41.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Liza is 7 years older than Joy. The sum of their ages is 59. How old is Liza?",
+    "choices": [
+      "33",
+      "52",
+      "29.5",
+      "26"
+    ],
+    "answer": 0,
+    "explanation": "Let Joy = x, so Liza = x + 7. Then 2x + 7 = 59, x = 26, and Liza is 26 + 7 = 33.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Ana is 8 years older than Tess. The sum of their ages is 48. How old is Ana?",
+    "choices": [
+      "40",
+      "20",
+      "28",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "Let Tess = x, so Ana = x + 8. Then 2x + 8 = 48, x = 20, and Ana is 20 + 8 = 28.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Nina is 4 years older than Paolo. The sum of their ages is 38. How old is Nina?",
+    "choices": [
+      "17",
+      "21",
+      "19",
+      "34"
+    ],
+    "answer": 1,
+    "explanation": "Let Paolo = x, so Nina = x + 4. Then 2x + 4 = 38, x = 17, and Nina is 17 + 4 = 21.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Ben is 4 times as old as Ana. In 7 years, Ben will be 3 times as old as Ana. How old is Ben now?",
+    "choices": [
+      "14",
+      "56",
+      "63",
+      "84"
+    ],
+    "answer": 1,
+    "explanation": "Let Ana = x, so Ben = 4x. In 7 years: 4x + 7 = 3(x + 7). So x = 14, x = 14. Ben is 4 × 14 = 56.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 2 years older than Carlo. The sum of their ages is 42. How old is Tess?",
+    "choices": [
+      "20",
+      "21",
+      "40",
+      "22"
+    ],
+    "answer": 3,
+    "explanation": "Let Carlo = x, so Tess = x + 2. Then 2x + 2 = 42, x = 20, and Tess is 20 + 2 = 22.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Liza is 13 years older than Ana. The sum of their ages is 37. How old is Liza?",
+    "choices": [
+      "25",
+      "18.5",
+      "24",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "Let Ana = x, so Liza = x + 13. Then 2x + 13 = 37, x = 12, and Liza is 12 + 13 = 25.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Ella is 6 times as old as Liza. In 2 years, Ella will be 4 times as old as Liza. How old is Ella now?",
+    "choices": [
+      "30",
+      "20",
+      "3",
+      "18"
+    ],
+    "answer": 3,
+    "explanation": "Let Liza = x, so Ella = 6x. In 2 years: 6x + 2 = 4(x + 2). So 2x = 6, x = 3. Ella is 6 × 3 = 18.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Nina is 3 times as old as Ella. In 8 years, Nina will be 2 times as old as Ella. How old is Nina now?",
+    "choices": [
+      "8",
+      "24",
+      "32",
+      "48"
+    ],
+    "answer": 1,
+    "explanation": "Let Ella = x, so Nina = 3x. In 8 years: 3x + 8 = 2(x + 8). So x = 8, x = 8. Nina is 3 × 8 = 24.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Rico is 3 times as old as Ben. In 6 years, Rico will be 2 times as old as Ben. How old is Rico now?",
+    "choices": [
+      "18",
+      "6",
+      "24",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Let Ben = x, so Rico = 3x. In 6 years: 3x + 6 = 2(x + 6). So x = 6, x = 6. Rico is 3 × 6 = 18.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Paolo is 13 years older than Vince. The sum of their ages is 87. How old is Paolo?",
+    "choices": [
+      "74",
+      "37",
+      "50",
+      "43.5"
+    ],
+    "answer": 2,
+    "explanation": "Let Vince = x, so Paolo = x + 13. Then 2x + 13 = 87, x = 37, and Paolo is 37 + 13 = 50.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Mark is 8 years older than Rico. The sum of their ages is 20. How old is Mark?",
+    "choices": [
+      "6",
+      "14",
+      "12",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "Let Rico = x, so Mark = x + 8. Then 2x + 8 = 20, x = 6, and Mark is 6 + 8 = 14.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Rico is 6 times as old as Joy. In 6 years, Rico will be 3 times as old as Joy. How old is Rico now?",
+    "choices": [
+      "30",
+      "4",
+      "24",
+      "60"
+    ],
+    "answer": 2,
+    "explanation": "Let Joy = x, so Rico = 6x. In 6 years: 6x + 6 = 3(x + 6). So 3x = 12, x = 4. Rico is 6 × 4 = 24.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Ella is 5 times as old as Nina. In 6 years, Ella will be 3 times as old as Nina. How old is Ella now?",
+    "choices": [
+      "6",
+      "60",
+      "30",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "Let Nina = x, so Ella = 5x. In 6 years: 5x + 6 = 3(x + 6). So 2x = 12, x = 6. Ella is 5 × 6 = 30.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Mark is 10 years older than Liza. The sum of their ages is 52. How old is Mark?",
+    "choices": [
+      "26",
+      "31",
+      "42",
+      "21"
+    ],
+    "answer": 1,
+    "explanation": "Let Liza = x, so Mark = x + 10. Then 2x + 10 = 52, x = 21, and Mark is 21 + 10 = 31.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Liza is 4 years older than Paolo. The sum of their ages is 62. How old is Liza?",
+    "choices": [
+      "33",
+      "58",
+      "29",
+      "31"
+    ],
+    "answer": 0,
+    "explanation": "Let Paolo = x, so Liza = x + 4. Then 2x + 4 = 62, x = 29, and Liza is 29 + 4 = 33.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Jun is 3 years older than Liza. The sum of their ages is 35. How old is Jun?",
+    "choices": [
+      "16",
+      "19",
+      "17.5",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Let Liza = x, so Jun = x + 3. Then 2x + 3 = 35, x = 16, and Jun is 16 + 3 = 19.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Paolo is 3 times as old as Liza. In 7 years, Paolo will be 2 times as old as Liza. How old is Paolo now?",
+    "choices": [
+      "7",
+      "42",
+      "28",
+      "21"
+    ],
+    "answer": 3,
+    "explanation": "Let Liza = x, so Paolo = 3x. In 7 years: 3x + 7 = 2(x + 7). So x = 7, x = 7. Paolo is 3 × 7 = 21.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Carlo is 8 years older than Mark. The sum of their ages is 26. How old is Carlo?",
+    "choices": [
+      "13",
+      "17",
+      "9",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Let Mark = x, so Carlo = x + 8. Then 2x + 8 = 26, x = 9, and Carlo is 9 + 8 = 17.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Jun is 5 times as old as Ana. In 9 years, Jun will be 2 times as old as Ana. How old is Jun now?",
+    "choices": [
+      "15",
+      "3",
+      "24",
+      "60"
+    ],
+    "answer": 0,
+    "explanation": "Let Ana = x, so Jun = 5x. In 9 years: 5x + 9 = 2(x + 9). So 3x = 9, x = 3. Jun is 5 × 3 = 15.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Dina is 3 times as old as Jun. In 14 years, Dina will be 2 times as old as Jun. How old is Dina now?",
+    "choices": [
+      "56",
+      "42",
+      "14",
+      "84"
+    ],
+    "answer": 1,
+    "explanation": "Let Jun = x, so Dina = 3x. In 14 years: 3x + 14 = 2(x + 14). So x = 14, x = 14. Dina is 3 × 14 = 42.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Ella is 4 times as old as Joy. In 9 years, Ella will be 3 times as old as Joy. How old is Ella now?",
+    "choices": [
+      "72",
+      "18",
+      "108",
+      "81"
+    ],
+    "answer": 0,
+    "explanation": "Let Joy = x, so Ella = 4x. In 9 years: 4x + 9 = 3(x + 9). So x = 18, x = 18. Ella is 4 × 18 = 72.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Joy is 2 years older than Jun. The sum of their ages is 80. How old is Joy?",
+    "choices": [
+      "39",
+      "41",
+      "40",
+      "78"
+    ],
+    "answer": 1,
+    "explanation": "Let Jun = x, so Joy = x + 2. Then 2x + 2 = 80, x = 39, and Joy is 39 + 2 = 41.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Jun is 3 years older than Dina. The sum of their ages is 25. How old is Jun?",
+    "choices": [
+      "14",
+      "11",
+      "22",
+      "12.5"
+    ],
+    "answer": 0,
+    "explanation": "Let Dina = x, so Jun = x + 3. Then 2x + 3 = 25, x = 11, and Jun is 11 + 3 = 14.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 5 times as old as Liza. In 10 years, Tess will be 3 times as old as Liza. How old is Tess now?",
+    "choices": [
+      "10",
+      "100",
+      "60",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "Let Liza = x, so Tess = 5x. In 10 years: 5x + 10 = 3(x + 10). So 2x = 20, x = 10. Tess is 5 × 10 = 50.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 4 times as old as Rico. In 7 years, Tess will be 3 times as old as Rico. How old is Tess now?",
+    "choices": [
+      "14",
+      "56",
+      "63",
+      "84"
+    ],
+    "answer": 1,
+    "explanation": "Let Rico = x, so Tess = 4x. In 7 years: 4x + 7 = 3(x + 7). So x = 14, x = 14. Tess is 4 × 14 = 56.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Vince is 15 years older than Carlo. The sum of their ages is 87. How old is Vince?",
+    "choices": [
+      "51",
+      "43.5",
+      "36",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "Let Carlo = x, so Vince = x + 15. Then 2x + 15 = 87, x = 36, and Vince is 36 + 15 = 51.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Ben is 4 times as old as Ana. In 3 years, Ben will be 3 times as old as Ana. How old is Ben now?",
+    "choices": [
+      "27",
+      "24",
+      "36",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "Let Ana = x, so Ben = 4x. In 3 years: 4x + 3 = 3(x + 3). So x = 6, x = 6. Ben is 4 × 6 = 24.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 6 years older than Nina. The sum of their ages is 66. How old is Tess?",
+    "choices": [
+      "60",
+      "30",
+      "36",
+      "33"
+    ],
+    "answer": 2,
+    "explanation": "Let Nina = x, so Tess = x + 6. Then 2x + 6 = 66, x = 30, and Tess is 30 + 6 = 36.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Mark is 12 years older than Vince. The sum of their ages is 32. How old is Mark?",
+    "choices": [
+      "10",
+      "20",
+      "22",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "Let Vince = x, so Mark = x + 12. Then 2x + 12 = 32, x = 10, and Mark is 10 + 12 = 22.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Ella is 13 years older than Rico. The sum of their ages is 83. How old is Ella?",
+    "choices": [
+      "35",
+      "48",
+      "70",
+      "41.5"
+    ],
+    "answer": 1,
+    "explanation": "Let Rico = x, so Ella = x + 13. Then 2x + 13 = 83, x = 35, and Ella is 35 + 13 = 48.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Liza is 7 years older than Nina. The sum of their ages is 81. How old is Liza?",
+    "choices": [
+      "74",
+      "37",
+      "44",
+      "40.5"
+    ],
+    "answer": 2,
+    "explanation": "Let Nina = x, so Liza = x + 7. Then 2x + 7 = 81, x = 37, and Liza is 37 + 7 = 44.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-num-age-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 6 times as old as Rico. In 8 years, Tess will be 2 times as old as Rico. How old is Tess now?",
+    "choices": [
+      "60",
+      "12",
+      "20",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Let Rico = x, so Tess = 6x. In 8 years: 6x + 8 = 2(x + 8). So 4x = 8, x = 2. Tess is 6 × 2 = 12.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Tess is 6 times as old as Ana. In 4 years, Tess will be 4 times as old as Ana. How old is Tess now?",
+    "choices": [
+      "6",
+      "60",
+      "36",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "Let Ana = x, so Tess = 6x. In 4 years: 6x + 4 = 4(x + 4). So 2x = 12, x = 6. Tess is 6 × 6 = 36.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Rico is 3 times as old as Liza. In 2 years, Rico will be 2 times as old as Liza. How old is Rico now?",
+    "choices": [
+      "8",
+      "2",
+      "6",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Let Liza = x, so Rico = 3x. In 2 years: 3x + 2 = 2(x + 2). So x = 2, x = 2. Rico is 3 × 2 = 6.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-age-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "age",
+    "stem": "Joy is 12 years older than Liza. The sum of their ages is 30. How old is Joy?",
+    "choices": [
+      "21",
+      "9",
+      "18",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "Let Liza = x, so Joy = x + 12. Then 2x + 12 = 30, x = 9, and Joy is 9 + 12 = 21.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  }
+]
