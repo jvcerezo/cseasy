@@ -67,6 +67,7 @@ class _ReportSheetState extends ConsumerState<_ReportSheet> {
   Future<void> _send() async {
     final version = ref.read(questionBankProvider).valueOrNull?.version ?? 'unknown';
     final info = await PackageInfo.fromPlatform();
+    if (!mounted) return;
     final q = widget.question;
     final body = [
       'Question: ${q.id}',
@@ -83,20 +84,26 @@ class _ReportSheetState extends ConsumerState<_ReportSheet> {
       '?subject=${Uri.encodeComponent('CSEasy report: ${q.id}')}'
       '&body=${Uri.encodeComponent(body)}',
     );
-    final opened = await launchUrl(uri);
-    if (!mounted) return;
-    Navigator.of(context).pop();
+    // Grab these before awaiting and popping: the sheet's context goes away with it.
+    final messenger = ScaffoldMessenger.of(context);
+    final navigator = Navigator.of(context);
+    bool opened;
+    try {
+      opened = await launchUrl(uri);
+    } catch (_) {
+      opened = false; // no app can handle mailto:
+    }
+    navigator.pop();
     if (!opened) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text(Strings.reportNoEmailApp)),
-      );
+      messenger.showSnackBar(const SnackBar(content: Text(Strings.reportNoEmailApp)));
     }
   }
 
   @override
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
-    return Padding(
+    // Scrollable so the keyboard can't push the send button off a small screen.
+    return SingleChildScrollView(
       padding: EdgeInsets.fromLTRB(16, 0, 16, 16 + MediaQuery.viewInsetsOf(context).bottom),
       child: Column(
         mainAxisSize: MainAxisSize.min,

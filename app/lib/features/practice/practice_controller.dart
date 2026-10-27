@@ -75,8 +75,10 @@ final practiceControllerProvider =
 class PracticeController extends AutoDisposeFamilyNotifier<QuizSession?, PracticeScope> {
   @override
   QuizSession? build(PracticeScope scope) {
-    // Practice is only reachable from the home screen after the bank has loaded.
-    final bank = ref.watch(studyBankProvider).requireValue;
+    // Practice is only reachable from the home screen after the bank has
+    // loaded. read, not watch: a purchase or restore changing the bank must
+    // not restart a round in progress.
+    final bank = ref.read(studyBankProvider).requireValue;
     // read, not watch: answering updates the cards, and that must not
     // reshuffle the round in progress.
     final cards = ref.read(cardsProvider).valueOrNull ?? const {};

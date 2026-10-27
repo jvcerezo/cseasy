@@ -105,7 +105,7 @@ class MockResultsView extends StatelessWidget {
                 FilledButton(
                   onPressed: onDone,
                   style: FilledButton.styleFrom(minimumSize: const Size.fromHeight(52)),
-                  child: const Text(Strings.backToTopics),
+                  child: const Text(Strings.backToHome),
                 ),
                 const SizedBox(height: 16),
                 const BannerAdSlot(),

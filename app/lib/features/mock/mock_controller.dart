@@ -18,9 +18,10 @@ final mockControllerProvider =
 class MockController extends AutoDisposeFamilyNotifier<MockSession?, MockExamSpec> {
   @override
   MockSession? build(MockExamSpec spec) {
-    // Mocks are opened from home after the bank has loaded; read (not watch)
-    // the cards so answering mid-exam can't rebuild the exam.
-    final bank = ref.watch(studyBankProvider).requireValue;
+    // Mocks are opened from home after the bank has loaded. Read (not watch)
+    // the bank and cards: a purchase, restore or answer must never rebuild,
+    // and so reshuffle, an exam in progress.
+    final bank = ref.read(studyBankProvider).requireValue;
     final cards = ref.read(cardsProvider).valueOrNull ?? const {};
     final questions = assembleMockExam(bank, spec, cards: cards);
     return questions.isEmpty ? null : MockSession.start(spec, questions, DateTime.now());

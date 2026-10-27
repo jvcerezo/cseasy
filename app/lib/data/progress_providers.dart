@@ -34,14 +34,6 @@ final activityProvider = StreamProvider<Activity>((ref) {
   return ref.watch(progressRepositoryProvider).watchActivity();
 });
 
-/// Number of cards due now. Re-evaluated when the cards or the clock change.
-final dueCountProvider = Provider<int>((ref) {
-  final cards = ref.watch(cardsProvider).valueOrNull ?? const {};
-  ref.watch(clockProvider);
-  final now = DateTime.now();
-  return cards.values.where((c) => c.isDue(now)).length;
-});
-
 /// Mock exam results for the current level, most recent first.
 final mockResultsProvider = StreamProvider<List<MockResultSummary>>((ref) {
   final level = ref.watch(examLevelProvider) ?? ExamLevel.professional;

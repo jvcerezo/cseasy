@@ -9,6 +9,7 @@ import '../../data/progress_providers.dart';
 import '../../data/progress_repository.dart';
 import '../../core/quiz/mock_exam.dart';
 import '../../data/settings_providers.dart';
+import '../ads/ads.dart';
 import '../mock/mock_screen.dart';
 import '../premium/entitlement_controller.dart';
 import '../premium/paywall_screen.dart';
@@ -33,6 +34,9 @@ class HomeScreen extends ConsumerWidget {
     final study = ref.watch(studyBankProvider);
     final level = ref.watch(examLevelProvider);
     final isPremium = ref.watch(isPremiumProvider);
+    // Start consent and ads setup at launch, so any consent form appears here
+    // rather than popping up over the first results screen.
+    ref.watch(adsReadyProvider);
     return Scaffold(
       appBar: AppBar(
         title: const Text(Strings.appName),
@@ -42,11 +46,12 @@ class HomeScreen extends ConsumerWidget {
             icon: Icon(isPremium ? Icons.workspace_premium : Icons.workspace_premium_outlined),
             onPressed: () => PaywallScreen.open(context),
           ),
-          TextButton(
+          TextButton.icon(
             onPressed: () => Navigator.of(context).push(
               MaterialPageRoute<void>(builder: (_) => const LevelPickerScreen(popOnSelect: true)),
             ),
-            child: Text(level?.label ?? ''),
+            icon: const Icon(Icons.swap_horiz, size: 18),
+            label: Text(level?.shortLabel ?? ''),
           ),
         ],
       ),
@@ -142,16 +147,21 @@ class _ActivityCard extends ConsumerWidget {
               ],
             ),
             const Divider(height: 28),
-            Row(
+            // Wrap, not Row: with large text the button drops below the
+            // label instead of overflowing.
+            Wrap(
+              alignment: WrapAlignment.spaceBetween,
+              crossAxisAlignment: WrapCrossAlignment.center,
+              spacing: 12,
+              runSpacing: 8,
               children: [
-                Expanded(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(Strings.reviewDue, style: textTheme.titleSmall),
-                      Text(Strings.questionCount(due), style: textTheme.bodyMedium),
-                    ],
-                  ),
+                Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text(Strings.reviewDue, style: textTheme.titleSmall),
+                    Text(Strings.questionCount(due), style: textTheme.bodyMedium),
+                  ],
                 ),
                 FilledButton.tonal(
                   onPressed: due == 0 ? null : () => _openPractice(context, const ReviewScope()),
@@ -312,23 +322,34 @@ class _TopicTile extends StatelessWidget {
   Widget build(BuildContext context) {
     final seen = stats?.seen ?? 0;
     final accuracyPct = ((stats?.accuracy ?? 0) * 100).round();
+    // Free users can only reach the free slice, so progress is measured
+    // against that rather than a total they can never complete.
+    final reachable = locked ? freeQuestionsPerTopic : total;
     return ListTile(
       title: Text(topicLabel(topic)),
       subtitle: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(Strings.topicProgress(seen, total, accuracyPct)),
-          if (locked) Text(Strings.freeTierNote, style: Theme.of(context).textTheme.bodySmall),
+          Text(
+            locked
+                ? Strings.freeTopicProgress(seen, reachable, total, accuracyPct)
+                : Strings.topicProgress(seen, total, accuracyPct),
+          ),
+          if (locked)
+            Text(
+              Strings.moreWithFullAccess(total - reachable),
+              style: Theme.of(context).textTheme.bodySmall,
+            ),
           if (seen > 0) ...[
             const SizedBox(height: 6),
             LinearProgressIndicator(
-              value: seen / total,
+              value: (seen / reachable).clamp(0.0, 1.0),
               borderRadius: BorderRadius.circular(2),
             ),
           ],
         ],
       ),
-      trailing: Icon(locked ? Icons.lock_open_outlined : Icons.chevron_right),
+      trailing: Icon(locked ? Icons.lock_outline : Icons.chevron_right),
       onTap: onTap,
     );
   }

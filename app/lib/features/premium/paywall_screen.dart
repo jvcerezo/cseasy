@@ -25,6 +25,7 @@ class PaywallScreen extends ConsumerWidget {
     });
 
     final product = entitlement.product;
+    final unavailable = entitlement.storeChecked && product == null;
     return Scaffold(
       appBar: AppBar(),
       body: SafeArea(
@@ -61,9 +62,12 @@ class PaywallScreen extends ConsumerWidget {
                 style: FilledButton.styleFrom(minimumSize: const Size.fromHeight(56)),
                 child: entitlement.busy
                     ? const SizedBox.square(dimension: 22, child: CircularProgressIndicator(strokeWidth: 2.5))
-                    : Text(product == null ? Strings.priceLoading : Strings.unlockCta(product.price)),
+                    : Text(switch (product) {
+                        final p? => Strings.unlockCta(p.price),
+                        null => unavailable ? Strings.unavailable : Strings.priceLoading,
+                      }),
               ),
-              if (!entitlement.storeAvailable && product == null) ...[
+              if (unavailable) ...[
                 const SizedBox(height: 8),
                 Text(Strings.storeUnavailable, style: textTheme.bodySmall, textAlign: TextAlign.center),
               ],

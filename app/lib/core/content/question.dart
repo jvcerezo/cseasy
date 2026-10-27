@@ -16,12 +16,15 @@ enum Section {
 }
 
 enum ExamLevel {
-  professional('professional', 'Professional'),
-  subprofessional('subprofessional', 'Sub-Professional');
+  professional('professional', 'Professional', 'Pro'),
+  subprofessional('subprofessional', 'Sub-Professional', 'Sub-Pro');
 
   final String key;
   final String label;
-  const ExamLevel(this.key, this.label);
+
+  /// For tight spots such as the app bar.
+  final String shortLabel;
+  const ExamLevel(this.key, this.label, this.shortLabel);
 
   static ExamLevel? tryFromKey(String? key) {
     for (final level in values) {

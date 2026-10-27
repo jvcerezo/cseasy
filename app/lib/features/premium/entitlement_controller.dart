@@ -13,6 +13,10 @@ class Entitlement {
   final ProductDetails? product;
   final bool storeAvailable;
 
+  /// The store lookup has finished (successfully or not), so a missing
+  /// product means "unavailable", not "still loading".
+  final bool storeChecked;
+
   /// A purchase is waiting on Google Play (dialog open or payment pending).
   final bool busy;
 
@@ -23,6 +27,7 @@ class Entitlement {
     required this.isPremium,
     this.product,
     this.storeAvailable = false,
+    this.storeChecked = false,
     this.busy = false,
     this.message,
   });
@@ -31,6 +36,7 @@ class Entitlement {
     bool? isPremium,
     ProductDetails? product,
     bool? storeAvailable,
+    bool? storeChecked,
     bool? busy,
     String? message,
   }) =>
@@ -38,6 +44,7 @@ class Entitlement {
         isPremium: isPremium ?? this.isPremium,
         product: product ?? this.product,
         storeAvailable: storeAvailable ?? this.storeAvailable,
+        storeChecked: storeChecked ?? this.storeChecked,
         busy: busy ?? this.busy,
         message: message,
       );
@@ -78,16 +85,16 @@ class EntitlementController extends Notifier<Entitlement> {
       );
       final available = await _store.isAvailable();
       if (!available) {
-        state = state.copyWith(storeAvailable: false);
+        state = state.copyWith(storeAvailable: false, storeChecked: true);
         return;
       }
       final product = await _store.queryProduct(fullAccessProductId);
-      state = state.copyWith(storeAvailable: true, product: product);
+      state = state.copyWith(storeAvailable: true, storeChecked: true, product: product);
       // Re-grants the unlock after a reinstall or on a new device.
       await _store.restorePurchases();
     } catch (e) {
       debugPrint('[Billing] setup failed: $e');
-      state = state.copyWith(storeAvailable: false);
+      state = state.copyWith(storeAvailable: false, storeChecked: true);
     }
   }
 

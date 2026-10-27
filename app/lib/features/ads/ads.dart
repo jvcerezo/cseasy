@@ -76,6 +76,7 @@ class _BannerAdSlotState extends ConsumerState<BannerAdSlot> {
         onAdFailedToLoad: (ad, error) {
           debugPrint('[Ads] banner failed: ${error.message}');
           ad.dispose();
+          if (identical(_ad, ad)) _ad = null;
         },
       ),
     );

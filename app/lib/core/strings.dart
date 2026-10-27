@@ -10,6 +10,7 @@ abstract final class Strings {
   static const source = 'Source';
   static const practiceAgain = 'Practice again';
   static const backToTopics = 'Back to topics';
+  static const backToHome = 'Back to home';
   static const yourAnswer = 'Your answer';
   static const correctAnswer = 'Correct answer';
   static const reviewMistakes = 'Review your mistakes';
@@ -59,9 +60,9 @@ abstract final class Strings {
   static const restorePurchase = 'Restore purchase';
   static const priceLoading = 'Loading price…';
   static const storeUnavailable = 'Google Play billing is unavailable on this device right now.';
+  static const unavailable = 'Unavailable';
   static const youHaveFullAccess = 'You have full access. Salamat!';
   static const fullMockLocked = 'Free accounts include one full mock exam. Unlock full access for unlimited full mocks; mini mocks stay free.';
-  static const freeTierNote = 'Free: first 10 questions per topic';
   static const reportProblem = 'Report a problem';
   static const reportTitle = 'What is wrong with this question?';
   static const reportWrongKey = 'The marked answer is wrong';
@@ -86,5 +87,10 @@ abstract final class Strings {
       '$items items · ${d.inHours > 0 ? '${d.inHours}h ' : ''}${d.inMinutes % 60}m';
   static String unlockCta(String price) => 'Unlock for $price';
   static String unlockBanner(int total) => 'Unlock all $total questions';
+  static String freeTopicProgress(int seen, int free, int total, int accuracyPct) => seen == 0
+      ? '$free of $total questions free'
+      : '$seen of $free free seen · $accuracyPct% correct';
+  static String moreWithFullAccess(int n) => '$n more questions with full access';
+  static const freeTopicDone = "You've practiced every free question here. Unlock the rest to keep seeing new ones.";
   static String progress(int current, int total) => 'Question $current of $total';
 }

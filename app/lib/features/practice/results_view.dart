@@ -14,11 +14,15 @@ class ResultsView extends StatelessWidget {
   final VoidCallback onRestart;
   final VoidCallback onDone;
 
+  /// Shown above the buttons, e.g. an unlock prompt when the free set is used up.
+  final Widget? notice;
+
   const ResultsView({
     super.key,
     required this.session,
     required this.onRestart,
     required this.onDone,
+    this.notice,
   });
 
   @override
@@ -68,6 +72,7 @@ class ResultsView extends StatelessWidget {
             padding: const EdgeInsets.only(top: 12),
             child: Column(
               children: [
+                if (notice case final notice?) ...[notice, const SizedBox(height: 12)],
                 FilledButton(
                   onPressed: onRestart,
                   style: FilledButton.styleFrom(minimumSize: const Size.fromHeight(52)),

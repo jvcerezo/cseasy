@@ -6,6 +6,11 @@ import '../../core/quiz/quiz_session.dart';
 import '../../core/strings.dart';
 import '../../shared/widgets/choice_tile.dart';
 import '../../shared/widgets/question_parts.dart';
+import '../../data/progress_providers.dart';
+import '../../data/settings_providers.dart';
+import '../premium/entitlement_controller.dart';
+import '../premium/paywall_screen.dart';
+import '../premium/study_bank.dart';
 import '../report/report_sheet.dart';
 import 'practice_controller.dart';
 import 'results_view.dart';
@@ -40,6 +45,7 @@ class PracticeScreen extends ConsumerWidget {
           session: session,
           onRestart: controller.restart,
           onDone: () => Navigator.of(context).pop(),
+          notice: _freeSetUsedUp(ref) ? const _UnlockNotice() : null,
         ),
       );
     }
@@ -67,6 +73,51 @@ class PracticeScreen extends ConsumerWidget {
             style: FilledButton.styleFrom(minimumSize: const Size.fromHeight(52)),
             child: Text(session.isLast ? Strings.seeResults : Strings.next),
           ),
+        ),
+      ),
+    );
+  }
+}
+
+extension on PracticeScreen {
+  /// True for a free user who has now seen every free question in this scope
+  /// while more exist behind the unlock, so "Practice again" would only repeat.
+  bool _freeSetUsedUp(WidgetRef ref) {
+    if (ref.watch(isPremiumProvider)) return false;
+    final study = ref.watch(studyBankProvider).valueOrNull;
+    final full = ref.watch(examBankProvider).valueOrNull;
+    final cards = ref.watch(cardsProvider).valueOrNull;
+    if (study == null || full == null || cards == null) return false;
+    final (free, all) = switch (scope) {
+      TopicScope(:final topic) => (study.byTopic(topic), full.byTopic(topic)),
+      SectionScope(:final section) => (study.bySection(section), full.bySection(section)),
+      ReviewScope() => (const <Question>[], const <Question>[]),
+    };
+    return all.length > free.length && free.every((q) => cards.containsKey(q.id));
+  }
+}
+
+class _UnlockNotice extends StatelessWidget {
+  const _UnlockNotice();
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    return Card.filled(
+      margin: EdgeInsets.zero,
+      color: scheme.primaryContainer,
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(Strings.freeTopicDone, style: TextStyle(color: scheme.onPrimaryContainer)),
+            const SizedBox(height: 8),
+            FilledButton(
+              onPressed: () => PaywallScreen.open(context),
+              child: const Text(Strings.unlockTitle),
+            ),
+          ],
         ),
       ),
     );

@@ -277,32 +277,34 @@ class _Countdown extends StatefulWidget {
 }
 
 class _CountdownState extends State<_Countdown> {
-  late final Timer _timer;
-  Duration _left = Duration.zero;
+  Timer? _timer;
+  late Duration _left = widget.endsAt.difference(DateTime.now());
 
   @override
   void initState() {
     super.initState();
-    _tick();
     _timer = Timer.periodic(const Duration(seconds: 1), (_) => _tick());
+    // Never submit during the first build, even if time has already run out.
+    WidgetsBinding.instance.addPostFrameCallback((_) => _tick());
   }
 
   void _tick() {
+    if (!mounted) return;
     final left = widget.endsAt.difference(DateTime.now());
     if (left <= Duration.zero) {
-      _timer.cancel();
+      _timer?.cancel();
       widget.onExpired();
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text(Strings.timeUp)));
       }
       return;
     }
-    if (mounted) setState(() => _left = left);
+    setState(() => _left = left);
   }
 
   @override
   void dispose() {
-    _timer.cancel();
+    _timer?.cancel();
     super.dispose();
   }
 
