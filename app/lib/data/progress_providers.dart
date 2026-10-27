@@ -22,13 +22,20 @@ final topicStatsProvider = StreamProvider<Map<String, TopicStats>>(
   (ref) => ref.watch(progressRepositoryProvider).watchTopicStats(),
 );
 
-final activityProvider = StreamProvider<Activity>(
-  (ref) => ref.watch(progressRepositoryProvider).watchActivity(),
-);
+/// "Now" for time-based views (due reviews, today's streak). Bumped when the
+/// app returns to the foreground so a card that came due, or a new day,
+/// shows up without needing a database change.
+final clockProvider = StateProvider<DateTime>((ref) => DateTime.now());
 
-/// Number of cards due now. Re-evaluated whenever the cards change.
+final activityProvider = StreamProvider<Activity>((ref) {
+  ref.watch(clockProvider);
+  return ref.watch(progressRepositoryProvider).watchActivity();
+});
+
+/// Number of cards due now. Re-evaluated when the cards or the clock change.
 final dueCountProvider = Provider<int>((ref) {
   final cards = ref.watch(cardsProvider).valueOrNull ?? const {};
+  ref.watch(clockProvider);
   final now = DateTime.now();
   return cards.values.where((c) => c.isDue(now)).length;
 });
