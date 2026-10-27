@@ -30,7 +30,20 @@ class Cards extends Table {
   Set<Column> get primaryKey => {questionId};
 }
 
-@DriftDatabase(tables: [Attempts, Cards])
+/// One row per submitted mock exam.
+class MockResults extends Table {
+  IntColumn get id => integer().autoIncrement()();
+  TextColumn get level => text()();
+  IntColumn get itemCount => integer()();
+  IntColumn get correct => integer()();
+  DateTimeColumn get startedAt => dateTime()();
+  DateTimeColumn get submittedAt => dateTime()();
+
+  /// {"verbal": [correct, total], ...}
+  TextColumn get sectionScores => text()();
+}
+
+@DriftDatabase(tables: [Attempts, Cards, MockResults])
 class AppDatabase extends _$AppDatabase {
   AppDatabase(super.e);
 
@@ -43,7 +56,7 @@ class AppDatabase extends _$AppDatabase {
       );
 
   @override
-  int get schemaVersion => 1;
+  int get schemaVersion => 2;
 
   @override
   MigrationStrategy get migration => MigrationStrategy(
@@ -51,6 +64,9 @@ class AppDatabase extends _$AppDatabase {
           await m.createAll();
           await customStatement('CREATE INDEX attempts_topic ON attempts (topic)');
           await customStatement('CREATE INDEX attempts_answered_at ON attempts (answered_at)');
+        },
+        onUpgrade: (m, from, to) async {
+          if (from < 2) await m.createTable(mockResults);
         },
       );
 }

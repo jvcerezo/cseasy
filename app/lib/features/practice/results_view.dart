@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../../core/content/question.dart';
 import '../../core/quiz/quiz_session.dart';
 import '../../core/strings.dart';
 import '../../core/theme/app_theme.dart';
-import 'practice_screen.dart';
+import '../../shared/widgets/question_parts.dart';
 
 /// The CSE passing mark: a general rating of at least 80%.
 const passingRatio = 0.8;
@@ -86,45 +85,9 @@ class ResultsView extends StatelessWidget {
         final (question, chosen) = mistakes[i - 1];
         return Padding(
           padding: const EdgeInsets.only(bottom: 12),
-          child: _MistakeCard(question: question, chosen: chosen),
+          child: MistakeCard(question: question, chosen: chosen),
         );
       },
-    );
-  }
-}
-
-class _MistakeCard extends StatelessWidget {
-  final Question question;
-  final int chosen;
-
-  const _MistakeCard({required this.question, required this.chosen});
-
-  @override
-  Widget build(BuildContext context) {
-    final textTheme = Theme.of(context).textTheme;
-    final quiz = QuizColors.of(context);
-    return Card.outlined(
-      margin: EdgeInsets.zero,
-      child: Padding(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(question.stem, style: textTheme.titleSmall),
-            const SizedBox(height: 10),
-            Text(
-              '${Strings.yourAnswer}: ${question.choices[chosen]}',
-              style: textTheme.bodyMedium?.copyWith(color: quiz.wrong),
-            ),
-            Text(
-              '${Strings.correctAnswer}: ${question.choices[question.answer]}',
-              style: textTheme.bodyMedium?.copyWith(color: quiz.correct, fontWeight: FontWeight.w600),
-            ),
-            const SizedBox(height: 10),
-            ExplanationCard(question: question),
-          ],
-        ),
-      ),
     );
   }
 }

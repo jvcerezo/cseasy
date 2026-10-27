@@ -1,8 +1,10 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import '../core/content/question.dart';
 import '../core/quiz/scheduler.dart';
 import 'app_database.dart';
 import 'progress_repository.dart';
+import 'settings_providers.dart';
 
 final appDatabaseProvider = Provider<AppDatabase>((ref) {
   final db = AppDatabase.open();
@@ -38,4 +40,10 @@ final dueCountProvider = Provider<int>((ref) {
   ref.watch(clockProvider);
   final now = DateTime.now();
   return cards.values.where((c) => c.isDue(now)).length;
+});
+
+/// Mock exam results for the current level, most recent first.
+final mockResultsProvider = StreamProvider<List<MockResultSummary>>((ref) {
+  final level = ref.watch(examLevelProvider) ?? ExamLevel.professional;
+  return ref.watch(progressRepositoryProvider).watchMockResults(level);
 });

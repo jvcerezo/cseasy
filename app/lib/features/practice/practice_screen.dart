@@ -4,7 +4,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../core/content/question.dart';
 import '../../core/quiz/quiz_session.dart';
 import '../../core/strings.dart';
-import '../../core/theme/app_theme.dart';
+import '../../shared/widgets/choice_tile.dart';
+import '../../shared/widgets/question_parts.dart';
 import 'practice_controller.dart';
 import 'results_view.dart';
 
@@ -100,7 +101,7 @@ class _QuestionView extends StatelessWidget {
         for (var i = 0; i < question.choices.length; i++)
           Padding(
             padding: const EdgeInsets.only(bottom: 10),
-            child: _ChoiceTile(
+            child: ChoiceTile(
               letter: String.fromCharCode(65 + i),
               text: question.choices[i],
               state: _choiceState(question, selection, i),
@@ -115,140 +116,10 @@ class _QuestionView extends StatelessWidget {
     );
   }
 
-  static _ChoiceState _choiceState(Question q, int? selection, int i) {
-    if (selection == null) return _ChoiceState.idle;
-    if (q.isCorrect(i)) return _ChoiceState.correct;
-    if (i == selection) return _ChoiceState.wrong;
-    return _ChoiceState.dimmed;
-  }
-}
-
-enum _ChoiceState { idle, correct, wrong, dimmed }
-
-class _ChoiceTile extends StatelessWidget {
-  final String letter;
-  final String text;
-  final _ChoiceState state;
-  final VoidCallback? onTap;
-
-  const _ChoiceTile({
-    required this.letter,
-    required this.text,
-    required this.state,
-    required this.onTap,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    final scheme = Theme.of(context).colorScheme;
-    final quiz = QuizColors.of(context);
-
-    final (background, border, foreground, icon) = switch (state) {
-      _ChoiceState.idle => (scheme.surfaceContainerLow, scheme.outlineVariant, scheme.onSurface, null),
-      _ChoiceState.correct => (quiz.correctContainer, quiz.correct, scheme.onSurface, Icons.check_circle),
-      _ChoiceState.wrong => (quiz.wrongContainer, quiz.wrong, scheme.onSurface, Icons.cancel),
-      _ChoiceState.dimmed => (scheme.surfaceContainerLow, scheme.outlineVariant, scheme.onSurfaceVariant, null),
-    };
-    final iconColor = state == _ChoiceState.correct ? quiz.correct : quiz.wrong;
-
-    return Material(
-      color: background,
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(12),
-        side: BorderSide(color: border, width: state == _ChoiceState.idle ? 1 : 2),
-      ),
-      clipBehavior: Clip.antiAlias,
-      child: InkWell(
-        onTap: onTap,
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(minHeight: 56),
-          child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-            child: Row(
-              children: [
-                Text(letter, style: TextStyle(fontWeight: FontWeight.w700, color: foreground)),
-                const SizedBox(width: 16),
-                Expanded(
-                  child: Text(text, style: TextStyle(fontSize: 16, color: foreground)),
-                ),
-                if (icon != null) Icon(icon, color: iconColor),
-              ],
-            ),
-          ),
-        ),
-      ),
-    );
-  }
-}
-
-class ExplanationCard extends StatelessWidget {
-  final Question question;
-
-  const ExplanationCard({super.key, required this.question});
-
-  @override
-  Widget build(BuildContext context) {
-    final textTheme = Theme.of(context).textTheme;
-    final source = question.source;
-    return Card.filled(
-      margin: EdgeInsets.zero,
-      child: Padding(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(Strings.explanation, style: textTheme.titleSmall),
-            const SizedBox(height: 6),
-            Text(question.explanation, style: textTheme.bodyMedium),
-            if (source != null) ...[
-              const SizedBox(height: 8),
-              Text('${Strings.source}: $source', style: textTheme.bodySmall),
-            ],
-          ],
-        ),
-      ),
-    );
-  }
-}
-
-class QuestionTableView extends StatelessWidget {
-  final QuestionTable table;
-
-  const QuestionTableView({super.key, required this.table});
-
-  @override
-  Widget build(BuildContext context) {
-    final scheme = Theme.of(context).colorScheme;
-    final textTheme = Theme.of(context).textTheme;
-
-    Widget cell(String text, {bool header = false, bool alignEnd = false}) => Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
-          child: Text(
-            text,
-            textAlign: alignEnd ? TextAlign.end : TextAlign.start,
-            style: header ? textTheme.labelLarge : textTheme.bodyMedium,
-          ),
-        );
-
-    return SingleChildScrollView(
-      scrollDirection: Axis.horizontal,
-      child: Table(
-        defaultColumnWidth: const IntrinsicColumnWidth(),
-        border: TableBorder.all(color: scheme.outlineVariant, borderRadius: BorderRadius.circular(8)),
-        children: [
-          TableRow(
-            decoration: BoxDecoration(color: scheme.surfaceContainerHigh),
-            children: [
-              for (var i = 0; i < table.headers.length; i++)
-                cell(table.headers[i], header: true, alignEnd: i > 0),
-            ],
-          ),
-          for (final row in table.rows)
-            TableRow(children: [
-              for (var i = 0; i < row.length; i++) cell(row[i], header: i == 0, alignEnd: i > 0),
-            ]),
-        ],
-      ),
-    );
+  static ChoiceState _choiceState(Question q, int? selection, int i) {
+    if (selection == null) return ChoiceState.idle;
+    if (q.isCorrect(i)) return ChoiceState.correct;
+    if (i == selection) return ChoiceState.wrong;
+    return ChoiceState.dimmed;
   }
 }

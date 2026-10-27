@@ -8,6 +8,8 @@ import '../../core/strings.dart';
 import '../../data/progress_providers.dart';
 import '../../data/progress_repository.dart';
 import '../../data/settings_providers.dart';
+import '../../core/quiz/mock_exam.dart';
+import '../mock/mock_screen.dart';
 import '../onboarding/level_picker_screen.dart';
 import '../practice/practice_controller.dart';
 import '../practice/practice_screen.dart';
@@ -74,6 +76,8 @@ class _TopicList extends ConsumerWidget {
           child: Text(Strings.tagline),
         ),
         const _ActivityCard(),
+        const SizedBox(height: 12),
+        const _MockExamCard(),
         const SizedBox(height: 8),
         for (final section in bank.sections) ...[
           _SectionHeader(
@@ -135,6 +139,69 @@ class _ActivityCard extends ConsumerWidget {
                 FilledButton.tonal(
                   onPressed: due == 0 ? null : () => _openPractice(context, const ReviewScope()),
                   child: const Text(Strings.startReview),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _MockExamCard extends ConsumerWidget {
+  const _MockExamCard();
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final level = ref.watch(examLevelProvider) ?? ExamLevel.professional;
+    final results = ref.watch(mockResultsProvider).valueOrNull ?? const [];
+    final textTheme = Theme.of(context).textTheme;
+    final full = MockExamSpec.full(level);
+    final mini = MockExamSpec.mini(level);
+
+    void open(MockExamSpec spec) => Navigator.of(context).push(
+          MaterialPageRoute<void>(builder: (_) => MockScreen(spec: spec)),
+        );
+
+    return Card.outlined(
+      margin: const EdgeInsets.symmetric(horizontal: 16),
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(Strings.mockExams, style: textTheme.titleMedium),
+            const SizedBox(height: 4),
+            Text(Strings.mockDescription, style: textTheme.bodySmall),
+            const SizedBox(height: 4),
+            Text(
+              results.isEmpty
+                  ? Strings.noMockYet
+                  : '${Strings.lastScore}: ${(results.first.ratio * 100).toStringAsFixed(1)}%',
+              style: textTheme.bodyMedium,
+            ),
+            const SizedBox(height: 12),
+            Row(
+              children: [
+                Expanded(
+                  child: FilledButton(
+                    onPressed: () => open(full),
+                    child: Text(
+                      '${Strings.fullMock}\n${Strings.mockMeta(full.itemCount, full.duration)}',
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 12),
+                Expanded(
+                  child: OutlinedButton(
+                    onPressed: () => open(mini),
+                    child: Text(
+                      '${Strings.miniMock}\n${Strings.mockMeta(mini.itemCount, mini.duration)}',
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
                 ),
               ],
             ),
