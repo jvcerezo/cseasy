@@ -6,6 +6,7 @@ import '../../core/quiz/quiz_session.dart';
 import '../../core/strings.dart';
 import '../../shared/widgets/choice_tile.dart';
 import '../../shared/widgets/question_parts.dart';
+import '../report/report_sheet.dart';
 import 'practice_controller.dart';
 import 'results_view.dart';
 
@@ -111,6 +112,7 @@ class _QuestionView extends StatelessWidget {
         if (selection != null) ...[
           const SizedBox(height: 8),
           ExplanationCard(question: question),
+          ReportButton(question: question),
         ],
       ],
     );

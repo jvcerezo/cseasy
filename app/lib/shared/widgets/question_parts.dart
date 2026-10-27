@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../core/content/question.dart';
 import '../../core/strings.dart';
 import '../../core/theme/app_theme.dart';
+import '../../features/report/report_sheet.dart';
 
 class ExplanationCard extends StatelessWidget {
   final Question question;
@@ -113,6 +114,7 @@ class MistakeCard extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             ExplanationCard(question: question),
+            ReportButton(question: question),
           ],
         ),
       ),
