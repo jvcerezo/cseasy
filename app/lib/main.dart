@@ -8,6 +8,7 @@ import 'data/progress_providers.dart';
 import 'data/settings_providers.dart';
 import 'features/home/home_screen.dart';
 import 'features/onboarding/level_picker_screen.dart';
+import 'shared/widgets/exit_guard.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -48,7 +49,9 @@ class _CSEasyAppState extends ConsumerState<CSEasyApp> {
       title: Strings.appName,
       theme: buildTheme(Brightness.light),
       darkTheme: buildTheme(Brightness.dark),
-      home: ref.watch(examLevelProvider) == null ? const LevelPickerScreen() : const HomeScreen(),
+      home: ExitGuard(
+        child: ref.watch(examLevelProvider) == null ? const LevelPickerScreen() : const HomeScreen(),
+      ),
     );
   }
 }

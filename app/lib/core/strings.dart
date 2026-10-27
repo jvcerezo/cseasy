@@ -44,6 +44,7 @@ abstract final class Strings {
   static const leaveExamBody = 'Your answers in this mock exam will be lost.';
   static const leave = 'Leave';
   static const stay = 'Stay';
+  static const pressBackToExit = 'Press back again to exit';
   static const flag = 'Flag for review';
   static const allItems = 'All items';
   static const timeUp = 'Time is up. Your exam was submitted.';
