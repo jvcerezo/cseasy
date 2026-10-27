@@ -15,11 +15,18 @@ class QuizSession {
   const QuizSession._(this.questions, this.selections, this.index, this.finished);
 
   /// Draws up to [count] random questions from [pool].
-  factory QuizSession.start(List<Question> pool, {required int count, Random? random}) {
-    if (pool.isEmpty) throw ArgumentError('Cannot start a quiz with no questions');
-    final picked = [...pool]..shuffle(random);
-    final questions = List<Question>.unmodifiable(picked.take(count));
-    return QuizSession._(questions, List.filled(questions.length, null), 0, false);
+  factory QuizSession.start(List<Question> pool, {required int count, Random? random}) =>
+      QuizSession.of(([...pool]..shuffle(random)).take(count).toList());
+
+  /// A round over exactly [questions], in the given order.
+  factory QuizSession.of(List<Question> questions) {
+    if (questions.isEmpty) throw ArgumentError('Cannot start a quiz with no questions');
+    return QuizSession._(
+      List.unmodifiable(questions),
+      List.filled(questions.length, null),
+      0,
+      false,
+    );
   }
 
   Question get current => questions[index];

@@ -19,6 +19,18 @@ class PracticeScreen extends ConsumerWidget {
     final session = ref.watch(provider);
     final controller = ref.read(provider.notifier);
 
+    if (session == null) {
+      return Scaffold(
+        appBar: AppBar(title: Text(scope.title)),
+        body: const Center(
+          child: Padding(
+            padding: EdgeInsets.all(32),
+            child: Text(Strings.nothingDue, textAlign: TextAlign.center),
+          ),
+        ),
+      );
+    }
+
     if (session.finished) {
       return Scaffold(
         appBar: AppBar(title: Text(scope.title)),
