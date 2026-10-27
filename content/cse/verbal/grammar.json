@@ -376,15 +376,15 @@
     ],
     "section": "verbal",
     "topic": "grammar",
-    "stem": "Choose the correct word to complete the sentence.\nOf the two proposals, the second one is ___.",
+    "stem": "Choose the correct word to complete the sentence.\nOf the two proposals, the second one is ___ than the first.",
     "choices": [
-      "most good",
-      "better",
       "good",
-      "best"
+      "best",
+      "better",
+      "more better"
     ],
-    "answer": 1,
-    "explanation": "When comparing exactly two things, use the comparative form \"better\". \"Best\" is for three or more.",
+    "answer": 2,
+    "explanation": "\"Than\" calls for the comparative form of \"good,\" which is \"better.\" \"More better\" is a double comparative.",
     "source": null,
     "method": "llm",
     "status": "verified",

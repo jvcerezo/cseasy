@@ -10,13 +10,13 @@
     "topic": "code_of_conduct",
     "stem": "Republic Act No. 6713 is also known as the:",
     "choices": [
-      "Ease of Doing Business Act",
-      "Civil Service Law",
+      "Ease of Doing Business and Efficient Government Service Delivery Act",
+      "Civil Service Law on the Discipline of Public Officials and Employees",
       "Code of Conduct and Ethical Standards for Public Officials and Employees",
-      "Anti-Graft and Corrupt Practices Act"
+      "Anti-Graft and Corrupt Practices Act for Public Officers and Employees"
     ],
     "answer": 2,
-    "explanation": "Section 1 of RA 6713 gives its title as the Code of Conduct and Ethical Standards for Public Officials and Employees. The Anti-Graft and Corrupt Practices Act is RA 3019.",
+    "explanation": "Section 1 of RA 6713 names it the \"Code of Conduct and Ethical Standards for Public Officials and Employees.\" The Anti-Graft and Corrupt Practices Act is RA 3019, and the Ease of Doing Business Act is RA 11032.",
     "source": "RA 6713, Sec. 1",
     "method": "llm-grounded",
     "status": "verified",
@@ -60,9 +60,9 @@
     "topic": "code_of_conduct",
     "stem": "Under RA 6713, the term \"public officials\" includes employees who are:",
     "choices": [
-      "in the career service only",
-      "receiving at least the minimum wage",
-      "permanent only",
+      "occupying positions at or above a minimum salary grade set by law",
+      "permanent or temporary, provided they receive at least the minimum wage",
+      "permanent and in the career service, receiving regular compensation",
       "permanent or temporary, whether or not they receive compensation"
     ],
     "answer": 3,
@@ -160,9 +160,9 @@
     "topic": "code_of_conduct",
     "stem": "Under RA 6713, a \"conflict of interest\" arises when an official's interest in a private corporation or business:",
     "choices": [
-      "earns more than the official's salary",
-      "is registered under the official's spouse",
-      "is located outside the Philippines",
+      "earns more income than the salary the official receives from the government",
+      "is registered under the name of the official's spouse or minor children",
+      "is located outside the Philippines and not taxed by the government",
       "may be opposed to or affected by the faithful performance of official duty"
     ],
     "answer": 3,
@@ -186,9 +186,9 @@
     "stem": "\"Divestment\" under RA 6713 is the transfer of title or disposal of interest in property in favor of a person other than:",
     "choices": [
       "the official's spouse and relatives",
-      "a government agency",
-      "a corporation",
-      "a foreign national"
+      "a government agency or instrumentality",
+      "a foreign national or foreign firm",
+      "a private corporation or partnership"
     ],
     "answer": 0,
     "explanation": "Section 3(j) requires divestment to be in favor of a person or persons other than the official's spouse and relatives; transferring to them does not count.",
@@ -286,9 +286,9 @@
     "stem": "Under RA 6713, officials may extend favors to relatives on account of their office ONLY with respect to appointments to positions that are:",
     "choices": [
       "strictly confidential or personal staff coterminous with the official",
-      "vacant for more than a year",
-      "in the career service",
-      "highly technical"
+      "in the same agency but under a different department head",
+      "highly technical and vacant for more than six months",
+      "in the career service that require civil service eligibility"
     ],
     "answer": 0,
     "explanation": "Section 4(A)(c) bars undue favors to relatives, except appointments to positions considered strictly confidential or as members of personal staff whose terms are coterminous with the official's.",
@@ -647,7 +647,7 @@
     "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
-    "quote": "The acceptance and retention by a public official or employee of a gift of nominal value tendered and received as a souvenir or mark of courtesy"
+    "quote": "(i) The acceptance and retention by a public official or employee of a gift of nominal value tendered and received as a souvenir or mark of courtesy;\n\n(ii) The acceptance by a public official or employee of a gift in the nature of a scholarship or fellowship grant or medical treatment; or\n\n(iii) The acceptance by a public official or employee of travel grants or expenses for travel taking place entirely outside the Philippine (such as allowances, transportation, food, and lodging) of more than nominal value if such acceptance is appropriate or consistent with the interests of the Philippines, and permitted by the head of office, branch or agency to which he belongs."
   },
   {
     "id": "cse-gen-code_of_conduct-027",

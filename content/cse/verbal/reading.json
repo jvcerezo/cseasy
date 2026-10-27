@@ -56,10 +56,10 @@
     "topic": "reading_comprehension",
     "stem": "Read the passage, then answer the question.\n\nThe town of San Rafael once struggled with garbage piling up along its creek. Instead of buying more trucks, the municipal government trained household volunteers to separate biodegradable waste from recyclables. Within a year, the volume of garbage sent to the dumpsite fell by almost half, and the money saved was used to build a small composting facility.\n\nWhich can be inferred from the passage?",
     "choices": [
-      "The town's earlier approach to garbage was less effective than involving households.",
-      "The dumpsite has been permanently closed.",
-      "The volunteers were paid a monthly salary.",
-      "Other towns have copied San Rafael's program."
+      "The town's earlier approach was less effective than involving households.",
+      "Other towns in the province have already copied San Rafael's program.",
+      "The dumpsite will be closed once the composting facility is finished.",
+      "The household volunteers were paid from the money that was saved."
     ],
     "answer": 0,
     "explanation": "The contrast between the old problem and the result after involving households implies the earlier approach worked less well. The other choices add facts the passage never gives.",
@@ -677,10 +677,10 @@
     "topic": "reading_comprehension",
     "stem": "Read the passage, then answer the question.\n\nA survey of public library users found that most borrowed books for practical reasons: to review for exams, learn a skill, or research a job. Fewer borrowed novels or poetry. Librarians responded by adding more review materials and skills guides, but they also started a monthly reading club to introduce members to literature they might not otherwise pick up.\n\nAccording to the survey, why did most library users borrow books?",
     "choices": [
-      "To donate them to schools",
+      "For school projects assigned by their teachers",
       "For practical purposes such as reviewing for exams",
-      "To read novels and poetry",
-      "To join a reading club"
+      "For enjoyment, mostly novels and books of poetry",
+      "For the monthly meetings of the library reading club"
     ],
     "answer": 1,
     "explanation": "The survey found that most borrowed books \"for practical reasons: to review for exams, learn a skill, or research a job.\"",

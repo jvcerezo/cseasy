@@ -35,13 +35,13 @@
     "topic": "human_rights",
     "stem": "Article 3 of the UDHR guarantees everyone the right to:",
     "choices": [
-      "free housing",
+      "work, fair wages and paid holidays",
       "life, liberty and security of person",
-      "own land",
-      "vote in any country"
+      "education, health and social security",
+      "property, a nationality and asylum"
     ],
     "answer": 1,
-    "explanation": "Article 3 of the UDHR states that everyone has the right to life, liberty and security of person.",
+    "explanation": "Article 3 of the UDHR states: \"Everyone has the right to life, liberty and security of person.\" The other choices are real UDHR rights, but they appear in other articles.",
     "source": "UDHR, Art. 3",
     "method": "llm-grounded",
     "status": "verified",
@@ -85,9 +85,9 @@
     "topic": "human_rights",
     "stem": "Under Article 5 of the UDHR, no one shall be subjected to:",
     "choices": [
-      "military service",
-      "taxation without representation",
-      "compulsory education",
+      "taxation without representation in a national legislature",
+      "compulsory military service in time of peace or war",
+      "compulsory education beyond the elementary stages",
       "torture or to cruel, inhuman or degrading treatment or punishment"
     ],
     "answer": 3,
@@ -110,9 +110,9 @@
     "topic": "human_rights",
     "stem": "Article 9 of the UDHR states that no one shall be subjected to arbitrary:",
     "choices": [
-      "taxation",
-      "employment",
-      "travel",
+      "taxation, fines or penalties",
+      "search, seizure or surveillance",
+      "transfer, demotion or dismissal",
       "arrest, detention or exile"
     ],
     "answer": 3,
@@ -136,9 +136,9 @@
     "stem": "Under Article 11 of the UDHR, everyone charged with a penal offence has the right to be:",
     "choices": [
       "presumed innocent until proved guilty according to law in a public trial",
-      "tried by a jury of their choice",
-      "pardoned on first offence",
-      "released on bail regardless of the offence"
+      "released on bail in all cases, regardless of the gravity of the offence",
+      "pardoned for a first offence if they show sincere repentance in court",
+      "tried by a jury chosen by the accused from among their own community"
     ],
     "answer": 0,
     "explanation": "Article 11 guarantees the presumption of innocence until proved guilty according to law in a public trial with all guarantees necessary for the defence.",
@@ -311,9 +311,9 @@
     "stem": "Article 24 of the UDHR recognizes the right to rest and leisure, including:",
     "choices": [
       "reasonable limitation of working hours and periodic holidays with pay",
-      "free travel",
-      "a four-day work week",
-      "unlimited sick leave"
+      "early retirement with full pay after twenty years of service",
+      "a four-day work week and an additional month of pay every year",
+      "unlimited sick leave and free travel during public holidays"
     ],
     "answer": 0,
     "explanation": "Article 24 states that everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.",
@@ -385,10 +385,10 @@
     "topic": "human_rights",
     "stem": "Article 29 of the UDHR states that, in exercising their rights and freedoms, everyone shall be subject only to limitations that are:",
     "choices": [
-      "imposed by the majority party",
-      "decided by each person's employer",
-      "determined by law to secure respect for the rights of others and meet just requirements of morality, public order and general welfare",
-      "set by international courts only"
+      "imposed by the executive during a state of emergency to protect public order and national security",
+      "set by each nation's courts to balance individual freedoms against the interests of the majority",
+      "determined by law to secure respect for the rights of others and to meet the just requirements of the general welfare",
+      "agreed upon by the United Nations General Assembly to preserve international peace and security"
     ],
     "answer": 2,
     "explanation": "Article 29 allows only limitations determined by law solely to secure due recognition and respect for the rights and freedoms of others and to meet the just requirements of morality, public order and the general welfare in a democratic society.",
@@ -410,10 +410,10 @@
     "topic": "human_rights",
     "stem": "Article 12 of the UDHR protects against arbitrary interference with a person's:",
     "choices": [
-      "political party",
+      "business profits, savings or investments",
       "privacy, family, home or correspondence",
-      "criminal record",
-      "business profits"
+      "criminal record, debts or court cases",
+      "political party, union or association"
     ],
     "answer": 1,
     "explanation": "Article 12 states that no one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation.",
@@ -561,9 +561,9 @@
     "stem": "Article III, Section 18 of the Constitution states that no person shall be detained solely by reason of his:",
     "choices": [
       "political beliefs and aspirations",
-      "nationality",
-      "debts",
-      "criminal record"
+      "religious affiliation",
+      "membership in a labor union",
+      "nationality and ethnic origin"
     ],
     "answer": 0,
     "explanation": "Article III, Section 18(1) provides that no person shall be detained solely by reason of his political beliefs and aspirations.",
@@ -585,10 +585,10 @@
     "topic": "human_rights",
     "stem": "Under Article III, Section 18(2), involuntary servitude in any form shall not exist EXCEPT as:",
     "choices": [
-      "a punishment for a crime whereof the party shall have been duly convicted",
-      "required by an employer",
-      "part of military training",
-      "payment for debts"
+      "a punishment for a crime of which the party has been duly convicted",
+      "a requirement of military training during a declared state of war",
+      "a means of paying off debts owed to a private employer",
+      "a form of community service ordered by the barangay"
     ],
     "answer": 0,
     "explanation": "Article III, Section 18(2) prohibits involuntary servitude except as punishment for a crime for which the party has been duly convicted.",

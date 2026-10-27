@@ -560,10 +560,10 @@
     "topic": "constitution",
     "stem": "Under Article IV, natural-born citizens are those who are citizens of the Philippines from birth:",
     "choices": [
-      "after residing in the country for ten years",
-      "without having to perform any act to acquire or perfect their Philippine citizenship",
-      "after taking an oath of allegiance",
-      "only if both parents are Filipino"
+      "after taking an oath of allegiance before a Philippine consul abroad",
+      "without having to perform any act to acquire or perfect their citizenship",
+      "after electing Philippine citizenship upon reaching the age of majority",
+      "only if both of their parents are Filipino citizens at the time of birth"
     ],
     "answer": 1,
     "explanation": "Article IV, Section 2 defines natural-born citizens as those who are citizens from birth without having to perform any act to acquire or perfect their citizenship.",
@@ -1486,9 +1486,9 @@
     "stem": "For purposes of the three-term limit of local elective officials, voluntary renunciation of the office:",
     "choices": [
       "is not considered an interruption in the continuity of service",
-      "is allowed only once",
-      "counts as two terms served",
-      "resets the term count to zero"
+      "disqualifies the official from running for the same office again",
+      "is allowed only once and counts as one full term served",
+      "is considered an interruption, so the term count starts again"
     ],
     "answer": 0,
     "explanation": "Article X, Section 8 provides that voluntary renunciation of the office for any length of time shall not be considered an interruption in the continuity of service.",
@@ -1658,7 +1658,7 @@
     ],
     "section": "general_info",
     "topic": "constitution",
-    "stem": "The Office of the Ombudsman is also known as the:",
+    "stem": "Under the 1987 Constitution, the Ombudsman is also known as the:",
     "choices": [
       "Sandiganbayan",
       "Batasan",
@@ -1666,13 +1666,13 @@
       "Kawanihan"
     ],
     "answer": 2,
-    "explanation": "Article XI, Section 5 creates the independent Office of the Ombudsman, to be known as the Tanodbayan.",
+    "explanation": "Article XI, Section 5 creates the Office of the Ombudsman, \"composed of the Ombudsman to be known as Tanodbayan.\" The Sandiganbayan is a separate anti-graft court.",
     "source": "1987 Constitution, Art. XI, Sec. 5",
     "method": "llm-grounded",
     "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
-    "quote": "Tanodbayan"
+    "quote": "composed of the Ombudsman to be known as Tanodbayan"
   },
   {
     "id": "cse-gen-constitution-068",
@@ -1735,10 +1735,10 @@
     "topic": "constitution",
     "stem": "For purposes of communication and instruction, the official languages of the Philippines are:",
     "choices": [
-      "Filipino only",
+      "Filipino and, until otherwise provided by law, Spanish",
       "Filipino and, until otherwise provided by law, English",
-      "Filipino and the regional languages",
-      "English and Spanish"
+      "English and, until otherwise provided by law, Filipino",
+      "Filipino and English, with the regional languages as auxiliary official languages"
     ],
     "answer": 1,
     "explanation": "Article XIV, Section 7 makes Filipino and, until otherwise provided by law, English the official languages. Regional languages are auxiliary official languages in the regions.",
@@ -1919,9 +1919,10 @@
     "explanation": "Article XIII, Sections 17 and 18 create the independent Commission on Human Rights and empower it to investigate all forms of human rights violations involving civil and political rights.",
     "source": "1987 Constitution, Art. XIII, Sec. 18",
     "method": "llm-grounded",
-    "status": "verified",
+    "status": "rejected",
     "difficulty": 2,
     "source_doc": "constitution_1987",
-    "quote": "Investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights"
+    "quote": "Investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights",
+    "flag_reason": "rejected: duplicate of cse-gen-human_rights-019"
   }
 ]

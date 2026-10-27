@@ -57,6 +57,44 @@ class SyllogismEngine(unittest.TestCase):
 
 
 class IndependentChecks(unittest.TestCase):
+    def test_data_interpretation_keys_match_the_table(self):
+        rng = random.Random("data")
+        for _ in range(SAMPLES):
+            q = analytical.data_interpretation(rng)
+            headers, rows = q["table"]["headers"], q["table"]["rows"]
+            values = {r[0]: [int(c) for c in r[1:]] for r in rows}
+            key, stem = q["choices"][q["answer"]], q["stem"]
+            with self.subTest(stem=stem):
+                if m := re.search(r"did (.+)'s .+ increase from", stem):
+                    first, last = values[m[1]][0], values[m[1]][-1]
+                    self.assertAlmostEqual(float(key.rstrip("%")), (last - first) * 100 / first)
+                elif "highest total" in stem:
+                    totals = {n: sum(v) for n, v in values.items()}
+                    self.assertEqual(list(totals.values()).count(max(totals.values())), 1)
+                    self.assertEqual(key, max(totals, key=totals.get))
+                elif "combined" in stem and "lowest" in stem:
+                    cols = {h: sum(v[j] for v in values.values()) for j, h in enumerate(headers[1:])}
+                    self.assertEqual(list(cols.values()).count(min(cols.values())), 1)
+                    self.assertEqual(key, min(cols, key=cols.get))
+                elif m := re.search(r"of all four in (.+)\?", stem):
+                    j = headers.index(m[1]) - 1
+                    self.assertEqual(int(key.replace(",", "")), sum(v[j] for v in values.values()))
+                elif m := re.search(r"average per period for (.+)\?", stem):
+                    v = values[m[1]]
+                    self.assertEqual(float(key.replace(",", "")), sum(v) / len(v))
+                else:
+                    self.fail(f"unchecked stem: {stem}")
+
+    def test_ordering_never_asks_a_stated_place(self):
+        rng = random.Random("order")
+        ordinals = ["first", "second", "third", "fourth", "fifth"]
+        for _ in range(100):
+            q = analytical.ordering(rng)
+            asked = re.search(r"Who finished (\w+)\?", q["stem"])[1]
+            stated = re.findall(r"finished (first|last)\.", q["stem"])
+            self.assertNotIn("last" if asked == "fifth" else asked, stated)
+            self.assertIn(asked, ordinals)
+
     def test_filing_order_matches_sorted(self):
         rng = random.Random("file")
         ordinals = ["first", "second", "third", "fourth", "fifth"]

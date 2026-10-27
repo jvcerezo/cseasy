@@ -310,10 +310,10 @@
     "topic": "environment",
     "stem": "RA 9003 defines an \"open dump\" as a disposal area where solid wastes are:",
     "choices": [
-      "covered with soil daily",
+      "covered with soil at the end of each working day",
       "indiscriminately thrown or disposed of without due planning",
-      "converted into compost",
-      "sorted before disposal"
+      "treated and converted into compost or fertilizer",
+      "sorted and recovered before final disposal"
     ],
     "answer": 1,
     "explanation": "Section 3(t) defines an open dump as a disposal area wherein solid wastes are indiscriminately thrown or disposed of without due planning and consideration for environmental and health standards.",
@@ -335,9 +335,9 @@
     "topic": "environment",
     "stem": "The Clean Air Act defines incineration, which it bans, as the burning of:",
     "choices": [
-      "wood for cooking",
-      "agricultural waste in rural farms",
-      "fuel in motor vehicles",
+      "fuel in motor vehicles and in generators used during power outages",
+      "agricultural waste such as rice straw and sugarcane leaves in rural farms",
+      "firewood and charcoal used for cooking in households and small eateries",
       "municipal, biomedical and hazardous waste that emits poisonous and toxic fumes"
     ],
     "answer": 3,
@@ -385,10 +385,10 @@
     "topic": "environment",
     "stem": "Under the Clean Air Act, smoking inside a public building or an enclosed public place, including public vehicles, is:",
     "choices": [
-      "allowed if windows are open",
-      "prohibited, with implementation by the LGUs",
-      "prohibited only in Metro Manila",
-      "allowed only for drivers"
+      "allowed as long as the windows are kept open",
+      "prohibited, and the prohibition is implemented by the LGUs",
+      "allowed for drivers but prohibited for passengers",
+      "prohibited only within Metro Manila and other highly urbanized cities"
     ],
     "answer": 1,
     "explanation": "Section 24 of RA 8749 prohibits smoking inside public buildings, enclosed public places and public vehicles, outside designated areas, and assigns implementation to the LGUs.",
@@ -397,7 +397,7 @@
     "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_8749",
-    "quote": "This provision shall be implemented by the LGUs."
+    "quote": "Smoking inside a public building or an enclosed public place including public vehicles and other means of transport or in any enclosed area outside of one's private residence, private place of work or any duly designated smoking area is hereby prohibited under this Act. This provision shall be implemented by the LGUs."
   },
   {
     "id": "cse-gen-environment-017",
@@ -485,10 +485,10 @@
     "topic": "environment",
     "stem": "Under the Clean Water Act, water quality management areas are designated using physiographic units such as:",
     "choices": [
-      "barangay boundaries",
+      "congressional districts and administrative regions",
       "watersheds, river basins or water resources regions",
-      "provinces and cities",
-      "congressional districts"
+      "barangay, municipal and city boundaries",
+      "provinces and highly urbanized cities"
     ],
     "answer": 1,
     "explanation": "Section 5 of RA 9275 designates water quality management areas using physiographic units such as watershed, river basins or water resources regions.",
@@ -511,9 +511,9 @@
     "stem": "Under the Clean Water Act, \"septage\" refers to:",
     "choices": [
       "sludge produced on individual onsite wastewater disposal systems such as septic tanks",
-      "rainwater runoff from roads",
-      "industrial cooling water",
-      "treated drinking water"
+      "treated effluent discharged from centralized sewage treatment plants into rivers",
+      "wastewater from industrial cooling systems discharged into the sea",
+      "rainwater runoff that carries soil and debris from roads into drainage canals"
     ],
     "answer": 0,
     "explanation": "RA 9275 defines septage as the sludge produced on individual onsite wastewater disposal systems, principally septic tanks and cesspools.",

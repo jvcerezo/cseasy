@@ -8,7 +8,7 @@
     ],
     "section": "verbal",
     "topic": "vocabulary",
-    "stem": "Choose the word closest in meaning to the underlined word.\nThe clerk was DILIGENT in sorting the applications.",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe clerk was DILIGENT in sorting the applications.",
     "choices": [
       "hardworking",
       "careless",
@@ -494,9 +494,9 @@
     "stem": "Choose the word closest in meaning to the capitalized word.\nThe teacher's EXPLICIT instructions left no room for confusion.",
     "choices": [
       "secret",
-      "optional",
       "complicated",
-      "clearly stated"
+      "optional",
+      "unambiguous"
     ],
     "answer": 3,
     "explanation": "Explicit means stated clearly and in detail, leaving no room for confusion.",
@@ -516,13 +516,13 @@
     "topic": "vocabulary",
     "stem": "Choose the word closest in meaning to the capitalized word.\nThe new system made the processing of permits more EFFICIENT.",
     "choices": [
-      "productive with less waste",
+      "streamlined",
       "expensive",
-      "public",
-      "complicated"
+      "complicated",
+      "public"
     ],
     "answer": 0,
-    "explanation": "Efficient means achieving maximum productivity with minimum wasted effort or expense.",
+    "explanation": "An efficient process gets results with little wasted time or effort; \"streamlined\" is the closest meaning.",
     "source": null,
     "method": "llm",
     "status": "verified",
@@ -769,13 +769,13 @@
     "topic": "antonyms",
     "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe evidence against the accused was CONCLUSIVE.",
     "choices": [
-      "inconclusive",
+      "doubtful",
+      "final",
       "strong",
-      "convincing",
-      "final"
+      "convincing"
     ],
     "answer": 0,
-    "explanation": "Conclusive means settling an issue decisively; its opposite is inconclusive. The other choices are near-synonyms.",
+    "explanation": "Conclusive evidence settles a question; its opposite is doubtful evidence, which leaves the question open.",
     "source": null,
     "method": "llm",
     "status": "verified",

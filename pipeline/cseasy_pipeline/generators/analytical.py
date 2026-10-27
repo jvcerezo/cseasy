@@ -210,7 +210,9 @@ def ordering(rng: random.Random) -> dict:
             break
 
     rng.shuffle(clues)
-    place = rng.randrange(5)
+    # Never ask for a place a clue already states outright.
+    stated = {c[2] for c in clues if c[0] == "place"}
+    place = rng.choice([i for i in range(5) if i not in stated])
     answer = order[place]
     return _q(
         rng, "ordering",
@@ -252,7 +254,8 @@ def data_interpretation(rng: random.Random) -> dict:
     if kind == "pct_change":
         r = rng.randrange(len(rows))
         p = rng.choice([10, 20, 25, 50, 75])
-        values[r][0] = 4 * rng.randint(5, 20)
+        # The start must make the increase a whole number, or the table and key disagree.
+        values[r][0] = rng.choice([v for v in range(20, 81) if v * p % 100 == 0])
         values[r][-1] = values[r][0] * (100 + p) // 100
 
     row_totals = [sum(v) for v in values]

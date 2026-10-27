@@ -31,10 +31,10 @@
     "topic": "assumptions_conclusions",
     "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Please bring two valid IDs when you claim your package.\"",
     "choices": [
-      "Packages can be claimed without visiting the office.",
-      "Most packages are lost in transit.",
-      "Identification is needed to confirm who is claiming the package.",
-      "Everyone owns more than five IDs."
+      "Packages can also be claimed online.",
+      "Packages are often claimed by the wrong person.",
+      "The office needs to confirm who is claiming the package.",
+      "Most claimants forget to bring their IDs."
     ],
     "answer": 2,
     "explanation": "Asking for IDs assumes the office needs to confirm the identity of the person claiming.",
@@ -97,13 +97,13 @@
     "topic": "assumptions_conclusions",
     "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Our water filter removes 99% of bacteria. Buy one to keep your family safe.\"",
     "choices": [
-      "Tap water may contain harmful bacteria.",
+      "The water a family uses may contain harmful bacteria.",
       "Bacteria can be seen with the naked eye.",
-      "Water filters are given away for free.",
-      "All families already own water filters."
+      "Boiling water does not kill bacteria.",
+      "Most families already own a water filter."
     ],
     "answer": 0,
-    "explanation": "Removing bacteria keeps a family \"safe\" only if the water may contain harmful bacteria.",
+    "explanation": "Removing bacteria keeps a family \"safe\" only if the water they use may contain harmful bacteria. The ad does not depend on any claim about boiling or on how many families own filters.",
     "source": null,
     "method": "llm",
     "status": "verified",
@@ -119,10 +119,10 @@
     "topic": "assumptions_conclusions",
     "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"The library extended its hours until 9 p.m. to serve working students.\"",
     "choices": [
-      "Some working students can visit the library only in the evening.",
-      "The library will close on weekends.",
-      "Working students do not like to read.",
-      "Librarians prefer to work at night."
+      "Some working students can visit only in the evening.",
+      "The library is busiest in the morning.",
+      "Most library users are working students.",
+      "Working students prefer e-books to printed books."
     ],
     "answer": 0,
     "explanation": "Extending evening hours for working students assumes that some of them can come only after work or class.",
@@ -163,10 +163,10 @@
     "topic": "assumptions_conclusions",
     "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"To reduce the spread of dengue, residents are urged to remove stagnant water around their homes.\"",
     "choices": [
-      "Residents never clean their surroundings.",
-      "Dengue spreads through contaminated food.",
-      "Stagnant water can serve as a breeding place for mosquitoes.",
-      "Dengue only affects children."
+      "Most residents keep their surroundings clean.",
+      "Dengue cases rise mainly during the dry season.",
+      "Mosquitoes that spread dengue can breed in stagnant water.",
+      "Dengue spreads mainly through contaminated food."
     ],
     "answer": 2,
     "explanation": "Removing stagnant water reduces dengue only if mosquitoes that spread it breed in such water.",
@@ -207,10 +207,10 @@
     "topic": "assumptions_conclusions",
     "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Read the instructions carefully before answering the test.\"",
     "choices": [
-      "The test has no instructions.",
-      "The test is very easy.",
+      "Most test takers usually skip the instructions.",
+      "Test takers who read slowly will not finish the test.",
       "Reading the instructions can help test takers answer correctly.",
-      "Test takers have seen the questions before."
+      "The test has more questions than usual this year."
     ],
     "answer": 2,
     "explanation": "The advice assumes the instructions contain information that affects how to answer.",
@@ -273,13 +273,13 @@
     "topic": "assumptions_conclusions",
     "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Wear a helmet; it could save your life in an accident.\"",
     "choices": [
-      "Helmets are required only at night.",
-      "Every rider will have an accident.",
+      "Riders without helmets are more likely to have accidents.",
+      "Most road accidents involve motorcycles.",
       "Helmets can reduce the risk of serious head injury.",
-      "Riding a motorcycle is illegal."
+      "Helmets are required by law for all riders."
     ],
     "answer": 2,
-    "explanation": "The claim that a helmet could save a life assumes helmets protect against serious injury. It does not assume accidents are certain.",
+    "explanation": "The claim that a helmet \"could save your life\" assumes it protects the head in an accident. It does not assume helmets prevent accidents or that a law requires them.",
     "source": null,
     "method": "llm",
     "status": "verified",
@@ -317,9 +317,9 @@
     "topic": "assumptions_conclusions",
     "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Students who want to join the debate team must first pass an audition.\"",
     "choices": [
-      "No student wants to join the debate team.",
-      "The debate team has won many awards.",
-      "The audition will be held online.",
+      "Most students who audition are good speakers.",
+      "Students who pass the audition will win debates.",
+      "The debate team has more members than other clubs.",
       "Not every student who wants to join will be accepted."
     ],
     "answer": 3,
@@ -361,13 +361,13 @@
     "topic": "assumptions_conclusions",
     "stem": "Which conclusion is best supported by the information given?\nIn a survey of 500 commuters, 80% said they would use a bike lane if one were built along the main road.",
     "choices": [
-      "Commuters dislike public transportation.",
-      "The bike lane has already been built.",
-      "All residents of the city own bicycles.",
-      "Many of the surveyed commuters are open to biking along the main road."
+      "The city government has approved the bike lane.",
+      "Most residents of the city already own a bicycle.",
+      "A bike lane will reduce traffic on the main road.",
+      "Many of the surveyed commuters are open to biking on the main road."
     ],
     "answer": 3,
-    "explanation": "The survey only shows that most respondents said they would use a bike lane. It says nothing about all residents, or about the lane existing.",
+    "explanation": "The survey only shows what respondents said they would do. Whether a lane would reduce traffic, how many residents own bikes, or whether the lane is approved is not shown.",
     "source": null,
     "method": "llm",
     "status": "verified",
@@ -405,13 +405,13 @@
     "topic": "assumptions_conclusions",
     "stem": "Which conclusion is best supported by the information given?\nSince the barangay installed streetlights on Mabini Street, reported thefts there have dropped by half.",
     "choices": [
-      "The drop in thefts on Mabini Street came after the streetlights were installed.",
-      "Thefts have increased in other barangays.",
-      "No thefts occur on Mabini Street anymore.",
-      "Streetlights prevent every kind of crime."
+      "The drop in thefts on Mabini Street came after the lights were installed.",
+      "Thefts have increased on streets without new lights.",
+      "The streetlights caused thefts on Mabini Street to drop.",
+      "No thefts have occurred on Mabini Street since then."
     ],
     "answer": 0,
-    "explanation": "The information shows thefts fell by half after the lights went up. Thefts did not stop entirely, and nothing is said about other crimes or places.",
+    "explanation": "The information shows only that thefts fell by half after the lights went up. That timing alone does not prove the lights caused the drop; other changes could explain it. Thefts did not stop entirely, and nothing is said about other streets.",
     "source": null,
     "method": "llm",
     "status": "verified",
@@ -515,10 +515,10 @@
     "topic": "assumptions_conclusions",
     "stem": "Which conclusion is best supported by the information given?\nMost of the residents who attended the town hall meeting supported the new market project.",
     "choices": [
-      "Every resident of the town supports the project.",
-      "The project had support among the residents who attended the meeting.",
-      "No one at the meeting opposed the project.",
-      "The project has been completed."
+      "Most residents of the town support the project.",
+      "The project had support among the residents who attended.",
+      "Residents who did not attend oppose the project.",
+      "The project will be approved by the town council."
     ],
     "answer": 1,
     "explanation": "\"Most\" of the attendees supported it. That does not mean every resident or every attendee did.",
