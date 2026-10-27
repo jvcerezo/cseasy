@@ -1,0 +1,692 @@
+[
+  {
+    "id": "cse-vrb-grammar-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nEach of the applicants ___ required to submit a birth certificate.",
+    "choices": [
+      "were",
+      "have been",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "\"Each\" is singular, so it takes the singular verb \"is\", even when followed by a plural phrase like \"of the applicants\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe list of requirements ___ posted on the bulletin board.",
+    "choices": [
+      "were",
+      "are",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "The subject is \"list\" (singular), not \"requirements\". A singular subject takes the singular verb \"is\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nNeither the manager nor the clerks ___ aware of the new memo.",
+    "choices": [
+      "is",
+      "was",
+      "has been",
+      "were"
+    ],
+    "answer": 3,
+    "explanation": "With \"neither...nor\", the verb agrees with the nearer subject. \"Clerks\" is plural, so the verb is \"were\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe director, along with her two assistants, ___ attending the seminar.",
+    "choices": [
+      "are",
+      "were",
+      "have been",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "Phrases like \"along with\" do not change the number of the subject. \"The director\" is singular, so the verb is \"is\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe documents were given to Maria and ___.",
+    "choices": [
+      "mine",
+      "me",
+      "myself",
+      "I"
+    ],
+    "answer": 1,
+    "explanation": "After the preposition \"to\", use the object pronoun \"me\". Test it by dropping \"Maria and\": \"given to me\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nBetween you and ___, the report is not yet finished.",
+    "choices": [
+      "me",
+      "mine",
+      "myself",
+      "I"
+    ],
+    "answer": 0,
+    "explanation": "\"Between\" is a preposition, so it takes object pronouns: \"between you and me\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nShe is the employee ___ received the service award.",
+    "choices": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "\"Who\" is the subject of the verb \"received\". Use \"whom\" only for objects, and \"which\" for things, not people.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nTo ___ should the complaint be addressed?",
+    "choices": [
+      "whom",
+      "who",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "After the preposition \"to\", the object form \"whom\" is required.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-grammar-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe office will be closed ___ Monday because of the holiday.",
+    "choices": [
+      "on",
+      "in",
+      "by",
+      "at"
+    ],
+    "answer": 0,
+    "explanation": "Use \"on\" with specific days and dates (on Monday, on June 12), \"in\" with months and years, and \"at\" with clock times.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe seminar starts ___ 8:00 a.m.",
+    "choices": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "Use \"at\" for specific clock times.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nBy the time the inspector arrived, the workers ___ the site.",
+    "choices": [
+      "have left",
+      "had left",
+      "leave",
+      "will leave"
+    ],
+    "answer": 1,
+    "explanation": "The past perfect \"had left\" shows an action completed before another past action (the inspector's arrival).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nIf I ___ the head of the agency, I would simplify the process.",
+    "choices": [
+      "was",
+      "were",
+      "will be",
+      "am"
+    ],
+    "answer": 1,
+    "explanation": "Hypothetical or contrary-to-fact conditions use the subjunctive \"were\" for all subjects: \"If I were...\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe new procedure will ___ the waiting time of clients.",
+    "choices": [
+      "affection",
+      "affect",
+      "effect",
+      "effective"
+    ],
+    "answer": 1,
+    "explanation": "\"Affect\" is usually the verb meaning to influence; \"effect\" is usually the noun meaning a result.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe agency posted ___ new Citizen's Charter at the entrance.",
+    "choices": [
+      "it is",
+      "its'",
+      "its",
+      "it's"
+    ],
+    "answer": 2,
+    "explanation": "\"Its\" is the possessive form, which is needed here. \"It's\" means \"it is\" or \"it has\", and \"its'\" is never correct.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe applicants left ___ folders at the reception desk.",
+    "choices": [
+      "they're",
+      "there",
+      "their",
+      "theirs"
+    ],
+    "answer": 2,
+    "explanation": "\"Their\" is the possessive form. \"There\" refers to a place, and \"they're\" means \"they are\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThere were ___ complaints this month than last month.",
+    "choices": [
+      "least",
+      "less",
+      "fewer",
+      "lesser"
+    ],
+    "answer": 2,
+    "explanation": "Use \"fewer\" with countable nouns (complaints) and \"less\" with uncountable nouns (less time, less water).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nOf the two proposals, the second one is ___.",
+    "choices": [
+      "most good",
+      "better",
+      "good",
+      "best"
+    ],
+    "answer": 1,
+    "explanation": "When comparing exactly two things, use the comparative form \"better\". \"Best\" is for three or more.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe number of online applicants ___ increased this year.",
+    "choices": [
+      "are",
+      "has",
+      "were",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "\"The number of...\" is singular and takes \"has\". By contrast, \"a number of applicants\" means several applicants and takes a plural verb.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-grammar-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Which sentence is grammatically correct?",
+    "choices": [
+      "She doesn't know the answer.",
+      "She don't know the answer.",
+      "She not know the answer.",
+      "She doesn't knows the answer."
+    ],
+    "answer": 0,
+    "explanation": "A third-person singular subject takes \"doesn't\" followed by the base form of the verb: \"She doesn't know\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Which sentence is grammatically correct?",
+    "choices": [
+      "The clerk, who was new, made several errors.",
+      "The clerk who was new, made several errors.",
+      "The clerk, who was new made several errors.",
+      "The clerk who, was new, made several errors."
+    ],
+    "answer": 0,
+    "explanation": "A non-essential clause is set off by a pair of commas, one before and one after: \"The clerk, who was new, made several errors.\"",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Which sentence is grammatically correct?",
+    "choices": [
+      "Walking to the office, I saw a long line of applicants.",
+      "Walking to the office, a long line of applicants was seen.",
+      "Walking to the office, the applicants' line was long.",
+      "A long line of applicants, walking to the office, I saw."
+    ],
+    "answer": 0,
+    "explanation": "An introductory participle phrase must describe the subject that follows it. Only \"I\" can be the one walking; the other options are dangling modifiers.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Which sentence is grammatically correct?",
+    "choices": [
+      "Neither of the two offices is open on Sunday.",
+      "Neither of the two offices are open on Sunday.",
+      "Neither of the two office is open on Sunday.",
+      "Neither of the two offices were open on Sunday."
+    ],
+    "answer": 0,
+    "explanation": "\"Neither\" used as a pronoun is singular and takes \"is\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Which sentence is grammatically correct?",
+    "choices": [
+      "The supervisor asked us to complete the forms quickly and accurately.",
+      "The supervisor asked us to complete the forms quick and accurate.",
+      "The supervisor asked us to complete the forms quickly and accurate.",
+      "The supervisor asked us to complete the forms quick and accurately."
+    ],
+    "answer": 0,
+    "explanation": "Adverbs modify verbs. Both \"quickly\" and \"accurately\" describe how to complete, and parallel structure needs both in adverb form.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-grammar-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Which sentence is grammatically correct?",
+    "choices": [
+      "The applicants were asked to bring a pen, a photo, and an ID.",
+      "The applicants were asked to bring a pen, a photo, and ID's.",
+      "The applicants were asked to bringing a pen, a photo, and an ID.",
+      "The applicants was asked to bring a pen, a photo, and an ID."
+    ],
+    "answer": 0,
+    "explanation": "Plural subject \"applicants\" takes \"were\". \"To\" is followed by the base verb \"bring\", and the list items are parallel.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Identify the error in the sentence.\nThe new employees (A) has been (B) assigned to (C) the records section (D).",
+    "choices": [
+      "The new employees",
+      "has been",
+      "the records section",
+      "assigned to"
+    ],
+    "answer": 1,
+    "explanation": "The plural subject \"employees\" needs the plural verb \"have been\", not \"has been\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-grammar-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Identify the error in the sentence.\nMy colleague and me (A) were sent (B) to the regional office (C) last week (D).",
+    "choices": [
+      "to the regional office",
+      "last week",
+      "My colleague and me",
+      "were sent"
+    ],
+    "answer": 2,
+    "explanation": "The subject needs the subject pronoun: \"My colleague and I were sent...\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Identify the error in the sentence.\nThe report must be submitted (A) by Friday, (B) irregardless of (C) the delay in data gathering (D).",
+    "choices": [
+      "irregardless of",
+      "must be submitted",
+      "by Friday,",
+      "the delay in data gathering"
+    ],
+    "answer": 0,
+    "explanation": "\"Irregardless\" is nonstandard. Use \"regardless of\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Identify the error in the sentence.\nThe supervisor (A) gave the instructions (B) to Ana and I (C) this morning (D).",
+    "choices": [
+      "this morning",
+      "to Ana and I",
+      "The supervisor",
+      "gave the instructions"
+    ],
+    "answer": 1,
+    "explanation": "After the preposition \"to\", use the object pronoun: \"to Ana and me\". Test it by dropping \"Ana and\": \"to me\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe staff were told to ___ their reports before the deadline.",
+    "choices": [
+      "proofread",
+      "proofreading",
+      "proofreaded",
+      "proofreads"
+    ],
+    "answer": 0,
+    "explanation": "After \"to\", use the base form of the verb: \"to proofread\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-grammar-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "grammar",
+    "stem": "Choose the correct word to complete the sentence.\nThe chairman insisted that every member ___ present at the hearing.",
+    "choices": [
+      "is",
+      "was",
+      "will be",
+      "be"
+    ],
+    "answer": 3,
+    "explanation": "Verbs of demand or insistence take the subjunctive base form: \"insisted that every member be present\".",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  }
+]

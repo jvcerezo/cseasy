@@ -1,0 +1,462 @@
+[
+  {
+    "id": "cse-vrb-filipino-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nMALIGAYA ang mga empleyado nang ianunsiyo ang bagong benepisyo.",
+    "choices": [
+      "pagod",
+      "malungkot",
+      "masaya",
+      "galit"
+    ],
+    "answer": 2,
+    "explanation": "Ang maligaya ay nangangahulugang masaya (happy).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nTinulungan ng pamahalaan ang mga pamilyang MARALITA sa lungsod.",
+    "choices": [
+      "malakas",
+      "mahirap",
+      "mayaman",
+      "matalino"
+    ],
+    "answer": 1,
+    "explanation": "Ang maralita ay nangangahulugang mahirap o dukha (poor).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nAng kanyang DALISAY na hangarin ay makatulong sa kapwa.",
+    "choices": [
+      "mabigat",
+      "malabo",
+      "marumi",
+      "wagas"
+    ],
+    "answer": 3,
+    "explanation": "Ang dalisay ay nangangahulugang wagas o puro (pure, sincere).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nKahit mataas na ang kanyang posisyon, nanatili siyang MAPAGKUMBABA.",
+    "choices": [
+      "mayabang",
+      "magastos",
+      "mababang-loob",
+      "masungit"
+    ],
+    "answer": 2,
+    "explanation": "Ang mapagkumbaba ay nangangahulugang mababang-loob (humble), ang kabaligtaran ng mayabang.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nSiya ay itinuturing na HUWARANG kawani ng tanggapan.",
+    "choices": [
+      "uliran",
+      "pabaya",
+      "baguhan",
+      "pansamantala"
+    ],
+    "answer": 0,
+    "explanation": "Ang huwaran ay nangangahulugang uliran o modelo (exemplary, a model to follow).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nPinag-usapan sa pulong ang mga SULIRANIN ng barangay.",
+    "choices": [
+      "kasiyahan",
+      "pagdiriwang",
+      "problema",
+      "solusyon"
+    ],
+    "answer": 2,
+    "explanation": "Ang suliranin ay nangangahulugang problema (problem).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nNagsagawa ng masusing PAGSISIYASAT ang komite sa reklamo.",
+    "choices": [
+      "pagpapahinga",
+      "pagdiriwang",
+      "imbestigasyon",
+      "paglalakbay"
+    ],
+    "answer": 2,
+    "explanation": "Ang pagsisiyasat ay nangangahulugang imbestigasyon o pagsusuri (investigation).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nMASIDHI ang kanyang pagnanais na makapasa sa pagsusulit.",
+    "choices": [
+      "matindi",
+      "mahina",
+      "mabagal",
+      "maliit"
+    ],
+    "answer": 0,
+    "explanation": "Ang masidhi ay nangangahulugang matindi o malakas (intense).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nNagbabala ang mga awtoridad tungkol sa PANGANIB na dala ng bagyo.",
+    "choices": [
+      "kayamanan",
+      "peligro",
+      "kapayapaan",
+      "kaligtasan"
+    ],
+    "answer": 1,
+    "explanation": "Ang panganib ay nangangahulugang peligro (danger).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nLumaki ang mga bata sa KALINGA ng kanilang lola.",
+    "choices": [
+      "pagkagalit",
+      "pag-aaruga",
+      "pagod",
+      "pagpapabaya"
+    ],
+    "answer": 1,
+    "explanation": "Ang kalinga ay nangangahulugang pag-aaruga o pag-aalaga (care).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nNanatiling MAHINAHON ang kawani kahit galit ang kliyente.",
+    "choices": [
+      "maingay",
+      "kalmado",
+      "mainit ang ulo",
+      "magulo"
+    ],
+    "answer": 1,
+    "explanation": "Ang mahinahon ay nangangahulugang kalmado (calm, composed).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nMATAYOG ang mga pangarap ng batang iskolar.",
+    "choices": [
+      "malapad",
+      "maikli",
+      "mataas",
+      "mababa"
+    ],
+    "answer": 2,
+    "explanation": "Ang matayog ay nangangahulugang mataas (lofty, high).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nUnti-unting NAGLALAHO ang mga punong bakawan sa baybayin.",
+    "choices": [
+      "lumalaki",
+      "lumilitaw",
+      "dumarami",
+      "nawawala"
+    ],
+    "answer": 3,
+    "explanation": "Ang naglalaho ay nangangahulugang nawawala (disappearing, vanishing).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nAng PAMAHALAAN ay may tungkuling pangalagaan ang kapakanan ng mamamayan.",
+    "choices": [
+      "simbahan",
+      "gobyerno",
+      "paaralan",
+      "palengke"
+    ],
+    "answer": 1,
+    "explanation": "Ang pamahalaan ay nangangahulugang gobyerno (government).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasingkahulugan ng salitang nakasulat sa malalaking titik.\nPinarusahan ang TAMPALASANG lalaki na nanakit sa matanda.",
+    "choices": [
+      "mabait",
+      "walang-galang",
+      "magalang",
+      "masipag"
+    ],
+    "answer": 1,
+    "explanation": "Ang tampalasan ay nangangahulugang walang-galang o mapang-abuso (insolent, abusive).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-filipino-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasalungat ng salitang nakasulat sa malalaking titik.\nAng negosyante ay MAYAMAN.",
+    "choices": [
+      "masipag",
+      "matalino",
+      "masagana",
+      "mahirap"
+    ],
+    "answer": 3,
+    "explanation": "Ang kasalungat ng mayaman (rich) ay mahirap (poor). Ang masagana ay kasingkahulugan, hindi kasalungat.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasalungat ng salitang nakasulat sa malalaking titik.\nAng kawani ay MAGALANG sa lahat ng kliyente.",
+    "choices": [
+      "masipag",
+      "bastos",
+      "mabait",
+      "matulungin"
+    ],
+    "answer": 1,
+    "explanation": "Ang kasalungat ng magalang (respectful) ay bastos (rude).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasalungat ng salitang nakasulat sa malalaking titik.\nMATAPANG na hinarap ng bumbero ang apoy.",
+    "choices": [
+      "maingat",
+      "malakas",
+      "mabilis",
+      "duwag"
+    ],
+    "answer": 3,
+    "explanation": "Ang kasalungat ng matapang (brave) ay duwag (cowardly).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasalungat ng salitang nakasulat sa malalaking titik.\nMASAGANA ang ani ng mga magsasaka ngayong taon.",
+    "choices": [
+      "salat",
+      "marami",
+      "sagana",
+      "mayaman"
+    ],
+    "answer": 0,
+    "explanation": "Ang kasalungat ng masagana (abundant) ay salat (lacking, scarce).",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_vocabulary",
+    "stem": "Piliin ang kasalungat ng salitang nakasulat sa malalaking titik.\nMAKUPAD kumilos ang bagong empleyado.",
+    "choices": [
+      "maliksi",
+      "mabagal",
+      "mabigat",
+      "tamad"
+    ],
+    "answer": 0,
+    "explanation": "Ang makupad (sluggish, slow) ay kasalungat ng maliksi (quick, nimble). Ang mabagal ay kasingkahulugan.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  }
+]

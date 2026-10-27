@@ -1,0 +1,1267 @@
+[
+  {
+    "id": "cse-vrb-vocabulary-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the underlined word.\nThe clerk was DILIGENT in sorting the applications.",
+    "choices": [
+      "hardworking",
+      "careless",
+      "slow",
+      "talkative"
+    ],
+    "answer": 0,
+    "explanation": "Diligent means showing steady, careful effort, so hardworking is the closest meaning.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe instructions were AMBIGUOUS, so many applicants filled out the form incorrectly.",
+    "choices": [
+      "brief",
+      "detailed",
+      "unclear",
+      "printed"
+    ],
+    "answer": 2,
+    "explanation": "Ambiguous means open to more than one interpretation, or unclear. That explains why applicants made mistakes.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe agency issued a TEMPORARY permit while the main application was processed.",
+    "choices": [
+      "expensive",
+      "permanent",
+      "official",
+      "provisional"
+    ],
+    "answer": 3,
+    "explanation": "Temporary means lasting for a limited time. Provisional means arranged for the present, possibly to be changed later.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe official tried to MITIGATE the effects of the flood on the evacuees.",
+    "choices": [
+      "worsen",
+      "record",
+      "lessen",
+      "ignore"
+    ],
+    "answer": 2,
+    "explanation": "To mitigate is to make something less severe, so lessen is the closest meaning.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nHer CANDID remarks during the meeting surprised the panel.",
+    "choices": [
+      "quiet",
+      "rude",
+      "rehearsed",
+      "frank"
+    ],
+    "answer": 3,
+    "explanation": "Candid means truthful and straightforward, or frank. Rude adds an insult that candid does not carry.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe new policy will SUPERSEDE the old guidelines.",
+    "choices": [
+      "explain",
+      "support",
+      "replace",
+      "copy"
+    ],
+    "answer": 2,
+    "explanation": "To supersede is to take the place of something older, so replace is the closest meaning.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe report was so VERBOSE that the main point was hard to find.",
+    "choices": [
+      "accurate",
+      "wordy",
+      "short",
+      "colorful"
+    ],
+    "answer": 1,
+    "explanation": "Verbose means using more words than needed, or wordy.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe barangay captain was known for his PRUDENT use of funds.",
+    "choices": [
+      "careful",
+      "secret",
+      "generous",
+      "wasteful"
+    ],
+    "answer": 0,
+    "explanation": "Prudent means acting with care and good judgment, especially about the future, so careful is the closest meaning.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe office has an ADEQUATE supply of forms for the month.",
+    "choices": [
+      "excessive",
+      "small",
+      "expensive",
+      "sufficient"
+    ],
+    "answer": 3,
+    "explanation": "Adequate means enough for a requirement, or sufficient.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe witness gave a LUCID account of the incident.",
+    "choices": [
+      "clear",
+      "lengthy",
+      "confused",
+      "emotional"
+    ],
+    "answer": 0,
+    "explanation": "Lucid means expressed clearly and easy to understand.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe committee was criticized for its PERFUNCTORY review of the complaints.",
+    "choices": [
+      "delayed",
+      "thorough",
+      "superficial",
+      "biased"
+    ],
+    "answer": 2,
+    "explanation": "Perfunctory describes something done only as a routine duty, with little care or effort. Superficial is the closest meaning.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe two agencies decided to COLLABORATE on the vaccination drive.",
+    "choices": [
+      "withdraw",
+      "argue",
+      "compete",
+      "cooperate"
+    ],
+    "answer": 3,
+    "explanation": "To collaborate is to work jointly with others, or to cooperate.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe mayor's speech was full of ERUDITE references to history.",
+    "choices": [
+      "simple",
+      "incorrect",
+      "funny",
+      "scholarly"
+    ],
+    "answer": 3,
+    "explanation": "Erudite means having or showing great knowledge or learning, so scholarly is the closest meaning.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe employee was COMMENDED for returning the lost wallet.",
+    "choices": [
+      "transferred",
+      "questioned",
+      "praised",
+      "punished"
+    ],
+    "answer": 2,
+    "explanation": "To commend is to praise formally or officially.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe road project was put on hold due to INSUFFICIENT funds.",
+    "choices": [
+      "missing",
+      "borrowed",
+      "stolen",
+      "inadequate"
+    ],
+    "answer": 3,
+    "explanation": "Insufficient means not enough, or inadequate. Missing would mean entirely absent.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe auditor found the explanation SPECIOUS and asked for supporting documents.",
+    "choices": [
+      "very detailed",
+      "openly hostile",
+      "completely true",
+      "misleadingly plausible"
+    ],
+    "answer": 3,
+    "explanation": "Specious means seeming reasonable or true on the surface but actually wrong, or misleadingly plausible.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe residents were RELUCTANT to leave their homes despite the warning.",
+    "choices": [
+      "unable",
+      "eager",
+      "unwilling",
+      "afraid"
+    ],
+    "answer": 2,
+    "explanation": "Reluctant means unwilling and hesitant. Unable would mean they lacked the ability, which is a different idea.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nPlease VERIFY the applicant's documents before approval.",
+    "choices": [
+      "copy",
+      "sign",
+      "confirm",
+      "file"
+    ],
+    "answer": 2,
+    "explanation": "To verify is to make sure something is true or accurate, or to confirm.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe official remained IMPARTIAL throughout the hearing.",
+    "choices": [
+      "silent",
+      "angry",
+      "neutral",
+      "absent"
+    ],
+    "answer": 2,
+    "explanation": "Impartial means treating all sides equally, without bias, or neutral.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe typhoon caused EXTENSIVE damage to crops in the region.",
+    "choices": [
+      "sudden",
+      "minor",
+      "expensive",
+      "widespread"
+    ],
+    "answer": 3,
+    "explanation": "Extensive means covering a large area or wide range, or widespread.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe director's EPHEMERAL popularity faded after a few months.",
+    "choices": [
+      "undeserved",
+      "national",
+      "short-lived",
+      "growing"
+    ],
+    "answer": 2,
+    "explanation": "Ephemeral means lasting a very short time, which matches popularity that faded within months.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe teacher's EXPLICIT instructions left no room for confusion.",
+    "choices": [
+      "secret",
+      "optional",
+      "complicated",
+      "clearly stated"
+    ],
+    "answer": 3,
+    "explanation": "Explicit means stated clearly and in detail, leaving no room for confusion.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe new system made the processing of permits more EFFICIENT.",
+    "choices": [
+      "productive with less waste",
+      "expensive",
+      "public",
+      "complicated"
+    ],
+    "answer": 0,
+    "explanation": "Efficient means achieving maximum productivity with minimum wasted effort or expense.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe spokesperson gave an EQUIVOCAL answer to avoid committing to a date.",
+    "choices": [
+      "definite",
+      "evasive",
+      "honest",
+      "loud"
+    ],
+    "answer": 1,
+    "explanation": "Equivocal means open to more than one interpretation, often deliberately vague. An evasive answer avoids committing, as described.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "vocabulary",
+    "stem": "Choose the word closest in meaning to the capitalized word.\nThe newly hired staff were ENTHUSIASTIC about their first assignment.",
+    "choices": [
+      "confused",
+      "bored",
+      "eager",
+      "worried"
+    ],
+    "answer": 2,
+    "explanation": "Enthusiastic means showing intense and eager enjoyment or interest.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe line at the cashier was moving at a RAPID pace.",
+    "choices": [
+      "quick",
+      "slow",
+      "noisy",
+      "steady"
+    ],
+    "answer": 1,
+    "explanation": "Rapid means fast; its opposite is slow. Quick is a synonym, not an antonym.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe hall was CROWDED during the job fair.",
+    "choices": [
+      "noisy",
+      "busy",
+      "large",
+      "empty"
+    ],
+    "answer": 3,
+    "explanation": "Crowded means full of people; its opposite is empty.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe supervisor's response to the complaint was HOSTILE.",
+    "choices": [
+      "friendly",
+      "quick",
+      "formal",
+      "angry"
+    ],
+    "answer": 0,
+    "explanation": "Hostile means unfriendly or antagonistic; its opposite is friendly.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe committee gave its UNANIMOUS approval.",
+    "choices": [
+      "complete",
+      "early",
+      "divided",
+      "official"
+    ],
+    "answer": 2,
+    "explanation": "Unanimous means fully agreed by everyone; the opposite is divided.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe city's budget showed a large DEFICIT this year.",
+    "choices": [
+      "loss",
+      "shortage",
+      "debt",
+      "surplus"
+    ],
+    "answer": 3,
+    "explanation": "A deficit is an amount by which spending exceeds income; its opposite is a surplus. Loss, debt and shortage are all close in meaning to deficit.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe new procedure is VOLUNTARY for all employees.",
+    "choices": [
+      "unpaid",
+      "compulsory",
+      "optional",
+      "temporary"
+    ],
+    "answer": 1,
+    "explanation": "Voluntary means done by choice; its opposite is compulsory, meaning required.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe officer gave a VAGUE description of the suspect.",
+    "choices": [
+      "short",
+      "false",
+      "precise",
+      "unclear"
+    ],
+    "answer": 2,
+    "explanation": "Vague means unclear or imprecise; its opposite is precise.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nHis FRUGAL habits helped him save for a house.",
+    "choices": [
+      "extravagant",
+      "simple",
+      "thrifty",
+      "careful"
+    ],
+    "answer": 0,
+    "explanation": "Frugal means sparing or economical with money; its opposite is extravagant. Thrifty is a synonym.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe evidence against the accused was CONCLUSIVE.",
+    "choices": [
+      "inconclusive",
+      "strong",
+      "convincing",
+      "final"
+    ],
+    "answer": 0,
+    "explanation": "Conclusive means settling an issue decisively; its opposite is inconclusive. The other choices are near-synonyms.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe speaker's tone was CONCILIATORY.",
+    "choices": [
+      "apologetic",
+      "antagonistic",
+      "peaceful",
+      "gentle"
+    ],
+    "answer": 1,
+    "explanation": "Conciliatory means intended to calm or make peace; its opposite is antagonistic.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe client's request was ACCEPTED by the office.",
+    "choices": [
+      "rejected",
+      "noted",
+      "approved",
+      "received"
+    ],
+    "answer": 0,
+    "explanation": "Accepted is the opposite of rejected.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe weather in the mountains is usually MILD in December.",
+    "choices": [
+      "pleasant",
+      "cool",
+      "harsh",
+      "gentle"
+    ],
+    "answer": 2,
+    "explanation": "Mild weather is gentle and not extreme; the opposite is harsh.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe plan was criticized as being too RIGID.",
+    "choices": [
+      "strict",
+      "flexible",
+      "firm",
+      "detailed"
+    ],
+    "answer": 1,
+    "explanation": "Rigid means unable to bend or change; its opposite is flexible.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe population of the town has been INCREASING.",
+    "choices": [
+      "declining",
+      "stable",
+      "growing",
+      "rising"
+    ],
+    "answer": 0,
+    "explanation": "Increasing means growing; its opposite is declining. Stable means neither increasing nor decreasing, so it is not the opposite.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "antonyms",
+    "stem": "Choose the word OPPOSITE in meaning to the capitalized word.\nThe witness was RETICENT when asked about the incident.",
+    "choices": [
+      "nervous",
+      "honest",
+      "talkative",
+      "reserved"
+    ],
+    "answer": 2,
+    "explanation": "Reticent means not revealing one's thoughts readily; its opposite is talkative. Reserved is a synonym.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-041",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nPEN : WRITE :: KNIFE : ___",
+    "choices": [
+      "sharp",
+      "cut",
+      "fork",
+      "kitchen"
+    ],
+    "answer": 1,
+    "explanation": "A pen is used to write; a knife is used to cut. The relationship is tool to function.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-042",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nDOCTOR : HOSPITAL :: TEACHER : ___",
+    "choices": [
+      "school",
+      "student",
+      "book",
+      "lesson"
+    ],
+    "answer": 0,
+    "explanation": "A doctor works in a hospital; a teacher works in a school. The relationship is worker to workplace.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-vocabulary-043",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nPUPPY : DOG :: KITTEN : ___",
+    "choices": [
+      "pet",
+      "milk",
+      "mouse",
+      "cat"
+    ],
+    "answer": 3,
+    "explanation": "A puppy is a young dog; a kitten is a young cat.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-044",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nHOT : COLD :: ANCIENT : ___",
+    "choices": [
+      "modern",
+      "old",
+      "antique",
+      "historic"
+    ],
+    "answer": 0,
+    "explanation": "Hot and cold are opposites; the opposite of ancient is modern.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-045",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nPAGE : BOOK :: BRICK : ___",
+    "choices": [
+      "clay",
+      "wall",
+      "builder",
+      "cement"
+    ],
+    "answer": 1,
+    "explanation": "A page is a part of a book; a brick is a part of a wall. The relationship is part to whole.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-046",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nTHERMOMETER : TEMPERATURE :: ODOMETER : ___",
+    "choices": [
+      "distance",
+      "time",
+      "fuel",
+      "speed"
+    ],
+    "answer": 0,
+    "explanation": "A thermometer measures temperature; an odometer measures distance traveled. A speedometer measures speed.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-047",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nAUTHOR : NOVEL :: COMPOSER : ___",
+    "choices": [
+      "singer",
+      "orchestra",
+      "symphony",
+      "piano"
+    ],
+    "answer": 2,
+    "explanation": "An author creates a novel; a composer creates a symphony. The relationship is creator to creation.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-048",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nDROUGHT : WATER :: FAMINE : ___",
+    "choices": [
+      "disease",
+      "food",
+      "hunger",
+      "rain"
+    ],
+    "answer": 1,
+    "explanation": "A drought is a severe shortage of water; a famine is a severe shortage of food. Hunger is a result of famine, not the thing lacking.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-049",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nFINGER : HAND :: TOE : ___",
+    "choices": [
+      "leg",
+      "nail",
+      "foot",
+      "shoe"
+    ],
+    "answer": 2,
+    "explanation": "A finger is part of a hand; a toe is part of a foot.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-050",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nBENEVOLENT : KIND :: MALEVOLENT : ___",
+    "choices": [
+      "generous",
+      "wicked",
+      "careless",
+      "weak"
+    ],
+    "answer": 1,
+    "explanation": "Benevolent means kind; malevolent means wishing harm, or wicked. Each pair is word to synonym.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-051",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nCAPTAIN : SHIP :: PILOT : ___",
+    "choices": [
+      "airplane",
+      "airport",
+      "passenger",
+      "sky"
+    ],
+    "answer": 0,
+    "explanation": "A captain commands a ship; a pilot flies an airplane. The relationship is operator to vehicle.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-052",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nSCARCE : ABUNDANT :: TIMID : ___",
+    "choices": [
+      "afraid",
+      "bold",
+      "shy",
+      "quiet"
+    ],
+    "answer": 1,
+    "explanation": "Scarce and abundant are opposites; the opposite of timid is bold.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-053",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nSEED : TREE :: EGG : ___",
+    "choices": [
+      "nest",
+      "yolk",
+      "shell",
+      "bird"
+    ],
+    "answer": 3,
+    "explanation": "A seed grows into a tree; an egg develops into a bird. The relationship is beginning stage to mature form.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-vocabulary-054",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nLIBRARIAN : BOOKS :: CURATOR : ___",
+    "choices": [
+      "tickets",
+      "visitors",
+      "artifacts",
+      "buildings"
+    ],
+    "answer": 2,
+    "explanation": "A librarian manages and cares for books; a curator manages and cares for a collection of artifacts or exhibits, as in a museum.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-vocabulary-055",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nHUNGRY : EAT :: TIRED : ___",
+    "choices": [
+      "yawn",
+      "rest",
+      "run",
+      "work"
+    ],
+    "answer": 1,
+    "explanation": "When hungry, one eats to satisfy the need; when tired, one rests. Yawning is a symptom of tiredness, not what relieves it.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  }
+]

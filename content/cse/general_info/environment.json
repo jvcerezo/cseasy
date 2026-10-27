@@ -1,0 +1,627 @@
+[
+  {
+    "id": "cse-gen-environment-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Republic Act No. 9003 is known as the:",
+    "choices": [
+      "Philippine Clean Water Act of 2004",
+      "Ecological Solid Waste Management Act of 2000",
+      "Climate Change Act of 2009",
+      "Philippine Clean Air Act of 1999"
+    ],
+    "answer": 1,
+    "explanation": "Section 1 of RA 9003 gives its short title as the Ecological Solid Waste Management Act of 2000.",
+    "source": "RA 9003, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_9003",
+    "quote": "This Act shall be known as the \"Ecological Solid Waste Management Act of 2000.\""
+  },
+  {
+    "id": "cse-gen-environment-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Republic Act No. 8749 is known as the:",
+    "choices": [
+      "Ecological Solid Waste Management Act of 2000",
+      "Philippine Clean Air Act of 1999",
+      "Philippine Mining Act of 1995",
+      "Philippine Clean Water Act of 2004"
+    ],
+    "answer": 1,
+    "explanation": "Section 1 of RA 8749 gives its short title as the Philippine Clean Air Act of 1999.",
+    "source": "RA 8749, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_8749",
+    "quote": "This Act shall be known as the \"Philippine Clean Air Act of 1999.\""
+  },
+  {
+    "id": "cse-gen-environment-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Republic Act No. 9275 is known as the:",
+    "choices": [
+      "Climate Change Act of 2009",
+      "Philippine Clean Air Act of 1999",
+      "Ecological Solid Waste Management Act of 2000",
+      "Philippine Clean Water Act of 2004"
+    ],
+    "answer": 3,
+    "explanation": "Section 1 of RA 9275 gives its short title as the Philippine Clean Water Act of 2004.",
+    "source": "RA 9275, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_9275",
+    "quote": "This Act shall be known as the \"Philippine Clean Water Act of 2004.\""
+  },
+  {
+    "id": "cse-gen-environment-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Republic Act No. 9729 is known as the:",
+    "choices": [
+      "Disaster Risk Reduction Act of 2010",
+      "Climate Change Act of 2009",
+      "Philippine Clean Water Act of 2004",
+      "Philippine Clean Air Act of 1999"
+    ],
+    "answer": 1,
+    "explanation": "Section 1 of RA 9729 gives its title as the Climate Change Act of 2009.",
+    "source": "RA 9729, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_9729",
+    "quote": "This Act shall be known as the \"Climate Change Act of 2009\"."
+  },
+  {
+    "id": "cse-gen-environment-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, within five years of the law's effectivity, each LGU must divert at least what share of its solid waste from disposal facilities through re-use, recycling and composting?",
+    "choices": [
+      "50%",
+      "10%",
+      "25%",
+      "75%"
+    ],
+    "answer": 2,
+    "explanation": "Section 20 of RA 9003 requires each LGU to divert at least 25% of all solid waste from waste disposal facilities within five years, with targets increasing every three years after.",
+    "source": "RA 9003, Sec. 20",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "the LGU shall divert at least 25% of all solid waste from waste disposal facilities through re-use, recycling and composting activities"
+  },
+  {
+    "id": "cse-gen-environment-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, segregation of solid wastes shall primarily be conducted:",
+    "choices": [
+      "by the collection truck crew",
+      "at the materials recovery facility only",
+      "at the source",
+      "at the sanitary landfill"
+    ],
+    "answer": 2,
+    "explanation": "Section 21 provides that segregation of wastes shall primarily be conducted at the source, including household, institutional, industrial, commercial and agricultural sources.",
+    "source": "RA 9003, Sec. 21",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_9003",
+    "quote": "segregation of wastes shall primarily be conducted at the source, to include household, institutional, industrial, commercial and agricultural sources"
+  },
+  {
+    "id": "cse-gen-environment-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, a Materials Recovery Facility (MRF) shall be established in:",
+    "choices": [
+      "every province only",
+      "every city only",
+      "every barangay or cluster of barangays",
+      "every region"
+    ],
+    "answer": 2,
+    "explanation": "Section 32 requires a Materials Recovery Facility in every barangay or cluster of barangays.",
+    "source": "RA 9003, Sec. 32",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "There shall be established a Materials Recovery Facility (MRF) in every barangay or cluster of barangays."
+  },
+  {
+    "id": "cse-gen-environment-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, within how many years after the law's effectivity must every LGU convert its open dumps into controlled dumps?",
+    "choices": [
+      "Three years",
+      "One year",
+      "Five years",
+      "Ten years"
+    ],
+    "answer": 0,
+    "explanation": "Section 37 prohibits open dumps and required every LGU to convert its open dumps into controlled dumps within three (3) years after the law took effect.",
+    "source": "RA 9003, Sec. 37",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "within three (3) years after the effectivity of this Act, every LGU shall convert its open dumps into controlled dumps"
+  },
+  {
+    "id": "cse-gen-environment-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Which of the following is a prohibited act under RA 9003?",
+    "choices": [
+      "The open burning of solid waste",
+      "Composting kitchen waste at home",
+      "Segregating biodegradable waste",
+      "Bringing recyclables to a junk shop"
+    ],
+    "answer": 0,
+    "explanation": "Section 48 of RA 9003 lists prohibited acts, including the open burning of solid waste and littering in public places.",
+    "source": "RA 9003, Sec. 48",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_9003",
+    "quote": "The open burning of solid waste"
+  },
+  {
+    "id": "cse-gen-environment-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Throwing or dumping waste matter in canals, esteros, sidewalks or parks is prohibited under which law?",
+    "choices": [
+      "RA 6713 (Code of Conduct)",
+      "RA 9003 (Ecological Solid Waste Management Act)",
+      "RA 11032 (Ease of Doing Business Act)",
+      "RA 9729 (Climate Change Act)"
+    ],
+    "answer": 1,
+    "explanation": "Section 48(1) of RA 9003 prohibits littering, throwing, dumping of waste matters in public places such as roads, sidewalks, canals, esteros or parks.",
+    "source": "RA 9003, Sec. 48",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_9003",
+    "quote": "Littering, throwing, dumping of waste matters in public places, such as roads, sidewalks, canals, esteros or parks"
+  },
+  {
+    "id": "cse-gen-environment-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, the National Solid Waste Management Commission is placed under:",
+    "choices": [
+      "the Senate",
+      "the Department of the Interior and Local Government",
+      "the Department of Health",
+      "the Office of the President"
+    ],
+    "answer": 3,
+    "explanation": "Section 4 establishes the National Solid Waste Management Commission under the Office of the President.",
+    "source": "RA 9003, Sec. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "There is hereby established a National Solid Waste Management Commission, hereinafter referred to as the Commission, under the Office of the President."
+  },
+  {
+    "id": "cse-gen-environment-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "RA 9003 defines composting as the controlled decomposition of organic matter by:",
+    "choices": [
+      "compression in landfills",
+      "micro-organisms, mainly bacteria and fungi",
+      "chemical treatment",
+      "high-temperature burning"
+    ],
+    "answer": 1,
+    "explanation": "Section 3(f) defines composting as the controlled decomposition of organic matter by micro-organisms, mainly bacteria and fungi, into a humus-like product.",
+    "source": "RA 9003, Sec. 3(f)",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "Composting shall refer to the controlled decomposition of organic matter by micro-organisms, mainly bacteria and fungi, into a humus-like product"
+  },
+  {
+    "id": "cse-gen-environment-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "RA 9003 defines an \"open dump\" as a disposal area where solid wastes are:",
+    "choices": [
+      "covered with soil daily",
+      "indiscriminately thrown or disposed of without due planning",
+      "converted into compost",
+      "sorted before disposal"
+    ],
+    "answer": 1,
+    "explanation": "Section 3(t) defines an open dump as a disposal area wherein solid wastes are indiscriminately thrown or disposed of without due planning and consideration for environmental and health standards.",
+    "source": "RA 9003, Sec. 3(t)",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "Open dump shall refer to a disposal area wherein the solid wastes are indiscriminately thrown or disposed of without due planning and consideration for environmental and Health standards"
+  },
+  {
+    "id": "cse-gen-environment-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "The Clean Air Act defines incineration, which it bans, as the burning of:",
+    "choices": [
+      "wood for cooking",
+      "agricultural waste in rural farms",
+      "fuel in motor vehicles",
+      "municipal, biomedical and hazardous waste that emits poisonous and toxic fumes"
+    ],
+    "answer": 3,
+    "explanation": "Section 20 of RA 8749 bans incineration, defined as the burning of municipal, biomedical and hazardous waste which emits poisonous and toxic fumes, with exceptions such as traditional small-scale \"siga\" and crematoria.",
+    "source": "RA 8749, Sec. 20",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_8749",
+    "quote": "Incineration, hereby defined as the burning of municipal, biomedical and hazardous waste, which process emits poisonous and toxic fumes is hereby prohibited"
+  },
+  {
+    "id": "cse-gen-environment-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Which of the following is EXEMPT from the Clean Air Act's ban on incineration?",
+    "choices": [
+      "Burning of municipal garbage in a dumpsite",
+      "Burning of hazardous industrial waste",
+      "Burning of hospital waste in the open",
+      "Crematoria"
+    ],
+    "answer": 3,
+    "explanation": "Section 20 of RA 8749 exempts the traditional small-scale \"siga\", traditional agricultural, cultural, health and food-preparation practices, and crematoria.",
+    "source": "RA 8749, Sec. 20",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "ra_8749",
+    "quote": "the prohibition shall not apply to traditional small-scale method of community/neighborhood sanitation \"siga\", traditional, agricultural, cultural, health, and food preparation and crematoria"
+  },
+  {
+    "id": "cse-gen-environment-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Air Act, smoking inside a public building or an enclosed public place, including public vehicles, is:",
+    "choices": [
+      "allowed if windows are open",
+      "prohibited, with implementation by the LGUs",
+      "prohibited only in Metro Manila",
+      "allowed only for drivers"
+    ],
+    "answer": 1,
+    "explanation": "Section 24 of RA 8749 prohibits smoking inside public buildings, enclosed public places and public vehicles, outside designated areas, and assigns implementation to the LGUs.",
+    "source": "RA 8749, Sec. 24",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_8749",
+    "quote": "This provision shall be implemented by the LGUs."
+  },
+  {
+    "id": "cse-gen-environment-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Which right of citizens is the first listed under the Clean Air Act's recognition of rights?",
+    "choices": [
+      "The right to free medical care",
+      "The right to free water",
+      "The right to breathe clean air",
+      "The right to own a vehicle"
+    ],
+    "answer": 2,
+    "explanation": "Section 4(a) of RA 8749 recognizes the right to breathe clean air.",
+    "source": "RA 8749, Sec. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "ra_8749",
+    "quote": "The right to breathe clean air"
+  },
+  {
+    "id": "cse-gen-environment-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "The Clean Air Act recognizes the principle that:",
+    "choices": [
+      "the State shoulders all clean-up costs",
+      "pollution is a private matter",
+      "industries may self-regulate",
+      "polluters must pay"
+    ],
+    "answer": 3,
+    "explanation": "The declaration of policy of RA 8749 recognizes the principle that \"polluters must pay\".",
+    "source": "RA 8749, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_8749",
+    "quote": "The State also recognizes the principle that \"polluters must pay\"."
+  },
+  {
+    "id": "cse-gen-environment-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Which agency is the lead agency for implementing and enforcing the Clean Air Act and the Clean Water Act?",
+    "choices": [
+      "The Department of Public Works and Highways",
+      "The Metropolitan Manila Development Authority",
+      "The Department of Health",
+      "The Department of Environment and Natural Resources"
+    ],
+    "answer": 3,
+    "explanation": "Both laws make \"the Department\" (DENR) the primary government agency responsible for implementation and enforcement (RA 8749, Sec. 34; RA 9275, Sec. 19).",
+    "source": "RA 9275, Sec. 19",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9275",
+    "quote": "The Department shall be the primary government agency responsible for the implementation and enforcement of this Act unless otherwise provided herein."
+  },
+  {
+    "id": "cse-gen-environment-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Water Act, water quality management areas are designated using physiographic units such as:",
+    "choices": [
+      "barangay boundaries",
+      "watersheds, river basins or water resources regions",
+      "provinces and cities",
+      "congressional districts"
+    ],
+    "answer": 1,
+    "explanation": "Section 5 of RA 9275 designates water quality management areas using physiographic units such as watershed, river basins or water resources regions.",
+    "source": "RA 9275, Sec. 5",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "ra_9275",
+    "quote": "using appropriate physiographic units such as watershed, river basins or water resources regions"
+  },
+  {
+    "id": "cse-gen-environment-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Water Act, \"septage\" refers to:",
+    "choices": [
+      "sludge produced on individual onsite wastewater disposal systems such as septic tanks",
+      "rainwater runoff from roads",
+      "industrial cooling water",
+      "treated drinking water"
+    ],
+    "answer": 0,
+    "explanation": "RA 9275 defines septage as the sludge produced on individual onsite wastewater disposal systems, principally septic tanks and cesspools.",
+    "source": "RA 9275, Sec. 4(ff)",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9275",
+    "quote": "Septage - means the sludge produced on individual onsite wastewater disposal systems, principally septic tanks and cesspools."
+  },
+  {
+    "id": "cse-gen-environment-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Water Act, a person who pollutes water bodies beyond the applicable standards is responsible for:",
+    "choices": [
+      "paying a one-time registration fee",
+      "reporting it to the barangay only",
+      "containing, removing and cleaning up the pollution",
+      "nothing, if the pollution was accidental"
+    ],
+    "answer": 2,
+    "explanation": "Section 16 of RA 9275 makes anyone who causes pollution in excess of standards responsible to contain, remove and clean up the pollution incident at their own expense.",
+    "source": "RA 9275, Sec. 16",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9275",
+    "quote": "shall be responsible to contain, remove and clean-up any pollution incident"
+  },
+  {
+    "id": "cse-gen-environment-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Who serves as Chairperson of the Climate Change Commission under RA 9729?",
+    "choices": [
+      "The Secretary of Science and Technology",
+      "The President of the Philippines",
+      "The Secretary of Environment and Natural Resources",
+      "The Senate President"
+    ],
+    "answer": 1,
+    "explanation": "Section 5 of RA 9729 makes the President of the Republic the Chairperson, with three Commissioners appointed by the President.",
+    "source": "RA 9729, Sec. 5",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9729",
+    "quote": "The Commission shall be composed of the President of the Republic of the Philippines who shall serve as the Chairperson, and three (3) Commissioners to be appointed by the President"
+  },
+  {
+    "id": "cse-gen-environment-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Climate Change Act, which entities are the frontline agencies in formulating and implementing local climate change action plans?",
+    "choices": [
+      "The Department of Foreign Affairs",
+      "Local government units",
+      "Non-government organizations",
+      "State universities"
+    ],
+    "answer": 1,
+    "explanation": "Section 14 of RA 9729 makes LGUs the frontline agencies in the formulation, planning and implementation of climate change action plans in their areas.",
+    "source": "RA 9729, Sec. 14",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "ra_9729",
+    "quote": "The LGUs shall be the frontline agencies in the formulation, planning and implementation of climate change action plans in their respective areas"
+  },
+  {
+    "id": "cse-gen-environment-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "The Climate Change Act states that the State adopted which framework, espousing sustainable development?",
+    "choices": [
+      "Millennium Development Goals",
+      "Kyoto Protocol Framework",
+      "ASEAN Green Agenda",
+      "Philippine Agenda 21"
+    ],
+    "answer": 3,
+    "explanation": "Section 2 of RA 9729 states that the State has adopted the Philippine Agenda 21 framework which espouses sustainable development.",
+    "source": "RA 9729, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "ra_9729",
+    "quote": "the State has adopted the Philippine Agenda 21 framework which espouses sustainable development"
+  }
+]

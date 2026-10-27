@@ -85,8 +85,10 @@ def validate_question(q: dict) -> list[str]:
 
     # Grounded items must say where the answer comes from; the quote matcher
     # checks the citation against the source text in a later gate.
-    if q["method"] == "llm-grounded" and not q.get("source"):
-        errors.append(f"{qid}: llm-grounded items need a 'source'")
+    if q["method"] == "llm-grounded":
+        for field in ("source", "source_doc", "quote"):
+            if not isinstance(q.get(field), str) or not q[field].strip():
+                errors.append(f"{qid}: llm-grounded items need '{field}'")
 
     return errors
 

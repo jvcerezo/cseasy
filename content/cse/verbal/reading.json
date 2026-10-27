@@ -1,0 +1,255 @@
+[
+  {
+    "id": "cse-vrb-reading-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nThe town of San Rafael once struggled with garbage piling up along its creek. Instead of buying more trucks, the municipal government trained household volunteers to separate biodegradable waste from recyclables. Within a year, the volume of garbage sent to the dumpsite fell by almost half, and the money saved was used to build a small composting facility.\n\nWhat is the main idea of the passage?",
+    "choices": [
+      "Composting facilities are expensive to build.",
+      "The creek in San Rafael is now completely clean.",
+      "Training households to segregate waste reduced garbage and saved money.",
+      "San Rafael bought more garbage trucks to clean its creek."
+    ],
+    "answer": 2,
+    "explanation": "The passage describes how household segregation, rather than more trucks, cut garbage nearly in half and freed funds for composting. The passage never says the creek is completely clean.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nThe town of San Rafael once struggled with garbage piling up along its creek. Instead of buying more trucks, the municipal government trained household volunteers to separate biodegradable waste from recyclables. Within a year, the volume of garbage sent to the dumpsite fell by almost half, and the money saved was used to build a small composting facility.\n\nAccording to the passage, how was the money saved used?",
+    "choices": [
+      "To buy more garbage trucks",
+      "To clean the creek",
+      "To pay the household volunteers",
+      "To build a small composting facility"
+    ],
+    "answer": 3,
+    "explanation": "The last sentence states that the money saved was used to build a small composting facility.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nThe town of San Rafael once struggled with garbage piling up along its creek. Instead of buying more trucks, the municipal government trained household volunteers to separate biodegradable waste from recyclables. Within a year, the volume of garbage sent to the dumpsite fell by almost half, and the money saved was used to build a small composting facility.\n\nWhich can be inferred from the passage?",
+    "choices": [
+      "The town's earlier approach to garbage was less effective than involving households.",
+      "The dumpsite has been permanently closed.",
+      "The volunteers were paid a monthly salary.",
+      "Other towns have copied San Rafael's program."
+    ],
+    "answer": 0,
+    "explanation": "The contrast between the old problem and the result after involving households implies the earlier approach worked less well. The other choices add facts the passage never gives.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-reading-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nMany government offices now post a Citizen's Charter at their entrance. The charter lists each service the office provides, the documents required, the steps to follow, the fees, and the maximum time each step should take. By making these standards public, the charter allows clients to know what to expect and gives them a basis for complaining when service falls short.\n\nAccording to the passage, which of the following is NOT listed in a Citizen's Charter?",
+    "choices": [
+      "The maximum time for each step",
+      "The documents required",
+      "The names of employees who were disciplined",
+      "The fees"
+    ],
+    "answer": 2,
+    "explanation": "The passage lists services, required documents, steps, fees, and maximum processing times. It says nothing about disciplined employees.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nMany government offices now post a Citizen's Charter at their entrance. The charter lists each service the office provides, the documents required, the steps to follow, the fees, and the maximum time each step should take. By making these standards public, the charter allows clients to know what to expect and gives them a basis for complaining when service falls short.\n\nWhat is the purpose of making service standards public, according to the passage?",
+    "choices": [
+      "So clients know what to expect and can complain when service falls short",
+      "So offices can charge higher fees",
+      "So the office does not need to answer questions",
+      "So employees can work fewer hours"
+    ],
+    "answer": 0,
+    "explanation": "The final sentence gives both purposes: clients know what to expect and have a basis for complaints.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nMany government offices now post a Citizen's Charter at their entrance. The charter lists each service the office provides, the documents required, the steps to follow, the fees, and the maximum time each step should take. By making these standards public, the charter allows clients to know what to expect and gives them a basis for complaining when service falls short.\n\nAs used in the passage, the phrase \"falls short\" most nearly means:",
+    "choices": [
+      "takes less time than expected",
+      "fails to meet the standard",
+      "is delivered early",
+      "costs less than the posted fee"
+    ],
+    "answer": 1,
+    "explanation": "Service that \"falls short\" fails to reach the posted standards, which is why it gives clients a basis for complaint.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-reading-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nMangrove forests protect coastal communities in ways that are easy to overlook. Their tangled roots slow down waves and reduce the force of storm surges, while also trapping soil that would otherwise wash into the sea. The roots also shelter young fish and crabs, so fishermen who live near healthy mangroves often enjoy better catches. Despite this, many mangrove areas have been cleared for fishponds and housing.\n\nWhich title best fits the passage?",
+    "choices": [
+      "Why Storm Surges Happen",
+      "The Dangers of Fishing at Sea",
+      "How to Build a Fishpond",
+      "The Overlooked Value of Mangroves"
+    ],
+    "answer": 3,
+    "explanation": "The passage explains several hidden benefits of mangroves (storm protection, soil retention, fish nurseries) and notes they are still being cleared.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nMangrove forests protect coastal communities in ways that are easy to overlook. Their tangled roots slow down waves and reduce the force of storm surges, while also trapping soil that would otherwise wash into the sea. The roots also shelter young fish and crabs, so fishermen who live near healthy mangroves often enjoy better catches. Despite this, many mangrove areas have been cleared for fishponds and housing.\n\nAccording to the passage, why do fishermen near healthy mangroves often have better catches?",
+    "choices": [
+      "Mangroves keep the water warm.",
+      "Fishponds are built near mangroves.",
+      "Storm surges bring in more fish.",
+      "The roots shelter young fish and crabs."
+    ],
+    "answer": 3,
+    "explanation": "The passage states that the roots shelter young fish and crabs, which leads to better catches.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nMangrove forests protect coastal communities in ways that are easy to overlook. Their tangled roots slow down waves and reduce the force of storm surges, while also trapping soil that would otherwise wash into the sea. The roots also shelter young fish and crabs, so fishermen who live near healthy mangroves often enjoy better catches. Despite this, many mangrove areas have been cleared for fishponds and housing.\n\nThe author's attitude toward the clearing of mangroves is best described as:",
+    "choices": [
+      "amused",
+      "concerned",
+      "enthusiastic",
+      "indifferent"
+    ],
+    "answer": 1,
+    "explanation": "After listing the benefits, the author's \"Despite this...\" signals disapproval of clearing mangroves, a concerned attitude.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-reading-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nWhen the provincial hospital introduced an online appointment system, older patients at first complained that they did not know how to use it. The hospital responded by keeping two walk-in windows open and assigning volunteers to help patients book on their phones. After six months, waiting times had dropped and complaints had nearly disappeared.\n\nHow did the hospital respond to the older patients' complaints?",
+    "choices": [
+      "It required all patients to book online.",
+      "It hired more doctors.",
+      "It cancelled the online appointment system.",
+      "It kept walk-in windows open and assigned volunteers to help with booking."
+    ],
+    "answer": 3,
+    "explanation": "The second sentence describes the response: two walk-in windows stayed open and volunteers helped patients book.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nWhen the provincial hospital introduced an online appointment system, older patients at first complained that they did not know how to use it. The hospital responded by keeping two walk-in windows open and assigning volunteers to help patients book on their phones. After six months, waiting times had dropped and complaints had nearly disappeared.\n\nWhich lesson is best supported by the passage?",
+    "choices": [
+      "New systems work better when users who struggle with them are given support.",
+      "Walk-in windows are always faster than online booking.",
+      "Online systems should never be used in hospitals.",
+      "Older patients refuse to learn new technology."
+    ],
+    "answer": 0,
+    "explanation": "The passage shows that the system succeeded once struggling users got help and an alternative. The other choices overgeneralize or contradict the passage.",
+    "source": null,
+    "method": "llm",
+    "status": "draft",
+    "difficulty": 3
+  }
+]

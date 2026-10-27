@@ -1,0 +1,1927 @@
+[
+  {
+    "id": "cse-gen-constitution-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "According to Article II of the 1987 Constitution, where does sovereignty reside?",
+    "choices": [
+      "In the Supreme Court",
+      "In the Congress",
+      "In the President",
+      "In the people"
+    ],
+    "answer": 3,
+    "explanation": "Article II, Section 1 declares the Philippines a democratic and republican State in which sovereignty resides in the people and all government authority emanates from them.",
+    "source": "1987 Constitution, Art. II, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "Sovereignty resides in the people and all government authority emanates from them."
+  },
+  {
+    "id": "cse-gen-constitution-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The 1987 Constitution states that civilian authority is, at all times, supreme over the:",
+    "choices": [
+      "Constitutional Commissions",
+      "judiciary",
+      "local governments",
+      "military"
+    ],
+    "answer": 3,
+    "explanation": "Article II, Section 3 establishes civilian supremacy: civilian authority is, at all times, supreme over the military.",
+    "source": "1987 Constitution, Art. II, Sec. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "Civilian authority is, at all times, supreme over the military."
+  },
+  {
+    "id": "cse-gen-constitution-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article II, Section 2, the Philippines renounces war as:",
+    "choices": [
+      "a tool of international law",
+      "a means of self-defense",
+      "an instrument of national policy",
+      "a power of Congress"
+    ],
+    "answer": 2,
+    "explanation": "Article II, Section 2 states that the Philippines renounces war as an instrument of national policy and adopts the generally accepted principles of international law.",
+    "source": "1987 Constitution, Art. II, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The Philippines renounces war as an instrument of national policy"
+  },
+  {
+    "id": "cse-gen-constitution-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which principle does Article II, Section 6 of the Constitution declare inviolable?",
+    "choices": [
+      "The separation of Church and State",
+      "The independence of local governments",
+      "The right to bear arms",
+      "The supremacy of Congress"
+    ],
+    "answer": 0,
+    "explanation": "Article II, Section 6 provides that the separation of Church and State shall be inviolable.",
+    "source": "1987 Constitution, Art. II, Sec. 6",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The separation of Church and State shall be inviolable."
+  },
+  {
+    "id": "cse-gen-constitution-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article II, Section 27 directs the State to maintain honesty and integrity in the public service and to take positive and effective measures against:",
+    "choices": [
+      "foreign intervention",
+      "illegal drugs",
+      "graft and corruption",
+      "unemployment"
+    ],
+    "answer": 2,
+    "explanation": "Section 27 of Article II commits the State to honesty and integrity in the public service and to positive and effective measures against graft and corruption.",
+    "source": "1987 Constitution, Art. II, Sec. 27",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The State shall maintain honesty and integrity in the public service and take positive and effective measures against graft and corruption."
+  },
+  {
+    "id": "cse-gen-constitution-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article II, Section 28 commits the State to a policy of full public disclosure of all its transactions involving:",
+    "choices": [
+      "public interest",
+      "foreign loans only",
+      "the President's family",
+      "national security"
+    ],
+    "answer": 0,
+    "explanation": "Subject to reasonable conditions prescribed by law, the State adopts and implements a policy of full public disclosure of all its transactions involving public interest.",
+    "source": "1987 Constitution, Art. II, Sec. 28",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "full public disclosure of all its transactions involving public interest"
+  },
+  {
+    "id": "cse-gen-constitution-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article II, Section 12 directs the State to equally protect the life of the mother and the life of the unborn from:",
+    "choices": [
+      "viability",
+      "conception",
+      "the first trimester",
+      "birth"
+    ],
+    "answer": 1,
+    "explanation": "Section 12 of Article II provides that the State shall equally protect the life of the mother and the life of the unborn from conception.",
+    "source": "1987 Constitution, Art. II, Sec. 12",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "the life of the unborn from conception"
+  },
+  {
+    "id": "cse-gen-constitution-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article II, Section 14 of the Constitution directs the State to ensure the fundamental equality before the law of:",
+    "choices": [
+      "public and private employees",
+      "citizens and aliens",
+      "women and men",
+      "rich and poor"
+    ],
+    "answer": 2,
+    "explanation": "Section 14 recognizes the role of women in nation-building and directs the State to ensure the fundamental equality before the law of women and men.",
+    "source": "1987 Constitution, Art. II, Sec. 14",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "the fundamental equality before the law of women and men"
+  },
+  {
+    "id": "cse-gen-constitution-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article I, the waters around, between, and connecting the islands of the archipelago form part of the Philippines':",
+    "choices": [
+      "contiguous zone",
+      "exclusive economic zone",
+      "internal waters",
+      "territorial sea"
+    ],
+    "answer": 2,
+    "explanation": "Article I states that these waters, regardless of their breadth and dimensions, form part of the internal waters of the Philippines (the archipelagic doctrine).",
+    "source": "1987 Constitution, Art. I",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The waters around, between, and connecting the islands of the archipelago, regardless of their breadth and dimensions, form part of the internal waters of the Philippines."
+  },
+  {
+    "id": "cse-gen-constitution-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "In its Preamble, whose aid do the sovereign Filipino people implore?",
+    "choices": [
+      "the Filipino ancestors",
+      "the United Nations",
+      "Almighty God",
+      "the founding fathers"
+    ],
+    "answer": 2,
+    "explanation": "The Preamble begins: \"We, the sovereign Filipino people, imploring the aid of Almighty God...\"",
+    "source": "1987 Constitution, Preamble",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "imploring the aid of Almighty God"
+  },
+  {
+    "id": "cse-gen-constitution-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article III, Section 1 provides that no person shall be deprived of life, liberty, or property without:",
+    "choices": [
+      "due process of law",
+      "a warrant of arrest",
+      "the consent of Congress",
+      "a declaration of martial law"
+    ],
+    "answer": 0,
+    "explanation": "Section 1 of the Bill of Rights contains the due process and equal protection clauses.",
+    "source": "1987 Constitution, Art. III, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws."
+  },
+  {
+    "id": "cse-gen-constitution-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article III, Section 2, probable cause for issuing a search warrant or warrant of arrest must be determined personally by:",
+    "choices": [
+      "the prosecutor",
+      "the barangay captain",
+      "the judge",
+      "the police chief"
+    ],
+    "answer": 2,
+    "explanation": "No search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge after examining the complainant and witnesses under oath.",
+    "source": "1987 Constitution, Art. III, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "probable cause to be determined personally by the judge"
+  },
+  {
+    "id": "cse-gen-constitution-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article III, Section 3, evidence obtained in violation of the privacy of communication and correspondence is:",
+    "choices": [
+      "admissible only in criminal cases",
+      "admissible if a court later approves it",
+      "inadmissible for any purpose in any proceeding",
+      "admissible only against public officials"
+    ],
+    "answer": 2,
+    "explanation": "Section 3(2) of the Bill of Rights makes such evidence inadmissible for any purpose in any proceeding (the exclusionary rule).",
+    "source": "1987 Constitution, Art. III, Sec. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Any evidence obtained in violation of this or the preceding section shall be inadmissible for any purpose in any proceeding."
+  },
+  {
+    "id": "cse-gen-constitution-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which right is protected by Article III, Section 4 of the Constitution?",
+    "choices": [
+      "The right to a government job",
+      "The right to free college education",
+      "The right to own firearms",
+      "Freedom of speech, of expression, and of the press"
+    ],
+    "answer": 3,
+    "explanation": "Section 4 provides that no law shall be passed abridging the freedom of speech, of expression, or of the press, or the right of the people peaceably to assemble and petition the government for redress of grievances.",
+    "source": "1987 Constitution, Art. III, Sec. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "No law shall be passed abridging the freedom of speech, of expression, or of the press, or the right of the people peaceably to assemble and petition the government for redress of grievances."
+  },
+  {
+    "id": "cse-gen-constitution-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article III, Section 7 recognizes the right of the people to information on matters of:",
+    "choices": [
+      "public concern",
+      "national defense only",
+      "foreign affairs only",
+      "private business"
+    ],
+    "answer": 0,
+    "explanation": "Section 7 provides that the right of the people to information on matters of public concern shall be recognized, subject to limitations provided by law.",
+    "source": "1987 Constitution, Art. III, Sec. 7",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The right of the people to information on matters of public concern shall be recognized."
+  },
+  {
+    "id": "cse-gen-constitution-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article III, Section 9, private property shall not be taken for public use without:",
+    "choices": [
+      "a public hearing",
+      "just compensation",
+      "the owner's written consent",
+      "approval by the barangay"
+    ],
+    "answer": 1,
+    "explanation": "Section 9 limits the power of eminent domain: private property may be taken for public use only with just compensation.",
+    "source": "1987 Constitution, Art. III, Sec. 9",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "Private property shall not be taken for public use without just compensation."
+  },
+  {
+    "id": "cse-gen-constitution-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which of the following does Article III, Section 10 prohibit?",
+    "choices": [
+      "A law impairing the obligation of contracts",
+      "A law raising taxes",
+      "A law regulating businesses",
+      "A law creating new provinces"
+    ],
+    "answer": 0,
+    "explanation": "Section 10 states that no law impairing the obligation of contracts shall be passed.",
+    "source": "1987 Constitution, Art. III, Sec. 10",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No law impairing the obligation of contracts shall be passed."
+  },
+  {
+    "id": "cse-gen-constitution-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article III, Section 12, a person under investigation for an offense has the right to remain silent and to have competent and independent counsel preferably:",
+    "choices": [
+      "from the Public Attorney's Office only",
+      "of his own choice",
+      "appointed by the police",
+      "approved by the court"
+    ],
+    "answer": 1,
+    "explanation": "Section 12 guarantees the right to remain silent and to competent and independent counsel preferably of the person's own choice (the Miranda rights).",
+    "source": "1987 Constitution, Art. III, Sec. 12",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "right to remain silent and to have competent and independent counsel preferably of his own choice"
+  },
+  {
+    "id": "cse-gen-constitution-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article III, Section 19 prohibits all of the following EXCEPT:",
+    "choices": [
+      "Excessive fines",
+      "Imposing the death penalty without a law passed for compelling reasons involving heinous crimes",
+      "Reasonable fines set by law",
+      "Cruel, degrading or inhuman punishment"
+    ],
+    "answer": 2,
+    "explanation": "Section 19(1) bars excessive fines and cruel, degrading or inhuman punishment, and bars the death penalty unless Congress provides for it for compelling reasons involving heinous crimes. Reasonable fines are not prohibited.",
+    "source": "1987 Constitution, Art. III, Sec. 19",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Excessive fines shall not be imposed, nor cruel, degrading or inhuman punishment inflicted."
+  },
+  {
+    "id": "cse-gen-constitution-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "According to Article III, Section 20, no person shall be imprisoned for:",
+    "choices": [
+      "theft",
+      "violation of a traffic law",
+      "contempt of court",
+      "debt or non-payment of a poll tax"
+    ],
+    "answer": 3,
+    "explanation": "Section 20 provides that no person shall be imprisoned for debt or non-payment of a poll tax.",
+    "source": "1987 Constitution, Art. III, Sec. 20",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "No person shall be imprisoned for debt or non-payment of a poll tax."
+  },
+  {
+    "id": "cse-gen-constitution-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "\"No person shall be twice put in jeopardy of punishment for the same offense.\" This constitutional guarantee is known as the protection against:",
+    "choices": [
+      "bills of attainder",
+      "ex post facto laws",
+      "double jeopardy",
+      "self-incrimination"
+    ],
+    "answer": 2,
+    "explanation": "Article III, Section 21 protects against being tried or punished twice for the same offense, known as double jeopardy.",
+    "source": "1987 Constitution, Art. III, Sec. 21",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No person shall be twice put in jeopardy of punishment for the same offense."
+  },
+  {
+    "id": "cse-gen-constitution-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article III, Section 22 prohibits the enactment of:",
+    "choices": [
+      "tax laws and tariff bills",
+      "ex post facto laws and bills of attainder",
+      "laws of local application",
+      "appropriation laws"
+    ],
+    "answer": 1,
+    "explanation": "Section 22 states that no ex post facto law or bill of attainder shall be enacted.",
+    "source": "1987 Constitution, Art. III, Sec. 22",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No ex post facto law or bill of attainder shall be enacted."
+  },
+  {
+    "id": "cse-gen-constitution-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article IV, natural-born citizens are those who are citizens of the Philippines from birth:",
+    "choices": [
+      "after residing in the country for ten years",
+      "without having to perform any act to acquire or perfect their Philippine citizenship",
+      "after taking an oath of allegiance",
+      "only if both parents are Filipino"
+    ],
+    "answer": 1,
+    "explanation": "Article IV, Section 2 defines natural-born citizens as those who are citizens from birth without having to perform any act to acquire or perfect their citizenship.",
+    "source": "1987 Constitution, Art. IV, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "citizens of the Philippines from birth without having to perform any act to acquire or perfect their Philippine citizenship"
+  },
+  {
+    "id": "cse-gen-constitution-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article IV, Section 1, which of the following are citizens of the Philippines?",
+    "choices": [
+      "Only those born on Philippine soil",
+      "Anyone who has lived in the Philippines for five years",
+      "Only those whose fathers are citizens",
+      "Those whose fathers or mothers are citizens of the Philippines"
+    ],
+    "answer": 3,
+    "explanation": "Article IV, Section 1(2) includes those whose fathers or mothers are citizens of the Philippines. Citizenship follows blood (jus sanguinis), through either parent.",
+    "source": "1987 Constitution, Art. IV, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Those whose fathers or mothers are citizens of the Philippines"
+  },
+  {
+    "id": "cse-gen-constitution-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article V, what is the minimum age to exercise the right of suffrage?",
+    "choices": [
+      "15 years old",
+      "21 years old",
+      "18 years old",
+      "25 years old"
+    ],
+    "answer": 2,
+    "explanation": "Article V, Section 1 grants suffrage to citizens not otherwise disqualified by law who are at least eighteen years of age and meet the residence requirements.",
+    "source": "1987 Constitution, Art. V, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "at least eighteen years of age"
+  },
+  {
+    "id": "cse-gen-constitution-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "To vote, a citizen must have resided in the Philippines for at least one year and in the place where they propose to vote for at least how long immediately preceding the election?",
+    "choices": [
+      "Two years",
+      "One year",
+      "Three months",
+      "Six months"
+    ],
+    "answer": 3,
+    "explanation": "Article V, Section 1 requires at least one year of residence in the Philippines and at least six months in the place where the voter proposes to vote.",
+    "source": "1987 Constitution, Art. V, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "for at least six months immediately preceding the election"
+  },
+  {
+    "id": "cse-gen-constitution-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which requirement does Article V expressly forbid imposing on the exercise of suffrage?",
+    "choices": [
+      "Residence",
+      "Literacy or property requirements",
+      "Minimum age",
+      "Philippine citizenship"
+    ],
+    "answer": 1,
+    "explanation": "Article V, Section 1 provides that no literacy, property, or other substantive requirement shall be imposed on the exercise of suffrage.",
+    "source": "1987 Constitution, Art. V, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No literacy, property, or other substantive requirement shall be imposed on the exercise of suffrage."
+  },
+  {
+    "id": "cse-gen-constitution-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "How many Senators compose the Senate under the 1987 Constitution?",
+    "choices": [
+      "30",
+      "25",
+      "24",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Article VI, Section 2 provides that the Senate shall be composed of twenty-four Senators elected at large.",
+    "source": "1987 Constitution, Art. VI, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The Senate shall be composed of twenty-four Senators who shall be elected at large by the qualified voters of the Philippines"
+  },
+  {
+    "id": "cse-gen-constitution-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "What is the minimum age requirement for a Senator on the day of the election?",
+    "choices": [
+      "25 years old",
+      "35 years old",
+      "40 years old",
+      "30 years old"
+    ],
+    "answer": 1,
+    "explanation": "Article VI, Section 3 requires a Senator to be at least thirty-five years of age on the day of the election.",
+    "source": "1987 Constitution, Art. VI, Sec. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "on the day of the election, is at least thirty-five years of age"
+  },
+  {
+    "id": "cse-gen-constitution-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "A Senator may serve for no more than how many consecutive terms?",
+    "choices": [
+      "Four",
+      "Three",
+      "Two",
+      "One"
+    ],
+    "answer": 2,
+    "explanation": "Article VI, Section 4 provides that no Senator shall serve for more than two consecutive terms. A Senate term is six years.",
+    "source": "1987 Constitution, Art. VI, Sec. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No Senator shall serve for more than two consecutive terms."
+  },
+  {
+    "id": "cse-gen-constitution-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "What is the minimum age requirement for a Member of the House of Representatives?",
+    "choices": [
+      "21 years old",
+      "35 years old",
+      "25 years old",
+      "30 years old"
+    ],
+    "answer": 2,
+    "explanation": "Article VI, Section 6 requires a Member of the House to be at least twenty-five years of age on the day of the election.",
+    "source": "1987 Constitution, Art. VI, Sec. 6",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "on the day of the election, is at least twenty-five years of age"
+  },
+  {
+    "id": "cse-gen-constitution-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "A Member of the House of Representatives may serve for no more than how many consecutive terms?",
+    "choices": [
+      "Three",
+      "Four",
+      "Two",
+      "There is no limit"
+    ],
+    "answer": 0,
+    "explanation": "Article VI, Section 7 limits House Members to three consecutive three-year terms.",
+    "source": "1987 Constitution, Art. VI, Sec. 7",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No Member of the House of Representatives shall serve for more than three consecutive terms."
+  },
+  {
+    "id": "cse-gen-constitution-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Party-list representatives shall constitute what share of the total number of representatives, including those under the party list?",
+    "choices": [
+      "50%",
+      "25%",
+      "20%",
+      "10%"
+    ],
+    "answer": 2,
+    "explanation": "Article VI, Section 5(2) sets party-list representatives at twenty per centum of the total number of representatives.",
+    "source": "1987 Constitution, Art. VI, Sec. 5",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The party-list representatives shall constitute twenty per centum of the total number of representatives including those under the party list."
+  },
+  {
+    "id": "cse-gen-constitution-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Appropriation, revenue or tariff bills must originate exclusively in:",
+    "choices": [
+      "the Office of the President",
+      "the House of Representatives",
+      "the Senate",
+      "the Department of Budget and Management"
+    ],
+    "answer": 1,
+    "explanation": "Article VI, Section 24 requires appropriation, revenue or tariff bills, among others, to originate exclusively in the House of Representatives, though the Senate may propose or concur with amendments.",
+    "source": "1987 Constitution, Art. VI, Sec. 24",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "shall originate exclusively in the House of Representatives"
+  },
+  {
+    "id": "cse-gen-constitution-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article VI, Section 26, every bill passed by Congress shall embrace:",
+    "choices": [
+      "at least two related subjects",
+      "the approval of the President beforehand",
+      "a budget estimate",
+      "only one subject, expressed in its title"
+    ],
+    "answer": 3,
+    "explanation": "Section 26(1) of Article VI is the one-subject, one-title rule.",
+    "source": "1987 Constitution, Art. VI, Sec. 26",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Every bill passed by the Congress shall embrace only one subject which shall be expressed in the title thereof."
+  },
+  {
+    "id": "cse-gen-constitution-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "To declare the existence of a state of war, Congress must vote by:",
+    "choices": [
+      "a simple majority of the Senate",
+      "two-thirds of both Houses in joint session assembled, voting separately",
+      "three-fourths of all Members voting jointly",
+      "a majority of the House of Representatives"
+    ],
+    "answer": 1,
+    "explanation": "Article VI, Section 23(1) gives Congress the sole power to declare the existence of a state of war, by a vote of two-thirds of both Houses in joint session assembled, voting separately.",
+    "source": "1987 Constitution, Art. VI, Sec. 23",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "by a vote of two-thirds of both Houses in joint session assembled, voting separately"
+  },
+  {
+    "id": "cse-gen-constitution-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "What is the minimum age requirement for President of the Philippines on the day of the election?",
+    "choices": [
+      "45 years old",
+      "50 years old",
+      "35 years old",
+      "40 years old"
+    ],
+    "answer": 3,
+    "explanation": "Article VII, Section 2 requires the President to be at least forty years of age on the day of the election.",
+    "source": "1987 Constitution, Art. VII, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "at least forty years of age on the day of the election"
+  },
+  {
+    "id": "cse-gen-constitution-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under the 1987 Constitution, the President:",
+    "choices": [
+      "may serve two consecutive terms",
+      "may run again after a six-year gap",
+      "is not eligible for any re-election",
+      "may serve up to twelve years"
+    ],
+    "answer": 2,
+    "explanation": "Article VII, Section 4 provides that the President shall not be eligible for any re-election.",
+    "source": "1987 Constitution, Art. VII, Sec. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The President shall not be eligible for any re-election."
+  },
+  {
+    "id": "cse-gen-constitution-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "A Vice-President may serve for no more than how many successive terms?",
+    "choices": [
+      "Three",
+      "One",
+      "There is no limit",
+      "Two"
+    ],
+    "answer": 3,
+    "explanation": "Article VII, Section 4 provides that no Vice-President shall serve for more than two successive terms.",
+    "source": "1987 Constitution, Art. VII, Sec. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No Vice-President shall serve for more than two successive terms."
+  },
+  {
+    "id": "cse-gen-constitution-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The President may place the Philippines under martial law for a period not exceeding:",
+    "choices": [
+      "30 days",
+      "1 year",
+      "60 days",
+      "90 days"
+    ],
+    "answer": 2,
+    "explanation": "Article VII, Section 18 limits a proclamation of martial law or suspension of the privilege of the writ of habeas corpus to a period not exceeding sixty days, unless extended by Congress.",
+    "source": "1987 Constitution, Art. VII, Sec. 18",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "for a period not exceeding sixty days"
+  },
+  {
+    "id": "cse-gen-constitution-041",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Within how many hours after proclaiming martial law must the President submit a report to Congress?",
+    "choices": [
+      "72 hours",
+      "24 hours",
+      "7 days",
+      "48 hours"
+    ],
+    "answer": 3,
+    "explanation": "Article VII, Section 18 requires the President to submit a report in person or in writing to Congress within forty-eight hours from the proclamation or suspension.",
+    "source": "1987 Constitution, Art. VII, Sec. 18",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "within forty-eight hours"
+  },
+  {
+    "id": "cse-gen-constitution-042",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "If both the President and Vice-President die, are permanently disabled, are removed, or resign, who shall act as President?",
+    "choices": [
+      "The Executive Secretary",
+      "The President of the Senate",
+      "The Secretary of National Defense",
+      "The Chief Justice"
+    ],
+    "answer": 1,
+    "explanation": "Article VII, Section 8 provides that the President of the Senate or, in case of his inability, the Speaker of the House shall act as President until a President or Vice-President is elected and qualified.",
+    "source": "1987 Constitution, Art. VII, Sec. 8",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "the President of the Senate or, in case of his inability, the Speaker of the House of Representatives, shall then act as President"
+  },
+  {
+    "id": "cse-gen-constitution-043",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The President's power to grant reprieves, commutations, and pardons does NOT extend to:",
+    "choices": [
+      "crimes committed by public officials",
+      "cases of impeachment",
+      "crimes punishable by imprisonment",
+      "persons convicted by final judgment"
+    ],
+    "answer": 1,
+    "explanation": "Article VII, Section 19 allows the President to grant reprieves, commutations, pardons and remit fines and forfeitures after conviction by final judgment, except in cases of impeachment.",
+    "source": "1987 Constitution, Art. VII, Sec. 19",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Except in cases of impeachment"
+  },
+  {
+    "id": "cse-gen-constitution-044",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "For a treaty or international agreement to be valid and effective, it must be concurred in by at least:",
+    "choices": [
+      "three-fourths of Congress in joint session",
+      "a majority of the House of Representatives",
+      "the Supreme Court",
+      "two-thirds of all the Members of the Senate"
+    ],
+    "answer": 3,
+    "explanation": "Article VII, Section 21 requires the concurrence of at least two-thirds of all the Members of the Senate.",
+    "source": "1987 Constitution, Art. VII, Sec. 21",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "concurred in by at least two-thirds of all the Members of the Senate"
+  },
+  {
+    "id": "cse-gen-constitution-045",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The Supreme Court is composed of a Chief Justice and how many Associate Justices?",
+    "choices": [
+      "12",
+      "10",
+      "15",
+      "14"
+    ],
+    "answer": 3,
+    "explanation": "Article VIII, Section 4(1) provides that the Supreme Court shall be composed of a Chief Justice and fourteen Associate Justices, fifteen members in all.",
+    "source": "1987 Constitution, Art. VIII, Sec. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "composed of a Chief Justice and fourteen Associate Justices"
+  },
+  {
+    "id": "cse-gen-constitution-046",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Members of the Supreme Court and judges of lower courts hold office during good behavior until they reach the age of:",
+    "choices": [
+      "60",
+      "70",
+      "75",
+      "65"
+    ],
+    "answer": 1,
+    "explanation": "Article VIII, Section 11 provides that they hold office during good behavior until they reach the age of seventy years or become incapacitated.",
+    "source": "1987 Constitution, Art. VIII, Sec. 11",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "until they reach the age of seventy years"
+  },
+  {
+    "id": "cse-gen-constitution-047",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Cases filed before the Supreme Court must be decided within how long from the date of submission?",
+    "choices": [
+      "36 months",
+      "12 months",
+      "24 months",
+      "6 months"
+    ],
+    "answer": 2,
+    "explanation": "Article VIII, Section 15(1) sets twenty-four months for the Supreme Court, twelve months for lower collegiate courts, and three months for other lower courts.",
+    "source": "1987 Constitution, Art. VIII, Sec. 15",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "within twenty-four months from date of submission for the Supreme Court"
+  },
+  {
+    "id": "cse-gen-constitution-048",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The Judicial and Bar Council, which recommends appointees to the Judiciary, is under the supervision of:",
+    "choices": [
+      "the President",
+      "the Supreme Court",
+      "the Department of Justice",
+      "the Integrated Bar of the Philippines"
+    ],
+    "answer": 1,
+    "explanation": "Article VIII, Section 8(1) creates the Judicial and Bar Council under the supervision of the Supreme Court.",
+    "source": "1987 Constitution, Art. VIII, Sec. 8",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "A Judicial and Bar Council is hereby created under the supervision of the Supreme Court"
+  },
+  {
+    "id": "cse-gen-constitution-049",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which of the following is NOT one of the independent Constitutional Commissions?",
+    "choices": [
+      "Commission on Human Rights",
+      "Commission on Elections",
+      "Commission on Audit",
+      "Civil Service Commission"
+    ],
+    "answer": 0,
+    "explanation": "Article IX-A, Section 1 names only three independent Constitutional Commissions: the Civil Service Commission, the Commission on Elections, and the Commission on Audit. The Commission on Human Rights is created under Article XIII.",
+    "source": "1987 Constitution, Art. IX-A, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The Constitutional Commissions, which shall be independent, are the Civil Service Commission, the Commission on Elections, and the Commission on Audit."
+  },
+  {
+    "id": "cse-gen-constitution-050",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The Civil Service Commission is composed of:",
+    "choices": [
+      "five Commissioners with a rotating Chair",
+      "a Chairman and two Commissioners",
+      "a Chairman and six Commissioners",
+      "a Chairman and four Commissioners"
+    ],
+    "answer": 1,
+    "explanation": "Article IX-B, Section 1(1) provides that the civil service shall be administered by the Civil Service Commission composed of a Chairman and two Commissioners.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Civil Service Commission composed of a Chairman and two Commissioners"
+  },
+  {
+    "id": "cse-gen-constitution-051",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The civil service embraces all branches, subdivisions, instrumentalities, and agencies of the Government, including government-owned or controlled corporations:",
+    "choices": [
+      "created after 1987",
+      "registered with the SEC",
+      "earning a profit",
+      "with original charters"
+    ],
+    "answer": 3,
+    "explanation": "Article IX-B, Section 2(1) includes GOCCs with original charters. GOCCs incorporated under the general corporation law are outside the civil service.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "including government-owned or controlled corporations with original charters"
+  },
+  {
+    "id": "cse-gen-constitution-052",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Appointments in the civil service shall be made only according to:",
+    "choices": [
+      "length of residence",
+      "merit and fitness",
+      "political endorsement",
+      "seniority and age"
+    ],
+    "answer": 1,
+    "explanation": "Article IX-B, Section 2(2) requires appointments according to merit and fitness, determined as far as practicable by competitive examination, with stated exceptions.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Appointments in the civil service shall be made only according to merit and fitness"
+  },
+  {
+    "id": "cse-gen-constitution-053",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Competitive examination is generally required for civil service appointments, EXCEPT for positions that are:",
+    "choices": [
+      "policy-determining, primarily confidential, or highly technical",
+      "in local government units",
+      "clerical, custodial, or in the trades",
+      "in government-owned corporations"
+    ],
+    "answer": 0,
+    "explanation": "Article IX-B, Section 2(2) exempts positions which are policy-determining, primarily confidential, or highly technical from the competitive-examination requirement.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "except to positions which are policy-determining, primarily confidential, or highly technical"
+  },
+  {
+    "id": "cse-gen-constitution-054",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under the Constitution, an officer or employee of the civil service may be removed or suspended only:",
+    "choices": [
+      "when the agency's budget is cut",
+      "for cause provided by law",
+      "upon the request of a superior",
+      "after one year of service"
+    ],
+    "answer": 1,
+    "explanation": "Article IX-B, Section 2(3) guarantees security of tenure: no officer or employee of the civil service shall be removed or suspended except for cause provided by law.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "No officer or employee of the civil service shall be removed or suspended except for cause provided by law."
+  },
+  {
+    "id": "cse-gen-constitution-055",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Civil service officers and employees are prohibited from engaging, directly or indirectly, in:",
+    "choices": [
+      "electioneering or partisan political campaigns",
+      "continuing their education",
+      "joining employee unions",
+      "voting in national elections"
+    ],
+    "answer": 0,
+    "explanation": "Article IX-B, Section 2(4) prohibits civil service officers and employees from engaging in any electioneering or partisan political campaign.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "No officer or employee in the civil service shall engage, directly or indirectly, in any electioneering or partisan political campaign."
+  },
+  {
+    "id": "cse-gen-constitution-056",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "According to Article IX-B, the right to self-organization of government employees:",
+    "choices": [
+      "is suspended during elections",
+      "shall not be denied",
+      "requires CSC approval for each union",
+      "applies only to employees of GOCCs"
+    ],
+    "answer": 1,
+    "explanation": "Article IX-B, Section 2(5) states that the right to self-organization shall not be denied to government employees.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The right to self-organization shall not be denied to government employees."
+  },
+  {
+    "id": "cse-gen-constitution-057",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "A candidate who lost in an election may NOT be appointed to any government office within what period after the election?",
+    "choices": [
+      "One year",
+      "Three years",
+      "Six months",
+      "Two years"
+    ],
+    "answer": 0,
+    "explanation": "Article IX-B, Section 6 bars losing candidates from appointment to any office in the Government, or any GOCC or its subsidiaries, within one year after the election.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 6",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No candidate who has lost in any election, shall within one year after such election, be appointed to any office in the Government"
+  },
+  {
+    "id": "cse-gen-constitution-058",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Unless specifically authorized by law, an elective or appointive public officer or employee may NOT receive:",
+    "choices": [
+      "retirement benefits",
+      "a salary increase",
+      "overtime pay approved by the agency",
+      "additional, double, or indirect compensation"
+    ],
+    "answer": 3,
+    "explanation": "Article IX-B, Section 8 prohibits additional, double, or indirect compensation unless specifically authorized by law.",
+    "source": "1987 Constitution, Art. IX-B, Sec. 8",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No elective or appointive public officer or employee shall receive additional, double, or indirect compensation, unless specifically authorized by law"
+  },
+  {
+    "id": "cse-gen-constitution-059",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The Commission on Elections is composed of a Chairman and how many Commissioners?",
+    "choices": [
+      "Two",
+      "Four",
+      "Eight",
+      "Six"
+    ],
+    "answer": 3,
+    "explanation": "Article IX-C, Section 1(1) provides for a Chairman and six Commissioners. The CSC and COA each have a Chairman and two Commissioners.",
+    "source": "1987 Constitution, Art. IX-C, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "composed of a Chairman and six Commissioners"
+  },
+  {
+    "id": "cse-gen-constitution-060",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "For purposes of the three-term limit of local elective officials, voluntary renunciation of the office:",
+    "choices": [
+      "is not considered an interruption in the continuity of service",
+      "is allowed only once",
+      "counts as two terms served",
+      "resets the term count to zero"
+    ],
+    "answer": 0,
+    "explanation": "Article X, Section 8 provides that voluntary renunciation of the office for any length of time shall not be considered an interruption in the continuity of service.",
+    "source": "1987 Constitution, Art. X, Sec. 8",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of his service for the full term for which he was elected."
+  },
+  {
+    "id": "cse-gen-constitution-061",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article XI, Section 1 of the Constitution declares that public office is a:",
+    "choices": [
+      "lifetime right",
+      "public trust",
+      "private privilege",
+      "political reward"
+    ],
+    "answer": 1,
+    "explanation": "Article XI, Section 1 states that public office is a public trust, and that public officers must at all times be accountable to the people.",
+    "source": "1987 Constitution, Art. XI, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "Public office is a public trust."
+  },
+  {
+    "id": "cse-gen-constitution-062",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which of the following officials is NOT removable by impeachment?",
+    "choices": [
+      "The Senate President",
+      "The Ombudsman",
+      "The Vice-President",
+      "A Member of the Supreme Court"
+    ],
+    "answer": 0,
+    "explanation": "Article XI, Section 2 lists the impeachable officers: the President, the Vice-President, the Members of the Supreme Court, the Members of the Constitutional Commissions, and the Ombudsman.",
+    "source": "1987 Constitution, Art. XI, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The President, the Vice-President, the Members of the Supreme Court, the Members of the Constitutional Commissions, and the Ombudsman may be removed from office on impeachment"
+  },
+  {
+    "id": "cse-gen-constitution-063",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which body has the exclusive power to initiate all cases of impeachment?",
+    "choices": [
+      "The Senate",
+      "The Supreme Court",
+      "The Office of the Ombudsman",
+      "The House of Representatives"
+    ],
+    "answer": 3,
+    "explanation": "Article XI, Section 3(1) gives the House of Representatives the exclusive power to initiate all cases of impeachment. The Senate tries and decides them.",
+    "source": "1987 Constitution, Art. XI, Sec. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The House of Representatives shall have the exclusive power to initiate all cases of impeachment."
+  },
+  {
+    "id": "cse-gen-constitution-064",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Which body has the sole power to try and decide all cases of impeachment?",
+    "choices": [
+      "The Supreme Court",
+      "The House of Representatives",
+      "The Senate",
+      "The Sandiganbayan"
+    ],
+    "answer": 2,
+    "explanation": "Article XI, Section 3(6) gives the Senate the sole power to try and decide all cases of impeachment.",
+    "source": "1987 Constitution, Art. XI, Sec. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The Senate shall have the sole power to try and decide all cases of impeachment."
+  },
+  {
+    "id": "cse-gen-constitution-065",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "No impeachment proceedings shall be initiated against the same official more than once within a period of:",
+    "choices": [
+      "the official's term",
+      "six months",
+      "one year",
+      "two years"
+    ],
+    "answer": 2,
+    "explanation": "Article XI, Section 3(5) bars initiating impeachment proceedings against the same official more than once within a period of one year.",
+    "source": "1987 Constitution, Art. XI, Sec. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "No impeachment proceedings shall be initiated against the same official more than once within a period of one year."
+  },
+  {
+    "id": "cse-gen-constitution-066",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Upon assumption of office, a public officer or employee must submit a declaration under oath of their:",
+    "choices": [
+      "educational credentials",
+      "assets, liabilities, and net worth",
+      "medical and psychological history",
+      "political party affiliation"
+    ],
+    "answer": 1,
+    "explanation": "Article XI, Section 17 requires a declaration under oath of assets, liabilities, and net worth upon assumption of office and as often as required by law, the basis of the SALN.",
+    "source": "1987 Constitution, Art. XI, Sec. 17",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "submit a declaration under oath of his assets, liabilities, and net worth"
+  },
+  {
+    "id": "cse-gen-constitution-067",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "The Office of the Ombudsman is also known as the:",
+    "choices": [
+      "Sandiganbayan",
+      "Batasan",
+      "Tanodbayan",
+      "Kawanihan"
+    ],
+    "answer": 2,
+    "explanation": "Article XI, Section 5 creates the independent Office of the Ombudsman, to be known as the Tanodbayan.",
+    "source": "1987 Constitution, Art. XI, Sec. 5",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "Tanodbayan"
+  },
+  {
+    "id": "cse-gen-constitution-068",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Corporations allowed to enter into co-production, joint venture, or production-sharing agreements for natural resources must be at least what percent owned by Filipino citizens?",
+    "choices": [
+      "51%",
+      "40%",
+      "75%",
+      "60%"
+    ],
+    "answer": 3,
+    "explanation": "Article XII, Section 2 refers to corporations or associations at least sixty per centum of whose capital is owned by Filipino citizens.",
+    "source": "1987 Constitution, Art. XII, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "at least sixty per centum of whose capital is owned by such citizens"
+  },
+  {
+    "id": "cse-gen-constitution-069",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "According to the Constitution, the national language of the Philippines is:",
+    "choices": [
+      "Filipino",
+      "Filipino and English",
+      "Tagalog",
+      "English"
+    ],
+    "answer": 0,
+    "explanation": "Article XIV, Section 6 states that the national language of the Philippines is Filipino. Filipino and English are the official languages (Section 7).",
+    "source": "1987 Constitution, Art. XIV, Sec. 6",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The national language of the Philippines is Filipino."
+  },
+  {
+    "id": "cse-gen-constitution-070",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "For purposes of communication and instruction, the official languages of the Philippines are:",
+    "choices": [
+      "Filipino only",
+      "Filipino and, until otherwise provided by law, English",
+      "Filipino and the regional languages",
+      "English and Spanish"
+    ],
+    "answer": 1,
+    "explanation": "Article XIV, Section 7 makes Filipino and, until otherwise provided by law, English the official languages. Regional languages are auxiliary official languages in the regions.",
+    "source": "1987 Constitution, Art. XIV, Sec. 7",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "the official languages of the Philippines are Filipino and, until otherwise provided by law, English"
+  },
+  {
+    "id": "cse-gen-constitution-071",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article XIV, Section 5, the State shall assign the highest budgetary priority to:",
+    "choices": [
+      "health",
+      "national defense",
+      "education",
+      "infrastructure"
+    ],
+    "answer": 2,
+    "explanation": "Article XIV, Section 5(5) directs the State to assign the highest budgetary priority to education.",
+    "source": "1987 Constitution, Art. XIV, Sec. 5",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The State shall assign the highest budgetary priority to education"
+  },
+  {
+    "id": "cse-gen-constitution-072",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "According to the Constitution, the flag of the Philippines shall be red, white, and blue, with:",
+    "choices": [
+      "a sun and eight stars",
+      "a sun and three stars",
+      "a star and eight rays",
+      "three suns and a star"
+    ],
+    "answer": 1,
+    "explanation": "Article XVI, Section 1 describes the flag as red, white, and blue, with a sun and three stars, as consecrated and honored by the people and recognized by law.",
+    "source": "1987 Constitution, Art. XVI, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "red, white, and blue, with a sun and three stars"
+  },
+  {
+    "id": "cse-gen-constitution-073",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "\"The State may not be sued without its consent\" expresses the doctrine of:",
+    "choices": [
+      "judicial review",
+      "checks and balances",
+      "state immunity from suit",
+      "separation of powers"
+    ],
+    "answer": 2,
+    "explanation": "Article XVI, Section 3 embodies the doctrine of state immunity: the State may not be sued without its consent.",
+    "source": "1987 Constitution, Art. XVI, Sec. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The State may not be sued without its consent."
+  },
+  {
+    "id": "cse-gen-constitution-074",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Article XV, Section 1 recognizes which institution as the foundation of the nation?",
+    "choices": [
+      "The barangay",
+      "The school",
+      "The Church",
+      "The Filipino family"
+    ],
+    "answer": 3,
+    "explanation": "Article XV, Section 1 states that the State recognizes the Filipino family as the foundation of the nation.",
+    "source": "1987 Constitution, Art. XV, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "The State recognizes the Filipino family as the foundation of the nation."
+  },
+  {
+    "id": "cse-gen-constitution-075",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Congress, acting as a constituent assembly, may propose amendments to the Constitution upon a vote of:",
+    "choices": [
+      "a majority of all its Members",
+      "unanimous vote of the Senate",
+      "two-thirds of all its Members",
+      "three-fourths of all its Members"
+    ],
+    "answer": 3,
+    "explanation": "Article XVII, Section 1 allows amendments or revisions to be proposed by Congress upon a vote of three-fourths of all its Members, or by a constitutional convention.",
+    "source": "1987 Constitution, Art. XVII, Sec. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "upon a vote of three-fourths of all its Members"
+  },
+  {
+    "id": "cse-gen-constitution-076",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Amendments through people's initiative require a petition of at least what percentage of the total number of registered voters?",
+    "choices": [
+      "10%",
+      "12%",
+      "20%",
+      "3%"
+    ],
+    "answer": 1,
+    "explanation": "Article XVII, Section 2 requires a petition of at least twelve per centum of all registered voters, with every legislative district represented by at least three per centum of its registered voters.",
+    "source": "1987 Constitution, Art. XVII, Sec. 2",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "at least twelve per centum of the total number of registered voters"
+  },
+  {
+    "id": "cse-gen-constitution-077",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "constitution",
+    "stem": "Under Article XIII, which body is created to investigate all forms of human rights violations involving civil and political rights?",
+    "choices": [
+      "The Office of the Solicitor General",
+      "The Civil Service Commission",
+      "The Commission on Elections",
+      "The Commission on Human Rights"
+    ],
+    "answer": 3,
+    "explanation": "Article XIII, Sections 17 and 18 create the independent Commission on Human Rights and empower it to investigate all forms of human rights violations involving civil and political rights.",
+    "source": "1987 Constitution, Art. XIII, Sec. 18",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights"
+  }
+]

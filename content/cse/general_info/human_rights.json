@@ -1,0 +1,602 @@
+[
+  {
+    "id": "cse-gen-human_rights-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "According to Article 1 of the Universal Declaration of Human Rights, all human beings are born:",
+    "choices": [
+      "equal only before the law",
+      "with duties to the State",
+      "subject to the laws of their country",
+      "free and equal in dignity and rights"
+    ],
+    "answer": 3,
+    "explanation": "Article 1 of the UDHR states that all human beings are born free and equal in dignity and rights, endowed with reason and conscience.",
+    "source": "UDHR, Art. 1",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "All human beings are born free and equal in dignity and rights."
+  },
+  {
+    "id": "cse-gen-human_rights-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 3 of the UDHR guarantees everyone the right to:",
+    "choices": [
+      "free housing",
+      "life, liberty and security of person",
+      "own land",
+      "vote in any country"
+    ],
+    "answer": 1,
+    "explanation": "Article 3 of the UDHR states that everyone has the right to life, liberty and security of person.",
+    "source": "UDHR, Art. 3",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right to life, liberty and security of person."
+  },
+  {
+    "id": "cse-gen-human_rights-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Which UDHR article provides that no one shall be held in slavery or servitude?",
+    "choices": [
+      "Article 21",
+      "Article 9",
+      "Article 4",
+      "Article 1"
+    ],
+    "answer": 2,
+    "explanation": "Article 4 states that no one shall be held in slavery or servitude, and that slavery and the slave trade shall be prohibited in all their forms.",
+    "source": "UDHR, Art. 4",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms."
+  },
+  {
+    "id": "cse-gen-human_rights-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 5 of the UDHR, no one shall be subjected to:",
+    "choices": [
+      "military service",
+      "taxation without representation",
+      "compulsory education",
+      "torture or to cruel, inhuman or degrading treatment or punishment"
+    ],
+    "answer": 3,
+    "explanation": "Article 5 of the UDHR prohibits torture and cruel, inhuman or degrading treatment or punishment.",
+    "source": "UDHR, Art. 5",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment."
+  },
+  {
+    "id": "cse-gen-human_rights-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 9 of the UDHR states that no one shall be subjected to arbitrary:",
+    "choices": [
+      "taxation",
+      "employment",
+      "travel",
+      "arrest, detention or exile"
+    ],
+    "answer": 3,
+    "explanation": "Article 9 provides that no one shall be subjected to arbitrary arrest, detention or exile.",
+    "source": "UDHR, Art. 9",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "No one shall be subjected to arbitrary arrest, detention or exile."
+  },
+  {
+    "id": "cse-gen-human_rights-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 11 of the UDHR, everyone charged with a penal offence has the right to be:",
+    "choices": [
+      "presumed innocent until proved guilty according to law in a public trial",
+      "tried by a jury of their choice",
+      "pardoned on first offence",
+      "released on bail regardless of the offence"
+    ],
+    "answer": 0,
+    "explanation": "Article 11 guarantees the presumption of innocence until proved guilty according to law in a public trial with all guarantees necessary for the defence.",
+    "source": "UDHR, Art. 11",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial"
+  },
+  {
+    "id": "cse-gen-human_rights-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 14 of the UDHR, everyone has the right to seek and to enjoy in other countries:",
+    "choices": [
+      "asylum from persecution",
+      "employment without permits",
+      "diplomatic immunity",
+      "free citizenship"
+    ],
+    "answer": 0,
+    "explanation": "Article 14 recognizes the right to seek and enjoy asylum from persecution, which cannot be invoked for genuinely non-political crimes.",
+    "source": "UDHR, Art. 14",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right to seek and to enjoy in other countries asylum from persecution."
+  },
+  {
+    "id": "cse-gen-human_rights-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 15 of the UDHR provides that everyone has the right to:",
+    "choices": [
+      "free international travel",
+      "a nationality",
+      "dual citizenship",
+      "a passport from any country"
+    ],
+    "answer": 1,
+    "explanation": "Article 15 states that everyone has the right to a nationality and that no one shall be arbitrarily deprived of it.",
+    "source": "UDHR, Art. 15",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right to a nationality."
+  },
+  {
+    "id": "cse-gen-human_rights-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "According to Article 16 of the UDHR, marriage shall be entered into only with:",
+    "choices": [
+      "the consent of both families",
+      "the approval of the State",
+      "a religious ceremony",
+      "the free and full consent of the intending spouses"
+    ],
+    "answer": 3,
+    "explanation": "Article 16 requires the free and full consent of the intending spouses and calls the family the natural and fundamental group unit of society.",
+    "source": "UDHR, Art. 16",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Marriage shall be entered into only with the free and full consent of the intending spouses."
+  },
+  {
+    "id": "cse-gen-human_rights-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 20 of the UDHR, which statement is true about associations?",
+    "choices": [
+      "Only citizens may form associations",
+      "Associations require government membership",
+      "No one may be compelled to belong to an association",
+      "Everyone must join at least one association"
+    ],
+    "answer": 2,
+    "explanation": "Article 20 guarantees freedom of peaceful assembly and association, and states that no one may be compelled to belong to an association.",
+    "source": "UDHR, Art. 20",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "No one may be compelled to belong to an association."
+  },
+  {
+    "id": "cse-gen-human_rights-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 21 of the UDHR recognizes everyone's right of equal access to:",
+    "choices": [
+      "government subsidies",
+      "free university education",
+      "private employment abroad",
+      "public service in his country"
+    ],
+    "answer": 3,
+    "explanation": "Article 21 states that everyone has the right of equal access to public service in his country, and that the will of the people is the basis of the authority of government.",
+    "source": "UDHR, Art. 21",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right of equal access to public service in his country."
+  },
+  {
+    "id": "cse-gen-human_rights-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 23 of the UDHR provides that everyone, without any discrimination, has the right to:",
+    "choices": [
+      "tax exemption",
+      "a government job",
+      "early retirement",
+      "equal pay for equal work"
+    ],
+    "answer": 3,
+    "explanation": "Article 23 guarantees the right to work, to free choice of employment, and to equal pay for equal work, without discrimination.",
+    "source": "UDHR, Art. 23",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone, without any discrimination, has the right to equal pay for equal work."
+  },
+  {
+    "id": "cse-gen-human_rights-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 24 of the UDHR recognizes the right to rest and leisure, including:",
+    "choices": [
+      "reasonable limitation of working hours and periodic holidays with pay",
+      "free travel",
+      "a four-day work week",
+      "unlimited sick leave"
+    ],
+    "answer": 0,
+    "explanation": "Article 24 states that everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.",
+    "source": "UDHR, Art. 24",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay."
+  },
+  {
+    "id": "cse-gen-human_rights-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 26 of the UDHR, education shall be free at least in the:",
+    "choices": [
+      "technical and vocational stage",
+      "secondary stage",
+      "elementary and fundamental stages",
+      "tertiary stage"
+    ],
+    "answer": 2,
+    "explanation": "Article 26 provides that education shall be free, at least in the elementary and fundamental stages, and that elementary education shall be compulsory.",
+    "source": "UDHR, Art. 26",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Education shall be free, at least in the elementary and fundamental stages."
+  },
+  {
+    "id": "cse-gen-human_rights-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "According to Article 26 of the UDHR, who has a prior right to choose the kind of education given to their children?",
+    "choices": [
+      "The State",
+      "Parents",
+      "The children themselves",
+      "Teachers"
+    ],
+    "answer": 1,
+    "explanation": "Article 26 states that parents have a prior right to choose the kind of education that shall be given to their children.",
+    "source": "UDHR, Art. 26",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Parents have a prior right to choose the kind of education that shall be given to their children."
+  },
+  {
+    "id": "cse-gen-human_rights-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 29 of the UDHR states that, in exercising their rights and freedoms, everyone shall be subject only to limitations that are:",
+    "choices": [
+      "imposed by the majority party",
+      "decided by each person's employer",
+      "determined by law to secure respect for the rights of others and meet just requirements of morality, public order and general welfare",
+      "set by international courts only"
+    ],
+    "answer": 2,
+    "explanation": "Article 29 allows only limitations determined by law solely to secure due recognition and respect for the rights and freedoms of others and to meet the just requirements of morality, public order and the general welfare in a democratic society.",
+    "source": "UDHR, Art. 29",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 3,
+    "source_doc": "udhr",
+    "quote": "everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others"
+  },
+  {
+    "id": "cse-gen-human_rights-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 12 of the UDHR protects against arbitrary interference with a person's:",
+    "choices": [
+      "political party",
+      "privacy, family, home or correspondence",
+      "criminal record",
+      "business profits"
+    ],
+    "answer": 1,
+    "explanation": "Article 12 states that no one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation.",
+    "source": "UDHR, Art. 12",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence"
+  },
+  {
+    "id": "cse-gen-human_rights-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 13 of the UDHR, everyone has the right to leave any country, including his own, and to:",
+    "choices": [
+      "acquire a new nationality automatically",
+      "return to his country",
+      "work in any country",
+      "vote abroad"
+    ],
+    "answer": 1,
+    "explanation": "Article 13 guarantees freedom of movement within a state and the right to leave any country, including one's own, and to return to one's country.",
+    "source": "UDHR, Art. 13",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right to leave any country, including his own, and to return to his country."
+  },
+  {
+    "id": "cse-gen-human_rights-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under the 1987 Constitution, which body may investigate all forms of human rights violations involving civil and political rights, on its own or on complaint?",
+    "choices": [
+      "The Commission on Audit",
+      "The Philippine National Police",
+      "The Department of Social Welfare and Development",
+      "The Commission on Human Rights"
+    ],
+    "answer": 3,
+    "explanation": "Article XIII, Section 18 empowers the Commission on Human Rights to investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights.",
+    "source": "1987 Constitution, Art. XIII, Sec. 18",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "all forms of human rights violations involving civil and political rights"
+  },
+  {
+    "id": "cse-gen-human_rights-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "The 1987 Constitution provides that the State values the dignity of every human person and guarantees:",
+    "choices": [
+      "full respect for human rights",
+      "lifetime security of tenure",
+      "employment for every citizen",
+      "free healthcare for all"
+    ],
+    "answer": 0,
+    "explanation": "Article II, Section 11 states that the State values the dignity of every human person and guarantees full respect for human rights.",
+    "source": "1987 Constitution, Art. II, Sec. 11",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The State values the dignity of every human person and guarantees full respect for human rights."
+  },
+  {
+    "id": "cse-gen-human_rights-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 12(2) of the Constitution, which of the following is prohibited against a person under investigation?",
+    "choices": [
+      "Being informed of the right to counsel",
+      "Torture, force, violence, threat or intimidation",
+      "Being provided with an interpreter",
+      "Being allowed to contact family"
+    ],
+    "answer": 1,
+    "explanation": "Article III, Section 12(2) states that no torture, force, violence, threat, intimidation, or any other means which vitiate the free will shall be used against such person.",
+    "source": "1987 Constitution, Art. III, Sec. 12",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No torture, force, violence, threat, intimidation, or any other means which vitiate the free will shall be used against him."
+  },
+  {
+    "id": "cse-gen-human_rights-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 13 of the Constitution, the right to bail shall not be impaired even when:",
+    "choices": [
+      "the privilege of the writ of habeas corpus is suspended",
+      "the case is on appeal",
+      "the accused is a foreigner",
+      "the accused is a public official"
+    ],
+    "answer": 0,
+    "explanation": "Article III, Section 13 states that the right to bail shall not be impaired even when the privilege of the writ of habeas corpus is suspended.",
+    "source": "1987 Constitution, Art. III, Sec. 13",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The right to bail shall not be impaired even when the privilege of the writ of habeas corpus is suspended."
+  },
+  {
+    "id": "cse-gen-human_rights-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article III, Section 18 of the Constitution states that no person shall be detained solely by reason of his:",
+    "choices": [
+      "political beliefs and aspirations",
+      "nationality",
+      "debts",
+      "criminal record"
+    ],
+    "answer": 0,
+    "explanation": "Article III, Section 18(1) provides that no person shall be detained solely by reason of his political beliefs and aspirations.",
+    "source": "1987 Constitution, Art. III, Sec. 18",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No person shall be detained solely by reason of his political beliefs and aspirations."
+  },
+  {
+    "id": "cse-gen-human_rights-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 18(2), involuntary servitude in any form shall not exist EXCEPT as:",
+    "choices": [
+      "a punishment for a crime whereof the party shall have been duly convicted",
+      "required by an employer",
+      "part of military training",
+      "payment for debts"
+    ],
+    "answer": 0,
+    "explanation": "Article III, Section 18(2) prohibits involuntary servitude except as punishment for a crime for which the party has been duly convicted.",
+    "source": "1987 Constitution, Art. III, Sec. 18",
+    "method": "llm-grounded",
+    "status": "draft",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "No involuntary servitude in any form shall exist except as a punishment for a crime whereof the party shall have been duly convicted."
+  }
+]
