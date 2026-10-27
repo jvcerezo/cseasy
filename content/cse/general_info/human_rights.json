@@ -19,7 +19,7 @@
     "explanation": "Article 1 of the UDHR states that all human beings are born free and equal in dignity and rights, endowed with reason and conscience.",
     "source": "UDHR, Art. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "All human beings are born free and equal in dignity and rights."
@@ -44,7 +44,7 @@
     "explanation": "Article 3 of the UDHR states that everyone has the right to life, liberty and security of person.",
     "source": "UDHR, Art. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "Everyone has the right to life, liberty and security of person."
@@ -69,7 +69,7 @@
     "explanation": "Article 4 states that no one shall be held in slavery or servitude, and that slavery and the slave trade shall be prohibited in all their forms.",
     "source": "UDHR, Art. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms."
@@ -94,7 +94,7 @@
     "explanation": "Article 5 of the UDHR prohibits torture and cruel, inhuman or degrading treatment or punishment.",
     "source": "UDHR, Art. 5",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment."
@@ -119,7 +119,7 @@
     "explanation": "Article 9 provides that no one shall be subjected to arbitrary arrest, detention or exile.",
     "source": "UDHR, Art. 9",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "No one shall be subjected to arbitrary arrest, detention or exile."
@@ -144,7 +144,7 @@
     "explanation": "Article 11 guarantees the presumption of innocence until proved guilty according to law in a public trial with all guarantees necessary for the defence.",
     "source": "UDHR, Art. 11",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial"
@@ -169,7 +169,7 @@
     "explanation": "Article 14 recognizes the right to seek and enjoy asylum from persecution, which cannot be invoked for genuinely non-political crimes.",
     "source": "UDHR, Art. 14",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "Everyone has the right to seek and to enjoy in other countries asylum from persecution."
@@ -194,7 +194,7 @@
     "explanation": "Article 15 states that everyone has the right to a nationality and that no one shall be arbitrarily deprived of it.",
     "source": "UDHR, Art. 15",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "Everyone has the right to a nationality."
@@ -219,7 +219,7 @@
     "explanation": "Article 16 requires the free and full consent of the intending spouses and calls the family the natural and fundamental group unit of society.",
     "source": "UDHR, Art. 16",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "Marriage shall be entered into only with the free and full consent of the intending spouses."
@@ -244,7 +244,7 @@
     "explanation": "Article 20 guarantees freedom of peaceful assembly and association, and states that no one may be compelled to belong to an association.",
     "source": "UDHR, Art. 20",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "No one may be compelled to belong to an association."
@@ -269,7 +269,7 @@
     "explanation": "Article 21 states that everyone has the right of equal access to public service in his country, and that the will of the people is the basis of the authority of government.",
     "source": "UDHR, Art. 21",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "Everyone has the right of equal access to public service in his country."
@@ -294,7 +294,7 @@
     "explanation": "Article 23 guarantees the right to work, to free choice of employment, and to equal pay for equal work, without discrimination.",
     "source": "UDHR, Art. 23",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "udhr",
     "quote": "Everyone, without any discrimination, has the right to equal pay for equal work."
@@ -319,7 +319,7 @@
     "explanation": "Article 24 states that everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.",
     "source": "UDHR, Art. 24",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay."
@@ -344,7 +344,7 @@
     "explanation": "Article 26 provides that education shall be free, at least in the elementary and fundamental stages, and that elementary education shall be compulsory.",
     "source": "UDHR, Art. 26",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "Education shall be free, at least in the elementary and fundamental stages."
@@ -369,7 +369,7 @@
     "explanation": "Article 26 states that parents have a prior right to choose the kind of education that shall be given to their children.",
     "source": "UDHR, Art. 26",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "Parents have a prior right to choose the kind of education that shall be given to their children."
@@ -394,7 +394,7 @@
     "explanation": "Article 29 allows only limitations determined by law solely to secure due recognition and respect for the rights and freedoms of others and to meet the just requirements of morality, public order and the general welfare in a democratic society.",
     "source": "UDHR, Art. 29",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "udhr",
     "quote": "everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others"
@@ -419,7 +419,7 @@
     "explanation": "Article 12 states that no one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation.",
     "source": "UDHR, Art. 12",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence"
@@ -444,7 +444,7 @@
     "explanation": "Article 13 guarantees freedom of movement within a state and the right to leave any country, including one's own, and to return to one's country.",
     "source": "UDHR, Art. 13",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "udhr",
     "quote": "Everyone has the right to leave any country, including his own, and to return to his country."
@@ -469,7 +469,7 @@
     "explanation": "Article XIII, Section 18 empowers the Commission on Human Rights to investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights.",
     "source": "1987 Constitution, Art. XIII, Sec. 18",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "all forms of human rights violations involving civil and political rights"
@@ -494,7 +494,7 @@
     "explanation": "Article II, Section 11 states that the State values the dignity of every human person and guarantees full respect for human rights.",
     "source": "1987 Constitution, Art. II, Sec. 11",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The State values the dignity of every human person and guarantees full respect for human rights."
@@ -519,7 +519,7 @@
     "explanation": "Article III, Section 12(2) states that no torture, force, violence, threat, intimidation, or any other means which vitiate the free will shall be used against such person.",
     "source": "1987 Constitution, Art. III, Sec. 12",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No torture, force, violence, threat, intimidation, or any other means which vitiate the free will shall be used against him."
@@ -544,7 +544,7 @@
     "explanation": "Article III, Section 13 states that the right to bail shall not be impaired even when the privilege of the writ of habeas corpus is suspended.",
     "source": "1987 Constitution, Art. III, Sec. 13",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The right to bail shall not be impaired even when the privilege of the writ of habeas corpus is suspended."
@@ -569,7 +569,7 @@
     "explanation": "Article III, Section 18(1) provides that no person shall be detained solely by reason of his political beliefs and aspirations.",
     "source": "1987 Constitution, Art. III, Sec. 18",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No person shall be detained solely by reason of his political beliefs and aspirations."
@@ -594,7 +594,7 @@
     "explanation": "Article III, Section 18(2) prohibits involuntary servitude except as punishment for a crime for which the party has been duly convicted.",
     "source": "1987 Constitution, Art. III, Sec. 18",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No involuntary servitude in any form shall exist except as a punishment for a crime whereof the party shall have been duly convicted."

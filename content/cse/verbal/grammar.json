@@ -19,7 +19,7 @@
     "explanation": "\"Each\" is singular, so it takes the singular verb \"is\", even when followed by a plural phrase like \"of the applicants\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -42,7 +42,7 @@
     "explanation": "The subject is \"list\" (singular), not \"requirements\". A singular subject takes the singular verb \"is\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -65,7 +65,7 @@
     "explanation": "With \"neither...nor\", the verb agrees with the nearer subject. \"Clerks\" is plural, so the verb is \"were\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -88,7 +88,7 @@
     "explanation": "Phrases like \"along with\" do not change the number of the subject. \"The director\" is singular, so the verb is \"is\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -111,7 +111,7 @@
     "explanation": "After the preposition \"to\", use the object pronoun \"me\". Test it by dropping \"Maria and\": \"given to me\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -134,7 +134,7 @@
     "explanation": "\"Between\" is a preposition, so it takes object pronouns: \"between you and me\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -157,7 +157,7 @@
     "explanation": "\"Who\" is the subject of the verb \"received\". Use \"whom\" only for objects, and \"which\" for things, not people.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -180,7 +180,7 @@
     "explanation": "After the preposition \"to\", the object form \"whom\" is required.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   },
   {
@@ -203,7 +203,7 @@
     "explanation": "Use \"on\" with specific days and dates (on Monday, on June 12), \"in\" with months and years, and \"at\" with clock times.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -226,7 +226,7 @@
     "explanation": "Use \"at\" for specific clock times.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -249,7 +249,7 @@
     "explanation": "The past perfect \"had left\" shows an action completed before another past action (the inspector's arrival).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -272,7 +272,7 @@
     "explanation": "Hypothetical or contrary-to-fact conditions use the subjunctive \"were\" for all subjects: \"If I were...\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -295,7 +295,7 @@
     "explanation": "\"Affect\" is usually the verb meaning to influence; \"effect\" is usually the noun meaning a result.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -318,7 +318,7 @@
     "explanation": "\"Its\" is the possessive form, which is needed here. \"It's\" means \"it is\" or \"it has\", and \"its'\" is never correct.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -341,7 +341,7 @@
     "explanation": "\"Their\" is the possessive form. \"There\" refers to a place, and \"they're\" means \"they are\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -364,7 +364,7 @@
     "explanation": "Use \"fewer\" with countable nouns (complaints) and \"less\" with uncountable nouns (less time, less water).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -387,7 +387,7 @@
     "explanation": "When comparing exactly two things, use the comparative form \"better\". \"Best\" is for three or more.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -410,7 +410,7 @@
     "explanation": "\"The number of...\" is singular and takes \"has\". By contrast, \"a number of applicants\" means several applicants and takes a plural verb.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   },
   {
@@ -433,7 +433,7 @@
     "explanation": "A third-person singular subject takes \"doesn't\" followed by the base form of the verb: \"She doesn't know\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -456,7 +456,7 @@
     "explanation": "A non-essential clause is set off by a pair of commas, one before and one after: \"The clerk, who was new, made several errors.\"",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -479,7 +479,7 @@
     "explanation": "An introductory participle phrase must describe the subject that follows it. Only \"I\" can be the one walking; the other options are dangling modifiers.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -502,7 +502,7 @@
     "explanation": "\"Neither\" used as a pronoun is singular and takes \"is\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -525,7 +525,7 @@
     "explanation": "Adverbs modify verbs. Both \"quickly\" and \"accurately\" describe how to complete, and parallel structure needs both in adverb form.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   },
   {
@@ -548,7 +548,7 @@
     "explanation": "Plural subject \"applicants\" takes \"were\". \"To\" is followed by the base verb \"bring\", and the list items are parallel.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -571,7 +571,7 @@
     "explanation": "The plural subject \"employees\" needs the plural verb \"have been\", not \"has been\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -594,7 +594,7 @@
     "explanation": "The subject needs the subject pronoun: \"My colleague and I were sent...\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -617,7 +617,7 @@
     "explanation": "\"Irregardless\" is nonstandard. Use \"regardless of\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -640,7 +640,7 @@
     "explanation": "After the preposition \"to\", use the object pronoun: \"to Ana and me\". Test it by dropping \"Ana and\": \"to me\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -663,7 +663,7 @@
     "explanation": "After \"to\", use the base form of the verb: \"to proofread\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -686,7 +686,7 @@
     "explanation": "Verbs of demand or insistence take the subjunctive base form: \"insisted that every member be present\".",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   }
 ]

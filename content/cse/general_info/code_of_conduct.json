@@ -19,7 +19,7 @@
     "explanation": "Section 1 of RA 6713 gives its title as the Code of Conduct and Ethical Standards for Public Officials and Employees. The Anti-Graft and Corrupt Practices Act is RA 3019.",
     "source": "RA 6713, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "This Act shall be known as the \"Code of Conduct and Ethical Standards for Public Officials and Employees.\""
@@ -44,7 +44,7 @@
     "explanation": "The declaration of policy in Section 2 requires public officials and employees to lead modest lives and uphold public interest over personal interest.",
     "source": "RA 6713, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "lead modest lives, and uphold public interest over personal interest"
@@ -69,7 +69,7 @@
     "explanation": "Section 3(b) covers elective and appointive officials and employees, permanent or temporary, career or non-career, including military and police personnel, whether or not they receive compensation, regardless of amount.",
     "source": "RA 6713, Sec. 3(b)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "permanent or temporary, whether in the career or non-career service, including military and police personnel, whether or not they receive compensation, regardless of amount"
@@ -94,7 +94,7 @@
     "explanation": "Section 3(c) excludes an unsolicited gift of nominal or insignificant value not given in anticipation of, or in exchange for, a favor.",
     "source": "RA 6713, Sec. 3(c)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "It shall not include an unsolicited gift of nominal or insignificant value not given in anticipation of, or in exchange for, a favor from a public official or employee."
@@ -119,7 +119,7 @@
     "explanation": "Section 3(g) defines the family of public officials or employees as their spouses and unmarried children under eighteen (18) years of age.",
     "source": "RA 6713, Sec. 3(g)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "\"Family of public officials or employees\" means their spouses and unmarried children under eighteen (18) years of age."
@@ -144,7 +144,7 @@
     "explanation": "Section 3(k) defines relatives as persons related within the fourth civil degree of consanguinity or affinity, including bilas, inso and balae.",
     "source": "RA 6713, Sec. 3(k)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "within the fourth civil degree of consanguinity or affinity, including bilas, inso and balae"
@@ -169,7 +169,7 @@
     "explanation": "Section 3(i) says conflict of interest arises when the interest of the corporation or business, or the official's rights or duties in it, may be opposed to or affected by the faithful performance of official duty.",
     "source": "RA 6713, Sec. 3(i)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "may be opposed to or affected by the faithful performance of official duty"
@@ -194,7 +194,7 @@
     "explanation": "Section 3(j) requires divestment to be in favor of a person or persons other than the official's spouse and relatives; transferring to them does not count.",
     "source": "RA 6713, Sec. 3(j)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "in favor of a person or persons other than his spouse and relatives as defined in this Act"
@@ -219,7 +219,7 @@
     "explanation": "Under Section 4(A)(a), commitment to public interest includes using government resources and powers efficiently, effectively, honestly and economically, particularly to avoid wastage in public funds and revenues.",
     "source": "RA 6713, Sec. 4(A)(a)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "All government resources and powers of their respective offices must be employed and used efficiently, effectively, honestly and economically, particularly to avoid wastage in public funds and revenues."
@@ -244,7 +244,7 @@
     "explanation": "Section 4(A)(b), Professionalism, requires performing duties with the highest degree of excellence, professionalism, intelligence and skill.",
     "source": "RA 6713, Sec. 4(A)(b)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "Public officials and employees shall perform and discharge their duties with the highest degree of excellence, professionalism, intelligence and skill."
@@ -269,7 +269,7 @@
     "explanation": "Section 4(A)(c) requires officials to act with justness and sincerity and not discriminate against anyone, especially the poor and the underprivileged.",
     "source": "RA 6713, Sec. 4(A)(c)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "shall not discriminate against anyone, especially the poor and the underprivileged"
@@ -294,7 +294,7 @@
     "explanation": "Section 4(A)(c) bars undue favors to relatives, except appointments to positions considered strictly confidential or as members of personal staff whose terms are coterminous with the official's.",
     "source": "RA 6713, Sec. 4(A)(c)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "except with respect to appointments of such relatives to positions considered strictly confidential or as members of their personal staff whose terms are coterminous with theirs"
@@ -319,7 +319,7 @@
     "explanation": "Section 4(A)(d), Political neutrality, requires service to everyone without unfair discrimination and regardless of party affiliation or preference.",
     "source": "RA 6713, Sec. 4(A)(d)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "Public officials and employees shall provide service to everyone without unfair discrimination and regardless of party affiliation or preference."
@@ -344,7 +344,7 @@
     "explanation": "Section 4(A)(e), Responsiveness to the public, requires prompt, courteous, and adequate service, openness of information, and avoiding red tape.",
     "source": "RA 6713, Sec. 4(A)(e)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "Public officials and employees shall extend prompt, courteous, and adequate service to the public."
@@ -369,7 +369,7 @@
     "explanation": "Under Section 4(A)(f), Nationalism and patriotism includes loyalty to the Republic and promoting the use of locally produced goods, resources and technology.",
     "source": "RA 6713, Sec. 4(A)(f)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "promote the use of locally produced goods, resources and technology"
@@ -394,7 +394,7 @@
     "explanation": "Section 4(A)(g) requires officials to uphold the Constitution and put loyalty to country above loyalty to persons or party.",
     "source": "RA 6713, Sec. 4(A)(g)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "put loyalty to country above loyalty to persons or party"
@@ -419,7 +419,7 @@
     "explanation": "Section 4(A)(h), Simple living, requires officials and their families to lead modest lives and not indulge in extravagant or ostentatious display of wealth.",
     "source": "RA 6713, Sec. 4(A)(h)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "They shall not indulge in extravagant or ostentatious display of wealth in any form."
@@ -444,7 +444,7 @@
     "explanation": "Section 5(a) requires a response within fifteen (15) working days from receipt, and the reply must contain the action taken on the request.",
     "source": "RA 6713, Sec. 5(a)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "within fifteen (15) working days from receipt thereof, respond to letters, telegrams or other means of communications sent by the public"
@@ -469,7 +469,7 @@
     "explanation": "Section 5(b) requires heads of offices and agencies to render a performance report within forty-five (45) working days from the end of the year.",
     "source": "RA 6713, Sec. 5(b)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "within forty-five (45) working days from the end of the year, render a performance report"
@@ -494,7 +494,7 @@
     "explanation": "Section 5(c) states that official documents must contain, as far as practicable, not more than three (3) signatories.",
     "source": "RA 6713, Sec. 5(c)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "not more than three (3) signatories therein"
@@ -519,7 +519,7 @@
     "explanation": "Section 6 creates the Committee with the Ombudsman and the CSC Chairman as Co-Chairmen, and the COA Chairman and two presidential appointees as members.",
     "source": "RA 6713, Sec. 6",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "the Ombudsman and Chairman of the Civil Service Commission as Co-Chairmen"
@@ -544,7 +544,7 @@
     "explanation": "Section 7(a) prohibits any direct or indirect financial or material interest in any transaction requiring the approval of their office.",
     "source": "RA 6713, Sec. 7(a)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "Public officials and employees shall not, directly or indirectly, have any financial or material interest in any transaction requiring the approval of their office."
@@ -569,7 +569,7 @@
     "explanation": "Section 7(b) extends these prohibitions for a period of one (1) year after resignation, retirement, or separation from public office.",
     "source": "RA 6713, Sec. 7(b)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "These prohibitions shall continue to apply for a period of one (1) year after resignation, retirement, or separation from public office"
@@ -594,7 +594,7 @@
     "explanation": "Section 7(b)(3) prohibits recommending any person to any position in a private enterprise which has a regular or pending official transaction with the official's office.",
     "source": "RA 6713, Sec. 7(b)(3)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "Recommend any person to any position in a private enterprise which has a regular or pending official transaction with their office."
@@ -619,7 +619,7 @@
     "explanation": "Section 7(c) prohibits using or divulging confidential or classified information officially known by reason of office to further private interests, give undue advantage to anyone, or prejudice the public interest.",
     "source": "RA 6713, Sec. 7(c)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "To further their private interests, or give undue advantage to anyone"
@@ -644,7 +644,7 @@
     "explanation": "Section 7(d) lists only the three consented cases: nominal-value souvenirs, scholarship/fellowship grants or medical treatment, and appropriate travel grants outside the Philippines permitted by the head of office.",
     "source": "RA 6713, Sec. 7(d)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "The acceptance and retention by a public official or employee of a gift of nominal value tendered and received as a souvenir or mark of courtesy"
@@ -669,7 +669,7 @@
     "explanation": "Section 8(A) exempts those who serve in an honorary capacity, laborers, and casual or temporary workers.",
     "source": "RA 6713, Sec. 8(A)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "All public officials and employees, except those who serve in an honorary capacity, laborers and casual or temporary workers, shall file under oath their Statement of Assets, Liabilities and Net Worth"
@@ -694,7 +694,7 @@
     "explanation": "Section 8(A) requires filing within thirty days after assumption of office, on or before April 30 of every year thereafter, and within thirty days after separation from the service.",
     "source": "RA 6713, Sec. 8(A)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_6713",
     "quote": "on or before April 30, of every year thereafter"
@@ -719,7 +719,7 @@
     "explanation": "Section 8(A) requires the SALN to be filed within thirty (30) days after assumption of office.",
     "source": "RA 6713, Sec. 8(A)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "within thirty (30) days after assumption of office"
@@ -744,7 +744,7 @@
     "explanation": "Section 8(A) provides that husband and wife who are both public officials or employees may file the required statements jointly or separately.",
     "source": "RA 6713, Sec. 8(A)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "Husband and wife who are both public officials or employees may file the required statements jointly or separately."
@@ -769,7 +769,7 @@
     "explanation": "Section 8(C)(4) keeps statements available to the public for ten (10) years after receipt, after which they may be destroyed unless needed in an ongoing investigation.",
     "source": "RA 6713, Sec. 8(C)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "Any statement filed under this Act shall be available to the public for a period of ten (10) years after receipt of the statement."
@@ -794,7 +794,7 @@
     "explanation": "Section 9 requires resigning from the private business within thirty (30) days and/or divesting shareholdings or interest within sixty (60) days from assumption of office.",
     "source": "RA 6713, Sec. 9",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "divest himself of his shareholdings or interest within sixty (60) days from such assumption"
@@ -819,7 +819,7 @@
     "explanation": "Section 11(a) punishes violations of Sections 7, 8 or 9 with imprisonment not exceeding five (5) years, a fine not exceeding ₱5,000, or both, plus possible disqualification from public office.",
     "source": "RA 6713, Sec. 11(a)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_6713",
     "quote": "Violations of Sections 7, 8 or 9 of this Act shall be punishable with imprisonment not exceeding five (5) years"
@@ -844,7 +844,7 @@
     "explanation": "Section 12 gives the Civil Service Commission the primary responsibility for the administration and enforcement of the Act.",
     "source": "RA 6713, Sec. 12",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "The Civil Service Commission shall have the primary responsibility for the administration and enforcement of this Act."
@@ -869,7 +869,7 @@
     "explanation": "Section 11(b) makes an administratively proven violation sufficient cause for removal or dismissal even if no criminal prosecution is instituted.",
     "source": "RA 6713, Sec. 11(b)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "Any violation hereof proven in a proper administrative proceeding shall be sufficient cause for removal or dismissal of a public official or employee, even if no criminal prosecution is instituted against him."

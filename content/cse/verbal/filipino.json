@@ -19,7 +19,7 @@
     "explanation": "Ang maligaya ay nangangahulugang masaya (happy).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -42,7 +42,7 @@
     "explanation": "Ang maralita ay nangangahulugang mahirap o dukha (poor).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -65,7 +65,7 @@
     "explanation": "Ang dalisay ay nangangahulugang wagas o puro (pure, sincere).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -88,7 +88,7 @@
     "explanation": "Ang mapagkumbaba ay nangangahulugang mababang-loob (humble), ang kabaligtaran ng mayabang.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -111,7 +111,7 @@
     "explanation": "Ang huwaran ay nangangahulugang uliran o modelo (exemplary, a model to follow).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -134,7 +134,7 @@
     "explanation": "Ang suliranin ay nangangahulugang problema (problem).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -157,7 +157,7 @@
     "explanation": "Ang pagsisiyasat ay nangangahulugang imbestigasyon o pagsusuri (investigation).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -180,7 +180,7 @@
     "explanation": "Ang masidhi ay nangangahulugang matindi o malakas (intense).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -203,7 +203,7 @@
     "explanation": "Ang panganib ay nangangahulugang peligro (danger).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -226,7 +226,7 @@
     "explanation": "Ang kalinga ay nangangahulugang pag-aaruga o pag-aalaga (care).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -249,7 +249,7 @@
     "explanation": "Ang mahinahon ay nangangahulugang kalmado (calm, composed).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -272,7 +272,7 @@
     "explanation": "Ang matayog ay nangangahulugang mataas (lofty, high).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -295,7 +295,7 @@
     "explanation": "Ang naglalaho ay nangangahulugang nawawala (disappearing, vanishing).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -318,7 +318,7 @@
     "explanation": "Ang pamahalaan ay nangangahulugang gobyerno (government).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -341,7 +341,7 @@
     "explanation": "Ang tampalasan ay nangangahulugang walang-galang o mapang-abuso (insolent, abusive).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   },
   {
@@ -364,7 +364,7 @@
     "explanation": "Ang kasalungat ng mayaman (rich) ay mahirap (poor). Ang masagana ay kasingkahulugan, hindi kasalungat.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -387,7 +387,7 @@
     "explanation": "Ang kasalungat ng magalang (respectful) ay bastos (rude).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -410,7 +410,7 @@
     "explanation": "Ang kasalungat ng matapang (brave) ay duwag (cowardly).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1
   },
   {
@@ -433,7 +433,7 @@
     "explanation": "Ang kasalungat ng masagana (abundant) ay salat (lacking, scarce).",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -456,7 +456,7 @@
     "explanation": "Ang makupad (sluggish, slow) ay kasalungat ng maliksi (quick, nimble). Ang mabagal ay kasingkahulugan.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   }
 ]

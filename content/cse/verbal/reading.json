@@ -19,7 +19,7 @@
     "explanation": "The passage describes how household segregation, rather than more trucks, cut garbage nearly in half and freed funds for composting. The passage never says the creek is completely clean.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -42,7 +42,7 @@
     "explanation": "The last sentence states that the money saved was used to build a small composting facility.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -65,7 +65,7 @@
     "explanation": "The contrast between the old problem and the result after involving households implies the earlier approach worked less well. The other choices add facts the passage never gives.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   },
   {
@@ -88,7 +88,7 @@
     "explanation": "The passage lists services, required documents, steps, fees, and maximum processing times. It says nothing about disciplined employees.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -111,7 +111,7 @@
     "explanation": "The final sentence gives both purposes: clients know what to expect and have a basis for complaints.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -134,7 +134,7 @@
     "explanation": "Service that \"falls short\" fails to reach the posted standards, which is why it gives clients a basis for complaint.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   },
   {
@@ -157,7 +157,7 @@
     "explanation": "The passage explains several hidden benefits of mangroves (storm protection, soil retention, fish nurseries) and notes they are still being cleared.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -180,7 +180,7 @@
     "explanation": "The passage states that the roots shelter young fish and crabs, which leads to better catches.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -203,7 +203,7 @@
     "explanation": "After listing the benefits, the author's \"Despite this...\" signals disapproval of clearing mangroves, a concerned attitude.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   },
   {
@@ -226,7 +226,7 @@
     "explanation": "The second sentence describes the response: two walk-in windows stayed open and volunteers helped patients book.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2
   },
   {
@@ -249,7 +249,7 @@
     "explanation": "The passage shows that the system succeeded once struggling users got help and an alternative. The other choices overgeneralize or contradict the passage.",
     "source": null,
     "method": "llm",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3
   }
 ]

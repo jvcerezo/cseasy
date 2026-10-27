@@ -19,7 +19,7 @@
     "explanation": "Section 1 of RA 9003 gives its short title as the Ecological Solid Waste Management Act of 2000.",
     "source": "RA 9003, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_9003",
     "quote": "This Act shall be known as the \"Ecological Solid Waste Management Act of 2000.\""
@@ -44,7 +44,7 @@
     "explanation": "Section 1 of RA 8749 gives its short title as the Philippine Clean Air Act of 1999.",
     "source": "RA 8749, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_8749",
     "quote": "This Act shall be known as the \"Philippine Clean Air Act of 1999.\""
@@ -69,7 +69,7 @@
     "explanation": "Section 1 of RA 9275 gives its short title as the Philippine Clean Water Act of 2004.",
     "source": "RA 9275, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_9275",
     "quote": "This Act shall be known as the \"Philippine Clean Water Act of 2004.\""
@@ -94,7 +94,7 @@
     "explanation": "Section 1 of RA 9729 gives its title as the Climate Change Act of 2009.",
     "source": "RA 9729, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_9729",
     "quote": "This Act shall be known as the \"Climate Change Act of 2009\"."
@@ -119,7 +119,7 @@
     "explanation": "Section 20 of RA 9003 requires each LGU to divert at least 25% of all solid waste from waste disposal facilities within five years, with targets increasing every three years after.",
     "source": "RA 9003, Sec. 20",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9003",
     "quote": "the LGU shall divert at least 25% of all solid waste from waste disposal facilities through re-use, recycling and composting activities"
@@ -144,7 +144,7 @@
     "explanation": "Section 21 provides that segregation of wastes shall primarily be conducted at the source, including household, institutional, industrial, commercial and agricultural sources.",
     "source": "RA 9003, Sec. 21",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_9003",
     "quote": "segregation of wastes shall primarily be conducted at the source, to include household, institutional, industrial, commercial and agricultural sources"
@@ -169,7 +169,7 @@
     "explanation": "Section 32 requires a Materials Recovery Facility in every barangay or cluster of barangays.",
     "source": "RA 9003, Sec. 32",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9003",
     "quote": "There shall be established a Materials Recovery Facility (MRF) in every barangay or cluster of barangays."
@@ -194,7 +194,7 @@
     "explanation": "Section 37 prohibits open dumps and required every LGU to convert its open dumps into controlled dumps within three (3) years after the law took effect.",
     "source": "RA 9003, Sec. 37",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9003",
     "quote": "within three (3) years after the effectivity of this Act, every LGU shall convert its open dumps into controlled dumps"
@@ -219,7 +219,7 @@
     "explanation": "Section 48 of RA 9003 lists prohibited acts, including the open burning of solid waste and littering in public places.",
     "source": "RA 9003, Sec. 48",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_9003",
     "quote": "The open burning of solid waste"
@@ -244,7 +244,7 @@
     "explanation": "Section 48(1) of RA 9003 prohibits littering, throwing, dumping of waste matters in public places such as roads, sidewalks, canals, esteros or parks.",
     "source": "RA 9003, Sec. 48",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_9003",
     "quote": "Littering, throwing, dumping of waste matters in public places, such as roads, sidewalks, canals, esteros or parks"
@@ -269,7 +269,7 @@
     "explanation": "Section 4 establishes the National Solid Waste Management Commission under the Office of the President.",
     "source": "RA 9003, Sec. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9003",
     "quote": "There is hereby established a National Solid Waste Management Commission, hereinafter referred to as the Commission, under the Office of the President."
@@ -294,7 +294,7 @@
     "explanation": "Section 3(f) defines composting as the controlled decomposition of organic matter by micro-organisms, mainly bacteria and fungi, into a humus-like product.",
     "source": "RA 9003, Sec. 3(f)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9003",
     "quote": "Composting shall refer to the controlled decomposition of organic matter by micro-organisms, mainly bacteria and fungi, into a humus-like product"
@@ -319,7 +319,7 @@
     "explanation": "Section 3(t) defines an open dump as a disposal area wherein solid wastes are indiscriminately thrown or disposed of without due planning and consideration for environmental and health standards.",
     "source": "RA 9003, Sec. 3(t)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9003",
     "quote": "Open dump shall refer to a disposal area wherein the solid wastes are indiscriminately thrown or disposed of without due planning and consideration for environmental and Health standards"
@@ -344,7 +344,7 @@
     "explanation": "Section 20 of RA 8749 bans incineration, defined as the burning of municipal, biomedical and hazardous waste which emits poisonous and toxic fumes, with exceptions such as traditional small-scale \"siga\" and crematoria.",
     "source": "RA 8749, Sec. 20",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_8749",
     "quote": "Incineration, hereby defined as the burning of municipal, biomedical and hazardous waste, which process emits poisonous and toxic fumes is hereby prohibited"
@@ -369,7 +369,7 @@
     "explanation": "Section 20 of RA 8749 exempts the traditional small-scale \"siga\", traditional agricultural, cultural, health and food-preparation practices, and crematoria.",
     "source": "RA 8749, Sec. 20",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_8749",
     "quote": "the prohibition shall not apply to traditional small-scale method of community/neighborhood sanitation \"siga\", traditional, agricultural, cultural, health, and food preparation and crematoria"
@@ -394,7 +394,7 @@
     "explanation": "Section 24 of RA 8749 prohibits smoking inside public buildings, enclosed public places and public vehicles, outside designated areas, and assigns implementation to the LGUs.",
     "source": "RA 8749, Sec. 24",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_8749",
     "quote": "This provision shall be implemented by the LGUs."
@@ -419,7 +419,7 @@
     "explanation": "Section 4(a) of RA 8749 recognizes the right to breathe clean air.",
     "source": "RA 8749, Sec. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "ra_8749",
     "quote": "The right to breathe clean air"
@@ -444,7 +444,7 @@
     "explanation": "The declaration of policy of RA 8749 recognizes the principle that \"polluters must pay\".",
     "source": "RA 8749, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_8749",
     "quote": "The State also recognizes the principle that \"polluters must pay\"."
@@ -469,7 +469,7 @@
     "explanation": "Both laws make \"the Department\" (DENR) the primary government agency responsible for implementation and enforcement (RA 8749, Sec. 34; RA 9275, Sec. 19).",
     "source": "RA 9275, Sec. 19",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9275",
     "quote": "The Department shall be the primary government agency responsible for the implementation and enforcement of this Act unless otherwise provided herein."
@@ -494,7 +494,7 @@
     "explanation": "Section 5 of RA 9275 designates water quality management areas using physiographic units such as watershed, river basins or water resources regions.",
     "source": "RA 9275, Sec. 5",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_9275",
     "quote": "using appropriate physiographic units such as watershed, river basins or water resources regions"
@@ -519,7 +519,7 @@
     "explanation": "RA 9275 defines septage as the sludge produced on individual onsite wastewater disposal systems, principally septic tanks and cesspools.",
     "source": "RA 9275, Sec. 4(ff)",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9275",
     "quote": "Septage - means the sludge produced on individual onsite wastewater disposal systems, principally septic tanks and cesspools."
@@ -544,7 +544,7 @@
     "explanation": "Section 16 of RA 9275 makes anyone who causes pollution in excess of standards responsible to contain, remove and clean up the pollution incident at their own expense.",
     "source": "RA 9275, Sec. 16",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9275",
     "quote": "shall be responsible to contain, remove and clean-up any pollution incident"
@@ -569,7 +569,7 @@
     "explanation": "Section 5 of RA 9729 makes the President of the Republic the Chairperson, with three Commissioners appointed by the President.",
     "source": "RA 9729, Sec. 5",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9729",
     "quote": "The Commission shall be composed of the President of the Republic of the Philippines who shall serve as the Chairperson, and three (3) Commissioners to be appointed by the President"
@@ -594,7 +594,7 @@
     "explanation": "Section 14 of RA 9729 makes LGUs the frontline agencies in the formulation, planning and implementation of climate change action plans in their areas.",
     "source": "RA 9729, Sec. 14",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "ra_9729",
     "quote": "The LGUs shall be the frontline agencies in the formulation, planning and implementation of climate change action plans in their respective areas"
@@ -619,7 +619,7 @@
     "explanation": "Section 2 of RA 9729 states that the State has adopted the Philippine Agenda 21 framework which espouses sustainable development.",
     "source": "RA 9729, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "ra_9729",
     "quote": "the State has adopted the Philippine Agenda 21 framework which espouses sustainable development"

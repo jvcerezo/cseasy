@@ -37,25 +37,32 @@ SOLVER_INSTRUCTIONS = (
 )
 
 
-def drafts() -> list[tuple[Path, dict]]:
+def _gradable(q: dict, recheck: bool) -> bool:
+    """Drafts, plus (with --recheck) items flagged only by an earlier blind solve."""
+    if q.get("status") == "draft":
+        return True
+    return recheck and q.get("status") == "flagged" and q.get("flag_reason", "").startswith("blind solve")
+
+
+def candidates(recheck: bool) -> list[tuple[Path, dict]]:
     found = []
     for path in sorted((CONTENT / "cse").rglob("*.json")):
         for q in json.loads(path.read_text(encoding="utf-8")):
-            if q.get("status") == "draft":
+            if _gradable(q, recheck):
                 found.append((path, q))
     return found
 
 
-def export() -> None:
+def export(recheck: bool) -> None:
     batch = []
-    for _, q in drafts():
+    for _, q in candidates(recheck):
         item = {"id": q["id"], "stem": q["stem"], "choices": q["choices"]}
         if "table" in q:
             item["table"] = q["table"]
         batch.append(item)
     OUT.mkdir(exist_ok=True)
     BATCH.write_text(json.dumps(batch, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"exported {len(batch)} draft items -> {BATCH}")
+    print(f"exported {len(batch)} items -> {BATCH}")
 
 
 def solve_with_api(model: str) -> None:
@@ -89,7 +96,7 @@ def solve_with_api(model: str) -> None:
     print(f"wrote {path}; now run: python pipeline/blind_solve.py grade {path}")
 
 
-def grade(answers_path: Path) -> None:
+def grade(answers_path: Path, recheck: bool) -> None:
     answers = json.loads(answers_path.read_text(encoding="utf-8"))
     by_file: dict[Path, list[dict]] = {}
     verified = flagged = missing = 0
@@ -99,11 +106,12 @@ def grade(answers_path: Path) -> None:
 
     for path, items in by_file.items():
         for q in items:
-            if q.get("status") != "draft":
+            if not _gradable(q, recheck):
                 continue
             answer = answers.get(q["id"])
             if answer is None:
-                missing += 1
+                if q.get("status") == "draft":
+                    missing += 1
                 continue
             reasons = []
             if answer.get("choice") != q["answer"]:
@@ -136,21 +144,24 @@ def grade(answers_path: Path) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     sub = parser.add_subparsers(dest="cmd", required=True)
-    sub.add_parser("export")
+    exp = sub.add_parser("export")
+    # Re-solve items an earlier solver flagged, e.g. after a solver slip.
+    exp.add_argument("--recheck", action="store_true")
     api = sub.add_parser("api")
     # A different model from the one that wrote the items gives a more
     # independent check, e.g. --model claude-sonnet-5-5.
     api.add_argument("--model", default="claude-opus-5-5")
     g = sub.add_parser("grade")
     g.add_argument("answers", type=Path)
+    g.add_argument("--recheck", action="store_true")
     args = parser.parse_args()
 
     if args.cmd == "export":
-        export()
+        export(args.recheck)
     elif args.cmd == "api":
         solve_with_api(args.model)
     else:
-        grade(args.answers)
+        grade(args.answers, args.recheck)
 
 
 if __name__ == "__main__":

@@ -17,6 +17,16 @@ const _topicLabels = {
   'calendar': 'Calendar Problems',
   'exact_match': 'Checking & Comparing',
   'filing_order': 'Alphabetical Filing',
+  'constitution': '1987 Constitution',
+  'code_of_conduct': 'Code of Conduct (RA 6713)',
+  'human_rights': 'Peace & Human Rights',
+  'environment': 'Environment Laws',
+  'vocabulary': 'Vocabulary',
+  'antonyms': 'Antonyms',
+  'analogy': 'Word Analogy',
+  'grammar': 'Grammar & Usage',
+  'reading_comprehension': 'Reading Comprehension',
+  'filipino_vocabulary': 'Talasalitaan (Filipino)',
 };
 
 /// Display name for a content topic key; falls back to title-casing the key.

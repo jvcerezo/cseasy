@@ -19,7 +19,7 @@
     "explanation": "Article II, Section 1 declares the Philippines a democratic and republican State in which sovereignty resides in the people and all government authority emanates from them.",
     "source": "1987 Constitution, Art. II, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "Sovereignty resides in the people and all government authority emanates from them."
@@ -44,7 +44,7 @@
     "explanation": "Article II, Section 3 establishes civilian supremacy: civilian authority is, at all times, supreme over the military.",
     "source": "1987 Constitution, Art. II, Sec. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "Civilian authority is, at all times, supreme over the military."
@@ -69,7 +69,7 @@
     "explanation": "Article II, Section 2 states that the Philippines renounces war as an instrument of national policy and adopts the generally accepted principles of international law.",
     "source": "1987 Constitution, Art. II, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The Philippines renounces war as an instrument of national policy"
@@ -94,7 +94,7 @@
     "explanation": "Article II, Section 6 provides that the separation of Church and State shall be inviolable.",
     "source": "1987 Constitution, Art. II, Sec. 6",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The separation of Church and State shall be inviolable."
@@ -119,7 +119,7 @@
     "explanation": "Section 27 of Article II commits the State to honesty and integrity in the public service and to positive and effective measures against graft and corruption.",
     "source": "1987 Constitution, Art. II, Sec. 27",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The State shall maintain honesty and integrity in the public service and take positive and effective measures against graft and corruption."
@@ -144,7 +144,7 @@
     "explanation": "Subject to reasonable conditions prescribed by law, the State adopts and implements a policy of full public disclosure of all its transactions involving public interest.",
     "source": "1987 Constitution, Art. II, Sec. 28",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "full public disclosure of all its transactions involving public interest"
@@ -169,7 +169,7 @@
     "explanation": "Section 12 of Article II provides that the State shall equally protect the life of the mother and the life of the unborn from conception.",
     "source": "1987 Constitution, Art. II, Sec. 12",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "the life of the unborn from conception"
@@ -194,7 +194,7 @@
     "explanation": "Section 14 recognizes the role of women in nation-building and directs the State to ensure the fundamental equality before the law of women and men.",
     "source": "1987 Constitution, Art. II, Sec. 14",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "the fundamental equality before the law of women and men"
@@ -219,7 +219,7 @@
     "explanation": "Article I states that these waters, regardless of their breadth and dimensions, form part of the internal waters of the Philippines (the archipelagic doctrine).",
     "source": "1987 Constitution, Art. I",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The waters around, between, and connecting the islands of the archipelago, regardless of their breadth and dimensions, form part of the internal waters of the Philippines."
@@ -244,7 +244,7 @@
     "explanation": "The Preamble begins: \"We, the sovereign Filipino people, imploring the aid of Almighty God...\"",
     "source": "1987 Constitution, Preamble",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "imploring the aid of Almighty God"
@@ -269,7 +269,7 @@
     "explanation": "Section 1 of the Bill of Rights contains the due process and equal protection clauses.",
     "source": "1987 Constitution, Art. III, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws."
@@ -294,7 +294,7 @@
     "explanation": "No search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge after examining the complainant and witnesses under oath.",
     "source": "1987 Constitution, Art. III, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "probable cause to be determined personally by the judge"
@@ -319,7 +319,7 @@
     "explanation": "Section 3(2) of the Bill of Rights makes such evidence inadmissible for any purpose in any proceeding (the exclusionary rule).",
     "source": "1987 Constitution, Art. III, Sec. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Any evidence obtained in violation of this or the preceding section shall be inadmissible for any purpose in any proceeding."
@@ -344,7 +344,7 @@
     "explanation": "Section 4 provides that no law shall be passed abridging the freedom of speech, of expression, or of the press, or the right of the people peaceably to assemble and petition the government for redress of grievances.",
     "source": "1987 Constitution, Art. III, Sec. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "No law shall be passed abridging the freedom of speech, of expression, or of the press, or the right of the people peaceably to assemble and petition the government for redress of grievances."
@@ -369,7 +369,7 @@
     "explanation": "Section 7 provides that the right of the people to information on matters of public concern shall be recognized, subject to limitations provided by law.",
     "source": "1987 Constitution, Art. III, Sec. 7",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The right of the people to information on matters of public concern shall be recognized."
@@ -394,7 +394,7 @@
     "explanation": "Section 9 limits the power of eminent domain: private property may be taken for public use only with just compensation.",
     "source": "1987 Constitution, Art. III, Sec. 9",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "Private property shall not be taken for public use without just compensation."
@@ -419,7 +419,7 @@
     "explanation": "Section 10 states that no law impairing the obligation of contracts shall be passed.",
     "source": "1987 Constitution, Art. III, Sec. 10",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No law impairing the obligation of contracts shall be passed."
@@ -444,7 +444,7 @@
     "explanation": "Section 12 guarantees the right to remain silent and to competent and independent counsel preferably of the person's own choice (the Miranda rights).",
     "source": "1987 Constitution, Art. III, Sec. 12",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "right to remain silent and to have competent and independent counsel preferably of his own choice"
@@ -469,7 +469,7 @@
     "explanation": "Section 19(1) bars excessive fines and cruel, degrading or inhuman punishment, and bars the death penalty unless Congress provides for it for compelling reasons involving heinous crimes. Reasonable fines are not prohibited.",
     "source": "1987 Constitution, Art. III, Sec. 19",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Excessive fines shall not be imposed, nor cruel, degrading or inhuman punishment inflicted."
@@ -494,7 +494,7 @@
     "explanation": "Section 20 provides that no person shall be imprisoned for debt or non-payment of a poll tax.",
     "source": "1987 Constitution, Art. III, Sec. 20",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "No person shall be imprisoned for debt or non-payment of a poll tax."
@@ -519,7 +519,7 @@
     "explanation": "Article III, Section 21 protects against being tried or punished twice for the same offense, known as double jeopardy.",
     "source": "1987 Constitution, Art. III, Sec. 21",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No person shall be twice put in jeopardy of punishment for the same offense."
@@ -544,7 +544,7 @@
     "explanation": "Section 22 states that no ex post facto law or bill of attainder shall be enacted.",
     "source": "1987 Constitution, Art. III, Sec. 22",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No ex post facto law or bill of attainder shall be enacted."
@@ -569,7 +569,7 @@
     "explanation": "Article IV, Section 2 defines natural-born citizens as those who are citizens from birth without having to perform any act to acquire or perfect their citizenship.",
     "source": "1987 Constitution, Art. IV, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "citizens of the Philippines from birth without having to perform any act to acquire or perfect their Philippine citizenship"
@@ -594,7 +594,7 @@
     "explanation": "Article IV, Section 1(2) includes those whose fathers or mothers are citizens of the Philippines. Citizenship follows blood (jus sanguinis), through either parent.",
     "source": "1987 Constitution, Art. IV, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Those whose fathers or mothers are citizens of the Philippines"
@@ -619,7 +619,7 @@
     "explanation": "Article V, Section 1 grants suffrage to citizens not otherwise disqualified by law who are at least eighteen years of age and meet the residence requirements.",
     "source": "1987 Constitution, Art. V, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "at least eighteen years of age"
@@ -644,7 +644,7 @@
     "explanation": "Article V, Section 1 requires at least one year of residence in the Philippines and at least six months in the place where the voter proposes to vote.",
     "source": "1987 Constitution, Art. V, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "for at least six months immediately preceding the election"
@@ -669,7 +669,7 @@
     "explanation": "Article V, Section 1 provides that no literacy, property, or other substantive requirement shall be imposed on the exercise of suffrage.",
     "source": "1987 Constitution, Art. V, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No literacy, property, or other substantive requirement shall be imposed on the exercise of suffrage."
@@ -694,7 +694,7 @@
     "explanation": "Article VI, Section 2 provides that the Senate shall be composed of twenty-four Senators elected at large.",
     "source": "1987 Constitution, Art. VI, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The Senate shall be composed of twenty-four Senators who shall be elected at large by the qualified voters of the Philippines"
@@ -719,7 +719,7 @@
     "explanation": "Article VI, Section 3 requires a Senator to be at least thirty-five years of age on the day of the election.",
     "source": "1987 Constitution, Art. VI, Sec. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "on the day of the election, is at least thirty-five years of age"
@@ -744,7 +744,7 @@
     "explanation": "Article VI, Section 4 provides that no Senator shall serve for more than two consecutive terms. A Senate term is six years.",
     "source": "1987 Constitution, Art. VI, Sec. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No Senator shall serve for more than two consecutive terms."
@@ -769,7 +769,7 @@
     "explanation": "Article VI, Section 6 requires a Member of the House to be at least twenty-five years of age on the day of the election.",
     "source": "1987 Constitution, Art. VI, Sec. 6",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "on the day of the election, is at least twenty-five years of age"
@@ -794,7 +794,7 @@
     "explanation": "Article VI, Section 7 limits House Members to three consecutive three-year terms.",
     "source": "1987 Constitution, Art. VI, Sec. 7",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No Member of the House of Representatives shall serve for more than three consecutive terms."
@@ -819,7 +819,7 @@
     "explanation": "Article VI, Section 5(2) sets party-list representatives at twenty per centum of the total number of representatives.",
     "source": "1987 Constitution, Art. VI, Sec. 5",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The party-list representatives shall constitute twenty per centum of the total number of representatives including those under the party list."
@@ -844,7 +844,7 @@
     "explanation": "Article VI, Section 24 requires appropriation, revenue or tariff bills, among others, to originate exclusively in the House of Representatives, though the Senate may propose or concur with amendments.",
     "source": "1987 Constitution, Art. VI, Sec. 24",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "shall originate exclusively in the House of Representatives"
@@ -869,7 +869,7 @@
     "explanation": "Section 26(1) of Article VI is the one-subject, one-title rule.",
     "source": "1987 Constitution, Art. VI, Sec. 26",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Every bill passed by the Congress shall embrace only one subject which shall be expressed in the title thereof."
@@ -894,7 +894,7 @@
     "explanation": "Article VI, Section 23(1) gives Congress the sole power to declare the existence of a state of war, by a vote of two-thirds of both Houses in joint session assembled, voting separately.",
     "source": "1987 Constitution, Art. VI, Sec. 23",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "by a vote of two-thirds of both Houses in joint session assembled, voting separately"
@@ -919,7 +919,7 @@
     "explanation": "Article VII, Section 2 requires the President to be at least forty years of age on the day of the election.",
     "source": "1987 Constitution, Art. VII, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "at least forty years of age on the day of the election"
@@ -944,7 +944,7 @@
     "explanation": "Article VII, Section 4 provides that the President shall not be eligible for any re-election.",
     "source": "1987 Constitution, Art. VII, Sec. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The President shall not be eligible for any re-election."
@@ -969,7 +969,7 @@
     "explanation": "Article VII, Section 4 provides that no Vice-President shall serve for more than two successive terms.",
     "source": "1987 Constitution, Art. VII, Sec. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No Vice-President shall serve for more than two successive terms."
@@ -994,7 +994,7 @@
     "explanation": "Article VII, Section 18 limits a proclamation of martial law or suspension of the privilege of the writ of habeas corpus to a period not exceeding sixty days, unless extended by Congress.",
     "source": "1987 Constitution, Art. VII, Sec. 18",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "for a period not exceeding sixty days"
@@ -1019,7 +1019,7 @@
     "explanation": "Article VII, Section 18 requires the President to submit a report in person or in writing to Congress within forty-eight hours from the proclamation or suspension.",
     "source": "1987 Constitution, Art. VII, Sec. 18",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "within forty-eight hours"
@@ -1044,7 +1044,7 @@
     "explanation": "Article VII, Section 8 provides that the President of the Senate or, in case of his inability, the Speaker of the House shall act as President until a President or Vice-President is elected and qualified.",
     "source": "1987 Constitution, Art. VII, Sec. 8",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "the President of the Senate or, in case of his inability, the Speaker of the House of Representatives, shall then act as President"
@@ -1069,7 +1069,7 @@
     "explanation": "Article VII, Section 19 allows the President to grant reprieves, commutations, pardons and remit fines and forfeitures after conviction by final judgment, except in cases of impeachment.",
     "source": "1987 Constitution, Art. VII, Sec. 19",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Except in cases of impeachment"
@@ -1094,7 +1094,7 @@
     "explanation": "Article VII, Section 21 requires the concurrence of at least two-thirds of all the Members of the Senate.",
     "source": "1987 Constitution, Art. VII, Sec. 21",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "concurred in by at least two-thirds of all the Members of the Senate"
@@ -1119,7 +1119,7 @@
     "explanation": "Article VIII, Section 4(1) provides that the Supreme Court shall be composed of a Chief Justice and fourteen Associate Justices, fifteen members in all.",
     "source": "1987 Constitution, Art. VIII, Sec. 4",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "composed of a Chief Justice and fourteen Associate Justices"
@@ -1144,7 +1144,7 @@
     "explanation": "Article VIII, Section 11 provides that they hold office during good behavior until they reach the age of seventy years or become incapacitated.",
     "source": "1987 Constitution, Art. VIII, Sec. 11",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "until they reach the age of seventy years"
@@ -1169,7 +1169,7 @@
     "explanation": "Article VIII, Section 15(1) sets twenty-four months for the Supreme Court, twelve months for lower collegiate courts, and three months for other lower courts.",
     "source": "1987 Constitution, Art. VIII, Sec. 15",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "within twenty-four months from date of submission for the Supreme Court"
@@ -1194,7 +1194,7 @@
     "explanation": "Article VIII, Section 8(1) creates the Judicial and Bar Council under the supervision of the Supreme Court.",
     "source": "1987 Constitution, Art. VIII, Sec. 8",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "A Judicial and Bar Council is hereby created under the supervision of the Supreme Court"
@@ -1219,7 +1219,7 @@
     "explanation": "Article IX-A, Section 1 names only three independent Constitutional Commissions: the Civil Service Commission, the Commission on Elections, and the Commission on Audit. The Commission on Human Rights is created under Article XIII.",
     "source": "1987 Constitution, Art. IX-A, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The Constitutional Commissions, which shall be independent, are the Civil Service Commission, the Commission on Elections, and the Commission on Audit."
@@ -1244,7 +1244,7 @@
     "explanation": "Article IX-B, Section 1(1) provides that the civil service shall be administered by the Civil Service Commission composed of a Chairman and two Commissioners.",
     "source": "1987 Constitution, Art. IX-B, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Civil Service Commission composed of a Chairman and two Commissioners"
@@ -1269,7 +1269,7 @@
     "explanation": "Article IX-B, Section 2(1) includes GOCCs with original charters. GOCCs incorporated under the general corporation law are outside the civil service.",
     "source": "1987 Constitution, Art. IX-B, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "including government-owned or controlled corporations with original charters"
@@ -1294,7 +1294,7 @@
     "explanation": "Article IX-B, Section 2(2) requires appointments according to merit and fitness, determined as far as practicable by competitive examination, with stated exceptions.",
     "source": "1987 Constitution, Art. IX-B, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Appointments in the civil service shall be made only according to merit and fitness"
@@ -1319,7 +1319,7 @@
     "explanation": "Article IX-B, Section 2(2) exempts positions which are policy-determining, primarily confidential, or highly technical from the competitive-examination requirement.",
     "source": "1987 Constitution, Art. IX-B, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "except to positions which are policy-determining, primarily confidential, or highly technical"
@@ -1344,7 +1344,7 @@
     "explanation": "Article IX-B, Section 2(3) guarantees security of tenure: no officer or employee of the civil service shall be removed or suspended except for cause provided by law.",
     "source": "1987 Constitution, Art. IX-B, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "No officer or employee of the civil service shall be removed or suspended except for cause provided by law."
@@ -1369,7 +1369,7 @@
     "explanation": "Article IX-B, Section 2(4) prohibits civil service officers and employees from engaging in any electioneering or partisan political campaign.",
     "source": "1987 Constitution, Art. IX-B, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "No officer or employee in the civil service shall engage, directly or indirectly, in any electioneering or partisan political campaign."
@@ -1394,7 +1394,7 @@
     "explanation": "Article IX-B, Section 2(5) states that the right to self-organization shall not be denied to government employees.",
     "source": "1987 Constitution, Art. IX-B, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The right to self-organization shall not be denied to government employees."
@@ -1419,7 +1419,7 @@
     "explanation": "Article IX-B, Section 6 bars losing candidates from appointment to any office in the Government, or any GOCC or its subsidiaries, within one year after the election.",
     "source": "1987 Constitution, Art. IX-B, Sec. 6",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No candidate who has lost in any election, shall within one year after such election, be appointed to any office in the Government"
@@ -1444,7 +1444,7 @@
     "explanation": "Article IX-B, Section 8 prohibits additional, double, or indirect compensation unless specifically authorized by law.",
     "source": "1987 Constitution, Art. IX-B, Sec. 8",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No elective or appointive public officer or employee shall receive additional, double, or indirect compensation, unless specifically authorized by law"
@@ -1469,7 +1469,7 @@
     "explanation": "Article IX-C, Section 1(1) provides for a Chairman and six Commissioners. The CSC and COA each have a Chairman and two Commissioners.",
     "source": "1987 Constitution, Art. IX-C, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "composed of a Chairman and six Commissioners"
@@ -1494,7 +1494,7 @@
     "explanation": "Article X, Section 8 provides that voluntary renunciation of the office for any length of time shall not be considered an interruption in the continuity of service.",
     "source": "1987 Constitution, Art. X, Sec. 8",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of his service for the full term for which he was elected."
@@ -1519,7 +1519,7 @@
     "explanation": "Article XI, Section 1 states that public office is a public trust, and that public officers must at all times be accountable to the people.",
     "source": "1987 Constitution, Art. XI, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "Public office is a public trust."
@@ -1544,7 +1544,7 @@
     "explanation": "Article XI, Section 2 lists the impeachable officers: the President, the Vice-President, the Members of the Supreme Court, the Members of the Constitutional Commissions, and the Ombudsman.",
     "source": "1987 Constitution, Art. XI, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The President, the Vice-President, the Members of the Supreme Court, the Members of the Constitutional Commissions, and the Ombudsman may be removed from office on impeachment"
@@ -1569,7 +1569,7 @@
     "explanation": "Article XI, Section 3(1) gives the House of Representatives the exclusive power to initiate all cases of impeachment. The Senate tries and decides them.",
     "source": "1987 Constitution, Art. XI, Sec. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The House of Representatives shall have the exclusive power to initiate all cases of impeachment."
@@ -1594,7 +1594,7 @@
     "explanation": "Article XI, Section 3(6) gives the Senate the sole power to try and decide all cases of impeachment.",
     "source": "1987 Constitution, Art. XI, Sec. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The Senate shall have the sole power to try and decide all cases of impeachment."
@@ -1619,7 +1619,7 @@
     "explanation": "Article XI, Section 3(5) bars initiating impeachment proceedings against the same official more than once within a period of one year.",
     "source": "1987 Constitution, Art. XI, Sec. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "No impeachment proceedings shall be initiated against the same official more than once within a period of one year."
@@ -1644,7 +1644,7 @@
     "explanation": "Article XI, Section 17 requires a declaration under oath of assets, liabilities, and net worth upon assumption of office and as often as required by law, the basis of the SALN.",
     "source": "1987 Constitution, Art. XI, Sec. 17",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "submit a declaration under oath of his assets, liabilities, and net worth"
@@ -1669,7 +1669,7 @@
     "explanation": "Article XI, Section 5 creates the independent Office of the Ombudsman, to be known as the Tanodbayan.",
     "source": "1987 Constitution, Art. XI, Sec. 5",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "Tanodbayan"
@@ -1694,7 +1694,7 @@
     "explanation": "Article XII, Section 2 refers to corporations or associations at least sixty per centum of whose capital is owned by Filipino citizens.",
     "source": "1987 Constitution, Art. XII, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "at least sixty per centum of whose capital is owned by such citizens"
@@ -1719,7 +1719,7 @@
     "explanation": "Article XIV, Section 6 states that the national language of the Philippines is Filipino. Filipino and English are the official languages (Section 7).",
     "source": "1987 Constitution, Art. XIV, Sec. 6",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The national language of the Philippines is Filipino."
@@ -1744,7 +1744,7 @@
     "explanation": "Article XIV, Section 7 makes Filipino and, until otherwise provided by law, English the official languages. Regional languages are auxiliary official languages in the regions.",
     "source": "1987 Constitution, Art. XIV, Sec. 7",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "the official languages of the Philippines are Filipino and, until otherwise provided by law, English"
@@ -1769,7 +1769,7 @@
     "explanation": "Article XIV, Section 5(5) directs the State to assign the highest budgetary priority to education.",
     "source": "1987 Constitution, Art. XIV, Sec. 5",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The State shall assign the highest budgetary priority to education"
@@ -1794,7 +1794,7 @@
     "explanation": "Article XVI, Section 1 describes the flag as red, white, and blue, with a sun and three stars, as consecrated and honored by the people and recognized by law.",
     "source": "1987 Constitution, Art. XVI, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "red, white, and blue, with a sun and three stars"
@@ -1819,7 +1819,7 @@
     "explanation": "Article XVI, Section 3 embodies the doctrine of state immunity: the State may not be sued without its consent.",
     "source": "1987 Constitution, Art. XVI, Sec. 3",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "The State may not be sued without its consent."
@@ -1844,7 +1844,7 @@
     "explanation": "Article XV, Section 1 states that the State recognizes the Filipino family as the foundation of the nation.",
     "source": "1987 Constitution, Art. XV, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 1,
     "source_doc": "constitution_1987",
     "quote": "The State recognizes the Filipino family as the foundation of the nation."
@@ -1869,7 +1869,7 @@
     "explanation": "Article XVII, Section 1 allows amendments or revisions to be proposed by Congress upon a vote of three-fourths of all its Members, or by a constitutional convention.",
     "source": "1987 Constitution, Art. XVII, Sec. 1",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "upon a vote of three-fourths of all its Members"
@@ -1894,7 +1894,7 @@
     "explanation": "Article XVII, Section 2 requires a petition of at least twelve per centum of all registered voters, with every legislative district represented by at least three per centum of its registered voters.",
     "source": "1987 Constitution, Art. XVII, Sec. 2",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 3,
     "source_doc": "constitution_1987",
     "quote": "at least twelve per centum of the total number of registered voters"
@@ -1919,7 +1919,7 @@
     "explanation": "Article XIII, Sections 17 and 18 create the independent Commission on Human Rights and empower it to investigate all forms of human rights violations involving civil and political rights.",
     "source": "1987 Constitution, Art. XIII, Sec. 18",
     "method": "llm-grounded",
-    "status": "draft",
+    "status": "verified",
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "Investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights"
