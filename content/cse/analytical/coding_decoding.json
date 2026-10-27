@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cse-ana-coding_decoding-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, REPORT is written as QDONQS. How is PANEL written in that code?",
+    "choices": [
+      "QBOFM",
+      "OZMDK",
+      "KDMZO",
+      "PANEL"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter moves 1 place back in the alphabet. Applying the same rule, PANEL becomes OZMDK.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, STAMP is written as RSZLO. How is CLERK written in that code?",
+    "choices": [
+      "JQDKB",
+      "DMFSL",
+      "CLERK",
+      "BKDQJ"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter moves 1 place back in the alphabet. Applying the same rule, CLERK becomes BKDQJ.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, DESK is written as WVHP. How is STAMP written in that code?",
+    "choices": [
+      "KNZGH",
+      "RSZLO",
+      "UVCOR",
+      "HGZNK"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, STAMP becomes HGZNK.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, SALARY is written as HZOZIB. How is RECORD written in that code?",
+    "choices": [
+      "SFDPSE",
+      "RECORD",
+      "IVXLIW",
+      "WILXVI"
+    ],
+    "answer": 2,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, RECORD becomes IVXLIW.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, BUDGET is written as YFWTVG. How is FILE written in that code?",
+    "choices": [
+      "UROV",
+      "HKNG",
+      "VORU",
+      "EHKD"
+    ],
+    "answer": 0,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, FILE becomes UROV.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, DESK is written as LTFE. How is FILE written in that code?",
+    "choices": [
+      "EHKD",
+      "HKNG",
+      "GJMF",
+      "FMJG"
+    ],
+    "answer": 3,
+    "explanation": "In the example, the word is reversed, then each letter moves 1 place forward. Applying the same rule, FILE becomes FMJG.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, FOLDER is written as ULOWVI. How is BUDGET written in that code?",
+    "choices": [
+      "ZSBECR",
+      "YFWTVG",
+      "GVTWFY",
+      "EXGJHW"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, BUDGET becomes YFWTVG.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, VOUCHER is written as UHKFXRY. How is CLERK written in that code?",
+    "choices": [
+      "ZIBOH",
+      "FOHUN",
+      "GPIVO",
+      "NUHOF"
+    ],
+    "answer": 3,
+    "explanation": "In the example, the word is reversed, then each letter moves 3 places forward. Applying the same rule, CLERK becomes NUHOF.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, OFFICE is written as LUURXV. How is PERMIT written in that code?",
+    "choices": [
+      "ODQLHS",
+      "GRNIVK",
+      "KVINRG",
+      "RGTOKV"
+    ],
+    "answer": 2,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, PERMIT becomes KVINRG.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, PERMIT is written as KVINRG. How is VOUCHER written in that code?",
+    "choices": [
+      "ELFXSVI",
+      "VOUCHER",
+      "WPVDIFS",
+      "IVSXFLE"
+    ],
+    "answer": 0,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, VOUCHER becomes ELFXSVI.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, VOUCHER is written as ELFXSVI. How is CLERK written in that code?",
+    "choices": [
+      "PIVOX",
+      "XOVIP",
+      "BKDQJ",
+      "ENGTM"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, CLERK becomes XOVIP.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, VOUCHER is written as SFIDVPW. How is STAMP written in that code?",
+    "choices": [
+      "UVCOR",
+      "TUBNQ",
+      "QNBUT",
+      "RSZLO"
+    ],
+    "answer": 2,
+    "explanation": "In the example, the word is reversed, then each letter moves 1 place forward. Applying the same rule, STAMP becomes QNBUT.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, DESK is written as BCQI. How is PERMIT written in that code?",
+    "choices": [
+      "ODQLHS",
+      "RGKPCN",
+      "RGTOKV",
+      "NCPKGR"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter moves 2 places back in the alphabet. Applying the same rule, PERMIT becomes NCPKGR.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, DESK is written as EFTL. How is MEMO written in that code?",
+    "choices": [
+      "LDLN",
+      "PNFN",
+      "NFNP",
+      "OGOQ"
+    ],
+    "answer": 2,
+    "explanation": "In the example, each letter moves 1 place forward in the alphabet. Applying the same rule, MEMO becomes NFNP.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, MEMO is written as PHPR. How is STAMP written in that code?",
+    "choices": [
+      "PQXJM",
+      "VWDPS",
+      "WXEQT",
+      "SPDWV"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter moves 3 places forward in the alphabet. Applying the same rule, STAMP becomes VWDPS.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, MEMO is written as OGOQ. How is DESK written in that code?",
+    "choices": [
+      "BCQI",
+      "MUGF",
+      "FGUM",
+      "GHVN"
+    ],
+    "answer": 2,
+    "explanation": "In the example, each letter moves 2 places forward in the alphabet. Applying the same rule, DESK becomes FGUM.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, LOBBY is written as OLYYB. How is STAMP written in that code?",
+    "choices": [
+      "RSZLO",
+      "UVCOR",
+      "KNZGH",
+      "HGZNK"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, STAMP becomes HGZNK.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, LEDGER is written as UHJGHO. How is MEMO written in that code?",
+    "choices": [
+      "RPHP",
+      "QIQS",
+      "JBJL",
+      "PHPR"
+    ],
+    "answer": 0,
+    "explanation": "In the example, the word is reversed, then each letter moves 3 places forward. Applying the same rule, MEMO becomes RPHP.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, OFFICE is written as CAGDDM. How is LEDGER written in that code?",
+    "choices": [
+      "NGFIGT",
+      "PCEBCJ",
+      "KDCFDQ",
+      "JCBECP"
+    ],
+    "answer": 1,
+    "explanation": "In the example, the word is reversed, then each letter moves 2 places back. Applying the same rule, LEDGER becomes PCEBCJ.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, CLERK is written as AJCPI. How is RECORD written in that code?",
+    "choices": [
+      "BPMACP",
+      "QDBNQC",
+      "TGEQTF",
+      "PCAMPB"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter moves 2 places back in the alphabet. Applying the same rule, RECORD becomes PCAMPB.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, STAMP is written as VWDPS. How is LOBBY written in that code?",
+    "choices": [
+      "BEERO",
+      "OREEB",
+      "ILYYV",
+      "PSFFC"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter moves 3 places forward in the alphabet. Applying the same rule, LOBBY becomes OREEB.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, STAMP is written as TUBNQ. How is OFFICE written in that code?",
+    "choices": [
+      "NEEHBD",
+      "QHHKEG",
+      "FDJGGP",
+      "PGGJDF"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter moves 1 place forward in the alphabet. Applying the same rule, OFFICE becomes PGGJDF.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, PANEL is written as OZMDK. How is STAMP written in that code?",
+    "choices": [
+      "STAMP",
+      "TUBNQ",
+      "OLZSR",
+      "RSZLO"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter moves 1 place back in the alphabet. Applying the same rule, STAMP becomes RSZLO.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, DESK is written as GHVN. How is BUDGET written in that code?",
+    "choices": [
+      "EXGJHW",
+      "YRADBQ",
+      "WHJGXE",
+      "FYHKIX"
+    ],
+    "answer": 0,
+    "explanation": "In the example, each letter moves 3 places forward in the alphabet. Applying the same rule, BUDGET becomes EXGJHW.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, REPORT is written as QDONQS. How is FOLDER written in that code?",
+    "choices": [
+      "QDCKNE",
+      "FOLDER",
+      "GPMEFS",
+      "ENKCDQ"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter moves 1 place back in the alphabet. Applying the same rule, FOLDER becomes ENKCDQ.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, CLERK is written as XOVIP. How is DESK written in that code?",
+    "choices": [
+      "PHVW",
+      "FGUM",
+      "WVHP",
+      "CDRJ"
+    ],
+    "answer": 2,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, DESK becomes WVHP.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, PANEL is written as QBOFM. How is FILE written in that code?",
+    "choices": [
+      "FMJG",
+      "GJMF",
+      "EHKD",
+      "HKNG"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter moves 1 place forward in the alphabet. Applying the same rule, FILE becomes GJMF.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, PERMIT is written as RGKPCN. How is LOBBY written in that code?",
+    "choices": [
+      "WZZMJ",
+      "KNAAX",
+      "JMZZW",
+      "NQDDA"
+    ],
+    "answer": 0,
+    "explanation": "In the example, the word is reversed, then each letter moves 2 places back. Applying the same rule, LOBBY becomes WZZMJ.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, FILE is written as DKHE. How is STAMP written in that code?",
+    "choices": [
+      "STAMP",
+      "TUBNQ",
+      "OLZSR",
+      "RSZLO"
+    ],
+    "answer": 2,
+    "explanation": "In the example, the word is reversed, then each letter moves 1 place back. Applying the same rule, STAMP becomes OLZSR.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, BUDGET is written as YFWTVG. How is AGENCY written in that code?",
+    "choices": [
+      "BXMVTZ",
+      "ZTVMXB",
+      "EKIRGC",
+      "XDBKZV"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, AGENCY becomes ZTVMXB.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-031",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, LOBBY is written as ADDQN. How is PERMIT written in that code?",
+    "choices": [
+      "RGTOKV",
+      "VKOTGR",
+      "SHUPLW",
+      "NCPKGR"
+    ],
+    "answer": 1,
+    "explanation": "In the example, the word is reversed, then each letter moves 2 places forward. Applying the same rule, PERMIT becomes VKOTGR.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-032",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, CLERK is written as FOHUN. How is MEMO written in that code?",
+    "choices": [
+      "PHPR",
+      "QIQS",
+      "JBJL",
+      "RPHP"
+    ],
+    "answer": 0,
+    "explanation": "In the example, each letter moves 3 places forward in the alphabet. Applying the same rule, MEMO becomes PHPR.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-033",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, LEDGER is written as PCEBCJ. How is LOBBY written in that code?",
+    "choices": [
+      "NQDDA",
+      "JMZZW",
+      "KNAAX",
+      "WZZMJ"
+    ],
+    "answer": 3,
+    "explanation": "In the example, the word is reversed, then each letter moves 2 places back. Applying the same rule, LOBBY becomes WZZMJ.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-034",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, LOBBY is written as KNAAX. How is STAMP written in that code?",
+    "choices": [
+      "OLZSR",
+      "TUBNQ",
+      "RSZLO",
+      "STAMP"
+    ],
+    "answer": 2,
+    "explanation": "In the example, each letter moves 1 place back in the alphabet. Applying the same rule, STAMP becomes RSZLO.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-035",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, REPORT is written as TGRQTV. How is FILE written in that code?",
+    "choices": [
+      "DGJC",
+      "ILOH",
+      "HKNG",
+      "GNKH"
+    ],
+    "answer": 2,
+    "explanation": "In the example, each letter moves 2 places forward in the alphabet. Applying the same rule, FILE becomes HKNG.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-036",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, RECORD is written as BPMACP. How is CLERK written in that code?",
+    "choices": [
+      "IPCJA",
+      "AJCPI",
+      "ENGTM",
+      "BKDQJ"
+    ],
+    "answer": 0,
+    "explanation": "In the example, the word is reversed, then each letter moves 2 places back. Applying the same rule, CLERK becomes IPCJA.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-037",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, MEMO is written as PHPR. How is REPORT written in that code?",
+    "choices": [
+      "UHSRUW",
+      "VITSVX",
+      "WURSHU",
+      "OBMLOQ"
+    ],
+    "answer": 0,
+    "explanation": "In the example, each letter moves 3 places forward in the alphabet. Applying the same rule, REPORT becomes UHSRUW.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-038",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, OFFICE is written as LUURXV. How is PANEL written in that code?",
+    "choices": [
+      "OVMZK",
+      "OZMDK",
+      "RCPGN",
+      "KZMVO"
+    ],
+    "answer": 3,
+    "explanation": "In the example, each letter is replaced by its mirror in the alphabet (A↔Z, B↔Y, C↔X, …). Applying the same rule, PANEL becomes KZMVO.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-039",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, REPORT is written as TGRQTV. How is VOUCHER written in that code?",
+    "choices": [
+      "XQWEJGT",
+      "TMSAFCP",
+      "YRXFKHU",
+      "TGJEWQX"
+    ],
+    "answer": 0,
+    "explanation": "In the example, each letter moves 2 places forward in the alphabet. Applying the same rule, VOUCHER becomes XQWEJGT.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-coding_decoding-040",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "coding_decoding",
+    "stem": "In a certain code, AGENCY is written as BHFODZ. How is LEDGER written in that code?",
+    "choices": [
+      "SFHEFM",
+      "MFEHFS",
+      "NGFIGT",
+      "KDCFDQ"
+    ],
+    "answer": 1,
+    "explanation": "In the example, each letter moves 1 place forward in the alphabet. Applying the same rule, LEDGER becomes MFEHFS.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cse-ana-ordering-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Jun, Mark, Vince, Paolo and Ana, finished a race with no ties.\nMark finished ahead of Jun.\nPaolo finished ahead of Ana.\nExactly one runner finished between Mark and Jun.\nVince finished right after Paolo.\nWho finished fifth?",
+    "choices": [
+      "Vince",
+      "Jun",
+      "Mark",
+      "Paolo"
+    ],
+    "answer": 1,
+    "explanation": "Only one finishing order satisfies every clue: Paolo, Vince, Mark, Ana, Jun. So Jun finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Ella, Mark, Dina, Jun and Vince, finished a race with no ties.\nDina finished ahead of Mark.\nVince finished last.\nExactly one runner finished between Ella and Mark.\nJun finished first.\nWho finished fifth?",
+    "choices": [
+      "Ella",
+      "Vince",
+      "Jun",
+      "Dina"
+    ],
+    "answer": 1,
+    "explanation": "Only one finishing order satisfies every clue: Jun, Ella, Dina, Mark, Vince. So Vince finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Carlo, Ben, Tess, Liza and Jun, finished a race with no ties.\nCarlo finished right after Jun.\nExactly one runner finished between Ben and Liza.\nBen finished ahead of Liza.\nTess finished ahead of Carlo.\nWho finished first?",
+    "choices": [
+      "Jun",
+      "Liza",
+      "Tess",
+      "Ben"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Ben, Tess, Liza, Jun, Carlo. So Ben finished first.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Ben, Liza, Paolo, Ana and Vince, finished a race with no ties.\nLiza finished last.\nVince finished ahead of Ben.\nLiza finished right after Ana.\nPaolo finished ahead of Vince.\nWho finished third?",
+    "choices": [
+      "Vince",
+      "Ana",
+      "Ben",
+      "Paolo"
+    ],
+    "answer": 2,
+    "explanation": "Only one finishing order satisfies every clue: Paolo, Vince, Ben, Ana, Liza. So Ben finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Rico, Nina, Joy, Dina and Liza, finished a race with no ties.\nExactly one runner finished between Liza and Joy.\nDina finished last.\nRico finished first.\nNina finished right after Liza.\nWho finished fifth?",
+    "choices": [
+      "Dina",
+      "Rico",
+      "Liza",
+      "Nina"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Rico, Liza, Nina, Joy, Dina. So Dina finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Vince, Nina, Liza, Ana and Paolo, finished a race with no ties.\nLiza finished right after Ana.\nPaolo finished first.\nExactly one runner finished between Ana and Nina.\nExactly one runner finished between Liza and Paolo.\nWho finished second?",
+    "choices": [
+      "Paolo",
+      "Nina",
+      "Ana",
+      "Liza"
+    ],
+    "answer": 2,
+    "explanation": "Only one finishing order satisfies every clue: Paolo, Ana, Liza, Nina, Vince. So Ana finished second.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Jun, Nina, Mark, Carlo and Dina, finished a race with no ties.\nExactly one runner finished between Carlo and Jun.\nJun finished first.\nCarlo finished right after Dina.\nNina finished last.\nWho finished second?",
+    "choices": [
+      "Dina",
+      "Carlo",
+      "Mark",
+      "Jun"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Jun, Dina, Carlo, Mark, Nina. So Dina finished second.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Tess, Paolo, Mark, Vince and Nina, finished a race with no ties.\nNina finished right after Paolo.\nMark finished last.\nExactly one runner finished between Mark and Nina.\nNina finished ahead of Tess.\nWho finished first?",
+    "choices": [
+      "Paolo",
+      "Nina",
+      "Vince",
+      "Tess"
+    ],
+    "answer": 2,
+    "explanation": "Only one finishing order satisfies every clue: Vince, Paolo, Nina, Tess, Mark. So Vince finished first.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Rico, Carlo, Joy, Vince and Tess, finished a race with no ties.\nRico finished ahead of Carlo.\nJoy finished ahead of Rico.\nExactly one runner finished between Carlo and Tess.\nCarlo finished right after Vince.\nWho finished second?",
+    "choices": [
+      "Joy",
+      "Tess",
+      "Vince",
+      "Rico"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Joy, Rico, Tess, Vince, Carlo. So Rico finished second.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Rico, Liza, Tess, Carlo and Vince, finished a race with no ties.\nVince finished right after Rico.\nExactly one runner finished between Rico and Liza.\nRico finished ahead of Carlo.\nTess finished first.\nWho finished first?",
+    "choices": [
+      "Rico",
+      "Vince",
+      "Tess",
+      "Liza"
+    ],
+    "answer": 2,
+    "explanation": "Only one finishing order satisfies every clue: Tess, Rico, Vince, Liza, Carlo. So Tess finished first.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Jun, Ella, Nina, Rico and Vince, finished a race with no ties.\nVince finished right after Rico.\nNina finished ahead of Jun.\nNina finished right after Ella.\nRico finished first.\nWho finished fifth?",
+    "choices": [
+      "Jun",
+      "Ella",
+      "Vince",
+      "Rico"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Rico, Vince, Ella, Nina, Jun. So Jun finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Tess, Liza, Mark, Carlo and Rico, finished a race with no ties.\nRico finished ahead of Carlo.\nRico finished right after Tess.\nMark finished first.\nExactly one runner finished between Rico and Carlo.\nWho finished fifth?",
+    "choices": [
+      "Carlo",
+      "Tess",
+      "Mark",
+      "Rico"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Mark, Tess, Rico, Liza, Carlo. So Carlo finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Mark, Ella, Ben, Liza and Ana, finished a race with no ties.\nBen finished ahead of Mark.\nExactly one runner finished between Ana and Ben.\nElla finished first.\nMark finished ahead of Liza.\nWho finished second?",
+    "choices": [
+      "Ana",
+      "Ben",
+      "Ella",
+      "Mark"
+    ],
+    "answer": 1,
+    "explanation": "Only one finishing order satisfies every clue: Ella, Ben, Mark, Ana, Liza. So Ben finished second.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Mark, Joy, Carlo, Paolo and Vince, finished a race with no ties.\nVince finished ahead of Paolo.\nMark finished first.\nCarlo finished ahead of Vince.\nExactly one runner finished between Mark and Carlo.\nWho finished fourth?",
+    "choices": [
+      "Joy",
+      "Vince",
+      "Carlo",
+      "Mark"
+    ],
+    "answer": 1,
+    "explanation": "Only one finishing order satisfies every clue: Mark, Joy, Carlo, Vince, Paolo. So Vince finished fourth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Jun, Liza, Ella, Ana and Mark, finished a race with no ties.\nAna finished ahead of Mark.\nExactly one runner finished between Jun and Liza.\nExactly one runner finished between Ana and Liza.\nLiza finished ahead of Ella.\nWho finished third?",
+    "choices": [
+      "Ella",
+      "Mark",
+      "Ana",
+      "Liza"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Ana, Mark, Liza, Ella, Jun. So Liza finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Mark, Nina, Ana, Joy and Carlo, finished a race with no ties.\nNina finished first.\nAna finished ahead of Joy.\nExactly one runner finished between Mark and Nina.\nJoy finished right after Mark.\nWho finished first?",
+    "choices": [
+      "Nina",
+      "Mark",
+      "Joy",
+      "Ana"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Nina, Ana, Mark, Joy, Carlo. So Nina finished first.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Carlo, Paolo, Ella, Tess and Jun, finished a race with no ties.\nExactly one runner finished between Paolo and Tess.\nPaolo finished right after Carlo.\nCarlo finished ahead of Jun.\nExactly one runner finished between Paolo and Jun.\nWho finished third?",
+    "choices": [
+      "Ella",
+      "Tess",
+      "Carlo",
+      "Paolo"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Tess, Carlo, Paolo, Ella, Jun. So Paolo finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Joy, Paolo, Mark, Liza and Ana, finished a race with no ties.\nAna finished last.\nPaolo finished first.\nMark finished right after Joy.\nExactly one runner finished between Joy and Paolo.\nWho finished second?",
+    "choices": [
+      "Liza",
+      "Mark",
+      "Joy",
+      "Paolo"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Paolo, Liza, Joy, Mark, Ana. So Liza finished second.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Liza, Rico, Ben, Nina and Carlo, finished a race with no ties.\nExactly one runner finished between Liza and Rico.\nBen finished first.\nLiza finished right after Ben.\nNina finished last.\nWho finished fourth?",
+    "choices": [
+      "Rico",
+      "Ben",
+      "Liza",
+      "Carlo"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Ben, Liza, Carlo, Rico, Nina. So Rico finished fourth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Mark, Nina, Rico, Paolo and Ella, finished a race with no ties.\nExactly one runner finished between Nina and Mark.\nMark finished last.\nNina finished right after Ella.\nPaolo finished right after Nina.\nWho finished first?",
+    "choices": [
+      "Nina",
+      "Ella",
+      "Paolo",
+      "Rico"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Rico, Ella, Nina, Paolo, Mark. So Rico finished first.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Liza, Joy, Rico, Carlo and Vince, finished a race with no ties.\nRico finished right after Carlo.\nLiza finished first.\nExactly one runner finished between Vince and Rico.\nVince finished last.\nWho finished fifth?",
+    "choices": [
+      "Rico",
+      "Liza",
+      "Carlo",
+      "Vince"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Liza, Carlo, Rico, Joy, Vince. So Vince finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Dina, Paolo, Tess, Mark and Carlo, finished a race with no ties.\nDina finished right after Tess.\nCarlo finished ahead of Mark.\nExactly one runner finished between Dina and Mark.\nExactly one runner finished between Carlo and Paolo.\nWho finished fourth?",
+    "choices": [
+      "Tess",
+      "Dina",
+      "Carlo",
+      "Mark"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Tess, Dina, Carlo, Mark, Paolo. So Mark finished fourth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Dina, Mark, Jun, Tess and Rico, finished a race with no ties.\nRico finished ahead of Dina.\nMark finished right after Rico.\nJun finished ahead of Mark.\nJun finished right after Tess.\nWho finished fourth?",
+    "choices": [
+      "Tess",
+      "Rico",
+      "Mark",
+      "Jun"
+    ],
+    "answer": 2,
+    "explanation": "Only one finishing order satisfies every clue: Tess, Jun, Rico, Mark, Dina. So Mark finished fourth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Liza, Ben, Jun, Vince and Carlo, finished a race with no ties.\nBen finished right after Jun.\nLiza finished ahead of Carlo.\nExactly one runner finished between Carlo and Jun.\nBen finished last.\nWho finished fifth?",
+    "choices": [
+      "Vince",
+      "Ben",
+      "Liza",
+      "Carlo"
+    ],
+    "answer": 1,
+    "explanation": "Only one finishing order satisfies every clue: Liza, Carlo, Vince, Jun, Ben. So Ben finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Carlo, Mark, Joy, Vince and Paolo, finished a race with no ties.\nMark finished ahead of Vince.\nPaolo finished last.\nJoy finished first.\nPaolo finished right after Carlo.\nWho finished third?",
+    "choices": [
+      "Vince",
+      "Mark",
+      "Carlo",
+      "Joy"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Joy, Mark, Vince, Carlo, Paolo. So Vince finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Vince, Ana, Dina, Carlo and Ben, finished a race with no ties.\nBen finished ahead of Dina.\nDina finished ahead of Vince.\nAna finished last.\nBen finished right after Carlo.\nWho finished first?",
+    "choices": [
+      "Dina",
+      "Vince",
+      "Ben",
+      "Carlo"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Carlo, Ben, Dina, Vince, Ana. So Carlo finished first.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Tess, Joy, Carlo, Vince and Paolo, finished a race with no ties.\nVince finished last.\nCarlo finished ahead of Paolo.\nPaolo finished ahead of Joy.\nTess finished first.\nWho finished fourth?",
+    "choices": [
+      "Joy",
+      "Paolo",
+      "Carlo",
+      "Tess"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Tess, Carlo, Paolo, Joy, Vince. So Joy finished fourth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Nina, Jun, Joy, Ella and Carlo, finished a race with no ties.\nJoy finished right after Carlo.\nExactly one runner finished between Carlo and Ella.\nExactly one runner finished between Jun and Nina.\nElla finished ahead of Nina.\nWho finished third?",
+    "choices": [
+      "Carlo",
+      "Jun",
+      "Ella",
+      "Nina"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Jun, Ella, Nina, Carlo, Joy. So Nina finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Ella, Ben, Joy, Rico and Carlo, finished a race with no ties.\nCarlo finished ahead of Ella.\nBen finished right after Joy.\nElla finished right after Rico.\nRico finished right after Ben.\nWho finished second?",
+    "choices": [
+      "Carlo",
+      "Ben",
+      "Joy",
+      "Rico"
+    ],
+    "answer": 2,
+    "explanation": "Only one finishing order satisfies every clue: Carlo, Joy, Ben, Rico, Ella. So Joy finished second.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Ella, Liza, Jun, Ben and Tess, finished a race with no ties.\nLiza finished ahead of Ella.\nBen finished first.\nLiza finished right after Tess.\nExactly one runner finished between Jun and Tess.\nWho finished fifth?",
+    "choices": [
+      "Ella",
+      "Ben",
+      "Liza",
+      "Tess"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Ben, Tess, Liza, Jun, Ella. So Ella finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-031",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Jun, Tess, Carlo, Vince and Liza, finished a race with no ties.\nVince finished last.\nLiza finished first.\nExactly one runner finished between Carlo and Tess.\nTess finished ahead of Jun.\nWho finished fifth?",
+    "choices": [
+      "Vince",
+      "Tess",
+      "Jun",
+      "Liza"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Liza, Tess, Jun, Carlo, Vince. So Vince finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-032",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Rico, Vince, Liza, Ana and Ella, finished a race with no ties.\nElla finished ahead of Vince.\nVince finished ahead of Rico.\nElla finished right after Ana.\nLiza finished right after Vince.\nWho finished third?",
+    "choices": [
+      "Liza",
+      "Ana",
+      "Ella",
+      "Vince"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Ana, Ella, Vince, Liza, Rico. So Vince finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-033",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Ben, Paolo, Ana, Carlo and Ella, finished a race with no ties.\nAna finished right after Ella.\nPaolo finished ahead of Ana.\nBen finished last.\nElla finished right after Carlo.\nWho finished fifth?",
+    "choices": [
+      "Ella",
+      "Carlo",
+      "Paolo",
+      "Ben"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Paolo, Carlo, Ella, Ana, Ben. So Ben finished fifth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-034",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Jun, Tess, Paolo, Nina and Dina, finished a race with no ties.\nExactly one runner finished between Tess and Nina.\nExactly one runner finished between Tess and Paolo.\nPaolo finished right after Dina.\nWho finished first?",
+    "choices": [
+      "Jun",
+      "Tess",
+      "Dina",
+      "Nina"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Nina, Jun, Tess, Dina, Paolo. So Nina finished first.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-035",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Vince, Carlo, Tess, Paolo and Jun, finished a race with no ties.\nJun finished ahead of Carlo.\nTess finished right after Paolo.\nVince finished right after Carlo.\nPaolo finished first.\nWho finished fourth?",
+    "choices": [
+      "Carlo",
+      "Tess",
+      "Paolo",
+      "Jun"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Paolo, Tess, Jun, Carlo, Vince. So Carlo finished fourth.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-036",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Rico, Paolo, Ella, Mark and Ben, finished a race with no ties.\nElla finished last.\nExactly one runner finished between Ella and Rico.\nExactly one runner finished between Paolo and Ben.\nBen finished ahead of Rico.\nWho finished third?",
+    "choices": [
+      "Rico",
+      "Ben",
+      "Mark",
+      "Paolo"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Mark, Ben, Rico, Paolo, Ella. So Rico finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-037",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Tess, Ben, Jun, Mark and Nina, finished a race with no ties.\nBen finished ahead of Nina.\nBen finished right after Mark.\nTess finished right after Jun.\nJun finished ahead of Mark.\nWho finished third?",
+    "choices": [
+      "Mark",
+      "Tess",
+      "Jun",
+      "Ben"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Jun, Tess, Mark, Ben, Nina. So Mark finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-038",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Rico, Ella, Dina, Liza and Mark, finished a race with no ties.\nExactly one runner finished between Mark and Liza.\nMark finished ahead of Liza.\nLiza finished ahead of Ella.\nRico finished ahead of Mark.\nWho finished third?",
+    "choices": [
+      "Liza",
+      "Dina",
+      "Mark",
+      "Rico"
+    ],
+    "answer": 1,
+    "explanation": "Only one finishing order satisfies every clue: Rico, Mark, Dina, Liza, Ella. So Dina finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-039",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Mark, Paolo, Vince, Jun and Ben, finished a race with no ties.\nJun finished right after Vince.\nMark finished ahead of Ben.\nPaolo finished first.\nVince finished right after Paolo.\nWho finished third?",
+    "choices": [
+      "Jun",
+      "Mark",
+      "Vince",
+      "Paolo"
+    ],
+    "answer": 0,
+    "explanation": "Only one finishing order satisfies every clue: Paolo, Vince, Jun, Mark, Ben. So Jun finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-ordering-040",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "ordering",
+    "stem": "Five runners, Jun, Rico, Joy, Dina and Vince, finished a race with no ties.\nVince finished right after Joy.\nRico finished last.\nExactly one runner finished between Rico and Jun.\nWho finished third?",
+    "choices": [
+      "Vince",
+      "Dina",
+      "Joy",
+      "Jun"
+    ],
+    "answer": 3,
+    "explanation": "Only one finishing order satisfies every clue: Joy, Vince, Jun, Dina, Rico. So Jun finished third.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  }
+]

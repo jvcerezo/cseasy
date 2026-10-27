@@ -29,7 +29,11 @@ def problems(questions: list[dict]) -> list[str]:
     errors = [e for q in questions for e in validate_question(q)]
     ids = Counter(q.get("id") for q in questions)
     errors += [f"duplicate id {i} ({n}x)" for i, n in ids.items() if n > 1]
-    stems = Counter(q.get("stem", "").strip().lower() for q in questions)
+    # Data-interpretation items share a stem and differ only in their table.
+    stems = Counter(
+        q.get("stem", "").strip().lower() + json.dumps(q.get("table"), sort_keys=True)
+        for q in questions
+    )
     errors += [f"duplicate stem: {s[:60]!r}" for s, n in stems.items() if n > 1]
     return errors
 

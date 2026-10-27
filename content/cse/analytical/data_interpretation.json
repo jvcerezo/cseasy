@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "cse-ana-data_interpretation-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). In which period were the combined sales lowest?",
+    "choices": [
+      "Feb",
+      "Apr",
+      "Jan",
+      "Mar"
+    ],
+    "answer": 3,
+    "explanation": "Combined: Jan 157, Feb 189, Mar 118, Apr 261. The lowest is Mar.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "27",
+          "52",
+          "41",
+          "60"
+        ],
+        [
+          "Mang Ben",
+          "12",
+          "50",
+          "29",
+          "80"
+        ],
+        [
+          "Tindahan ni Joy",
+          "75",
+          "45",
+          "36",
+          "64"
+        ],
+        [
+          "RJ Store",
+          "43",
+          "42",
+          "12",
+          "57"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. Which had the highest total applications over the four periods?",
+    "choices": [
+      "Engineering",
+      "Treasury",
+      "Civil Registry",
+      "Assessor"
+    ],
+    "answer": 3,
+    "explanation": "Totals: Treasury 180, Assessor 230, Civil Registry 163, Engineering 190. The highest is Assessor.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "50",
+          "37",
+          "22",
+          "71"
+        ],
+        [
+          "Assessor",
+          "40",
+          "76",
+          "24",
+          "90"
+        ],
+        [
+          "Civil Registry",
+          "42",
+          "40",
+          "55",
+          "26"
+        ],
+        [
+          "Engineering",
+          "86",
+          "17",
+          "27",
+          "60"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). By what percent did RJ Store's sales increase from Jan to Apr?",
+    "choices": [
+      "25%",
+      "16.67%",
+      "4%",
+      "20%"
+    ],
+    "answer": 3,
+    "explanation": "Increase = 24 − 20 = 4. 4 ÷ 20 = 0.2, so 20%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "57",
+          "85",
+          "83",
+          "53"
+        ],
+        [
+          "Mang Ben",
+          "67",
+          "50",
+          "49",
+          "86"
+        ],
+        [
+          "Tindahan ni Joy",
+          "29",
+          "63",
+          "74",
+          "93"
+        ],
+        [
+          "RJ Store",
+          "20",
+          "33",
+          "89",
+          "24"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. By what percent did Bagong Silang's enrollees increase from 2023 to 2026?",
+    "choices": [
+      "25%",
+      "9%",
+      "30%",
+      "20%"
+    ],
+    "answer": 0,
+    "explanation": "Increase = 45 − 36 = 9. 9 ÷ 36 = 0.25, so 25%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "12",
+          "76",
+          "84",
+          "18"
+        ],
+        [
+          "Sta. Cruz",
+          "41",
+          "78",
+          "12",
+          "28"
+        ],
+        [
+          "Malinis",
+          "70",
+          "69",
+          "55",
+          "90"
+        ],
+        [
+          "Bagong Silang",
+          "36",
+          "64",
+          "65",
+          "45"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. What is the average per period for Civil Registry?",
+    "choices": [
+      "73",
+      "95",
+      "70",
+      "93.33"
+    ],
+    "answer": 2,
+    "explanation": "(95 + 84 + 40 + 61) ÷ 4 = 280 ÷ 4 = 70.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "28",
+          "20",
+          "17",
+          "68"
+        ],
+        [
+          "Assessor",
+          "42",
+          "68",
+          "38",
+          "95"
+        ],
+        [
+          "Civil Registry",
+          "95",
+          "84",
+          "40",
+          "61"
+        ],
+        [
+          "Engineering",
+          "13",
+          "16",
+          "65",
+          "27"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. By what percent did Sta. Cruz's enrollees increase from 2023 to 2026?",
+    "choices": [
+      "15.79%",
+      "20%",
+      "12%",
+      "25%"
+    ],
+    "answer": 1,
+    "explanation": "Increase = 76 − 64 = 12. 12 ÷ 64 = 0.2, so 20%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "16",
+          "49",
+          "12",
+          "55"
+        ],
+        [
+          "Sta. Cruz",
+          "64",
+          "25",
+          "12",
+          "76"
+        ],
+        [
+          "Malinis",
+          "59",
+          "64",
+          "34",
+          "45"
+        ],
+        [
+          "Bagong Silang",
+          "14",
+          "54",
+          "61",
+          "20"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. What were the combined applications of all four in Q3?",
+    "choices": [
+      "213",
+      "176",
+      "152",
+      "223"
+    ],
+    "answer": 0,
+    "explanation": "61 + 51 + 55 + 46 = 213.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "30",
+          "83",
+          "61",
+          "88"
+        ],
+        [
+          "Assessor",
+          "32",
+          "87",
+          "51",
+          "23"
+        ],
+        [
+          "Civil Registry",
+          "23",
+          "15",
+          "55",
+          "12"
+        ],
+        [
+          "Engineering",
+          "46",
+          "22",
+          "46",
+          "53"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. By what percent did Malinis's enrollees increase from 2023 to 2026?",
+    "choices": [
+      "20%",
+      "25%",
+      "30%",
+      "17%"
+    ],
+    "answer": 1,
+    "explanation": "Increase = 85 − 68 = 17. 17 ÷ 68 = 0.25, so 25%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "13",
+          "39",
+          "21",
+          "14"
+        ],
+        [
+          "Sta. Cruz",
+          "16",
+          "45",
+          "54",
+          "27"
+        ],
+        [
+          "Malinis",
+          "68",
+          "13",
+          "67",
+          "85"
+        ],
+        [
+          "Bagong Silang",
+          "76",
+          "47",
+          "65",
+          "29"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. By what percent did Malinis's enrollees increase from 2023 to 2026?",
+    "choices": [
+      "2%",
+      "15%",
+      "7.69%",
+      "10%"
+    ],
+    "answer": 3,
+    "explanation": "Increase = 26 − 24 = 2. 2 ÷ 24 = 0.1, so 10%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "43",
+          "57",
+          "88",
+          "38"
+        ],
+        [
+          "Sta. Cruz",
+          "17",
+          "13",
+          "51",
+          "41"
+        ],
+        [
+          "Malinis",
+          "24",
+          "21",
+          "24",
+          "26"
+        ],
+        [
+          "Bagong Silang",
+          "55",
+          "45",
+          "61",
+          "61"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). What is the average per period for RJ Store?",
+    "choices": [
+      "79",
+      "60",
+      "45",
+      "48"
+    ],
+    "answer": 2,
+    "explanation": "(19 + 14 + 68 + 79) ÷ 4 = 180 ÷ 4 = 45.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "15",
+          "80",
+          "19",
+          "50"
+        ],
+        [
+          "Mang Ben",
+          "23",
+          "56",
+          "35",
+          "40"
+        ],
+        [
+          "Tindahan ni Joy",
+          "38",
+          "48",
+          "50",
+          "86"
+        ],
+        [
+          "RJ Store",
+          "19",
+          "14",
+          "68",
+          "79"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. Which had the highest total applications over the four periods?",
+    "choices": [
+      "Civil Registry",
+      "Engineering",
+      "Treasury",
+      "Assessor"
+    ],
+    "answer": 3,
+    "explanation": "Totals: Treasury 253, Assessor 263, Civil Registry 218, Engineering 196. The highest is Assessor.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "75",
+          "33",
+          "64",
+          "81"
+        ],
+        [
+          "Assessor",
+          "62",
+          "90",
+          "17",
+          "94"
+        ],
+        [
+          "Civil Registry",
+          "33",
+          "82",
+          "84",
+          "19"
+        ],
+        [
+          "Engineering",
+          "37",
+          "48",
+          "32",
+          "79"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). What is the average per period for Aling Nena?",
+    "choices": [
+      "45",
+      "60",
+      "51",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "(36 + 50 + 43 + 51) ÷ 4 = 180 ÷ 4 = 45.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "36",
+          "50",
+          "43",
+          "51"
+        ],
+        [
+          "Mang Ben",
+          "54",
+          "58",
+          "81",
+          "94"
+        ],
+        [
+          "Tindahan ni Joy",
+          "18",
+          "18",
+          "36",
+          "23"
+        ],
+        [
+          "RJ Store",
+          "64",
+          "81",
+          "30",
+          "45"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. What is the average per period for Sta. Cruz?",
+    "choices": [
+      "71",
+      "52",
+      "55",
+      "69.33"
+    ],
+    "answer": 1,
+    "explanation": "(71 + 34 + 39 + 64) ÷ 4 = 208 ÷ 4 = 52.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "59",
+          "27",
+          "77",
+          "31"
+        ],
+        [
+          "Sta. Cruz",
+          "71",
+          "34",
+          "39",
+          "64"
+        ],
+        [
+          "Malinis",
+          "51",
+          "67",
+          "80",
+          "74"
+        ],
+        [
+          "Bagong Silang",
+          "88",
+          "76",
+          "44",
+          "19"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. By what percent did Sta. Cruz's enrollees increase from 2023 to 2026?",
+    "choices": [
+      "30%",
+      "20%",
+      "25%",
+      "14%"
+    ],
+    "answer": 2,
+    "explanation": "Increase = 70 − 56 = 14. 14 ÷ 56 = 0.25, so 25%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "34",
+          "52",
+          "43",
+          "20"
+        ],
+        [
+          "Sta. Cruz",
+          "56",
+          "36",
+          "49",
+          "70"
+        ],
+        [
+          "Malinis",
+          "65",
+          "30",
+          "32",
+          "23"
+        ],
+        [
+          "Bagong Silang",
+          "46",
+          "83",
+          "40",
+          "85"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). In which period were the combined sales lowest?",
+    "choices": [
+      "Feb",
+      "Apr",
+      "Jan",
+      "Mar"
+    ],
+    "answer": 3,
+    "explanation": "Combined: Jan 262, Feb 247, Mar 177, Apr 249. The lowest is Mar.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "18",
+          "62",
+          "59",
+          "61"
+        ],
+        [
+          "Mang Ben",
+          "91",
+          "14",
+          "41",
+          "79"
+        ],
+        [
+          "Tindahan ni Joy",
+          "89",
+          "76",
+          "62",
+          "78"
+        ],
+        [
+          "RJ Store",
+          "64",
+          "95",
+          "15",
+          "31"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. By what percent did San Jose's enrollees increase from 2023 to 2026?",
+    "choices": [
+      "27%",
+      "80%",
+      "75%",
+      "42.86%"
+    ],
+    "answer": 2,
+    "explanation": "Increase = 63 − 36 = 27. 27 ÷ 36 = 0.75, so 75%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "36",
+          "77",
+          "33",
+          "63"
+        ],
+        [
+          "Sta. Cruz",
+          "19",
+          "34",
+          "94",
+          "37"
+        ],
+        [
+          "Malinis",
+          "58",
+          "51",
+          "53",
+          "21"
+        ],
+        [
+          "Bagong Silang",
+          "88",
+          "31",
+          "41",
+          "52"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). What were the combined sales of all four in Feb?",
+    "choices": [
+      "268",
+      "149",
+      "206",
+      "278"
+    ],
+    "answer": 0,
+    "explanation": "62 + 47 + 75 + 84 = 268.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "55",
+          "62",
+          "51",
+          "43"
+        ],
+        [
+          "Mang Ben",
+          "63",
+          "47",
+          "20",
+          "24"
+        ],
+        [
+          "Tindahan ni Joy",
+          "14",
+          "75",
+          "15",
+          "24"
+        ],
+        [
+          "RJ Store",
+          "82",
+          "84",
+          "63",
+          "92"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). By what percent did RJ Store's sales increase from Jan to Apr?",
+    "choices": [
+      "25%",
+      "20%",
+      "15%",
+      "30%"
+    ],
+    "answer": 0,
+    "explanation": "Increase = 75 − 60 = 15. 15 ÷ 60 = 0.25, so 25%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "25",
+          "20",
+          "52",
+          "21"
+        ],
+        [
+          "Mang Ben",
+          "73",
+          "51",
+          "20",
+          "67"
+        ],
+        [
+          "Tindahan ni Joy",
+          "13",
+          "38",
+          "20",
+          "46"
+        ],
+        [
+          "RJ Store",
+          "60",
+          "13",
+          "20",
+          "75"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). In which period were the combined sales lowest?",
+    "choices": [
+      "Jan",
+      "Apr",
+      "Feb",
+      "Mar"
+    ],
+    "answer": 1,
+    "explanation": "Combined: Jan 202, Feb 248, Mar 180, Apr 173. The lowest is Apr.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "79",
+          "22",
+          "35",
+          "15"
+        ],
+        [
+          "Mang Ben",
+          "68",
+          "91",
+          "13",
+          "77"
+        ],
+        [
+          "Tindahan ni Joy",
+          "22",
+          "84",
+          "91",
+          "13"
+        ],
+        [
+          "RJ Store",
+          "33",
+          "51",
+          "41",
+          "68"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). By what percent did Mang Ben's sales increase from Jan to Apr?",
+    "choices": [
+      "16%",
+      "20%",
+      "25%",
+      "16.67%"
+    ],
+    "answer": 1,
+    "explanation": "Increase = 96 − 80 = 16. 16 ÷ 80 = 0.2, so 20%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "21",
+          "78",
+          "24",
+          "55"
+        ],
+        [
+          "Mang Ben",
+          "80",
+          "48",
+          "32",
+          "96"
+        ],
+        [
+          "Tindahan ni Joy",
+          "93",
+          "86",
+          "22",
+          "32"
+        ],
+        [
+          "RJ Store",
+          "45",
+          "71",
+          "35",
+          "64"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. By what percent did Assessor's applications increase from Q1 to Q4?",
+    "choices": [
+      "33%",
+      "42.86%",
+      "75%",
+      "80%"
+    ],
+    "answer": 2,
+    "explanation": "Increase = 77 − 44 = 33. 33 ÷ 44 = 0.75, so 75%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "24",
+          "42",
+          "56",
+          "64"
+        ],
+        [
+          "Assessor",
+          "44",
+          "24",
+          "77",
+          "77"
+        ],
+        [
+          "Civil Registry",
+          "24",
+          "40",
+          "36",
+          "63"
+        ],
+        [
+          "Engineering",
+          "60",
+          "62",
+          "49",
+          "61"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. What were the combined enrollees of all four in 2026?",
+    "choices": [
+      "158",
+      "257",
+      "211",
+      "247"
+    ],
+    "answer": 3,
+    "explanation": "89 + 42 + 90 + 26 = 247.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "57",
+          "83",
+          "12",
+          "89"
+        ],
+        [
+          "Sta. Cruz",
+          "36",
+          "94",
+          "42",
+          "42"
+        ],
+        [
+          "Malinis",
+          "48",
+          "15",
+          "62",
+          "90"
+        ],
+        [
+          "Bagong Silang",
+          "70",
+          "71",
+          "59",
+          "26"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. By what percent did San Jose's enrollees increase from 2023 to 2026?",
+    "choices": [
+      "33.33%",
+      "24%",
+      "50%",
+      "55%"
+    ],
+    "answer": 2,
+    "explanation": "Increase = 72 − 48 = 24. 24 ÷ 48 = 0.5, so 50%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "48",
+          "53",
+          "82",
+          "72"
+        ],
+        [
+          "Sta. Cruz",
+          "87",
+          "79",
+          "50",
+          "94"
+        ],
+        [
+          "Malinis",
+          "19",
+          "15",
+          "20",
+          "19"
+        ],
+        [
+          "Bagong Silang",
+          "64",
+          "63",
+          "19",
+          "82"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). What were the combined sales of all four in Feb?",
+    "choices": [
+      "159",
+      "164",
+      "69",
+      "149"
+    ],
+    "answer": 3,
+    "explanation": "80 + 17 + 19 + 33 = 149.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "51",
+          "80",
+          "24",
+          "45"
+        ],
+        [
+          "Mang Ben",
+          "91",
+          "17",
+          "93",
+          "48"
+        ],
+        [
+          "Tindahan ni Joy",
+          "44",
+          "19",
+          "26",
+          "65"
+        ],
+        [
+          "RJ Store",
+          "51",
+          "33",
+          "21",
+          "17"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. Which had the highest total enrollees over the four periods?",
+    "choices": [
+      "Sta. Cruz",
+      "Malinis",
+      "San Jose",
+      "Bagong Silang"
+    ],
+    "answer": 0,
+    "explanation": "Totals: San Jose 170, Sta. Cruz 199, Malinis 195, Bagong Silang 152. The highest is Sta. Cruz.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "46",
+          "30",
+          "47",
+          "47"
+        ],
+        [
+          "Sta. Cruz",
+          "36",
+          "76",
+          "21",
+          "66"
+        ],
+        [
+          "Malinis",
+          "50",
+          "33",
+          "73",
+          "39"
+        ],
+        [
+          "Bagong Silang",
+          "25",
+          "31",
+          "19",
+          "77"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. In which period were the combined applications lowest?",
+    "choices": [
+      "Q3",
+      "Q2",
+      "Q1",
+      "Q4"
+    ],
+    "answer": 0,
+    "explanation": "Combined: Q1 224, Q2 243, Q3 165, Q4 225. The lowest is Q3.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "91",
+          "92",
+          "72",
+          "58"
+        ],
+        [
+          "Assessor",
+          "41",
+          "58",
+          "16",
+          "54"
+        ],
+        [
+          "Civil Registry",
+          "43",
+          "19",
+          "40",
+          "85"
+        ],
+        [
+          "Engineering",
+          "49",
+          "74",
+          "37",
+          "28"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. What were the combined applications of all four in Q3?",
+    "choices": [
+      "180",
+      "190",
+      "153",
+      "182"
+    ],
+    "answer": 0,
+    "explanation": "27 + 71 + 64 + 18 = 180.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "95",
+          "24",
+          "27",
+          "33"
+        ],
+        [
+          "Assessor",
+          "28",
+          "59",
+          "71",
+          "34"
+        ],
+        [
+          "Civil Registry",
+          "93",
+          "86",
+          "64",
+          "40"
+        ],
+        [
+          "Engineering",
+          "15",
+          "69",
+          "18",
+          "75"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). In which period were the combined sales lowest?",
+    "choices": [
+      "Mar",
+      "Apr",
+      "Feb",
+      "Jan"
+    ],
+    "answer": 0,
+    "explanation": "Combined: Jan 242, Feb 186, Mar 132, Apr 236. The lowest is Mar.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "86",
+          "15",
+          "22",
+          "24"
+        ],
+        [
+          "Mang Ben",
+          "72",
+          "63",
+          "53",
+          "63"
+        ],
+        [
+          "Tindahan ni Joy",
+          "51",
+          "74",
+          "20",
+          "78"
+        ],
+        [
+          "RJ Store",
+          "33",
+          "34",
+          "37",
+          "71"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. What is the average per period for Malinis?",
+    "choices": [
+      "59",
+      "58.67",
+      "47",
+      "44"
+    ],
+    "answer": 3,
+    "explanation": "(27 + 44 + 46 + 59) ÷ 4 = 176 ÷ 4 = 44.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "30",
+          "89",
+          "38",
+          "44"
+        ],
+        [
+          "Sta. Cruz",
+          "34",
+          "59",
+          "16",
+          "90"
+        ],
+        [
+          "Malinis",
+          "27",
+          "44",
+          "46",
+          "59"
+        ],
+        [
+          "Bagong Silang",
+          "18",
+          "29",
+          "30",
+          "56"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). What were the combined sales of all four in Apr?",
+    "choices": [
+      "179",
+      "169",
+      "115",
+      "112"
+    ],
+    "answer": 1,
+    "explanation": "57 + 63 + 30 + 19 = 169.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "14",
+          "95",
+          "24",
+          "57"
+        ],
+        [
+          "Mang Ben",
+          "19",
+          "55",
+          "12",
+          "63"
+        ],
+        [
+          "Tindahan ni Joy",
+          "51",
+          "18",
+          "15",
+          "30"
+        ],
+        [
+          "RJ Store",
+          "31",
+          "74",
+          "57",
+          "19"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-031",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. Which had the highest total enrollees over the four periods?",
+    "choices": [
+      "San Jose",
+      "Malinis",
+      "Sta. Cruz",
+      "Bagong Silang"
+    ],
+    "answer": 2,
+    "explanation": "Totals: San Jose 232, Sta. Cruz 291, Malinis 246, Bagong Silang 173. The highest is Sta. Cruz.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "86",
+          "50",
+          "71",
+          "25"
+        ],
+        [
+          "Sta. Cruz",
+          "63",
+          "77",
+          "69",
+          "82"
+        ],
+        [
+          "Malinis",
+          "44",
+          "71",
+          "59",
+          "72"
+        ],
+        [
+          "Bagong Silang",
+          "15",
+          "38",
+          "83",
+          "37"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-032",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). Which had the highest total sales over the four periods?",
+    "choices": [
+      "RJ Store",
+      "Mang Ben",
+      "Aling Nena",
+      "Tindahan ni Joy"
+    ],
+    "answer": 0,
+    "explanation": "Totals: Aling Nena 196, Mang Ben 186, Tindahan ni Joy 221, RJ Store 316. The highest is RJ Store.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "20",
+          "36",
+          "71",
+          "69"
+        ],
+        [
+          "Mang Ben",
+          "37",
+          "28",
+          "92",
+          "29"
+        ],
+        [
+          "Tindahan ni Joy",
+          "51",
+          "60",
+          "90",
+          "20"
+        ],
+        [
+          "RJ Store",
+          "84",
+          "95",
+          "66",
+          "71"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-033",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. Which had the highest total applications over the four periods?",
+    "choices": [
+      "Civil Registry",
+      "Engineering",
+      "Treasury",
+      "Assessor"
+    ],
+    "answer": 0,
+    "explanation": "Totals: Treasury 251, Assessor 184, Civil Registry 285, Engineering 156. The highest is Civil Registry.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "35",
+          "84",
+          "85",
+          "47"
+        ],
+        [
+          "Assessor",
+          "57",
+          "16",
+          "79",
+          "32"
+        ],
+        [
+          "Civil Registry",
+          "93",
+          "60",
+          "83",
+          "49"
+        ],
+        [
+          "Engineering",
+          "37",
+          "69",
+          "35",
+          "15"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-034",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). By what percent did Mang Ben's sales increase from Jan to Apr?",
+    "choices": [
+      "7%",
+      "25%",
+      "30%",
+      "20%"
+    ],
+    "answer": 1,
+    "explanation": "Increase = 35 − 28 = 7. 7 ÷ 28 = 0.25, so 25%.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "76",
+          "75",
+          "56",
+          "89"
+        ],
+        [
+          "Mang Ben",
+          "28",
+          "81",
+          "52",
+          "35"
+        ],
+        [
+          "Tindahan ni Joy",
+          "60",
+          "76",
+          "22",
+          "42"
+        ],
+        [
+          "RJ Store",
+          "63",
+          "18",
+          "90",
+          "78"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-035",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. Which had the highest total applications over the four periods?",
+    "choices": [
+      "Treasury",
+      "Assessor",
+      "Civil Registry",
+      "Engineering"
+    ],
+    "answer": 3,
+    "explanation": "Totals: Treasury 231, Assessor 221, Civil Registry 234, Engineering 290. The highest is Engineering.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "47",
+          "24",
+          "70",
+          "90"
+        ],
+        [
+          "Assessor",
+          "88",
+          "60",
+          "42",
+          "31"
+        ],
+        [
+          "Civil Registry",
+          "66",
+          "83",
+          "34",
+          "51"
+        ],
+        [
+          "Engineering",
+          "81",
+          "38",
+          "88",
+          "83"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-036",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Applications received by four municipal offices. What were the combined applications of all four in Q1?",
+    "choices": [
+      "175",
+      "141",
+      "185",
+      "249"
+    ],
+    "answer": 0,
+    "explanation": "34 + 33 + 15 + 93 = 175.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "rows": [
+        [
+          "Treasury",
+          "34",
+          "86",
+          "51",
+          "95"
+        ],
+        [
+          "Assessor",
+          "33",
+          "18",
+          "50",
+          "50"
+        ],
+        [
+          "Civil Registry",
+          "15",
+          "61",
+          "79",
+          "50"
+        ],
+        [
+          "Engineering",
+          "93",
+          "84",
+          "65",
+          "73"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-037",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). In which period were the combined sales lowest?",
+    "choices": [
+      "Feb",
+      "Apr",
+      "Jan",
+      "Mar"
+    ],
+    "answer": 1,
+    "explanation": "Combined: Jan 183, Feb 179, Mar 274, Apr 121. The lowest is Apr.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "54",
+          "39",
+          "47",
+          "50"
+        ],
+        [
+          "Mang Ben",
+          "58",
+          "70",
+          "53",
+          "19"
+        ],
+        [
+          "Tindahan ni Joy",
+          "24",
+          "41",
+          "92",
+          "18"
+        ],
+        [
+          "RJ Store",
+          "47",
+          "29",
+          "82",
+          "34"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-038",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Enrollment in four barangay day-care centers. What is the average per period for Malinis?",
+    "choices": [
+      "44",
+      "88",
+      "41",
+      "54.67"
+    ],
+    "answer": 2,
+    "explanation": "(27 + 25 + 88 + 24) ÷ 4 = 164 ÷ 4 = 41.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "rows": [
+        [
+          "San Jose",
+          "62",
+          "49",
+          "84",
+          "62"
+        ],
+        [
+          "Sta. Cruz",
+          "53",
+          "90",
+          "52",
+          "32"
+        ],
+        [
+          "Malinis",
+          "27",
+          "25",
+          "88",
+          "24"
+        ],
+        [
+          "Bagong Silang",
+          "28",
+          "60",
+          "47",
+          "48"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-039",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). What were the combined sales of all four in Jan?",
+    "choices": [
+      "165",
+      "150",
+      "175",
+      "189"
+    ],
+    "answer": 0,
+    "explanation": "15 + 81 + 39 + 30 = 165.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "15",
+          "21",
+          "52",
+          "53"
+        ],
+        [
+          "Mang Ben",
+          "81",
+          "41",
+          "86",
+          "62"
+        ],
+        [
+          "Tindahan ni Joy",
+          "39",
+          "75",
+          "25",
+          "15"
+        ],
+        [
+          "RJ Store",
+          "30",
+          "52",
+          "38",
+          "83"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cse-ana-data_interpretation-040",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "data_interpretation",
+    "stem": "Monthly sales of four sari-sari stores (in thousand pesos). In which period were the combined sales lowest?",
+    "choices": [
+      "Jan",
+      "Apr",
+      "Mar",
+      "Feb"
+    ],
+    "answer": 0,
+    "explanation": "Combined: Jan 192, Feb 272, Mar 205, Apr 259. The lowest is Jan.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2,
+    "table": {
+      "headers": [
+        "",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr"
+      ],
+      "rows": [
+        [
+          "Aling Nena",
+          "43",
+          "80",
+          "22",
+          "90"
+        ],
+        [
+          "Mang Ben",
+          "78",
+          "90",
+          "54",
+          "16"
+        ],
+        [
+          "Tindahan ni Joy",
+          "52",
+          "83",
+          "65",
+          "68"
+        ],
+        [
+          "RJ Store",
+          "19",
+          "19",
+          "64",
+          "85"
+        ]
+      ]
+    }
+  }
+]

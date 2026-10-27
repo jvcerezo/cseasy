@@ -19,6 +19,15 @@ abstract final class Strings {
   static const startReview = 'Start review';
   static const dayStreak = 'day streak';
   static const answeredToday = 'answered today';
+  static const whichLevel = 'Which exam are you taking?';
+  static const professionalDescription =
+      'For second-level (technical and supervisory) government posts. Covers Verbal, Numerical, '
+      'Analytical and General Information.';
+  static const subprofessionalDescription =
+      'For first-level (clerical, custodial and trades) government posts. Covers Verbal, Numerical, '
+      'Clerical and General Information.';
+  static const levelChangeLater = 'You can switch levels anytime from the home screen.';
+  static const switchLevel = 'Switch exam level';
   static const perfectRound = 'Perfect round. No mistakes to review.';
   static const passedRound = 'Passing score. The CSE needs at least 80%.';
   static const failedRound = 'Below passing. The CSE needs at least 80%.';

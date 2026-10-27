@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import random
+from fractions import Fraction
 from typing import Callable
 
 from .schema import CHOICE_COUNT
@@ -23,6 +24,7 @@ def computed_question(
     fmt: Formatter,
     levels: tuple[str, ...] = ("professional", "subprofessional"),
     filler_step: int | float = 1,
+    table: dict | None = None,
 ) -> dict:
     """Build a question whose key is `answer`.
 
@@ -40,6 +42,9 @@ def computed_question(
         if len(picked) == CHOICE_COUNT - 1:
             break
 
+    if len(picked) < CHOICE_COUNT - 1 and not isinstance(answer, (int, float, Fraction)):
+        raise ValueError(f"{topic}: not enough distinct distractors for {correct!r}: {picked}")
+
     k = 1
     while len(picked) < CHOICE_COUNT - 1:
         for candidate in (answer + k * filler_step, answer - k * filler_step):
@@ -52,7 +57,7 @@ def computed_question(
 
     choices = [correct, *picked]
     rng.shuffle(choices)
-    return {
+    question = {
         "exam": "cse",
         "levels": list(levels),
         "section": section,
@@ -66,6 +71,9 @@ def computed_question(
         "status": "verified",
         "difficulty": difficulty,
     }
+    if table is not None:
+        question["table"] = table
+    return question
 
 
 def _is_sane(value: object) -> bool:

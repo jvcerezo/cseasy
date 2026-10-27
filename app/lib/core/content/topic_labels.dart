@@ -9,6 +9,14 @@ const _topicLabels = {
   'averages': 'Averages',
   'fractions_operations': 'Fractions & Operations',
   'consecutive_integers': 'Consecutive Integers',
+  'syllogisms': 'Syllogisms',
+  'ordering': 'Ordering & Arrangement',
+  'data_interpretation': 'Data Interpretation',
+  'coding_decoding': 'Coding & Decoding',
+  'letter_series': 'Letter Series',
+  'calendar': 'Calendar Problems',
+  'exact_match': 'Checking & Comparing',
+  'filing_order': 'Alphabetical Filing',
 };
 
 /// Display name for a content topic key; falls back to title-casing the key.

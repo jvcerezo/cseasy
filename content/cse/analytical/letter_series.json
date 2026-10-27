@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cse-ana-letter_series-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nH, K, N, Q, T, ___",
+    "choices": [
+      "V",
+      "U",
+      "X",
+      "W"
+    ],
+    "answer": 3,
+    "explanation": "Each letter skips ahead 3 places: T + 3 = W.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nEV, FU, GT, HS, ___",
+    "choices": [
+      "IR",
+      "IS",
+      "RI",
+      "JR"
+    ],
+    "answer": 0,
+    "explanation": "The first letters go forward (E, F, G, H) while the second letters go backward from the end of the alphabet (V, U, T, S). Next is IR.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nF, P, H, M, J, J, L, ___",
+    "choices": [
+      "K",
+      "F",
+      "N",
+      "G"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate: F, H, J, L (step +2) and P, M, J (step -3). The next letter continues the second: G.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nG, U, J, T, M, S, P, ___",
+    "choices": [
+      "S",
+      "T",
+      "Q",
+      "R"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate: G, J, M, P (step +3) and U, T, S (step -1). The next letter continues the second: R.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nFU, GT, HS, IR, ___",
+    "choices": [
+      "KQ",
+      "QJ",
+      "JR",
+      "JQ"
+    ],
+    "answer": 3,
+    "explanation": "The first letters go forward (F, G, H, I) while the second letters go backward from the end of the alphabet (U, T, S, R). Next is JQ.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nE, O, H, M, K, K, N, ___",
+    "choices": [
+      "I",
+      "Q",
+      "H",
+      "L"
+    ],
+    "answer": 0,
+    "explanation": "Two series alternate: E, H, K, N (step +3) and O, M, K (step -2). The next letter continues the second: I.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nG, H, J, M, Q, ___",
+    "choices": [
+      "T",
+      "V",
+      "U",
+      "W"
+    ],
+    "answer": 1,
+    "explanation": "The gaps grow by one each time (+1, +2, +3, +4, +5): Q + 5 = V.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nC, G, K, O, S, ___",
+    "choices": [
+      "U",
+      "W",
+      "V",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "Each letter skips ahead 4 places: S + 4 = W.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nA, U, B, S, C, Q, D, ___",
+    "choices": [
+      "N",
+      "E",
+      "O",
+      "R"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate: A, B, C, D (step +1) and U, S, Q (step -2). The next letter continues the second: O.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nA, Q, C, N, E, K, G, ___",
+    "choices": [
+      "L",
+      "H",
+      "G",
+      "I"
+    ],
+    "answer": 1,
+    "explanation": "Two series alternate: A, C, E, G (step +2) and Q, N, K (step -3). The next letter continues the second: H.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nD, H, L, P, T, ___",
+    "choices": [
+      "V",
+      "X",
+      "W",
+      "Y"
+    ],
+    "answer": 1,
+    "explanation": "Each letter skips ahead 4 places: T + 4 = X.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nHS, IR, JQ, KP, ___",
+    "choices": [
+      "LO",
+      "LP",
+      "MO",
+      "OL"
+    ],
+    "answer": 0,
+    "explanation": "The first letters go forward (H, I, J, K) while the second letters go backward from the end of the alphabet (S, R, Q, P). Next is LO.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nDW, EV, FU, GT, ___",
+    "choices": [
+      "HT",
+      "HS",
+      "SH",
+      "IS"
+    ],
+    "answer": 1,
+    "explanation": "The first letters go forward (D, E, F, G) while the second letters go backward from the end of the alphabet (W, V, U, T). Next is HS.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nO, Q, S, U, W, ___",
+    "choices": [
+      "Z",
+      "W",
+      "X",
+      "Y"
+    ],
+    "answer": 3,
+    "explanation": "Each letter skips ahead 2 places: W + 2 = Y.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nF, J, N, R, V, ___",
+    "choices": [
+      "X",
+      "A",
+      "Z",
+      "Y"
+    ],
+    "answer": 2,
+    "explanation": "Each letter skips ahead 4 places: V + 4 = Z.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nC, U, E, R, G, O, I, ___",
+    "choices": [
+      "P",
+      "K",
+      "L",
+      "M"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate: C, E, G, I (step +2) and U, R, O (step -3). The next letter continues the second: L.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nP, R, T, V, X, ___",
+    "choices": [
+      "Z",
+      "A",
+      "Y",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "Each letter skips ahead 2 places: X + 2 = Z.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nK, N, Q, T, W, ___",
+    "choices": [
+      "A",
+      "Z",
+      "X",
+      "Y"
+    ],
+    "answer": 1,
+    "explanation": "Each letter skips ahead 3 places: W + 3 = Z.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nD, E, G, J, N, ___",
+    "choices": [
+      "Q",
+      "S",
+      "R",
+      "T"
+    ],
+    "answer": 1,
+    "explanation": "The gaps grow by one each time (+1, +2, +3, +4, +5): N + 5 = S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nAZ, BY, CX, DW, ___",
+    "choices": [
+      "EV",
+      "EW",
+      "VE",
+      "FV"
+    ],
+    "answer": 0,
+    "explanation": "The first letters go forward (A, B, C, D) while the second letters go backward from the end of the alphabet (Z, Y, X, W). Next is EV.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nD, R, E, Q, F, P, G, ___",
+    "choices": [
+      "Q",
+      "N",
+      "H",
+      "O"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate: D, E, F, G (step +1) and R, Q, P (step -1). The next letter continues the second: O.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nC, P, D, N, E, L, F, ___",
+    "choices": [
+      "J",
+      "I",
+      "G",
+      "M"
+    ],
+    "answer": 0,
+    "explanation": "Two series alternate: C, D, E, F (step +1) and P, N, L (step -2). The next letter continues the second: J.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nG, J, M, P, S, ___",
+    "choices": [
+      "V",
+      "W",
+      "T",
+      "U"
+    ],
+    "answer": 0,
+    "explanation": "Each letter skips ahead 3 places: S + 3 = V.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nC, T, F, S, I, R, L, ___",
+    "choices": [
+      "S",
+      "P",
+      "O",
+      "Q"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate: C, F, I, L (step +3) and T, S, R (step -1). The next letter continues the second: Q.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nA, T, B, S, C, R, D, ___",
+    "choices": [
+      "E",
+      "P",
+      "S",
+      "Q"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate: A, B, C, D (step +1) and T, S, R (step -1). The next letter continues the second: Q.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nB, F, J, N, R, ___",
+    "choices": [
+      "W",
+      "V",
+      "U",
+      "T"
+    ],
+    "answer": 1,
+    "explanation": "Each letter skips ahead 4 places: R + 4 = V.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nE, F, H, K, O, ___",
+    "choices": [
+      "S",
+      "R",
+      "T",
+      "U"
+    ],
+    "answer": 2,
+    "explanation": "The gaps grow by one each time (+1, +2, +3, +4, +5): O + 5 = T.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nE, U, F, R, G, O, H, ___",
+    "choices": [
+      "P",
+      "K",
+      "I",
+      "L"
+    ],
+    "answer": 3,
+    "explanation": "Two series alternate: E, F, G, H (step +1) and U, R, O (step -3). The next letter continues the second: L.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nK, M, O, Q, S, ___",
+    "choices": [
+      "T",
+      "U",
+      "S",
+      "V"
+    ],
+    "answer": 1,
+    "explanation": "Each letter skips ahead 2 places: S + 2 = U.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nA, B, D, G, K, ___",
+    "choices": [
+      "Q",
+      "N",
+      "P",
+      "O"
+    ],
+    "answer": 2,
+    "explanation": "The gaps grow by one each time (+1, +2, +3, +4, +5): K + 5 = P.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-031",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nB, C, E, H, L, ___",
+    "choices": [
+      "Q",
+      "R",
+      "P",
+      "O"
+    ],
+    "answer": 0,
+    "explanation": "The gaps grow by one each time (+1, +2, +3, +4, +5): L + 5 = Q.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-032",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nE, H, K, N, Q, ___",
+    "choices": [
+      "U",
+      "R",
+      "T",
+      "S"
+    ],
+    "answer": 2,
+    "explanation": "Each letter skips ahead 3 places: Q + 3 = T.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-033",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nB, Q, D, N, F, K, H, ___",
+    "choices": [
+      "G",
+      "H",
+      "J",
+      "L"
+    ],
+    "answer": 1,
+    "explanation": "Two series alternate: B, D, F, H (step +2) and Q, N, K (step -3). The next letter continues the second: H.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-034",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nA, R, C, O, E, L, G, ___",
+    "choices": [
+      "M",
+      "J",
+      "I",
+      "H"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate: A, C, E, G (step +2) and R, O, L (step -3). The next letter continues the second: I.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-035",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nD, G, J, M, P, ___",
+    "choices": [
+      "Q",
+      "S",
+      "T",
+      "R"
+    ],
+    "answer": 1,
+    "explanation": "Each letter skips ahead 3 places: P + 3 = S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-036",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nC, R, F, O, I, L, L, ___",
+    "choices": [
+      "H",
+      "I",
+      "O",
+      "M"
+    ],
+    "answer": 1,
+    "explanation": "Two series alternate: C, F, I, L (step +3) and R, O, L (step -3). The next letter continues the second: I.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-037",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nE, I, M, Q, U, ___",
+    "choices": [
+      "Z",
+      "X",
+      "W",
+      "Y"
+    ],
+    "answer": 3,
+    "explanation": "Each letter skips ahead 4 places: U + 4 = Y.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-038",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nF, R, I, P, L, N, O, ___",
+    "choices": [
+      "R",
+      "K",
+      "L",
+      "O"
+    ],
+    "answer": 2,
+    "explanation": "Two series alternate: F, I, L, O (step +3) and R, P, N (step -2). The next letter continues the second: L.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-039",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nF, G, I, L, P, ___",
+    "choices": [
+      "T",
+      "V",
+      "U",
+      "S"
+    ],
+    "answer": 2,
+    "explanation": "The gaps grow by one each time (+1, +2, +3, +4, +5): P + 5 = U.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-letter_series-040",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "letter_series",
+    "stem": "What comes next in the series?\nIR, JQ, KP, LO, ___",
+    "choices": [
+      "NN",
+      "MN",
+      "NM",
+      "MO"
+    ],
+    "answer": 1,
+    "explanation": "The first letters go forward (I, J, K, L) while the second letters go backward from the end of the alphabet (R, Q, P, O). Next is MN.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

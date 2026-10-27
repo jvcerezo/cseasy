@@ -79,9 +79,28 @@ def validate_question(q: dict) -> list[str]:
     if not 0 <= q["answer"] < len(choices):
         errors.append(f"{qid}: answer index {q['answer']} out of range")
 
+    table = q.get("table")
+    if table is not None:
+        errors += _validate_table(qid, table)
+
     # Grounded items must say where the answer comes from; the quote matcher
     # checks the citation against the source text in a later gate.
     if q["method"] == "llm-grounded" and not q.get("source"):
         errors.append(f"{qid}: llm-grounded items need a 'source'")
 
     return errors
+
+
+def _validate_table(qid: str, table: object) -> list[str]:
+    """Optional data table shown under the stem: {"headers": [...], "rows": [[...]]}."""
+    if not isinstance(table, dict):
+        return [f"{qid}: table must be an object"]
+    headers, rows = table.get("headers"), table.get("rows")
+    if not isinstance(headers, list) or not headers or not all(isinstance(h, str) for h in headers):
+        return [f"{qid}: table.headers must be a non-empty list of strings"]
+    if not isinstance(rows, list) or not rows:
+        return [f"{qid}: table.rows must be a non-empty list"]
+    for row in rows:
+        if not isinstance(row, list) or len(row) != len(headers) or not all(isinstance(c, str) for c in row):
+            return [f"{qid}: every table row needs {len(headers)} string cells"]
+    return []

@@ -33,6 +33,10 @@ class QuestionBank {
 
   List<Question> byTopic(String topic) => _byTopic[topic] ?? const [];
 
+  /// The subset of questions that appear on [level]'s exam.
+  QuestionBank forLevel(ExamLevel level) =>
+      QuestionBank(version, questions.where((q) => q.isForLevel(level)).toList());
+
   List<Question> bySection(Section section) => [
         for (final topic in topicsBySection[section] ?? const <String>[]) ...byTopic(topic),
       ];

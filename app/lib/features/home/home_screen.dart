@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../core/content/content_providers.dart';
 import '../../core/content/question.dart';
 import '../../core/content/question_bank.dart';
 import '../../core/content/topic_labels.dart';
 import '../../core/strings.dart';
 import '../../data/progress_providers.dart';
 import '../../data/progress_repository.dart';
+import '../../data/settings_providers.dart';
+import '../onboarding/level_picker_screen.dart';
 import '../practice/practice_controller.dart';
 import '../practice/practice_screen.dart';
 
@@ -22,9 +23,20 @@ class HomeScreen extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final bank = ref.watch(questionBankProvider);
+    final bank = ref.watch(examBankProvider);
+    final level = ref.watch(examLevelProvider);
     return Scaffold(
-      appBar: AppBar(title: const Text(Strings.appName)),
+      appBar: AppBar(
+        title: const Text(Strings.appName),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).push(
+              MaterialPageRoute<void>(builder: (_) => const LevelPickerScreen(popOnSelect: true)),
+            ),
+            child: Text(level?.label ?? ''),
+          ),
+        ],
+      ),
       body: bank.when(
         data: (bank) => _TopicList(bank: bank),
         loading: () => const Center(child: CircularProgressIndicator()),
@@ -35,7 +47,7 @@ class HomeScreen extends ConsumerWidget {
               const Text(Strings.loadError),
               const SizedBox(height: 12),
               FilledButton(
-                onPressed: () => ref.invalidate(questionBankProvider),
+                onPressed: () => ref.invalidate(examBankProvider),
                 child: const Text(Strings.retry),
               ),
             ],

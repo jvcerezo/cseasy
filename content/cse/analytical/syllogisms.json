@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cse-ana-syllogisms-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo cyclists are photographers. Some singers are cyclists.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some photographers are singers.",
+      "No singers are photographers.",
+      "All photographers are singers.",
+      "Some singers are not photographers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all singers are photographers. \"All photographers are singers.\" does not follow: both statements can be true while some photographers are not singers. \"Some photographers are singers.\" does not follow: both statements can be true while no photographers are singers. \"No singers are photographers.\" does not follow: both statements can be true while some singers are photographers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome cyclists are collectors. All cyclists are joggers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All joggers are collectors.",
+      "No collectors are joggers.",
+      "Some collectors are joggers.",
+      "Some collectors are not joggers."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and no collectors are joggers. \"Some collectors are not joggers.\" does not follow: both statements can be true while all collectors are joggers. \"All joggers are collectors.\" does not follow: both statements can be true while some joggers are not collectors. \"No collectors are joggers.\" does not follow: both statements can be true while some collectors are joggers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome vegetarians are poets. No gardeners are vegetarians.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some poets are not gardeners.",
+      "Some poets are gardeners.",
+      "All gardeners are poets.",
+      "No gardeners are poets."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all poets are gardeners. \"No gardeners are poets.\" does not follow: both statements can be true while some gardeners are poets. \"Some poets are gardeners.\" does not follow: both statements can be true while no poets are gardeners. \"All gardeners are poets.\" does not follow: both statements can be true while some gardeners are not poets.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome cyclists are early risers. No gardeners are early risers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All gardeners are cyclists.",
+      "All cyclists are gardeners.",
+      "Some cyclists are not gardeners.",
+      "Some cyclists are gardeners."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all cyclists are gardeners. \"Some cyclists are gardeners.\" does not follow: both statements can be true while no cyclists are gardeners. \"All cyclists are gardeners.\" does not follow: both statements can be true while some cyclists are not gardeners. \"All gardeners are cyclists.\" does not follow: both statements can be true while some gardeners are not cyclists.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll vegetarians are bakers. No bakers are photographers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All vegetarians are photographers.",
+      "All photographers are vegetarians.",
+      "Some vegetarians are photographers.",
+      "No vegetarians are photographers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some vegetarians are photographers. \"All photographers are vegetarians.\" does not follow: both statements can be true while some photographers are not vegetarians. \"Some vegetarians are photographers.\" does not follow: both statements can be true while no vegetarians are photographers. \"All vegetarians are photographers.\" does not follow: both statements can be true while some vegetarians are not photographers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome joggers are volunteers. No volunteers are early risers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some joggers are early risers.",
+      "All early risers are joggers.",
+      "All joggers are early risers.",
+      "Some joggers are not early risers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all joggers are early risers. \"Some joggers are early risers.\" does not follow: both statements can be true while no joggers are early risers. \"All early risers are joggers.\" does not follow: both statements can be true while some early risers are not joggers. \"All joggers are early risers.\" does not follow: both statements can be true while some joggers are not early risers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo vegetarians are early risers. Some poets are early risers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some vegetarians are poets.",
+      "All poets are vegetarians.",
+      "Some vegetarians are not poets.",
+      "Some poets are not vegetarians."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all poets are vegetarians. \"Some vegetarians are poets.\" does not follow: both statements can be true while no vegetarians are poets. \"All poets are vegetarians.\" does not follow: both statements can be true while some poets are not vegetarians. \"Some vegetarians are not poets.\" does not follow: both statements can be true while all vegetarians are poets.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome singers are bloggers. All bloggers are vegetarians.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "No vegetarians are singers.",
+      "All vegetarians are singers.",
+      "Some singers are vegetarians.",
+      "Some singers are not vegetarians."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and no singers are vegetarians. \"All vegetarians are singers.\" does not follow: both statements can be true while some vegetarians are not singers. \"No vegetarians are singers.\" does not follow: both statements can be true while some vegetarians are singers. \"Some singers are not vegetarians.\" does not follow: both statements can be true while all singers are vegetarians.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll gardeners are photographers. No photographers are chess players.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some chess players are gardeners.",
+      "All chess players are gardeners.",
+      "All gardeners are chess players.",
+      "No chess players are gardeners."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some chess players are gardeners. \"All chess players are gardeners.\" does not follow: both statements can be true while some chess players are not gardeners. \"Some chess players are gardeners.\" does not follow: both statements can be true while no chess players are gardeners. \"All gardeners are chess players.\" does not follow: both statements can be true while some gardeners are not chess players.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo hikers are collectors. Some hikers are volunteers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All volunteers are collectors.",
+      "All collectors are volunteers.",
+      "Some volunteers are not collectors.",
+      "No volunteers are collectors."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all volunteers are collectors. \"All volunteers are collectors.\" does not follow: both statements can be true while some volunteers are not collectors. \"No volunteers are collectors.\" does not follow: both statements can be true while some volunteers are collectors. \"All collectors are volunteers.\" does not follow: both statements can be true while some collectors are not volunteers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome poets are not early risers. All volunteers are early risers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some poets are not volunteers.",
+      "Some volunteers are not poets.",
+      "Some poets are volunteers.",
+      "All poets are volunteers."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all poets are volunteers. \"Some volunteers are not poets.\" does not follow: both statements can be true while all volunteers are poets. \"Some poets are volunteers.\" does not follow: both statements can be true while no poets are volunteers. \"All poets are volunteers.\" does not follow: both statements can be true while some poets are not volunteers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo bakers are chess players. Some chess players are collectors.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All collectors are bakers.",
+      "Some bakers are not collectors.",
+      "No bakers are collectors.",
+      "Some collectors are not bakers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all collectors are bakers. \"No bakers are collectors.\" does not follow: both statements can be true while some bakers are collectors. \"All collectors are bakers.\" does not follow: both statements can be true while some collectors are not bakers. \"Some bakers are not collectors.\" does not follow: both statements can be true while all bakers are collectors.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll cyclists are painters. All painters are collectors.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "No collectors are cyclists.",
+      "All cyclists are collectors.",
+      "Some collectors are not cyclists.",
+      "All collectors are cyclists."
+    ],
+    "answer": 1,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some cyclists are not collectors. \"Some collectors are not cyclists.\" does not follow: both statements can be true while all collectors are cyclists. \"No collectors are cyclists.\" does not follow: both statements can be true while some collectors are cyclists. \"All collectors are cyclists.\" does not follow: both statements can be true while some collectors are not cyclists.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome photographers are vegetarians. All photographers are swimmers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some swimmers are vegetarians.",
+      "All swimmers are vegetarians.",
+      "No swimmers are vegetarians.",
+      "Some vegetarians are not swimmers."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and no swimmers are vegetarians. \"Some vegetarians are not swimmers.\" does not follow: both statements can be true while all vegetarians are swimmers. \"No swimmers are vegetarians.\" does not follow: both statements can be true while some swimmers are vegetarians. \"All swimmers are vegetarians.\" does not follow: both statements can be true while some swimmers are not vegetarians.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome early risers are volunteers. No singers are volunteers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some singers are not early risers.",
+      "All early risers are singers.",
+      "Some early risers are not singers.",
+      "No singers are early risers."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all early risers are singers. \"All early risers are singers.\" does not follow: both statements can be true while some early risers are not singers. \"Some singers are not early risers.\" does not follow: both statements can be true while all singers are early risers. \"No singers are early risers.\" does not follow: both statements can be true while some singers are early risers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo vegetarians are bloggers. Some joggers are bloggers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some joggers are vegetarians.",
+      "Some joggers are not vegetarians.",
+      "Some vegetarians are not joggers.",
+      "No vegetarians are joggers."
+    ],
+    "answer": 1,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all joggers are vegetarians. \"Some joggers are vegetarians.\" does not follow: both statements can be true while no joggers are vegetarians. \"Some vegetarians are not joggers.\" does not follow: both statements can be true while all vegetarians are joggers. \"No vegetarians are joggers.\" does not follow: both statements can be true while some vegetarians are joggers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo swimmers are bakers. Some chess players are swimmers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some bakers are not chess players.",
+      "No chess players are bakers.",
+      "All chess players are bakers.",
+      "Some chess players are not bakers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all chess players are bakers. \"All chess players are bakers.\" does not follow: both statements can be true while some chess players are not bakers. \"Some bakers are not chess players.\" does not follow: both statements can be true while all bakers are chess players. \"No chess players are bakers.\" does not follow: both statements can be true while some chess players are bakers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll poets are bakers. All painters are poets.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All bakers are painters.",
+      "No bakers are painters.",
+      "Some bakers are not painters.",
+      "All painters are bakers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some painters are not bakers. \"No bakers are painters.\" does not follow: both statements can be true while some bakers are painters. \"Some bakers are not painters.\" does not follow: both statements can be true while all bakers are painters. \"All bakers are painters.\" does not follow: both statements can be true while some bakers are not painters.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll bloggers are photographers. All chess players are bloggers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All photographers are chess players.",
+      "Some photographers are not chess players.",
+      "No photographers are chess players.",
+      "All chess players are photographers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some chess players are not photographers. \"Some photographers are not chess players.\" does not follow: both statements can be true while all photographers are chess players. \"All photographers are chess players.\" does not follow: both statements can be true while some photographers are not chess players. \"No photographers are chess players.\" does not follow: both statements can be true while some photographers are chess players.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome collectors are not joggers. All collectors are swimmers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some swimmers are not joggers.",
+      "All swimmers are joggers.",
+      "All joggers are swimmers.",
+      "No swimmers are joggers."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all swimmers are joggers. \"No swimmers are joggers.\" does not follow: both statements can be true while some swimmers are joggers. \"All swimmers are joggers.\" does not follow: both statements can be true while some swimmers are not joggers. \"All joggers are swimmers.\" does not follow: both statements can be true while some joggers are not swimmers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll hikers are vegetarians. No vegetarians are early risers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "No early risers are hikers.",
+      "Some early risers are hikers.",
+      "All hikers are early risers.",
+      "All early risers are hikers."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some early risers are hikers. \"All early risers are hikers.\" does not follow: both statements can be true while some early risers are not hikers. \"Some early risers are hikers.\" does not follow: both statements can be true while no early risers are hikers. \"All hikers are early risers.\" does not follow: both statements can be true while some hikers are not early risers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo gardeners are hikers. All early risers are hikers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some early risers are gardeners.",
+      "All gardeners are early risers.",
+      "No early risers are gardeners.",
+      "All early risers are gardeners."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some early risers are gardeners. \"Some early risers are gardeners.\" does not follow: both statements can be true while no early risers are gardeners. \"All early risers are gardeners.\" does not follow: both statements can be true while some early risers are not gardeners. \"All gardeners are early risers.\" does not follow: both statements can be true while some gardeners are not early risers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome early risers are bakers. No joggers are bakers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some joggers are not early risers.",
+      "No early risers are joggers.",
+      "Some early risers are not joggers.",
+      "All joggers are early risers."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all early risers are joggers. \"No early risers are joggers.\" does not follow: both statements can be true while some early risers are joggers. \"All joggers are early risers.\" does not follow: both statements can be true while some joggers are not early risers. \"Some joggers are not early risers.\" does not follow: both statements can be true while all joggers are early risers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome swimmers are bakers. All bakers are poets.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some poets are swimmers.",
+      "Some poets are not swimmers.",
+      "Some swimmers are not poets.",
+      "All poets are swimmers."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and no poets are swimmers. \"Some swimmers are not poets.\" does not follow: both statements can be true while all swimmers are poets. \"Some poets are not swimmers.\" does not follow: both statements can be true while all poets are swimmers. \"All poets are swimmers.\" does not follow: both statements can be true while some poets are not swimmers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome gardeners are volunteers. No gardeners are painters.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some painters are volunteers.",
+      "Some volunteers are not painters.",
+      "All volunteers are painters.",
+      "No volunteers are painters."
+    ],
+    "answer": 1,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all volunteers are painters. \"No volunteers are painters.\" does not follow: both statements can be true while some volunteers are painters. \"All volunteers are painters.\" does not follow: both statements can be true while some volunteers are not painters. \"Some painters are volunteers.\" does not follow: both statements can be true while no painters are volunteers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo volunteers are early risers. All vegetarians are early risers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some vegetarians are volunteers.",
+      "No volunteers are vegetarians.",
+      "All volunteers are vegetarians.",
+      "All vegetarians are volunteers."
+    ],
+    "answer": 1,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some volunteers are vegetarians. \"All vegetarians are volunteers.\" does not follow: both statements can be true while some vegetarians are not volunteers. \"Some vegetarians are volunteers.\" does not follow: both statements can be true while no vegetarians are volunteers. \"All volunteers are vegetarians.\" does not follow: both statements can be true while some volunteers are not vegetarians.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll poets are painters. All hikers are poets.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some hikers are not painters.",
+      "No painters are hikers.",
+      "Some painters are not hikers.",
+      "All hikers are painters."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some hikers are not painters. \"Some hikers are not painters.\" does not follow: both statements can be true while all hikers are painters. \"No painters are hikers.\" does not follow: both statements can be true while some painters are hikers. \"Some painters are not hikers.\" does not follow: both statements can be true while all painters are hikers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll joggers are vegetarians. Some bakers are not vegetarians.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some joggers are bakers.",
+      "Some bakers are not joggers.",
+      "Some joggers are not bakers.",
+      "No bakers are joggers."
+    ],
+    "answer": 1,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all bakers are joggers. \"Some joggers are not bakers.\" does not follow: both statements can be true while all joggers are bakers. \"No bakers are joggers.\" does not follow: both statements can be true while some bakers are joggers. \"Some joggers are bakers.\" does not follow: both statements can be true while no joggers are bakers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome gardeners are cyclists. No hikers are gardeners.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some cyclists are not hikers.",
+      "All hikers are cyclists.",
+      "Some hikers are cyclists.",
+      "No cyclists are hikers."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all cyclists are hikers. \"No cyclists are hikers.\" does not follow: both statements can be true while some cyclists are hikers. \"Some hikers are cyclists.\" does not follow: both statements can be true while no hikers are cyclists. \"All hikers are cyclists.\" does not follow: both statements can be true while some hikers are not cyclists.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome photographers are volunteers. All volunteers are bakers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some bakers are not photographers.",
+      "All bakers are photographers.",
+      "Some photographers are not bakers.",
+      "Some bakers are photographers."
+    ],
+    "answer": 3,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and no bakers are photographers. \"All bakers are photographers.\" does not follow: both statements can be true while some bakers are not photographers. \"Some bakers are not photographers.\" does not follow: both statements can be true while all bakers are photographers. \"Some photographers are not bakers.\" does not follow: both statements can be true while all photographers are bakers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-031",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll vegetarians are photographers. No poets are photographers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "No vegetarians are poets.",
+      "Some vegetarians are poets.",
+      "All poets are vegetarians.",
+      "All vegetarians are poets."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some vegetarians are poets. \"Some vegetarians are poets.\" does not follow: both statements can be true while no vegetarians are poets. \"All poets are vegetarians.\" does not follow: both statements can be true while some poets are not vegetarians. \"All vegetarians are poets.\" does not follow: both statements can be true while some vegetarians are not poets.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-032",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll cyclists are poets. Some swimmers are cyclists.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All swimmers are poets.",
+      "No swimmers are poets.",
+      "Some swimmers are poets.",
+      "Some poets are not swimmers."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and no swimmers are poets. \"No swimmers are poets.\" does not follow: both statements can be true while some swimmers are poets. \"Some poets are not swimmers.\" does not follow: both statements can be true while all poets are swimmers. \"All swimmers are poets.\" does not follow: both statements can be true while some swimmers are not poets.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-033",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo bakers are early risers. All collectors are bakers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "No early risers are collectors.",
+      "Some collectors are early risers.",
+      "All collectors are early risers.",
+      "All early risers are collectors."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some early risers are collectors. \"Some collectors are early risers.\" does not follow: both statements can be true while no collectors are early risers. \"All collectors are early risers.\" does not follow: both statements can be true while some collectors are not early risers. \"All early risers are collectors.\" does not follow: both statements can be true while some early risers are not collectors.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-034",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nAll vegetarians are early risers. No early risers are bloggers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "No vegetarians are bloggers.",
+      "All bloggers are vegetarians.",
+      "Some vegetarians are bloggers.",
+      "All vegetarians are bloggers."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and some vegetarians are bloggers. \"All bloggers are vegetarians.\" does not follow: both statements can be true while some bloggers are not vegetarians. \"Some vegetarians are bloggers.\" does not follow: both statements can be true while no vegetarians are bloggers. \"All vegetarians are bloggers.\" does not follow: both statements can be true while some vegetarians are not bloggers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-035",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome collectors are gardeners. No gardeners are joggers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some collectors are not joggers.",
+      "All joggers are collectors.",
+      "All collectors are joggers.",
+      "No joggers are collectors."
+    ],
+    "answer": 0,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all collectors are joggers. \"All collectors are joggers.\" does not follow: both statements can be true while some collectors are not joggers. \"All joggers are collectors.\" does not follow: both statements can be true while some joggers are not collectors. \"No joggers are collectors.\" does not follow: both statements can be true while some joggers are collectors.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-036",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo vegetarians are photographers. Some photographers are chess players.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All vegetarians are chess players.",
+      "All chess players are vegetarians.",
+      "Some chess players are not vegetarians.",
+      "No chess players are vegetarians."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all chess players are vegetarians. \"No chess players are vegetarians.\" does not follow: both statements can be true while some chess players are vegetarians. \"All vegetarians are chess players.\" does not follow: both statements can be true while some vegetarians are not chess players. \"All chess players are vegetarians.\" does not follow: both statements can be true while some chess players are not vegetarians.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-037",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome poets are swimmers. No early risers are poets.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All swimmers are early risers.",
+      "Some swimmers are not early risers.",
+      "Some early risers are swimmers.",
+      "No early risers are swimmers."
+    ],
+    "answer": 1,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all swimmers are early risers. \"Some early risers are swimmers.\" does not follow: both statements can be true while no early risers are swimmers. \"No early risers are swimmers.\" does not follow: both statements can be true while some early risers are swimmers. \"All swimmers are early risers.\" does not follow: both statements can be true while some swimmers are not early risers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-038",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome vegetarians are cyclists. No poets are vegetarians.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "All cyclists are poets.",
+      "All poets are cyclists.",
+      "Some cyclists are not poets.",
+      "No cyclists are poets."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all cyclists are poets. \"All poets are cyclists.\" does not follow: both statements can be true while some poets are not cyclists. \"No cyclists are poets.\" does not follow: both statements can be true while some cyclists are poets. \"All cyclists are poets.\" does not follow: both statements can be true while some cyclists are not poets.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-039",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nSome chess players are cyclists. All cyclists are bakers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some bakers are not chess players.",
+      "Some bakers are chess players.",
+      "No chess players are bakers.",
+      "Some chess players are not bakers."
+    ],
+    "answer": 1,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and no bakers are chess players. \"No chess players are bakers.\" does not follow: both statements can be true while some chess players are bakers. \"Some bakers are not chess players.\" does not follow: both statements can be true while all bakers are chess players. \"Some chess players are not bakers.\" does not follow: both statements can be true while all chess players are bakers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-syllogisms-040",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "syllogisms",
+    "stem": "Assume both statements are true.\nNo vegetarians are bloggers. Some bloggers are volunteers.\nWhich conclusion necessarily follows?",
+    "choices": [
+      "Some vegetarians are not volunteers.",
+      "All vegetarians are volunteers.",
+      "Some volunteers are not vegetarians.",
+      "No volunteers are vegetarians."
+    ],
+    "answer": 2,
+    "explanation": "Both statements together force it: there is no way to arrange the groups so that both are true and all volunteers are vegetarians. \"Some vegetarians are not volunteers.\" does not follow: both statements can be true while all vegetarians are volunteers. \"No volunteers are vegetarians.\" does not follow: both statements can be true while some volunteers are vegetarians. \"All vegetarians are volunteers.\" does not follow: both statements can be true while some vegetarians are not volunteers.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  }
+]

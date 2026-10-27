@@ -29,7 +29,7 @@ def main() -> None:
         sys.exit("validation failed; nothing built")
 
     shipped = [
-        {k: q.get(k) for k in SHIPPED_FIELDS}
+        {k: q.get(k) for k in SHIPPED_FIELDS} | ({"table": q["table"]} if "table" in q else {})
         for q in sorted(questions, key=lambda q: q["id"])
         if q["status"] == "verified"
     ]

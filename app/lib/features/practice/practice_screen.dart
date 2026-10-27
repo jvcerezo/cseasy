@@ -92,6 +92,10 @@ class _QuestionView extends StatelessWidget {
         ),
         const SizedBox(height: 8),
         Text(question.stem, style: textTheme.titleLarge),
+        if (question.table case final table?) ...[
+          const SizedBox(height: 16),
+          QuestionTableView(table: table),
+        ],
         const SizedBox(height: 20),
         for (var i = 0; i < question.choices.length; i++)
           Padding(
@@ -202,6 +206,48 @@ class ExplanationCard extends StatelessWidget {
             ],
           ],
         ),
+      ),
+    );
+  }
+}
+
+class QuestionTableView extends StatelessWidget {
+  final QuestionTable table;
+
+  const QuestionTableView({super.key, required this.table});
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    final textTheme = Theme.of(context).textTheme;
+
+    Widget cell(String text, {bool header = false, bool alignEnd = false}) => Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+          child: Text(
+            text,
+            textAlign: alignEnd ? TextAlign.end : TextAlign.start,
+            style: header ? textTheme.labelLarge : textTheme.bodyMedium,
+          ),
+        );
+
+    return SingleChildScrollView(
+      scrollDirection: Axis.horizontal,
+      child: Table(
+        defaultColumnWidth: const IntrinsicColumnWidth(),
+        border: TableBorder.all(color: scheme.outlineVariant, borderRadius: BorderRadius.circular(8)),
+        children: [
+          TableRow(
+            decoration: BoxDecoration(color: scheme.surfaceContainerHigh),
+            children: [
+              for (var i = 0; i < table.headers.length; i++)
+                cell(table.headers[i], header: true, alignEnd: i > 0),
+            ],
+          ),
+          for (final row in table.rows)
+            TableRow(children: [
+              for (var i = 0; i < row.length; i++) cell(row[i], header: i == 0, alignEnd: i > 0),
+            ]),
+        ],
       ),
     );
   }

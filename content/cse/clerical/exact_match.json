@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cse-cle-exact_match-001",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which pair is EXACTLY alike?",
+    "choices": [
+      "071-687-402-000  |  071687-402-000",
+      "Grace D. Mendoza  |  Grace D. eMndoza",
+      "393 Burgos St., Brgy. 168, Tarlac City  |  393 Burgos St., Brgy. 168, Tarlac iCty",
+      "934-274-503-000  |  934-274-503-000"
+    ],
+    "answer": 3,
+    "explanation": "Only \"934-274-503-000  |  934-274-503-000\" matches character for character. Each other pair has one small difference (a swapped, changed or missing character); compare left to right, one character at a time.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-002",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nVincent V. Gonzales",
+    "choices": [
+      "Vincent V. Goznales",
+      "Vincent V Gonzales",
+      "Vincemt V. Gonzales",
+      "Vincent V. Gonzales"
+    ],
+    "answer": 3,
+    "explanation": "Only \"Vincent V. Gonzales\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-003",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2022-65582",
+    "choices": [
+      "OR-2022-65852",
+      "OR-2022-65582",
+      "OR-2022-65583",
+      "RO-2022-65582"
+    ],
+    "answer": 1,
+    "explanation": "Only \"OR-2022-65582\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-004",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n183 Rizal St., Brgy. 184, Malolos",
+    "choices": [
+      "183 Rizal St., Brgy 184, Malolos",
+      "183 Rizal St., Brgy. 184, Malolos",
+      "183 Rizal St., Brgy. 1B4, Malolos",
+      "183 Rizal St, Brgy. 184, Malolos"
+    ],
+    "answer": 1,
+    "explanation": "Only \"183 Rizal St., Brgy. 184, Malolos\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-005",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n478 Magsaysay St., Brgy. 91, Malolos",
+    "choices": [
+      "468 Magsaysay St., Brgy. 91, Malolos",
+      "487 Magsaysay St., Brgy. 91, Malolos",
+      "478 Magsaysay St., Brgy. 91, Malolos",
+      "478 Magsaysay St., Brgy. 91, aMlolos"
+    ],
+    "answer": 2,
+    "explanation": "Only \"478 Magsaysay St., Brgy. 91, Malolos\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-006",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n706-999-793-000",
+    "choices": [
+      "706-999-739-000",
+      "736-999-793-000",
+      "706-999-793-000",
+      "306-999-793-000"
+    ],
+    "answer": 2,
+    "explanation": "Only \"706-999-793-000\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-007",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nRamon G. Cruz",
+    "choices": [
+      "Ramom G. Cruz",
+      "Ramno G. Cruz",
+      "Ramon G. Cruz",
+      "aRmon G. Cruz"
+    ],
+    "answer": 2,
+    "explanation": "Only \"Ramon G. Cruz\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-008",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nJoy F. Villanueva",
+    "choices": [
+      "Joy F. Vilalnueva",
+      "Joy F. Villanueva",
+      "Joy F. Villnaueva",
+      "Joy F. Villonueva"
+    ],
+    "answer": 1,
+    "explanation": "Only \"Joy F. Villanueva\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-009",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n002-955-714-000",
+    "choices": [
+      "O02-955-714-000",
+      "002-955-714-000",
+      "092-955-714-000",
+      "002-955-314-000"
+    ],
+    "answer": 1,
+    "explanation": "Only \"002-955-714-000\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-010",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2025-79174",
+    "choices": [
+      "OR-5025-79174",
+      "OR-202S-79174",
+      "OR-2O25-79174",
+      "OR-2025-79174"
+    ],
+    "answer": 3,
+    "explanation": "Only \"OR-2025-79174\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-011",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n793 Luna St., Brgy. 103, Tagum City",
+    "choices": [
+      "793 Lnua St., Brgy. 103, Tagum City",
+      "793 Luna St., Brgy. 103, Tagum Ciyt",
+      "793 Luna St., 8rgy. 103, Tagum City",
+      "793 Luna St., Brgy. 103, Tagum City"
+    ],
+    "answer": 3,
+    "explanation": "Only \"793 Luna St., Brgy. 103, Tagum City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-012",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n952 Mabini St., Brgy. 15, Iloilo City",
+    "choices": [
+      "952 Mobini St., Brgy. 15, Iloilo City",
+      "952 Mabini St., Brgy. 15, Iloiol City",
+      "952 Mabini St., Brgy. 15, Iloilo City",
+      "952 Mabini St., Brgy. 15, Ilailo City"
+    ],
+    "answer": 2,
+    "explanation": "Only \"952 Mabini St., Brgy. 15, Iloilo City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-013",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n52 Rizal St., Brgy. 42, Calamba",
+    "choices": [
+      "52 Rizal St., Brgy. 42, Calamab",
+      "52 Rizal St, Brgy. 42, Calamba",
+      "52 Rizla St., Brgy. 42, Calamba",
+      "52 Rizal St., Brgy. 42, Calamba"
+    ],
+    "answer": 3,
+    "explanation": "Only \"52 Rizal St., Brgy. 42, Calamba\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-014",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n861 Quezon St., Brgy. 173, Quezon City",
+    "choices": [
+      "86l Quezon St., Brgy. 173, Quezon City",
+      "861 Quezon St., Brgy. 173, Quezon City",
+      "861 uQezon St., Brgy. 173, Quezon City",
+      "861 Quezon St., Brgy. 173 Quezon City"
+    ],
+    "answer": 1,
+    "explanation": "Only \"861 Quezon St., Brgy. 173, Quezon City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-015",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nRodel B. Garcia",
+    "choices": [
+      "Rodel B. Garcio",
+      "Roedl B. Garcia",
+      "Rodel B. Garcia",
+      "Rodel B. aGrcia"
+    ],
+    "answer": 2,
+    "explanation": "Only \"Rodel B. Garcia\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-016",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2024-04480",
+    "choices": [
+      "OR-2024-04280",
+      "OR-2024-04480",
+      "OR-2025-04480",
+      "OR-2O24-04480"
+    ],
+    "answer": 1,
+    "explanation": "Only \"OR-2024-04480\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-017",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nNoel N. Salazar",
+    "choices": [
+      "Noel N. Solazar",
+      "Noel N. Saalzar",
+      "Noel N Salazar",
+      "Noel N. Salazar"
+    ],
+    "answer": 3,
+    "explanation": "Only \"Noel N. Salazar\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-018",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2025-66290",
+    "choices": [
+      "OR-2025-66690",
+      "OR-2045-66290",
+      "OR-2025-66209",
+      "OR-2025-66290"
+    ],
+    "answer": 3,
+    "explanation": "Only \"OR-2025-66290\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-019",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n207 Mabini St., Brgy. 109, Iloilo City",
+    "choices": [
+      "207 Mabini St., Brgy. 109, Iloilo City",
+      "207 Mabini St., Brgy. 109, Iloila City",
+      "207 Mabini 5t., Brgy. 109, Iloilo City",
+      "207 Mabini St., Brgy. 109, Iliolo City"
+    ],
+    "answer": 0,
+    "explanation": "Only \"207 Mabini St., Brgy. 109, Iloilo City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-020",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n306 Magsaysay St., Brgy. 69, Tagum City",
+    "choices": [
+      "309 Magsaysay St., Brgy. 69, Tagum City",
+      "306 Magsaysay St., Brgy. 69, Tagum City",
+      "306 Magsaysay St., Brgy. 69, Tagum Ciyt",
+      "306 Magsaysay St., Brgy. 96, Tagum City"
+    ],
+    "answer": 1,
+    "explanation": "Only \"306 Magsaysay St., Brgy. 69, Tagum City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-021",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n321 Rizal St., Brgy. 112, Quezon City",
+    "choices": [
+      "321 Rizal St., Brgy. 112 Quezon City",
+      "321 Rizal St., Brgy 112, Quezon City",
+      "321 Rizal St., Brgy. 112, Quezon City",
+      "321 Rizal St., Brgy. 1l2, Quezon City"
+    ],
+    "answer": 2,
+    "explanation": "Only \"321 Rizal St., Brgy. 112, Quezon City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-022",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n086-701-488-000",
+    "choices": [
+      "086-701-488000",
+      "089-701-488-000",
+      "086-701-4B8-000",
+      "086-701-488-000"
+    ],
+    "answer": 3,
+    "explanation": "Only \"086-701-488-000\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-023",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n963 Del Pilar St., Brgy. 101, Malolos",
+    "choices": [
+      "963 Del Pilar St., Bgry. 101, Malolos",
+      "963 Del Pilar St., Brgy. 101, Malolos",
+      "963 Del Pilar St., Brgy. 101, Malo1os",
+      "963 Del Pilar St., Brgy. 101, Malolso"
+    ],
+    "answer": 1,
+    "explanation": "Only \"963 Del Pilar St., Brgy. 101, Malolos\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-024",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nPaolo H. Soriano",
+    "choices": [
+      "Paolo H. Soirano",
+      "Paolo H. Soriamo",
+      "Paolo H. Soriano",
+      "aPolo H. Soriano"
+    ],
+    "answer": 2,
+    "explanation": "Only \"Paolo H. Soriano\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-025",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2025-43143",
+    "choices": [
+      "OR-0025-43143",
+      "OR-0225-43143",
+      "OR-2025-43143",
+      "OR-2325-43143"
+    ],
+    "answer": 2,
+    "explanation": "Only \"OR-2025-43143\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-026",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2023-21986",
+    "choices": [
+      "0R-2023-21986",
+      "OR-2023-21986",
+      "OR-2023-2l986",
+      "OR-2023-219B6"
+    ],
+    "answer": 1,
+    "explanation": "Only \"OR-2023-21986\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-027",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2023-41382",
+    "choices": [
+      "OR-9023-41382",
+      "OR-2013-41382",
+      "OR-2023-41382",
+      "OR-2026-41382"
+    ],
+    "answer": 2,
+    "explanation": "Only \"OR-2023-41382\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-028",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n289 Luna St., Brgy. 74, Pasig City",
+    "choices": [
+      "289 Luna St., Brgy. 74, Pasig City",
+      "284 Luna St., Brgy. 74, Pasig City",
+      "289 Luma St., Brgy. 74, Pasig City",
+      "289 Luna St., Brgy. 74, Paisg City"
+    ],
+    "answer": 0,
+    "explanation": "Only \"289 Luna St., Brgy. 74, Pasig City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-029",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n236 Burgos St., Brgy. 68, Tagum City",
+    "choices": [
+      "236 Burgos St., Brgy. 68, Tagum City",
+      "236 Burogs St., Brgy. 68, Tagum City",
+      "236 Burgos St., Brgy. 08, Tagum City",
+      "236 Burgos St., Brgy. 86, Tagum City"
+    ],
+    "answer": 0,
+    "explanation": "Only \"236 Burgos St., Brgy. 68, Tagum City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-030",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2025-37948",
+    "choices": [
+      "OR-3025-37948",
+      "OR-2025-3794B",
+      "OR-2025-37948",
+      "OR-2025-36948"
+    ],
+    "answer": 2,
+    "explanation": "Only \"OR-2025-37948\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-031",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n251 Mabini St., Brgy. 3, Calamba",
+    "choices": [
+      "251 Mabini St., Brgy. 3, Calabma",
+      "251 Mabini St., Brgy. 3, Calamba",
+      "251 Mabini St., Bryg. 3, Calamba",
+      "251 Mabimi St., Brgy. 3, Calamba"
+    ],
+    "answer": 1,
+    "explanation": "Only \"251 Mabini St., Brgy. 3, Calamba\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-032",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2026-59897",
+    "choices": [
+      "OR-2206-59897",
+      "OR-2026-59897",
+      "OR-2026-59896",
+      "OR-2016-59897"
+    ],
+    "answer": 1,
+    "explanation": "Only \"OR-2026-59897\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-033",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nNoel T. Gonzales",
+    "choices": [
+      "Noel T. Goznales",
+      "Noel T. Gonzales",
+      "Noe1 T. Gonzales",
+      "Noel T. Ganzales"
+    ],
+    "answer": 1,
+    "explanation": "Only \"Noel T. Gonzales\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-034",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nOR-2023-51992",
+    "choices": [
+      "OR-2023-54992",
+      "OR-2032-51992",
+      "OR-2083-51992",
+      "OR-2023-51992"
+    ],
+    "answer": 3,
+    "explanation": "Only \"OR-2023-51992\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-035",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nCristina G. Reyes",
+    "choices": [
+      "Cristina G. Reycs",
+      "Cristina G. Reyes",
+      "Cristina G. Reyse",
+      "Crisitna G. Reyes"
+    ],
+    "answer": 1,
+    "explanation": "Only \"Cristina G. Reyes\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-036",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n626-450-426-000",
+    "choices": [
+      "626-450-456-000",
+      "626-350-426-000",
+      "626-450-426-000",
+      "626-450426-000"
+    ],
+    "answer": 2,
+    "explanation": "Only \"626-450-426-000\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-037",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n921 Magsaysay St., Brgy. 32, Tarlac City",
+    "choices": [
+      "921 Magsaysay St., Brgy. 32, Tarlac City",
+      "921 Magsaysay St., 8rgy. 32, Tarlac City",
+      "921 Magsaysay St., Brgy. 32, Taralc City",
+      "921 Magsaysay St., Brgy. 32, Tarlae City"
+    ],
+    "answer": 0,
+    "explanation": "Only \"921 Magsaysay St., Brgy. 32, Tarlac City\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-038",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nAna F. Flores",
+    "choices": [
+      "nAa F. Flores",
+      "Ana F. Flores",
+      "Ana F. Folres",
+      "Ana F. Florcs"
+    ],
+    "answer": 1,
+    "explanation": "Only \"Ana F. Flores\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-039",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\n493-429-951-000",
+    "choices": [
+      "493-429-951-O00",
+      "493-429-951-000",
+      "493-429-911-000",
+      "493-429-95l-000"
+    ],
+    "answer": 1,
+    "explanation": "Only \"493-429-951-000\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-exact_match-040",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "exact_match",
+    "stem": "Which of the following is an exact copy of:\nAndrea D. Soriano",
+    "choices": [
+      "Amdrea D. Soriano",
+      "Andreo D. Soriano",
+      "Andrea D. 5oriano",
+      "Andrea D. Soriano"
+    ],
+    "answer": 3,
+    "explanation": "Only \"Andrea D. Soriano\" matches exactly. The others each contain one small copying error.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  }
+]
