@@ -51,6 +51,27 @@ abstract final class Strings {
   static const reviewWrongAndBlank = 'Review wrong and unanswered items';
   static const sectionWeightNote =
       'Format follows the CSC exam (item count and time limit). CSC does not publish section weights, so sections are split evenly.';
+  static const unlockTitle = 'Unlock full access';
+  static const unlockBenefitAll = 'Every question in every topic';
+  static const unlockBenefitMocks = 'Unlimited full-length mock exams';
+  static const unlockBenefitAds = 'No ads';
+  static const unlockBenefitOnce = 'One-time payment. No subscription.';
+  static const restorePurchase = 'Restore purchase';
+  static const priceLoading = 'Loading price…';
+  static const storeUnavailable = 'Google Play billing is unavailable on this device right now.';
+  static const youHaveFullAccess = 'You have full access. Salamat!';
+  static const fullMockLocked = 'Free accounts include one full mock exam. Unlock full access for unlimited full mocks; mini mocks stay free.';
+  static const freeTierNote = 'Free: first 10 questions per topic';
+  static const reportProblem = 'Report a problem';
+  static const reportTitle = 'What is wrong with this question?';
+  static const reportWrongKey = 'The marked answer is wrong';
+  static const reportTypo = 'Typo or grammar error';
+  static const reportUnclear = 'The question is unclear';
+  static const reportOutdated = 'Outdated information';
+  static const reportOther = 'Something else';
+  static const reportNoteHint = 'Details (optional)';
+  static const reportSend = 'Send report by email';
+  static const reportNoEmailApp = 'No email app found. Please email us the question ID shown here.';
   static const perfectRound = 'Perfect round. No mistakes to review.';
   static const passedRound = 'Passing score. The CSE needs at least 80%.';
   static const failedRound = 'Below passing. The CSE needs at least 80%.';
@@ -63,5 +84,7 @@ abstract final class Strings {
       : 'You have $n unanswered ${n == 1 ? 'item' : 'items'}. Unanswered items count as wrong.';
   static String mockMeta(int items, Duration d) =>
       '$items items · ${d.inHours > 0 ? '${d.inHours}h ' : ''}${d.inMinutes % 60}m';
+  static String unlockCta(String price) => 'Unlock for $price';
+  static String unlockBanner(int total) => 'Unlock all $total questions';
   static String progress(int current, int total) => 'Question $current of $total';
 }

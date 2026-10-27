@@ -33,10 +33,15 @@ class MockExamSpec {
           const MockExamSpec(label: 'Full mock exam', itemCount: 165, duration: Duration(minutes: 160)),
       };
 
+  static const miniItemCount = 50;
+
+  /// Whether a stored result of [itemCount] items was a full-length mock.
+  static bool isFull(int itemCount) => itemCount > miniItemCount;
+
   /// A 50-item version at the same pace per item, for shorter sittings.
   static MockExamSpec mini(ExamLevel level) {
     final full = MockExamSpec.full(level);
-    const items = 50;
+    const items = miniItemCount;
     return MockExamSpec(
       label: 'Mini mock exam',
       itemCount: items,

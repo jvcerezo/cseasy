@@ -7,9 +7,13 @@ import '../../core/content/topic_labels.dart';
 import '../../core/strings.dart';
 import '../../data/progress_providers.dart';
 import '../../data/progress_repository.dart';
-import '../../data/settings_providers.dart';
 import '../../core/quiz/mock_exam.dart';
+import '../../data/settings_providers.dart';
 import '../mock/mock_screen.dart';
+import '../premium/entitlement_controller.dart';
+import '../premium/paywall_screen.dart';
+import '../premium/premium_gate.dart';
+import '../premium/study_bank.dart';
 import '../onboarding/level_picker_screen.dart';
 import '../practice/practice_controller.dart';
 import '../practice/practice_screen.dart';
@@ -25,12 +29,19 @@ class HomeScreen extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final bank = ref.watch(examBankProvider);
+    // Watching the study bank keeps it loaded before practice reads it.
+    final study = ref.watch(studyBankProvider);
     final level = ref.watch(examLevelProvider);
+    final isPremium = ref.watch(isPremiumProvider);
     return Scaffold(
       appBar: AppBar(
         title: const Text(Strings.appName),
         actions: [
+          IconButton(
+            tooltip: Strings.unlockTitle,
+            icon: Icon(isPremium ? Icons.workspace_premium : Icons.workspace_premium_outlined),
+            onPressed: () => PaywallScreen.open(context),
+          ),
           TextButton(
             onPressed: () => Navigator.of(context).push(
               MaterialPageRoute<void>(builder: (_) => const LevelPickerScreen(popOnSelect: true)),
@@ -39,8 +50,8 @@ class HomeScreen extends ConsumerWidget {
           ),
         ],
       ),
-      body: bank.when(
-        data: (bank) => _TopicList(bank: bank),
+      body: study.when(
+        data: (_) => _TopicList(bank: ref.watch(examBankProvider).requireValue),
         loading: () => const Center(child: CircularProgressIndicator()),
         error: (error, _) => Center(
           child: Column(
@@ -49,7 +60,7 @@ class HomeScreen extends ConsumerWidget {
               const Text(Strings.loadError),
               const SizedBox(height: 12),
               FilledButton(
-                onPressed: () => ref.invalidate(examBankProvider),
+                onPressed: () => ref.invalidate(studyBankProvider),
                 child: const Text(Strings.retry),
               ),
             ],
@@ -68,6 +79,7 @@ class _TopicList extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final stats = ref.watch(topicStatsProvider).valueOrNull ?? const {};
+    final isPremium = ref.watch(isPremiumProvider);
     return ListView(
       padding: const EdgeInsets.symmetric(vertical: 8),
       children: [
@@ -76,6 +88,10 @@ class _TopicList extends ConsumerWidget {
           child: Text(Strings.tagline),
         ),
         const _ActivityCard(),
+        if (!isPremium) ...[
+          const SizedBox(height: 12),
+          _UnlockCard(total: bank.questions.length),
+        ],
         const SizedBox(height: 12),
         const _MockExamCard(),
         const SizedBox(height: 8),
@@ -89,6 +105,7 @@ class _TopicList extends ConsumerWidget {
               topic: topic,
               total: bank.byTopic(topic).length,
               stats: stats[topic],
+              locked: !isPremium && bank.byTopic(topic).length > freeQuestionsPerTopic,
               onTap: () => _openPractice(context, TopicScope(section, topic)),
             ),
           const Divider(height: 24),
@@ -156,6 +173,9 @@ class _MockExamCard extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final level = ref.watch(examLevelProvider) ?? ExamLevel.professional;
     final results = ref.watch(mockResultsProvider).valueOrNull ?? const [];
+    final isPremium = ref.watch(isPremiumProvider);
+    final fullTaken = results.where((r) => MockExamSpec.isFull(r.itemCount)).length;
+    final fullAllowed = canStartFullMock(isPremium: isPremium, fullMocksTaken: fullTaken);
     final textTheme = Theme.of(context).textTheme;
     final full = MockExamSpec.full(level);
     final mini = MockExamSpec.mini(level);
@@ -186,7 +206,7 @@ class _MockExamCard extends ConsumerWidget {
               children: [
                 Expanded(
                   child: FilledButton(
-                    onPressed: () => open(full),
+                    onPressed: () => fullAllowed ? open(full) : _showFullMockLocked(context),
                     child: Text(
                       '${Strings.fullMock}\n${Strings.mockMeta(full.itemCount, full.duration)}',
                       textAlign: TextAlign.center,
@@ -207,6 +227,48 @@ class _MockExamCard extends ConsumerWidget {
             ),
           ],
         ),
+      ),
+    );
+  }
+}
+
+void _showFullMockLocked(BuildContext context) {
+  showDialog<void>(
+    context: context,
+    builder: (dialogContext) => AlertDialog(
+      title: const Text(Strings.unlockTitle),
+      content: const Text(Strings.fullMockLocked),
+      actions: [
+        TextButton(onPressed: () => Navigator.of(dialogContext).pop(), child: const Text(Strings.stay)),
+        FilledButton(
+          onPressed: () {
+            Navigator.of(dialogContext).pop();
+            PaywallScreen.open(context);
+          },
+          child: const Text(Strings.unlockTitle),
+        ),
+      ],
+    ),
+  );
+}
+
+class _UnlockCard extends StatelessWidget {
+  final int total;
+
+  const _UnlockCard({required this.total});
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    return Card.filled(
+      margin: const EdgeInsets.symmetric(horizontal: 16),
+      color: scheme.primaryContainer,
+      child: ListTile(
+        leading: Icon(Icons.workspace_premium, color: scheme.onPrimaryContainer),
+        title: Text(Strings.unlockBanner(total), style: TextStyle(color: scheme.onPrimaryContainer)),
+        subtitle: Text(Strings.unlockBenefitOnce, style: TextStyle(color: scheme.onPrimaryContainer)),
+        trailing: Icon(Icons.chevron_right, color: scheme.onPrimaryContainer),
+        onTap: () => PaywallScreen.open(context),
       ),
     );
   }
@@ -235,12 +297,14 @@ class _TopicTile extends StatelessWidget {
   final String topic;
   final int total;
   final TopicStats? stats;
+  final bool locked;
   final VoidCallback onTap;
 
   const _TopicTile({
     required this.topic,
     required this.total,
     required this.stats,
+    required this.locked,
     required this.onTap,
   });
 
@@ -254,6 +318,7 @@ class _TopicTile extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(Strings.topicProgress(seen, total, accuracyPct)),
+          if (locked) Text(Strings.freeTierNote, style: Theme.of(context).textTheme.bodySmall),
           if (seen > 0) ...[
             const SizedBox(height: 6),
             LinearProgressIndicator(
@@ -263,7 +328,7 @@ class _TopicTile extends StatelessWidget {
           ],
         ],
       ),
-      trailing: const Icon(Icons.chevron_right),
+      trailing: Icon(locked ? Icons.lock_open_outlined : Icons.chevron_right),
       onTap: onTap,
     );
   }

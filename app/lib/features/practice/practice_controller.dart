@@ -9,7 +9,7 @@ import '../../core/quiz/quiz_session.dart';
 import '../../core/quiz/round_picker.dart';
 import '../../core/strings.dart';
 import '../../data/progress_providers.dart';
-import '../../data/settings_providers.dart';
+import '../premium/study_bank.dart';
 
 const practiceRoundSize = 10;
 
@@ -76,7 +76,7 @@ class PracticeController extends AutoDisposeFamilyNotifier<QuizSession?, Practic
   @override
   QuizSession? build(PracticeScope scope) {
     // Practice is only reachable from the home screen after the bank has loaded.
-    final bank = ref.watch(examBankProvider).requireValue;
+    final bank = ref.watch(studyBankProvider).requireValue;
     // read, not watch: answering updates the cards, and that must not
     // reshuffle the round in progress.
     final cards = ref.read(cardsProvider).valueOrNull ?? const {};

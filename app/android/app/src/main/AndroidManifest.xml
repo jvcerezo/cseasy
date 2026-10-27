@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The debug manifest adds INTERNET only for hot reload; release needs it for ads and billing. -->
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="CSEasy"
         android:name="${applicationName}"
@@ -30,6 +32,10 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+        <!-- Set admobAppId in android/key.properties; defaults to Google's test app ID. -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="${admobAppId}"/>
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility and
@@ -40,6 +46,11 @@
         <intent>
             <action android:name="android.intent.action.PROCESS_TEXT"/>
             <data android:mimeType="text/plain"/>
+        </intent>
+        <!-- "Report a problem" opens the user's email app. -->
+        <intent>
+            <action android:name="android.intent.action.SENDTO"/>
+            <data android:scheme="mailto"/>
         </intent>
     </queries>
 </manifest>

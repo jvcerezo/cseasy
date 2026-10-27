@@ -7,6 +7,7 @@ import '../../core/content/question.dart';
 import '../../core/quiz/mock_exam.dart';
 import '../../data/progress_providers.dart';
 import '../../data/settings_providers.dart';
+import '../premium/study_bank.dart';
 
 final mockControllerProvider =
     NotifierProvider.autoDispose.family<MockController, MockSession?, MockExamSpec>(
@@ -19,7 +20,7 @@ class MockController extends AutoDisposeFamilyNotifier<MockSession?, MockExamSpe
   MockSession? build(MockExamSpec spec) {
     // Mocks are opened from home after the bank has loaded; read (not watch)
     // the cards so answering mid-exam can't rebuild the exam.
-    final bank = ref.watch(examBankProvider).requireValue;
+    final bank = ref.watch(studyBankProvider).requireValue;
     final cards = ref.read(cardsProvider).valueOrNull ?? const {};
     final questions = assembleMockExam(bank, spec, cards: cards);
     return questions.isEmpty ? null : MockSession.start(spec, questions, DateTime.now());
