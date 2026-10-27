@@ -1,0 +1,559 @@
+[
+  {
+    "id": "cse-vrb-filipino_grammar-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nTumakbo ___ mabilis ang bata.",
+    "choices": [
+      "ang",
+      "nang",
+      "ng",
+      "na"
+    ],
+    "answer": 1,
+    "explanation": "Ginagamit ang \"nang\" bilang pang-abay na naglalarawan kung paano ginawa ang kilos (tumakbo nang mabilis).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nBumili siya ___ bagong sapatos.",
+    "choices": [
+      "kay",
+      "ng",
+      "na",
+      "nang"
+    ],
+    "answer": 1,
+    "explanation": "Ginagamit ang \"ng\" bago ang pangngalang tinatanggap ng pandiwa (bumili ng sapatos).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\n___ dumating ang direktor, nagsimula na ang pulong.",
+    "choices": [
+      "Nang",
+      "Sana",
+      "Kong",
+      "Ng"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"nang\" sa simula ng sugnay ay nangangahulugang \"noong\" o \"when\": Nang dumating ang direktor.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nNag-aral siya ___ mabuti kaya siya pumasa.",
+    "choices": [
+      "na",
+      "ng",
+      "nang",
+      "kung"
+    ],
+    "answer": 2,
+    "explanation": "Pang-abay ang \"nang mabuti\" dahil inilalarawan nito kung paano siya nag-aral.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nKumain ___ mangga ang bata.",
+    "choices": [
+      "nang",
+      "ng",
+      "kay",
+      "sina"
+    ],
+    "answer": 1,
+    "explanation": "\"Ng\" ang ginagamit bago ang pangngalang tinatanggap ng pandiwa (kumain ng mangga).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nKain ___ kain ang bata kaya siya tumaba.",
+    "choices": [
+      "nang",
+      "na",
+      "ang",
+      "ng"
+    ],
+    "answer": 0,
+    "explanation": "Ginagamit ang \"nang\" sa pagitan ng inuulit na pandiwa: kain nang kain.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Alin sa mga sumusunod na pangungusap ang wasto?",
+    "choices": [
+      "Malakas rin si Ben.",
+      "Masipag din si Mark.",
+      "Matalino din si Carlo.",
+      "Masaya din si Ana."
+    ],
+    "answer": 1,
+    "explanation": "Ginagamit ang \"din\" kapag katinig ang huling titik ng sinusundang salita, at \"rin\" kapag patinig o w/y. Nagtatapos sa g ang \"masipag,\" kaya tama ang \"din.\" Dapat \"masaya rin,\" \"malakas din,\" at \"matalino rin.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Alin sa mga sumusunod na pangungusap ang wasto?",
+    "choices": [
+      "Darating raw ang bisita.",
+      "Uuwi raw siya mamaya.",
+      "Tapos raw ang pulong.",
+      "Aalis raw siya mamaya."
+    ],
+    "answer": 1,
+    "explanation": "Ginagamit ang \"raw\" pagkatapos ng patinig o w/y, at \"daw\" pagkatapos ng katinig. Nagtatapos sa i ang \"uuwi,\" kaya tama ang \"raw.\" Dapat \"aalis daw,\" \"darating daw,\" at \"tapos daw.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Alin sa mga sumusunod na pangungusap ang wasto?",
+    "choices": [
+      "Mayroon bagong kotse siya.",
+      "Mayroon siyang bagong kotse.",
+      "May siya bagong kotse.",
+      "May siyang bagong kotse."
+    ],
+    "answer": 1,
+    "explanation": "Ginagamit ang \"mayroon\" kapag sinusundan ng panghalip (siya), at kinakabitan ito ng pang-angkop: \"mayroon siyang.\" Ginagamit naman ang \"may\" kapag direktang sinusundan ng pangngalan, pandiwa, o pang-uri.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nIto ang aklat ___ binili kahapon.",
+    "choices": [
+      "kung",
+      "ang",
+      "kong",
+      "nang"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"kong\" ay \"ko\" + pang-angkop na \"-ng\": aklat kong binili (ang aklat na binili ko).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nHindi ko alam ___ darating siya.",
+    "choices": [
+      "kung",
+      "ng",
+      "kong",
+      "nang"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"kung\" ay pangatnig na nangangahulugang \"if\" o \"whether.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nIsara mo ang ___ dahil malamig ang hangin.",
+    "choices": [
+      "hagdanan",
+      "pinto",
+      "pintuan",
+      "kisame"
+    ],
+    "answer": 1,
+    "explanation": "Ang \"pinto\" ay ang bagay na isinasara at binubuksan; ang \"pintuan\" ay ang daanan o puwang na kinalalagyan nito.",
+    "source": null,
+    "method": "llm",
+    "status": "rejected",
+    "difficulty": 2,
+    "flag_reason": "blind solve: solver not confident; note: pinto vs pintuan both used for door; KWF distinguishes"
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nKailangang ___ ang pasyente bukas ng umaga.",
+    "choices": [
+      "operahan",
+      "operado",
+      "inoperahan",
+      "operahin"
+    ],
+    "answer": 0,
+    "explanation": "\"Operahan\" ang ginagamit kapag tao ang tinutukoy; \"operahin\" kapag bahagi ng katawan (operahin ang apendiks).",
+    "source": null,
+    "method": "llm",
+    "status": "rejected",
+    "difficulty": 3,
+    "flag_reason": "blind solve: solver not confident; note: operahan vs operahin; operahan preferred for patient"
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\n___ mo ang sahig bago dumating ang mga bisita.",
+    "choices": [
+      "Magwalis",
+      "Walisin",
+      "Walisang",
+      "Walisan"
+    ],
+    "answer": 3,
+    "explanation": "\"Walisan\" ang ginagamit kapag lugar ang nililinis (walisan ang sahig); \"walisin\" kapag ang dumi mismo (walisin ang kalat).",
+    "source": null,
+    "method": "llm",
+    "status": "rejected",
+    "difficulty": 3,
+    "flag_reason": "blind solve: solver picked 'Walisin', key is 'Walisan'; solver not confident; note: Walisin vs Walisan (sahig as location) both defensible"
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\n___ mo ang mesa dahil may natapong tubig.",
+    "choices": [
+      "Punasan",
+      "Punasin",
+      "Punas",
+      "Pinunas"
+    ],
+    "answer": 0,
+    "explanation": "\"Punasan\" ang ginagamit kapag ang ibabaw ang nililinis (punasan ang mesa); \"punasin\" kapag ang dumi o tubig mismo ang inaalis.",
+    "source": null,
+    "method": "llm",
+    "status": "rejected",
+    "difficulty": 3,
+    "flag_reason": "blind solve: solver not confident; note: Punasan vs Punasin both defensible for mesa"
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\n___ mo ng mantikilya ang tinapay.",
+    "choices": [
+      "Ipahid",
+      "Pahid",
+      "Pahiran",
+      "Pahirin"
+    ],
+    "answer": 2,
+    "explanation": "\"Pahiran\" ay paglalagay ng isang bagay sa ibabaw (pahiran ng mantikilya); \"pahirin\" ay pag-aalis o pagpunas (pahirin ang pawis).",
+    "source": null,
+    "method": "llm",
+    "status": "rejected",
+    "difficulty": 3,
+    "flag_reason": "rejected: contested word pair (common usage differs from KWF rule)"
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\n___ Ana at Ben ay pupunta sa Maynila.",
+    "choices": [
+      "Ang mga",
+      "Sila",
+      "Sina",
+      "Si"
+    ],
+    "answer": 2,
+    "explanation": "\"Sina\" ang pantukoy para sa dalawa o higit pang pangalan ng tao; \"si\" ay para sa iisa.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nIbigay mo ang sulat ___ Maria.",
+    "choices": [
+      "kay",
+      "ni",
+      "sa",
+      "kina"
+    ],
+    "answer": 0,
+    "explanation": "\"Kay\" ang ginagamit bago ang iisang pangalan ng tao bilang tagatanggap; \"kina\" ay para sa dalawa o higit pa.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nMatibay ang bahay ___ bato.",
+    "choices": [
+      "ang",
+      "nang",
+      "na",
+      "ng"
+    ],
+    "answer": 2,
+    "explanation": "Ginagamit ang pang-angkop na \"na\" kapag nagtatapos sa katinig (maliban sa n) ang salitang inaangkupan: bahay na bato.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nBukas, ___ kami sa probinsya.",
+    "choices": [
+      "nagpunta",
+      "pupunta",
+      "pumunta",
+      "pumupunta"
+    ],
+    "answer": 1,
+    "explanation": "\"Bukas\" ay tumutukoy sa hinaharap, kaya aspektong kontemplatibo ang kailangan: pupunta.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nKahapon, ___ ang mga empleyado sa seminar.",
+    "choices": [
+      "dadalo",
+      "dumadalo",
+      "dadalaw",
+      "dumalo"
+    ],
+    "answer": 3,
+    "explanation": "\"Kahapon\" ay tumutukoy sa nakaraan, kaya aspektong perpektibo ang kailangan: dumalo.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nAraw-araw ___ si Liza ng ehersisyo.",
+    "choices": [
+      "gagawa",
+      "gumawa",
+      "gawin",
+      "gumagawa"
+    ],
+    "answer": 3,
+    "explanation": "\"Araw-araw\" ay nagpapakita ng kilos na nagaganap nang paulit-ulit, kaya aspektong imperpektibo ang kailangan: gumagawa.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nSi Ramon ang ___ sa kanilang magkakapatid.",
+    "choices": [
+      "kasintangkad",
+      "pinakamatangkad",
+      "mas matangkad",
+      "matangkad-tangkad"
+    ],
+    "answer": 1,
+    "explanation": "Paghahambing sa lahat ng magkakapatid ito, kaya pasukdol ang kailangan: pinakamatangkad.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_grammar-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_grammar",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nSi Ben ay ___ ni Carlo; pareho silang 170 sentimetro.",
+    "choices": [
+      "mas matangkad",
+      "lalong matangkad",
+      "pinakamatangkad",
+      "kasintangkad"
+    ],
+    "answer": 3,
+    "explanation": "Magkapantay ang taas nila, kaya paghahambing na magkatulad ang kailangan: kasintangkad.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

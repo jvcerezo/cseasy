@@ -14,8 +14,9 @@ const _topicLabels = {
   'data_interpretation': 'Data Interpretation',
   'coding_decoding': 'Coding & Decoding',
   'letter_series': 'Letter Series',
-  'calendar': 'Calendar Problems',
-  'exact_match': 'Checking & Comparing',
+  'symbolic_logic': 'Symbolic Logic',
+  'assumptions_conclusions': 'Assumptions & Conclusions',
+  'spelling': 'Spelling',
   'filing_order': 'Alphabetical Filing',
   'constitution': '1987 Constitution',
   'code_of_conduct': 'Code of Conduct (RA 6713)',
@@ -26,7 +27,13 @@ const _topicLabels = {
   'analogy': 'Word Analogy',
   'grammar': 'Grammar & Usage',
   'reading_comprehension': 'Reading Comprehension',
+  'paragraph_organization': 'Paragraph Organization',
+  'sentence_completion': 'Sentence Completion',
+  'error_recognition': 'Error Recognition',
   'filipino_vocabulary': 'Talasalitaan (Filipino)',
+  'filipino_grammar': 'Wastong Gamit (Filipino)',
+  'sawikain': 'Sawikain (Filipino)',
+  'filipino_reading': 'Pag-unawa sa Binasa (Filipino)',
 };
 
 /// Display name for a content topic key; falls back to title-casing the key.

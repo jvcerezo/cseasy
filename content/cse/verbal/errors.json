@@ -1,0 +1,601 @@
+[
+  {
+    "id": "cse-vrb-errors-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\n[Each of the] clerks [have submitted] their reports [on time].",
+    "choices": [
+      "on time",
+      "have submitted",
+      "No error",
+      "Each of the"
+    ],
+    "answer": 1,
+    "explanation": "The subject is \"Each,\" which is singular, so the verb should be \"has submitted.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe committee [has decided] to [postpone] the meeting [until next week].",
+    "choices": [
+      "has decided",
+      "No error",
+      "until next week",
+      "postpone"
+    ],
+    "answer": 1,
+    "explanation": "The sentence is correct: \"committee\" acting as one body takes the singular \"has decided.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\n[Neither] the supervisor nor the employees [was] informed [about] the change.",
+    "choices": [
+      "Neither",
+      "about",
+      "No error",
+      "was"
+    ],
+    "answer": 3,
+    "explanation": "With \"neither ... nor,\" the verb agrees with the nearer subject, \"employees,\" so it should be \"were.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nShe [has worked] in the agency [since] five years [now].",
+    "choices": [
+      "has worked",
+      "since",
+      "now",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "A length of time takes \"for\": \"for five years.\" \"Since\" goes with a starting point, such as \"since 2020.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe documents [were laid] on the table [by] the secretary [yesterday].",
+    "choices": [
+      "No error",
+      "were laid",
+      "by",
+      "yesterday"
+    ],
+    "answer": 0,
+    "explanation": "The sentence is correct: \"laid\" is the right past participle of \"lay\" (to put something down).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nIf he [would have studied] harder, he [could have passed] [the exam].",
+    "choices": [
+      "would have studied",
+      "No error",
+      "the exam",
+      "could have passed"
+    ],
+    "answer": 0,
+    "explanation": "In a past unreal condition, the if-clause uses the past perfect: \"If he had studied harder.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe new rules apply to [everyone] [except] [he] and the director.",
+    "choices": [
+      "he",
+      "except",
+      "everyone",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "\"Except\" is a preposition, so the pronoun after it must be in object form: \"except him.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nPlease [submit] the forms [to] the office [at] Monday.",
+    "choices": [
+      "to",
+      "submit",
+      "at",
+      "No error"
+    ],
+    "answer": 2,
+    "explanation": "Days take the preposition \"on\": \"on Monday.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe number of complaints [have increased] [since] the new system [was introduced].",
+    "choices": [
+      "No error",
+      "was introduced",
+      "since",
+      "have increased"
+    ],
+    "answer": 3,
+    "explanation": "\"The number of\" is singular, so the verb should be \"has increased.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe applicants [who's] documents are incomplete [will be] notified [by email].",
+    "choices": [
+      "who's",
+      "No error",
+      "by email",
+      "will be"
+    ],
+    "answer": 0,
+    "explanation": "\"Who's\" means \"who is.\" The possessive form is \"whose documents.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\n[Its] important to [keep] copies of all receipts [for] the audit.",
+    "choices": [
+      "Its",
+      "keep",
+      "No error",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "\"It is important\" contracts to \"It's.\" \"Its\" is the possessive form.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe team [is planning] [to visit] the province [next month].",
+    "choices": [
+      "No error",
+      "next month",
+      "to visit",
+      "is planning"
+    ],
+    "answer": 0,
+    "explanation": "The sentence is correct.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nHe [don't] know [where] the files [are kept].",
+    "choices": [
+      "No error",
+      "where",
+      "are kept",
+      "don't"
+    ],
+    "answer": 3,
+    "explanation": "A third-person singular subject takes \"doesn't\": \"He doesn't know.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nBetween you and [I], the plan [has] [little chance] of success.",
+    "choices": [
+      "No error",
+      "little chance",
+      "I",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "\"Between\" is a preposition, so it takes the object pronoun: \"between you and me.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe manager asked [whether] the report [had been] [finish].",
+    "choices": [
+      "whether",
+      "No error",
+      "finish",
+      "had been"
+    ],
+    "answer": 2,
+    "explanation": "After \"had been,\" the verb must be the past participle: \"had been finished.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\n[Less] people attended the seminar [than] we [had expected].",
+    "choices": [
+      "had expected",
+      "than",
+      "No error",
+      "Less"
+    ],
+    "answer": 3,
+    "explanation": "\"People\" can be counted, so it takes \"fewer,\" not \"less.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe clerk [lended] me [her] pen [during] the exam.",
+    "choices": [
+      "No error",
+      "lended",
+      "her",
+      "during"
+    ],
+    "answer": 1,
+    "explanation": "The past tense of \"lend\" is \"lent.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe [principal] reason for the delay [was] the [lack] of funds.",
+    "choices": [
+      "principal",
+      "lack",
+      "was",
+      "No error"
+    ],
+    "answer": 3,
+    "explanation": "The sentence is correct: \"principal\" as an adjective means main or chief.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe seminar [was attended] by [more then] fifty [participants].",
+    "choices": [
+      "No error",
+      "more then",
+      "was attended",
+      "participants"
+    ],
+    "answer": 1,
+    "explanation": "Comparisons use \"than\": \"more than fifty.\" \"Then\" refers to time.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nHe is [more taller] than [his] brother [in every photo].",
+    "choices": [
+      "No error",
+      "in every photo",
+      "more taller",
+      "his"
+    ],
+    "answer": 2,
+    "explanation": "\"Taller\" is already comparative; adding \"more\" is a double comparative.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe guard [checked] the IDs [carefully] and [let] us in.",
+    "choices": [
+      "checked",
+      "No error",
+      "carefully",
+      "let"
+    ],
+    "answer": 1,
+    "explanation": "The sentence is correct: \"let\" is both the present and the past tense form.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe secretary [has went] to the bank [to deposit] the [checks].",
+    "choices": [
+      "has went",
+      "checks",
+      "to deposit",
+      "No error"
+    ],
+    "answer": 0,
+    "explanation": "After \"has,\" the verb takes the past participle: \"has gone.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe reports [was] [submitted] [late] by the field office.",
+    "choices": [
+      "was",
+      "late",
+      "No error",
+      "submitted"
+    ],
+    "answer": 0,
+    "explanation": "The plural subject \"reports\" takes the plural verb \"were.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-errors-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nNeither of the [two] proposals [were] [approved] by the board.",
+    "choices": [
+      "approved",
+      "were",
+      "two",
+      "No error"
+    ],
+    "answer": 1,
+    "explanation": "\"Neither\" as a subject is singular, so the verb should be \"was approved.\"",
+    "source": null,
+    "method": "llm",
+    "status": "rejected",
+    "difficulty": 2,
+    "flag_reason": "blind solve: solver not confident; note: Neither of takes singular 'was' per strict rules; 'were' widely accepted; keyed answer ambiguous"
+  },
+  {
+    "id": "cse-vrb-errors-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nThe [childrens'] [toys] were donated [to] the day care center.",
+    "choices": [
+      "No error",
+      "to",
+      "toys",
+      "childrens'"
+    ],
+    "answer": 3,
+    "explanation": "\"Children\" is already plural, so the possessive is \"children's.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-errors-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "error_recognition",
+    "stem": "Which bracketed part of the sentence contains an error? If there is none, choose \"No error.\"\nOne of the [proposals] [were] [approved] by the board.",
+    "choices": [
+      "approved",
+      "were",
+      "No error",
+      "proposals"
+    ],
+    "answer": 1,
+    "explanation": "The subject is \"One,\" which is singular, so the verb should be \"was approved.\" \"Of the proposals\" does not change the subject.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

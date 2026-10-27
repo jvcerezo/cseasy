@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "cse-cle-spelling-001",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "tomorrow",
+      "tommorow",
+      "tommorrow",
+      "tomorow"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is \"tomorrow\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-002",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "dicipline",
+      "discipine",
+      "discipline",
+      "disipline"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is \"discipline\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-003",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "mischevous",
+      "mischeivous",
+      "mischievious",
+      "mischievous"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"mischievous\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-004",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "achievement",
+      "sergent",
+      "vacuum",
+      "beginning"
+    ],
+    "answer": 1,
+    "explanation": "\"sergent\" should be spelled \"sergeant\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-005",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "harass",
+      "harrass",
+      "harras",
+      "haross"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is \"harass\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-006",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "argumant",
+      "arguement",
+      "argument",
+      "arguemant"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is \"argument\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-007",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "irrisistible",
+      "iresistible",
+      "irresistible",
+      "irresistable"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is \"irresistible\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-008",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "tecnique",
+      "techinique",
+      "technique",
+      "techneque"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is \"technique\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-009",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "argumant",
+      "publicly",
+      "conscience",
+      "bureaucracy"
+    ],
+    "answer": 0,
+    "explanation": "\"argumant\" should be spelled \"argument\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-010",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "saparate",
+      "seperate",
+      "separete",
+      "separate"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"separate\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-011",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "equiptment",
+      "experience",
+      "believe",
+      "schedule"
+    ],
+    "answer": 0,
+    "explanation": "\"equiptment\" should be spelled \"equipment\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-012",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "lieutenent",
+      "lieutanant",
+      "leutenant",
+      "lieutenant"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"lieutenant\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-013",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "receipt",
+      "recipt",
+      "reciept",
+      "receit"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is \"receipt\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-014",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "colleague",
+      "guarentee",
+      "receive",
+      "liaison"
+    ],
+    "answer": 1,
+    "explanation": "\"guarentee\" should be spelled \"guarantee\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-015",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "referred",
+      "hierarchy",
+      "ocurrence",
+      "sincerely"
+    ],
+    "answer": 2,
+    "explanation": "\"ocurrence\" should be spelled \"occurrence\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-016",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "withhold",
+      "commitment",
+      "expirience",
+      "occurrence"
+    ],
+    "answer": 2,
+    "explanation": "\"expirience\" should be spelled \"experience\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-017",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "indispensable",
+      "perseverence",
+      "temperament",
+      "fluorescent"
+    ],
+    "answer": 1,
+    "explanation": "\"perseverence\" should be spelled \"perseverance\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-018",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "guarantee",
+      "questionnaire",
+      "occassionally",
+      "government"
+    ],
+    "answer": 2,
+    "explanation": "\"occassionally\" should be spelled \"occasionally\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-019",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "conscientous",
+      "consciencious",
+      "concientious",
+      "conscientious"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"conscientious\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-020",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "indispensable",
+      "indispensabel",
+      "indispensible",
+      "indespensable"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is \"indispensable\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-021",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "independant",
+      "independint",
+      "indipendent",
+      "independent"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"independent\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-022",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "allegience",
+      "allegance",
+      "allegiance",
+      "alegiance"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is \"allegiance\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-023",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "proceed",
+      "proceede",
+      "prossed",
+      "procede"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is \"proceed\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-024",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "necessary",
+      "correspondense",
+      "guarantee",
+      "negotiate"
+    ],
+    "answer": 1,
+    "explanation": "\"correspondense\" should be spelled \"correspondence\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-025",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "exaggerate",
+      "believe",
+      "manageable",
+      "begining"
+    ],
+    "answer": 3,
+    "explanation": "\"begining\" should be spelled \"beginning\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-026",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "proceed",
+      "restaurent",
+      "equipment",
+      "relevant"
+    ],
+    "answer": 1,
+    "explanation": "\"restaurent\" should be spelled \"restaurant\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-027",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "immediatly",
+      "immediatley",
+      "imediately",
+      "immediately"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"immediately\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-028",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "unanimous",
+      "belive",
+      "occurrence",
+      "environment"
+    ],
+    "answer": 1,
+    "explanation": "\"belive\" should be spelled \"believe\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-029",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "withholde",
+      "procedure",
+      "parliament",
+      "omission"
+    ],
+    "answer": 0,
+    "explanation": "\"withholde\" should be spelled \"withhold\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-030",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "unanimouse",
+      "unaminous",
+      "unanimus",
+      "unanimous"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"unanimous\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-031",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "believe",
+      "belive",
+      "beleive",
+      "beleave"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is \"believe\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-032",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "acquire",
+      "experience",
+      "parlament",
+      "correspondence"
+    ],
+    "answer": 2,
+    "explanation": "\"parlament\" should be spelled \"parliament\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-033",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "immediatley",
+      "committee",
+      "pronunciation",
+      "vacuum"
+    ],
+    "answer": 0,
+    "explanation": "\"immediatley\" should be spelled \"immediately\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-034",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "desperate",
+      "similar",
+      "vacuum",
+      "iresistible"
+    ],
+    "answer": 3,
+    "explanation": "\"iresistible\" should be spelled \"irresistible\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-035",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "sincerely",
+      "categorie",
+      "separate",
+      "rehearsal"
+    ],
+    "answer": 1,
+    "explanation": "\"categorie\" should be spelled \"category\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-036",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "maintainance",
+      "maintanance",
+      "maintenance",
+      "maintenence"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is \"maintenance\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-037",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "eligible",
+      "accessible",
+      "embarrass",
+      "Februray"
+    ],
+    "answer": 3,
+    "explanation": "\"Februray\" should be spelled \"February\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-038",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "embarrass",
+      "receive",
+      "rehersal",
+      "calendar"
+    ],
+    "answer": 2,
+    "explanation": "\"rehersal\" should be spelled \"rehearsal\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-039",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "experience",
+      "sergeant",
+      "gramar",
+      "weird"
+    ],
+    "answer": 2,
+    "explanation": "\"gramar\" should be spelled \"grammar\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-040",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "independant",
+      "liaison",
+      "hierarchy",
+      "achievement"
+    ],
+    "answer": 0,
+    "explanation": "\"independant\" should be spelled \"independent\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-041",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "committee",
+      "occurred",
+      "perseverance",
+      "wierd"
+    ],
+    "answer": 3,
+    "explanation": "\"wierd\" should be spelled \"weird\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-042",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "conscientous",
+      "allegiance",
+      "receipt",
+      "similar"
+    ],
+    "answer": 0,
+    "explanation": "\"conscientous\" should be spelled \"conscientious\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-043",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "procedure",
+      "occurrence",
+      "despirate",
+      "sincerely"
+    ],
+    "answer": 2,
+    "explanation": "\"despirate\" should be spelled \"desperate\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-044",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "rehearsal",
+      "enterrupt",
+      "entrepreneur",
+      "tomorrow"
+    ],
+    "answer": 1,
+    "explanation": "\"enterrupt\" should be spelled \"interrupt\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-045",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "tomorrow",
+      "tecnique",
+      "negotiate",
+      "entrepreneur"
+    ],
+    "answer": 1,
+    "explanation": "\"tecnique\" should be spelled \"technique\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-046",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "predjudice",
+      "prejidice",
+      "prejudise",
+      "prejudice"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"prejudice\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-047",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "beginnig",
+      "beggining",
+      "begining",
+      "beginning"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is \"beginning\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-048",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "pronunciation",
+      "perseverance",
+      "relevant",
+      "independint"
+    ],
+    "answer": 3,
+    "explanation": "\"independint\" should be spelled \"independent\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-049",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "ommission",
+      "omission",
+      "omision",
+      "ommision"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is \"omission\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-050",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "lieutenant",
+      "precide",
+      "existence",
+      "accessible"
+    ],
+    "answer": 1,
+    "explanation": "\"precide\" should be spelled \"precede\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-051",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "expirience",
+      "experience",
+      "experiance",
+      "experence"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is \"experience\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-052",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "relevant",
+      "convenience",
+      "indispensable",
+      "tempermant"
+    ],
+    "answer": 3,
+    "explanation": "\"tempermant\" should be spelled \"temperament\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-053",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "unanimous",
+      "envirnoment",
+      "temperament",
+      "harass"
+    ],
+    "answer": 1,
+    "explanation": "\"envirnoment\" should be spelled \"environment\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-054",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "separate",
+      "publicly",
+      "equippment",
+      "precede"
+    ],
+    "answer": 2,
+    "explanation": "\"equippment\" should be spelled \"equipment\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-055",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "relevant",
+      "until",
+      "occurrence",
+      "accesible"
+    ],
+    "answer": 3,
+    "explanation": "\"accesible\" should be spelled \"accessible\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-056",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is MISSPELLED?",
+    "choices": [
+      "argument",
+      "wiered",
+      "receipt",
+      "calendar"
+    ],
+    "answer": 1,
+    "explanation": "\"wiered\" should be spelled \"weird\". The other words are spelled correctly.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-spelling-057",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "convinience",
+      "convenience",
+      "conveniance",
+      "convenence"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is \"convenience\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-058",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "dissapoint",
+      "disappoint",
+      "dissappoint",
+      "disapoint"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is \"disappoint\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-059",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "tranferred",
+      "transferrd",
+      "transferred",
+      "transfered"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is \"transferred\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-cle-spelling-060",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "spelling",
+    "stem": "Which word is spelled correctly?",
+    "choices": [
+      "embarrass",
+      "embarass",
+      "emberrass",
+      "embaress"
+    ],
+    "answer": 0,
+    "explanation": "The correct spelling is \"embarrass\".",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 1
+  }
+]

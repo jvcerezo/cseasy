@@ -21,14 +21,14 @@ WHY CSEASY
 ✔ Learns what you miss. Questions you get wrong come back for review, and the ones you master step aside.
 
 WHAT'S INSIDE
-• Verbal Ability: vocabulary, grammar, analogies, reading comprehension, and Filipino talasalitaan
+• Verbal Ability (English and Filipino): vocabulary, grammar, sentence completion, error recognition, paragraph organization, reading comprehension, talasalitaan, wastong gamit, and sawikain
 • Numerical Ability: percentages, ratios, work, age, interest, number series, and more
-• Analytical Ability (Professional): syllogisms, ordering puzzles, data interpretation, coding, and calendar problems
-• Clerical Operations (Sub-Professional): checking and comparing, alphabetical filing
+• Analytical Ability (Professional): word analogies, symbolic logic, assumptions and conclusions, syllogisms, ordering puzzles, and data interpretation
+• Clerical Ability (Sub-Professional): spelling and alphabetical filing
 • General Information: the 1987 Constitution, RA 6713 (Code of Conduct), peace and human rights, and environment laws
 
 TIMED MOCK EXAMS
-Take a full-length mock exam in the actual CSE format: 170 items in 3 hours 10 minutes for Professional, or 165 items in 2 hours 40 minutes for Sub-Professional. You can also take a 50-item mini mock when time is short. See your score by section, then review every mistake.
+Take a full-length mock exam the same length as the real CSE: 150 scored items in 3 hours 10 minutes for Professional, or 145 in 2 hours 40 minutes for Sub-Professional. You can also take a 50-item mini mock when time is short. See your score by section, then review every mistake.
 
 TRACK YOUR PROGRESS
 Daily streaks, accuracy per topic, and a review queue keep you consistent until exam day.

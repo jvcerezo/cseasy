@@ -26,8 +26,9 @@ SECTIONS: dict[str, tuple[str, dict[str, Callable[[random.Random], dict]]]] = {
 
 
 def dedup_key(q: dict) -> str:
-    # Data-interpretation items share stems and differ only in their table.
-    return q["stem"] + json.dumps(q.get("table"), sort_keys=True)
+    # Data-interpretation and spelling items share stems and differ only in
+    # their table or choices.
+    return q["stem"] + json.dumps([q.get("table"), sorted(q["choices"])], sort_keys=True)
 
 
 def generate_topic(section: str, topic: str, count: int) -> list[dict]:

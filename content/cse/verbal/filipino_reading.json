@@ -1,0 +1,232 @@
+[
+  {
+    "id": "cse-vrb-filipino_reading-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nAng wika ay hindi lamang kasangkapan sa pakikipag-usap. Ito rin ay salamin ng kultura at kasaysayan ng isang bayan. Sa mga salitang ginagamit natin, makikita kung paano mag-isip, magpahalaga, at makipag-ugnayan ang ating mga ninuno. Kaya kapag nawala ang isang wika, nawawala rin ang bahagi ng ating pagkakakilanlan.\n\nAno ang pangunahing ideya ng talata?",
+    "choices": [
+      "Ang wika ay salamin ng kultura at pagkakakilanlan ng isang bayan.",
+      "Ang wika ay ginagamit lamang sa pakikipag-usap.",
+      "Mahirap pag-aralan ang mga lumang wika.",
+      "Dapat gumamit ng wikang banyaga."
+    ],
+    "answer": 0,
+    "explanation": "Sinasabi ng talata na ang wika ay \"salamin ng kultura at kasaysayan\" at bahagi ng ating pagkakakilanlan.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_reading-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nAng wika ay hindi lamang kasangkapan sa pakikipag-usap. Ito rin ay salamin ng kultura at kasaysayan ng isang bayan. Sa mga salitang ginagamit natin, makikita kung paano mag-isip, magpahalaga, at makipag-ugnayan ang ating mga ninuno. Kaya kapag nawala ang isang wika, nawawala rin ang bahagi ng ating pagkakakilanlan.\n\nAyon sa talata, ano ang nangyayari kapag nawala ang isang wika?",
+    "choices": [
+      "Nagiging mas madali ang pakikipag-usap.",
+      "Lumalakas ang ibang wika.",
+      "Dumarami ang mga bagong salita.",
+      "Nawawala rin ang bahagi ng ating pagkakakilanlan."
+    ],
+    "answer": 3,
+    "explanation": "Sinasabi sa huling pangungusap: \"nawawala rin ang bahagi ng ating pagkakakilanlan.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_reading-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nAng wika ay hindi lamang kasangkapan sa pakikipag-usap. Ito rin ay salamin ng kultura at kasaysayan ng isang bayan. Sa mga salitang ginagamit natin, makikita kung paano mag-isip, magpahalaga, at makipag-ugnayan ang ating mga ninuno. Kaya kapag nawala ang isang wika, nawawala rin ang bahagi ng ating pagkakakilanlan.\n\nAng salitang \"ninuno\" sa talata ay nangangahulugang:",
+    "choices": [
+      "mga dayuhan",
+      "mga guro",
+      "mga taong nauna sa atin",
+      "mga kaibigan"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"ninuno\" ay ang mga taong nauna sa atin sa angkan o lahi (ancestors).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_reading-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nTuwing tag-ulan, maraming lugar sa Kamaynilaan ang binabaha. Isa sa mga dahilan nito ang mga baradong kanal na puno ng plastik at iba pang basura. Kung matututo ang bawat pamilya na itapon nang wasto ang kanilang basura, malaki ang mababawas sa pagbaha. Hindi sapat na umasa lamang sa pamahalaan; kailangan ang pakikiisa ng lahat.\n\nAyon sa talata, ano ang isa sa mga dahilan ng pagbaha?",
+    "choices": [
+      "mga baradong kanal na puno ng basura",
+      "pagtatanim ng puno",
+      "pagdami ng sasakyan",
+      "kakulangan ng ulan"
+    ],
+    "answer": 0,
+    "explanation": "Sinasabi ng talata na \"isa sa mga dahilan nito ang mga baradong kanal na puno ng plastik at iba pang basura.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_reading-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nTuwing tag-ulan, maraming lugar sa Kamaynilaan ang binabaha. Isa sa mga dahilan nito ang mga baradong kanal na puno ng plastik at iba pang basura. Kung matututo ang bawat pamilya na itapon nang wasto ang kanilang basura, malaki ang mababawas sa pagbaha. Hindi sapat na umasa lamang sa pamahalaan; kailangan ang pakikiisa ng lahat.\n\nAno ang nais iparating ng may-akda?",
+    "choices": [
+      "Pamahalaan lamang ang may pananagutan sa pagbaha.",
+      "Kailangan ang pakikiisa ng bawat mamamayan upang mabawasan ang pagbaha.",
+      "Hindi na malulutas ang problema sa pagbaha.",
+      "Dapat lumipat ng tirahan ang mga taga-Maynila."
+    ],
+    "answer": 1,
+    "explanation": "Sinasabi ng huling pangungusap na hindi sapat ang umasa sa pamahalaan; \"kailangan ang pakikiisa ng lahat.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_reading-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nTuwing tag-ulan, maraming lugar sa Kamaynilaan ang binabaha. Isa sa mga dahilan nito ang mga baradong kanal na puno ng plastik at iba pang basura. Kung matututo ang bawat pamilya na itapon nang wasto ang kanilang basura, malaki ang mababawas sa pagbaha. Hindi sapat na umasa lamang sa pamahalaan; kailangan ang pakikiisa ng lahat.\n\nAng salitang \"pakikiisa\" ay nangangahulugang:",
+    "choices": [
+      "pakikipagtulungan",
+      "pagtutol",
+      "pag-iisa",
+      "pagpapabaya"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"pakikiisa\" ay ang pakikipagtulungan o pakikibahagi sa isang layunin.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_reading-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nSi Aling Nena ay nagtitinda ng gulay sa palengke sa loob ng tatlumpung taon. Maaga siyang gumigising araw-araw upang makakuha ng sariwang paninda mula sa mga magsasaka. Dahil sa kanyang sipag at katapatan sa timbang, marami siyang suki na hindi na lumilipat sa ibang tindera.\n\nBakit marami ang suki ni Aling Nena?",
+    "choices": [
+      "Dahil siya lamang ang nagtitinda ng gulay",
+      "Dahil mura ang kanyang paninda",
+      "Dahil malapit ang kanyang puwesto sa sakayan",
+      "Dahil sa kanyang sipag at katapatan sa timbang"
+    ],
+    "answer": 3,
+    "explanation": "Sinasabi ng talata: \"Dahil sa kanyang sipag at katapatan sa timbang, marami siyang suki.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_reading-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nSi Aling Nena ay nagtitinda ng gulay sa palengke sa loob ng tatlumpung taon. Maaga siyang gumigising araw-araw upang makakuha ng sariwang paninda mula sa mga magsasaka. Dahil sa kanyang sipag at katapatan sa timbang, marami siyang suki na hindi na lumilipat sa ibang tindera.\n\nAng salitang \"suki\" ay tumutukoy sa:",
+    "choices": [
+      "magsasaka",
+      "tagapamahala ng palengke",
+      "kapwa tindera",
+      "palagiang mamimili"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"suki\" ay mamimiling palaging bumibili sa iisang tindera.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-filipino_reading-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nIpinagdiriwang ang Buwan ng Wika tuwing Agosto. Sa buwang ito, nagsasagawa ang mga paaralan ng iba't ibang gawain tulad ng sabayang pagbigkas, balagtasan, at paligsahan sa pagsulat ng sanaysay. Layunin nitong palalimin ang pagmamahal ng mga kabataan sa wikang Filipino at sa iba pang katutubong wika ng bansa.\n\nKailan ipinagdiriwang ang Buwan ng Wika ayon sa talata?",
+    "choices": [
+      "Hunyo",
+      "Disyembre",
+      "Agosto",
+      "Abril"
+    ],
+    "answer": 2,
+    "explanation": "Sinasabi sa unang pangungusap na ipinagdiriwang ito \"tuwing Agosto.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-filipino_reading-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "filipino_reading",
+    "stem": "Basahin ang talata at sagutin ang tanong.\n\nIpinagdiriwang ang Buwan ng Wika tuwing Agosto. Sa buwang ito, nagsasagawa ang mga paaralan ng iba't ibang gawain tulad ng sabayang pagbigkas, balagtasan, at paligsahan sa pagsulat ng sanaysay. Layunin nitong palalimin ang pagmamahal ng mga kabataan sa wikang Filipino at sa iba pang katutubong wika ng bansa.\n\nAno ang layunin ng pagdiriwang ng Buwan ng Wika ayon sa talata?",
+    "choices": [
+      "Turuan ang mga mag-aaral ng wikang Ingles",
+      "Ipagdiwang ang pagtatapos ng taon ng pasukan",
+      "Palalimin ang pagmamahal ng kabataan sa mga wika ng bansa",
+      "Pumili ng pinakamahusay na paaralan"
+    ],
+    "answer": 2,
+    "explanation": "Sinasabi ng talata na layunin nitong \"palalimin ang pagmamahal ng mga kabataan sa wikang Filipino at sa iba pang katutubong wika.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "cse-vrb-completion-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe new guidelines were so ___ that even first-time applicants understood them.",
+    "choices": [
+      "lengthy",
+      "complicated",
+      "vague",
+      "straightforward"
+    ],
+    "answer": 3,
+    "explanation": "Being understood by first-time applicants points to guidelines that are simple and clear: straightforward.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nDespite the heavy rain, the volunteers ___ with the cleanup.",
+    "choices": [
+      "complained",
+      "quit",
+      "persisted",
+      "hesitated"
+    ],
+    "answer": 2,
+    "explanation": "\"Despite\" signals that the volunteers kept going even though conditions were bad: they persisted.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe auditor's report was ___: it listed every expense, receipt, and discrepancy.",
+    "choices": [
+      "thorough",
+      "biased",
+      "brief",
+      "careless"
+    ],
+    "answer": 0,
+    "explanation": "A report that lists every expense, receipt and discrepancy is thorough.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nBecause the evidence was ___, the case was dismissed.",
+    "choices": [
+      "overwhelming",
+      "convincing",
+      "relevant",
+      "insufficient"
+    ],
+    "answer": 3,
+    "explanation": "A case is dismissed when there is not enough evidence: insufficient.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe mayor's ___ to the flood victims was immediate: relief goods arrived within hours.",
+    "choices": [
+      "objection",
+      "response",
+      "delay",
+      "indifference"
+    ],
+    "answer": 1,
+    "explanation": "Relief arriving within hours describes a quick response.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nAlthough he was the newest member of the team, his suggestions were the most ___ by the director.",
+    "choices": [
+      "valued",
+      "doubted",
+      "rejected",
+      "ignored"
+    ],
+    "answer": 0,
+    "explanation": "\"Although\" sets up a contrast with being the newest member, so his suggestions were unexpectedly valued.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe clerk was ___ for misplacing the documents a second time.",
+    "choices": [
+      "reprimanded",
+      "rewarded",
+      "congratulated",
+      "promoted"
+    ],
+    "answer": 0,
+    "explanation": "Repeating a mistake earns a scolding: reprimanded.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe two witnesses gave ___ accounts, so the investigator could not tell which one was true.",
+    "choices": [
+      "identical",
+      "similar",
+      "conflicting",
+      "consistent"
+    ],
+    "answer": 2,
+    "explanation": "The investigator could not tell which was true only if the accounts disagreed: conflicting.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nTo ___ traffic during the holidays, the city opened alternate routes.",
+    "choices": [
+      "worsen",
+      "cause",
+      "ease",
+      "ignore"
+    ],
+    "answer": 2,
+    "explanation": "Alternate routes are opened to lessen traffic: ease.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe rules apply to all employees, ___ of rank.",
+    "choices": [
+      "regardless",
+      "because",
+      "instead",
+      "ahead"
+    ],
+    "answer": 0,
+    "explanation": "\"Regardless of rank\" means the rank does not matter, which fits rules that apply to all employees.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nHer ___ manner made her popular with clients; she always greeted them with a smile.",
+    "choices": [
+      "arrogant",
+      "cordial",
+      "indifferent",
+      "hostile"
+    ],
+    "answer": 1,
+    "explanation": "Greeting clients with a smile describes a warm, friendly manner: cordial.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe project was ___ because the funds ran out halfway through.",
+    "choices": [
+      "celebrated",
+      "expanded",
+      "completed",
+      "abandoned"
+    ],
+    "answer": 3,
+    "explanation": "Running out of funds halfway means the project was stopped: abandoned.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe speaker was so ___ that the audience began to fall asleep.",
+    "choices": [
+      "monotonous",
+      "humorous",
+      "lively",
+      "engaging"
+    ],
+    "answer": 0,
+    "explanation": "An audience falls asleep when a speaker is dull and unvaried: monotonous.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe agency aims to ___ the processing time from ten days to three.",
+    "choices": [
+      "maintain",
+      "double",
+      "extend",
+      "reduce"
+    ],
+    "answer": 3,
+    "explanation": "Going from ten days to three is a reduction.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe suspect's alibi was ___ by three witnesses who saw him at the party.",
+    "choices": [
+      "ignored",
+      "contradicted",
+      "invented",
+      "corroborated"
+    ],
+    "answer": 3,
+    "explanation": "Witnesses who saw him where he claimed to be support his alibi: they corroborated it.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-completion-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe supervisor gave ___ instructions, so no one knew exactly what to do.",
+    "choices": [
+      "detailed",
+      "vague",
+      "clear",
+      "precise"
+    ],
+    "answer": 1,
+    "explanation": "If no one knew exactly what to do, the instructions were unclear: vague.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nNot only did the volunteers clean the plaza, ___ they also planted trees.",
+    "choices": [
+      "yet",
+      "but",
+      "or",
+      "so"
+    ],
+    "answer": 1,
+    "explanation": "The correlative pair is \"not only ... but also.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nShe studied hard; ___, she passed the exam on her first try.",
+    "choices": [
+      "however",
+      "otherwise",
+      "nevertheless",
+      "consequently"
+    ],
+    "answer": 3,
+    "explanation": "Passing is the result of studying hard, so a cause-and-effect connector fits: consequently.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe road was closed; ___, we had to take a longer route.",
+    "choices": [
+      "likewise",
+      "moreover",
+      "meanwhile",
+      "therefore"
+    ],
+    "answer": 3,
+    "explanation": "Taking a longer route is the result of the closure: therefore.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe building is old; ___, it is still structurally sound.",
+    "choices": [
+      "thus",
+      "consequently",
+      "nevertheless",
+      "therefore"
+    ],
+    "answer": 2,
+    "explanation": "Being sound despite its age is a contrast, so a contrast connector fits: nevertheless.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nApplicants must submit their documents ___ the end of the month.",
+    "choices": [
+      "beside",
+      "by",
+      "since",
+      "among"
+    ],
+    "answer": 1,
+    "explanation": "\"By\" marks a deadline: no later than the end of the month.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe committee will ___ the proposal before making a final decision.",
+    "choices": [
+      "discard",
+      "ignore",
+      "scrutinize",
+      "approve"
+    ],
+    "answer": 2,
+    "explanation": "Before deciding, the committee examines the proposal closely: scrutinize. Approving it would already be the decision.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nWater is ___ during the dry season, so residents are asked to conserve it.",
+    "choices": [
+      "abundant",
+      "cheap",
+      "plentiful",
+      "scarce"
+    ],
+    "answer": 3,
+    "explanation": "Residents are asked to conserve water because there is little of it: scarce.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-completion-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe old law has been ___; it no longer has any effect.",
+    "choices": [
+      "enacted",
+      "amended",
+      "repealed",
+      "enforced"
+    ],
+    "answer": 2,
+    "explanation": "A law that no longer has any effect has been repealed. An amended law still has effect in its changed form.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-completion-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sentence_completion",
+    "stem": "Choose the word or phrase that best completes the sentence.\nThe manager was ___ about the plan at first, but she eventually supported it.",
+    "choices": [
+      "excited",
+      "skeptical",
+      "certain",
+      "enthusiastic"
+    ],
+    "answer": 1,
+    "explanation": "\"But she eventually supported it\" signals she doubted it at first: skeptical.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

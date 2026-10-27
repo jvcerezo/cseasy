@@ -1,0 +1,462 @@
+[
+  {
+    "id": "cse-vrb-paragraph-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. As a result, residents no longer have to travel to the city hall for simple requests.\nB. Last year, the municipality opened satellite offices in three distant barangays.\nC. Each office can issue barangay clearances, community tax certificates, and business permit forms.\nD. The mayor now plans to open two more offices next year.",
+    "choices": [
+      "A-B-C-D",
+      "B-D-C-A",
+      "C-B-D-A",
+      "B-C-A-D"
+    ],
+    "answer": 3,
+    "explanation": "B introduces the satellite offices, C describes what each office does, A gives the result, and D looks ahead to next year.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. First, the applicant fills out the application form and attaches the required documents.\nB. Applying for a passport involves a few simple steps.\nC. Finally, the applicant returns on the release date to claim the passport.\nD. Next, the applicant appears at the scheduled appointment for photo and biometrics capture.",
+    "choices": [
+      "A-B-D-C",
+      "B-D-A-C",
+      "B-A-D-C",
+      "B-A-C-D"
+    ],
+    "answer": 2,
+    "explanation": "B is the topic sentence; the signal words First (A), Next (D) and Finally (C) give the order of the steps.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-paragraph-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. These trees absorb carbon dioxide and release the oxygen we breathe.\nB. Forests are often called the lungs of the Earth.\nC. When forests are cleared, this natural exchange is lost.\nD. That is why reforestation programs are an important part of fighting climate change.",
+    "choices": [
+      "D-B-A-C",
+      "B-A-C-D",
+      "B-C-A-D",
+      "A-B-C-D"
+    ],
+    "answer": 1,
+    "explanation": "B introduces forests; A (\"These trees\") explains why; C (\"this natural exchange\") refers back to A; D draws the conclusion.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. However, many applicants did not see the notice and missed the deadline.\nB. The agency moved its application deadline from June to April this year.\nC. To avoid a repeat, the agency will now announce changes at least three months in advance.\nD. It posted the new schedule only on its website.",
+    "choices": [
+      "B-A-D-C",
+      "D-B-A-C",
+      "B-C-D-A",
+      "B-D-A-C"
+    ],
+    "answer": 3,
+    "explanation": "B states the change, D tells how it was announced, A (However) gives the problem that followed, and C gives the agency's fix.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. She saved part of her salary every payday for three years.\nB. Liza had long dreamed of opening a small bakery in her hometown.\nC. With those savings and a small loan, she finally rented a space near the public market.\nD. Today, her bakery employs five people from the neighborhood.",
+    "choices": [
+      "B-A-D-C",
+      "B-C-A-D",
+      "B-A-C-D",
+      "A-B-C-D"
+    ],
+    "answer": 2,
+    "explanation": "B introduces Liza and her dream, A describes her saving, C (\"those savings\") follows from A, and D (Today) ends the story.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-paragraph-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. The heat is trapped by gases such as carbon dioxide and methane.\nB. Sunlight passes through the atmosphere and warms the Earth's surface.\nC. The surface then gives off part of this energy as heat.\nD. This trapping effect is what scientists call the greenhouse effect.",
+    "choices": [
+      "A-B-C-D",
+      "B-A-C-D",
+      "B-C-A-D",
+      "C-B-A-D"
+    ],
+    "answer": 2,
+    "explanation": "The process runs in order: sunlight warms the surface (B), the surface gives off heat (C), gases trap that heat (A), and D names the effect.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. For example, a business owner in Quezon City can renew a permit through the city's website.\nB. Many local governments have moved their services online.\nC. Doing so takes only a few minutes instead of a whole day in line.\nD. However, offices still keep a help desk for those without internet access.",
+    "choices": [
+      "A-B-C-D",
+      "D-B-A-C",
+      "B-D-A-C",
+      "B-A-C-D"
+    ],
+    "answer": 3,
+    "explanation": "B is the general statement, A gives an example, C (\"Doing so\") refers to renewing online in A, and D (However) adds a qualification.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Then, a committee interviews the shortlisted candidates.\nB. Hiring in government follows a merit-based process.\nC. The appointing authority makes the final selection from the top-ranked candidates.\nD. First, the human resource office screens applications against the qualification standards.",
+    "choices": [
+      "B-D-C-A",
+      "B-D-A-C",
+      "D-A-B-C",
+      "B-A-D-C"
+    ],
+    "answer": 1,
+    "explanation": "B introduces the process; First (D), Then (A), and the final selection (C) give the order of the steps.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-paragraph-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Mix the ingredients well and pour the batter into a greased pan.\nB. Bake for thirty minutes, then let the cake cool before slicing.\nC. Preheat the oven before you start preparing the batter.\nD. Making a simple cake is easier than many people think.",
+    "choices": [
+      "C-D-A-B",
+      "D-C-A-B",
+      "D-C-B-A",
+      "D-A-C-B"
+    ],
+    "answer": 1,
+    "explanation": "D introduces the topic, then the steps follow in cooking order: preheat (C), mix and pour (A), bake and cool (B).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-paragraph-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Instead, it was caused by a faulty electrical connection in the storage room.\nB. Investigators first suspected that the fire started in the kitchen.\nC. The building owner has since replaced all the old wiring.\nD. Their report, however, showed that the kitchen was undamaged.",
+    "choices": [
+      "D-B-A-C",
+      "B-A-D-C",
+      "B-D-C-A",
+      "B-D-A-C"
+    ],
+    "answer": 3,
+    "explanation": "B gives the first suspicion, D (however) rules it out, A (Instead) gives the real cause, and C tells what was done afterward.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Because of this, the Philippines experiences many earthquakes and volcanic eruptions.\nB. The Philippines lies along the Pacific Ring of Fire.\nC. This is a belt of active faults and volcanoes surrounding the Pacific Ocean.\nD. Residents are therefore encouraged to join regular earthquake drills.",
+    "choices": [
+      "C-B-A-D",
+      "B-C-D-A",
+      "B-A-C-D",
+      "B-C-A-D"
+    ],
+    "answer": 3,
+    "explanation": "B names the Ring of Fire, C (\"This is\") defines it, A (Because of this) gives the effect, and D (therefore) gives the advice that follows.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Despite her success, she continued to live simply.\nB. Rosa grew up in a fishing village and walked two kilometers to school every day.\nC. She later earned a scholarship and graduated with honors in accountancy.\nD. She now spends her weekends tutoring children from her old village.",
+    "choices": [
+      "C-B-A-D",
+      "A-B-C-D",
+      "B-C-A-D",
+      "B-A-C-D"
+    ],
+    "answer": 2,
+    "explanation": "The story runs in time order: childhood (B), later success (C), how she lived despite it (A), and what she does now (D).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. The law requires every barangay or cluster of barangays to set up a materials recovery facility.\nB. Republic Act No. 9003 was passed to address the country's growing waste problem.\nC. In such a facility, collected waste is sorted, recycled, or composted.\nD. Only residual waste that cannot be processed is brought to disposal sites.",
+    "choices": [
+      "B-C-A-D",
+      "A-B-C-D",
+      "B-A-D-C",
+      "B-A-C-D"
+    ],
+    "answer": 3,
+    "explanation": "B introduces the law, A (\"The law\") gives its requirement, C (\"such a facility\") describes it, and D tells what happens to what is left.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. When she checked the records, she found that the payment had been posted to the wrong account.\nB. A client complained that his payment did not appear in his account.\nC. She corrected the entry and called the client to apologize.\nD. The clerk on duty promised to look into the problem.",
+    "choices": [
+      "B-A-D-C",
+      "B-D-C-A",
+      "B-D-A-C",
+      "D-B-A-C"
+    ],
+    "answer": 2,
+    "explanation": "B states the complaint, D introduces the clerk, A (\"she\") describes what the clerk found, and C tells how she fixed it.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Without enough sleep, the body cannot repair itself properly.\nB. Sleep is as important to health as diet and exercise.\nC. Over time, this can weaken the immune system and affect concentration.\nD. Experts therefore recommend seven to nine hours of sleep each night for adults.",
+    "choices": [
+      "A-B-C-D",
+      "B-C-A-D",
+      "D-B-A-C",
+      "B-A-C-D"
+    ],
+    "answer": 3,
+    "explanation": "B is the main idea, A explains why, C (\"this\") builds on A, and D (therefore) gives the recommendation.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. The first one was held in 2019 and drew only twenty participants.\nB. The city holds an annual coastal cleanup every September.\nC. Last year, more than five hundred volunteers joined.\nD. Its growth shows how much residents now care about their shoreline.",
+    "choices": [
+      "B-A-C-D",
+      "A-B-C-D",
+      "B-A-D-C",
+      "B-C-A-D"
+    ],
+    "answer": 0,
+    "explanation": "B introduces the cleanup, A (\"The first one\") goes back to its start, C shows its recent size, and D comments on the growth.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-paragraph-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Unfortunately, the typhoon damaged the bridge two weeks before the opening.\nB. The new bridge was supposed to open in July.\nC. Repairs pushed the opening back to October.\nD. Commuters who had expected a shorter trip to work will have to wait a few more months.",
+    "choices": [
+      "B-C-A-D",
+      "D-B-A-C",
+      "B-A-C-D",
+      "A-B-C-D"
+    ],
+    "answer": 2,
+    "explanation": "B gives the plan, A (Unfortunately) the setback, C the new date, and D the effect on commuters.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-paragraph-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Second, it must be signed by the person making it.\nB. A valid affidavit must meet several requirements.\nC. Lastly, it must be sworn to before a notary public or another authorized officer.\nD. First, it must be in writing.",
+    "choices": [
+      "B-D-C-A",
+      "D-A-C-B",
+      "B-A-D-C",
+      "B-D-A-C"
+    ],
+    "answer": 3,
+    "explanation": "B introduces the requirements; First (D), Second (A), and Lastly (C) give their order.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-paragraph-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. Within minutes, smoke filled the hallway.\nB. The fire alarm rang at exactly 2:00 p.m.\nC. Thanks to the drill they had done the week before, all employees left the building safely.\nD. Firefighters arrived soon after and put out the fire in the storage room.",
+    "choices": [
+      "B-A-C-D",
+      "B-C-A-D",
+      "D-B-A-C",
+      "A-B-C-D"
+    ],
+    "answer": 0,
+    "explanation": "The events run in time order: the alarm (B), smoke within minutes (A), the safe evacuation (C), and firefighters arriving after (D).",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-paragraph-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "paragraph_organization",
+    "stem": "Arrange the sentences to form a logical paragraph.\nA. They also learn to manage their time between school and work.\nB. Many senior high school students take part-time jobs during summer.\nC. These jobs teach them responsibility and the value of money.\nD. Because of these benefits, schools are encouraged to help students find safe summer work.",
+    "choices": [
+      "C-B-A-D",
+      "B-A-C-D",
+      "B-C-A-D",
+      "B-D-C-A"
+    ],
+    "answer": 2,
+    "explanation": "B introduces the topic, C (\"These jobs\") gives a first benefit, A (\"also\") adds a second, and D (\"these benefits\") concludes.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

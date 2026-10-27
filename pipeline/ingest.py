@@ -2,7 +2,8 @@
 
     python pipeline/ingest.py
 
-Authoring shortcut for the written sections (verbal, general_info): a new
+Authoring shortcut for the written sections (verbal, general_info, and the
+written analytical topics): a new
 item only needs topic, stem, choices, explanation and difficulty (plus
 source, source_doc and quote when grounded). The CORRECT choice is written
 FIRST and `answer` is left out; ingest shuffles the choices with a seed
@@ -20,8 +21,10 @@ import random
 
 from cseasy_pipeline.paths import CONTENT
 
-WRITTEN_SECTIONS = {"verbal": "vrb", "general_info": "gen"}
+WRITTEN_SECTIONS = {"verbal": "vrb", "general_info": "gen", "analytical": "ana"}
 BOTH_LEVELS = ["professional", "subprofessional"]
+# Analytical is a Professional-only subtest.
+DEFAULT_LEVELS = {"analytical": ["professional"]}
 
 
 def expand(q: dict, section: str, qid: str) -> dict:
@@ -33,7 +36,7 @@ def expand(q: dict, section: str, qid: str) -> dict:
     full = {
         "id": qid,
         "exam": "cse",
-        "levels": q.get("levels", BOTH_LEVELS),
+        "levels": q.get("levels", DEFAULT_LEVELS.get(section, BOTH_LEVELS)),
         "section": section,
         "topic": q["topic"],
         "stem": q["stem"],

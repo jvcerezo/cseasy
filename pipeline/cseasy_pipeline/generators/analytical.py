@@ -440,42 +440,121 @@ def letter_series(rng: random.Random) -> dict:
     )
 
 
-# --------------------------------------------------------------------- calendar
+# --------------------------------------------------------------- symbolic logic
 
-DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+# Each clause is (statement, its negation). Unrelated clauses are paired at
+# random, so everyday knowledge can't stand in for the logical form.
+CLAUSES = [
+    ("the office opens early", "the office does not open early"),
+    ("Ana passes the exam", "Ana does not pass the exam"),
+    ("the budget is approved", "the budget is not approved"),
+    ("the road is flooded", "the road is not flooded"),
+    ("the printer has ink", "the printer has no ink"),
+    ("the store gives a discount", "the store does not give a discount"),
+    ("Ben attends the seminar", "Ben does not attend the seminar"),
+    ("the project is finished", "the project is not finished"),
+    ("the alarm rings", "the alarm does not ring"),
+    ("the clerk signs the form", "the clerk does not sign the form"),
+    ("the bus is late", "the bus is not late"),
+    ("the plants are watered", "the plants are not watered"),
+    ("the team wins", "the team does not win"),
+    ("the library is open", "the library is not open"),
+    ("Carla gets a promotion", "Carla does not get a promotion"),
+    ("the shipment arrives", "the shipment does not arrive"),
+]
+
+NONE_FOLLOWS = "None of these necessarily follows."
+
+# A formula is a function from an assignment (tuple of bools) to bool.
+Formula = Callable[[tuple[bool, ...]], bool]
 
 
-def calendar(rng: random.Random) -> dict:
-    start = rng.randrange(7)
-    if rng.random() < 0.5:
-        first, second = sorted(rng.sample(range(1, 29), 2))
-        ans = DAYS[(start + second - first) % 7]
-        return _q(
-            rng, "calendar",
-            stem=f"In a certain month, the {_ordinal(first)} falls on a {DAYS[start]}. What day of the week is the {_ordinal(second)}?",
-            answer=ans,
-            distractors=[DAYS[(start + second - first + d) % 7] for d in (1, -1, 2, -2, 3)],
-            explanation=(
-                f"{second} − {first} = {second - first} days later. {second - first} ÷ 7 leaves a remainder of "
-                f"{(second - first) % 7}, so count {(second - first) % 7} day(s) forward from {DAYS[start]}: {ans}."
-            ),
-            difficulty=2, fmt=str,
-        )
-    n = rng.choice([15, 30, 45, 50, 60, 75, 90, 100, 120, 150, 200])
-    ans = DAYS[(start + n) % 7]
-    return _q(
-        rng, "calendar",
-        stem=f"Today is {DAYS[start]}. What day of the week will it be {n} days from today?",
-        answer=ans,
-        distractors=[DAYS[(start + n % 10) % 7], *(DAYS[(start + n + d) % 7] for d in (-1, 1, 2, -2, 3))],
-        explanation=f"{n} ÷ 7 leaves a remainder of {n % 7}, so count {n % 7} day(s) forward from {DAYS[start]}: {ans}.",
-        difficulty=1, fmt=str,
+def _entails(premises: list[Formula], conclusion: Formula, n: int) -> bool:
+    """True when every assignment that satisfies the premises satisfies the conclusion."""
+    return all(
+        conclusion(v)
+        for v in itertools.product((False, True), repeat=n)
+        if all(p(v) for p in premises)
     )
 
 
-def _ordinal(n: int) -> str:
-    suffix = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
-    return f"{n}{suffix}"
+def _equivalent(a: Formula, b: Formula, n: int) -> bool:
+    return all(a(v) == b(v) for v in itertools.product((False, True), repeat=n))
+
+
+def _cap(text: str) -> str:
+    return text[0].upper() + text[1:] + "."
+
+
+def _lit(i: int, positive: bool) -> tuple[Formula, Callable[[list], str]]:
+    """Literal for variable i, with a renderer that takes the clause list."""
+    return (lambda v: v[i]) if positive else (lambda v: not v[i]), lambda c: c[i][0 if positive else 1]
+
+
+def symbolic_logic(rng: random.Random) -> dict:
+    form = rng.choice(["ponens", "tollens", "affirm", "deny", "chain", "chain_tollens", "either", "contrapositive"])
+    clauses = rng.sample(CLAUSES, 3)
+    imp = lambda a, b: (lambda v: (not a(v)) or b(v))  # noqa: E731
+    P, nP = _lit(0, True), _lit(0, False)
+    Q, nQ = _lit(1, True), _lit(1, False)
+    R, nR = _lit(2, True), _lit(2, False)
+    if_ = lambda a, b: f"If {a[1](clauses)}, then {b[1](clauses)}."  # noqa: E731
+
+    if form == "contrapositive":
+        stem = f"Which statement means the same as: \"{if_(P, Q)}\""
+        options = {
+            if_(nQ, nP): imp(nQ[0], nP[0]),
+            if_(Q, P): imp(Q[0], P[0]),
+            if_(nP, nQ): imp(nP[0], nQ[0]),
+            if_(P, nQ): imp(P[0], nQ[0]),
+        }
+        original = imp(P[0], Q[0])
+        good = [text for text, f in options.items() if _equivalent(f, original, 3)]
+        assert len(good) == 1
+        answer = good[0]
+        return _q(
+            rng, "symbolic_logic",
+            stem=stem,
+            answer=answer,
+            distractors=[t for t in options if t != answer],
+            explanation=(
+                "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" "
+                "Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") "
+                f"changes the meaning. Answer: {answer}"
+            ),
+            difficulty=3, fmt=str,
+        )
+
+    premises_text, premises, candidates, rule = {
+        "ponens": lambda: ([if_(P, Q), _cap(P[1](clauses))], [imp(P[0], Q[0]), P[0]], [Q, nQ, nP],
+                           "The condition is met, so the result must follow."),
+        "tollens": lambda: ([if_(P, Q), _cap(nQ[1](clauses))], [imp(P[0], Q[0]), nQ[0]], [nP, P, Q],
+                            "The result did not happen, so the condition could not have been met."),
+        "affirm": lambda: ([if_(P, Q), _cap(Q[1](clauses))], [imp(P[0], Q[0]), Q[0]], [P, nP, nQ],
+                           "Knowing the result happened says nothing about the condition: the result may have other causes."),
+        "deny": lambda: ([if_(P, Q), _cap(nP[1](clauses))], [imp(P[0], Q[0]), nP[0]], [Q, nQ, P],
+                         "The rule only says what happens when the condition is met; when it is not met, the result may or may not happen."),
+        "chain": lambda: ([if_(P, Q), if_(Q, R), _cap(P[1](clauses))], [imp(P[0], Q[0]), imp(Q[0], R[0]), P[0]], [R, nR, nQ],
+                          "The first rule gives the middle step, and the second rule carries it to the end."),
+        "chain_tollens": lambda: ([if_(P, Q), if_(Q, R), _cap(nR[1](clauses))], [imp(P[0], Q[0]), imp(Q[0], R[0]), nR[0]], [nP, P, Q],
+                                  "The last result did not happen, so working backward neither earlier condition could have been met."),
+        "either": lambda: ([f"Either {P[1](clauses)} or {Q[1](clauses)} (or both).", _cap(nP[1](clauses))],
+                           [lambda v: v[0] or v[1], nP[0]], [Q, nQ, P],
+                           "At least one of the two must be true, and the first is ruled out, so the second must hold."),
+    }[form]()
+
+    entailed = [c for c in candidates if _entails(premises, c[0], 3)]
+    assert len(entailed) <= 1
+    answer = _cap(entailed[0][1](clauses)) if entailed else NONE_FOLLOWS
+    choices = [_cap(c[1](clauses)) for c in candidates] + [NONE_FOLLOWS]
+    return _q(
+        rng, "symbolic_logic",
+        stem="Assume these statements are true:\n" + "\n".join(premises_text) + "\nWhich of the following must also be true?",
+        answer=answer,
+        distractors=[c for c in choices if c != answer],
+        explanation=f"{rule} Answer: {answer}",
+        difficulty=3 if form in ("affirm", "deny", "chain_tollens") else 2, fmt=str,
+    )
 
 
 GENERATORS: dict[str, Callable[[random.Random], dict]] = {
@@ -484,5 +563,5 @@ GENERATORS: dict[str, Callable[[random.Random], dict]] = {
     "data_interpretation": data_interpretation,
     "coding_decoding": coding,
     "letter_series": letter_series,
-    "calendar": calendar,
+    "symbolic_logic": symbolic_logic,
 }

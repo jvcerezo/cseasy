@@ -1,0 +1,662 @@
+[
+  {
+    "id": "cse-ana-analogy-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nPEN : WRITE :: KNIFE : ___",
+    "choices": [
+      "sharp",
+      "cut",
+      "fork",
+      "kitchen"
+    ],
+    "answer": 1,
+    "explanation": "A pen is used to write; a knife is used to cut. The relationship is tool to function.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-analogy-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nDOCTOR : HOSPITAL :: TEACHER : ___",
+    "choices": [
+      "school",
+      "student",
+      "book",
+      "lesson"
+    ],
+    "answer": 0,
+    "explanation": "A doctor works in a hospital; a teacher works in a school. The relationship is worker to workplace.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-analogy-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nPUPPY : DOG :: KITTEN : ___",
+    "choices": [
+      "pet",
+      "milk",
+      "mouse",
+      "cat"
+    ],
+    "answer": 3,
+    "explanation": "A puppy is a young dog; a kitten is a young cat.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nHOT : COLD :: ANCIENT : ___",
+    "choices": [
+      "modern",
+      "old",
+      "antique",
+      "historic"
+    ],
+    "answer": 0,
+    "explanation": "Hot and cold are opposites; the opposite of ancient is modern.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nPAGE : BOOK :: BRICK : ___",
+    "choices": [
+      "clay",
+      "wall",
+      "builder",
+      "cement"
+    ],
+    "answer": 1,
+    "explanation": "A page is a part of a book; a brick is a part of a wall. The relationship is part to whole.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nTHERMOMETER : TEMPERATURE :: ODOMETER : ___",
+    "choices": [
+      "distance",
+      "time",
+      "fuel",
+      "speed"
+    ],
+    "answer": 0,
+    "explanation": "A thermometer measures temperature; an odometer measures distance traveled. A speedometer measures speed.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nAUTHOR : NOVEL :: COMPOSER : ___",
+    "choices": [
+      "singer",
+      "orchestra",
+      "symphony",
+      "piano"
+    ],
+    "answer": 2,
+    "explanation": "An author creates a novel; a composer creates a symphony. The relationship is creator to creation.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nDROUGHT : WATER :: FAMINE : ___",
+    "choices": [
+      "disease",
+      "food",
+      "hunger",
+      "rain"
+    ],
+    "answer": 1,
+    "explanation": "A drought is a severe shortage of water; a famine is a severe shortage of food. Hunger is a result of famine, not the thing lacking.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-analogy-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nFINGER : HAND :: TOE : ___",
+    "choices": [
+      "leg",
+      "nail",
+      "foot",
+      "shoe"
+    ],
+    "answer": 2,
+    "explanation": "A finger is part of a hand; a toe is part of a foot.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nBENEVOLENT : KIND :: MALEVOLENT : ___",
+    "choices": [
+      "generous",
+      "wicked",
+      "careless",
+      "weak"
+    ],
+    "answer": 1,
+    "explanation": "Benevolent means kind; malevolent means wishing harm, or wicked. Each pair is word to synonym.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-analogy-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nCAPTAIN : SHIP :: PILOT : ___",
+    "choices": [
+      "airplane",
+      "airport",
+      "passenger",
+      "sky"
+    ],
+    "answer": 0,
+    "explanation": "A captain commands a ship; a pilot flies an airplane. The relationship is operator to vehicle.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nSCARCE : ABUNDANT :: TIMID : ___",
+    "choices": [
+      "afraid",
+      "bold",
+      "shy",
+      "quiet"
+    ],
+    "answer": 1,
+    "explanation": "Scarce and abundant are opposites; the opposite of timid is bold.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-analogy-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nSEED : TREE :: EGG : ___",
+    "choices": [
+      "nest",
+      "yolk",
+      "shell",
+      "bird"
+    ],
+    "answer": 3,
+    "explanation": "A seed grows into a tree; an egg develops into a bird. The relationship is beginning stage to mature form.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nLIBRARIAN : BOOKS :: CURATOR : ___",
+    "choices": [
+      "tickets",
+      "visitors",
+      "artifacts",
+      "buildings"
+    ],
+    "answer": 2,
+    "explanation": "A librarian manages and cares for books; a curator manages and cares for a collection of artifacts or exhibits, as in a museum.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-analogy-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nHUNGRY : EAT :: TIRED : ___",
+    "choices": [
+      "yawn",
+      "rest",
+      "run",
+      "work"
+    ],
+    "answer": 1,
+    "explanation": "When hungry, one eats to satisfy the need; when tired, one rests. Yawning is a symptom of tiredness, not what relieves it.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nSCALPEL : SURGEON :: GAVEL : ___",
+    "choices": [
+      "judge",
+      "courtroom",
+      "carpenter",
+      "lawyer"
+    ],
+    "answer": 0,
+    "explanation": "A scalpel is the tool a surgeon uses; a gavel is the tool a judge uses.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nFLOCK : SHEEP :: SCHOOL : ___",
+    "choices": [
+      "students",
+      "fish",
+      "birds",
+      "teachers"
+    ],
+    "answer": 1,
+    "explanation": "A flock is a group of sheep; a school is a group of fish.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nARCHIPELAGO : ISLANDS :: CONSTELLATION : ___",
+    "choices": [
+      "comets",
+      "planets",
+      "moons",
+      "stars"
+    ],
+    "answer": 3,
+    "explanation": "An archipelago is a group of islands; a constellation is a group of stars.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nILLITERATE : READ :: MUTE : ___",
+    "choices": [
+      "speak",
+      "walk",
+      "hear",
+      "see"
+    ],
+    "answer": 0,
+    "explanation": "An illiterate person cannot read; a mute person cannot speak.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-analogy-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nPREFACE : BOOK :: OVERTURE : ___",
+    "choices": [
+      "orchestra",
+      "opera",
+      "audience",
+      "finale"
+    ],
+    "answer": 1,
+    "explanation": "A preface opens a book; an overture opens an opera.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-analogy-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nSECOND : MINUTE :: MINUTE : ___",
+    "choices": [
+      "hour",
+      "second",
+      "day",
+      "week"
+    ],
+    "answer": 0,
+    "explanation": "There are 60 seconds in a minute and 60 minutes in an hour.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-analogy-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Choose the pair whose relationship is most similar to that of the capitalized pair.\nWATER : THIRST",
+    "choices": [
+      "food : hunger",
+      "sleep : bed",
+      "medicine : doctor",
+      "rain : cloud"
+    ],
+    "answer": 0,
+    "explanation": "Water relieves thirst; food relieves hunger.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Choose the pair whose relationship is most similar to that of the capitalized pair.\nBRAVE : COWARDLY",
+    "choices": [
+      "quick : fast",
+      "happy : joyful",
+      "tall : high",
+      "generous : stingy"
+    ],
+    "answer": 3,
+    "explanation": "Brave and cowardly are opposites, like generous and stingy. The other pairs are synonyms.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-analogy-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Choose the pair whose relationship is most similar to that of the capitalized pair.\nCARPENTER : SAW",
+    "choices": [
+      "farmer : harvest",
+      "tailor : needle",
+      "teacher : student",
+      "baker : bread"
+    ],
+    "answer": 1,
+    "explanation": "A saw is a carpenter's tool; a needle is a tailor's tool. Bread is a baker's product, not a tool.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Choose the pair whose relationship is most similar to that of the capitalized pair.\nCATERPILLAR : BUTTERFLY",
+    "choices": [
+      "cocoon : silk",
+      "tadpole : frog",
+      "nest : bird",
+      "kitten : dog"
+    ],
+    "answer": 1,
+    "explanation": "A caterpillar grows into a butterfly; a tadpole grows into a frog.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nEVAPORATE : VAPOR :: FREEZE : ___",
+    "choices": [
+      "cold",
+      "steam",
+      "ice",
+      "water"
+    ],
+    "answer": 2,
+    "explanation": "Water that evaporates becomes vapor; water that freezes becomes ice.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nWORD : SENTENCE :: SENTENCE : ___",
+    "choices": [
+      "word",
+      "letter",
+      "paragraph",
+      "punctuation"
+    ],
+    "answer": 2,
+    "explanation": "Words make up a sentence; sentences make up a paragraph.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-analogy-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nNOVICE : EXPERT :: APPRENTICE : ___",
+    "choices": [
+      "beginner",
+      "student",
+      "employer",
+      "master"
+    ],
+    "answer": 3,
+    "explanation": "A novice becomes an expert with experience; an apprentice trains to become a master.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-analogy-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Choose the pair whose relationship is most similar to that of the capitalized pair.\nMAYOR : CITY",
+    "choices": [
+      "governor : province",
+      "teacher : lesson",
+      "senator : bill",
+      "president : election"
+    ],
+    "answer": 0,
+    "explanation": "A mayor heads a city; a governor heads a province.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-analogy-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "analogy",
+    "stem": "Complete the analogy.\nENCOURAGE : DETER :: PRAISE : ___",
+    "choices": [
+      "commend",
+      "criticize",
+      "reward",
+      "applaud"
+    ],
+    "answer": 1,
+    "explanation": "Encourage and deter are opposites; the opposite of praise is criticize.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

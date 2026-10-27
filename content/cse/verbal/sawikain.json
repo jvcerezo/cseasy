@@ -1,0 +1,577 @@
+[
+  {
+    "id": "cse-vrb-sawikain-001",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nBUTAS ANG BULSA ni Mario ngayong katapusan ng buwan.",
+    "choices": [
+      "bagong suweldo",
+      "may sirang pantalon",
+      "maraming utang na nabayaran",
+      "walang pera"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"butas ang bulsa\" ay nangangahulugang walang pera.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-sawikain-002",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nHuwag mo siyang biruin dahil BALAT-SIBUYAS siya.",
+    "choices": [
+      "maputi ang balat",
+      "madaling masaktan ang damdamin",
+      "madaling magalit sa iba",
+      "mahilig magluto"
+    ],
+    "answer": 1,
+    "explanation": "Ang \"balat-sibuyas\" ay tumutukoy sa taong maramdamin o madaling masaktan ang damdamin.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-003",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nITAGA MO SA BATO ang pangako kong babalikan kita.",
+    "choices": [
+      "tandaan at huwag kalimutan",
+      "ipagsabi sa iba",
+      "kalimutan na",
+      "isulat sa papel"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"itaga sa bato\" ay nangangahulugang tandaan nang mabuti at huwag kalimutan.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-004",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nAng ILAW NG TAHANAN ang nag-aalaga sa magkakapatid.",
+    "choices": [
+      "ama",
+      "lola",
+      "ina",
+      "panganay na anak"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"ilaw ng tahanan\" ay tumutukoy sa ina; ang \"haligi ng tahanan\" naman ay ang ama.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-sawikain-005",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nMasipag magtrabaho ang HALIGI NG TAHANAN upang maitaguyod ang pamilya.",
+    "choices": [
+      "bunsong anak",
+      "ina",
+      "kasambahay",
+      "ama"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"haligi ng tahanan\" ay tumutukoy sa ama.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-sawikain-006",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nMula nang magsara ang pabrika, NAGBIBILANG NG POSTE na lamang si Jun.",
+    "choices": [
+      "naglalakad tuwing umaga",
+      "walang trabaho",
+      "nag-aaral ng matematika",
+      "nagtatrabaho sa Meralco"
+    ],
+    "answer": 1,
+    "explanation": "Ang \"nagbibilang ng poste\" ay nangangahulugang walang trabaho.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-007",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nKasama ni Ramon sa pagdalo sa pagtitipon ang kanyang KABIYAK NG DIBDIB.",
+    "choices": [
+      "anak",
+      "kapatid",
+      "matalik na kaibigan",
+      "asawa"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"kabiyak ng dibdib\" ay tumutukoy sa asawa.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-008",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nBAHAG ANG BUNTOT ng lalaki nang harapin siya ng mga pulis.",
+    "choices": [
+      "pagod",
+      "matapang",
+      "masaya",
+      "duwag"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"bahag ang buntot\" ay nangangahulugang duwag o natatakot.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-sawikain-009",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nNAGSUSUNOG NG KILAY si Liza dahil malapit na ang pagsusulit.",
+    "choices": [
+      "nagpupuyat sa panonood",
+      "nag-aaral nang mabuti",
+      "nagpapaganda",
+      "nagluluto ng hapunan"
+    ],
+    "answer": 1,
+    "explanation": "Ang \"nagsusunog ng kilay\" ay nangangahulugang nag-aaral nang mabuti.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-010",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nDI-MAKABASAG-PINGGAN ang bagong kawani sa opisina.",
+    "choices": [
+      "mahina ang katawan",
+      "maingat maghugas ng pinggan",
+      "mahinhin",
+      "mabagal kumilos"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"di-makabasag-pinggan\" ay tumutukoy sa taong mahinhin.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-011",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nTAINGANG-KAWALI siya tuwing inuutusan ng kanyang ina.",
+    "choices": [
+      "mahilig magluto",
+      "malaki ang tainga",
+      "mahusay makinig",
+      "nagbibingi-bingihan"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"taingang-kawali\" ay tumutukoy sa taong nagbibingi-bingihan o nagkukunwaring hindi nakaririnig.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nHuwag kang maniwala sa kanya dahil SANGA-SANGA ANG DILA niya.",
+    "choices": [
+      "sinungaling",
+      "marunong ng maraming wika",
+      "matatas magsalita",
+      "mahilig kumanta"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"sanga-sanga ang dila\" ay tumutukoy sa taong sinungaling.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nNINGAS-KUGON ang kanyang pag-eehersisyo; isang linggo lamang niya itong ginawa.",
+    "choices": [
+      "masipag lamang sa simula",
+      "masipag hanggang sa huli",
+      "mahilig sa apoy",
+      "mabilis mapagod"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"ningas-kugon\" ay tumutukoy sa sigasig na mabilis mawala: masipag lamang sa simula.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nSUNTOK SA BUWAN ang manalo sa lotto.",
+    "choices": [
+      "tiyak na mangyayari",
+      "nakatatakot gawin",
+      "madaling makamit",
+      "malabong mangyari"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"suntok sa buwan\" ay nangangahulugang malabong mangyari.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nMAY GATAS PA SA LABI ang batang nagbibigay ng payo sa matatanda.",
+    "choices": [
+      "bata pa at wala pang karanasan",
+      "mahilig uminom ng gatas",
+      "marumi ang mukha",
+      "matalino at may karanasan"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"may gatas pa sa labi\" ay tumutukoy sa taong bata pa at wala pang sapat na karanasan.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nMABABAW ANG LUHA ni Ana; umiiyak siya kahit sa simpleng patalastas.",
+    "choices": [
+      "matapang",
+      "iyakin",
+      "may sakit sa mata",
+      "masayahin"
+    ],
+    "answer": 1,
+    "explanation": "Ang \"mababaw ang luha\" ay tumutukoy sa taong madaling umiyak o iyakin.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-sawikain-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nBinantayan ng tindera ang batang MALIKOT ANG KAMAY.",
+    "choices": [
+      "mahilig magpalakpak",
+      "hindi mapakali",
+      "mahilig kumuha ng hindi kanya",
+      "magaling gumuhit"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"malikot ang kamay\" ay tumutukoy sa taong mahilig magnakaw o kumuha ng hindi kanya.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nKUMUKULO ANG DUGO ni Mang Tomas sa ginawa ng kanyang kapitbahay.",
+    "choices": [
+      "may lagnat",
+      "tuwang-tuwa",
+      "galit na galit",
+      "kinakabahan"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"kumukulo ang dugo\" ay nangangahulugang galit na galit.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-sawikain-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nALOG NA ANG BABA ng lolo ko pero masigla pa rin siya.",
+    "choices": [
+      "masakit ang ngipin",
+      "nanginginig sa lamig",
+      "mahilig magsalita",
+      "matanda na"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"alog na ang baba\" ay nangangahulugang matanda na.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nKilala si Aling Rosa sa pagiging BUKAS-PALAD sa mga nangangailangan.",
+    "choices": [
+      "mahigpit sa pera",
+      "masipag magtrabaho",
+      "matulungin at mapagbigay",
+      "palaging nakangiti"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"bukas-palad\" ay tumutukoy sa taong matulungin at mapagbigay.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nMAKAPAL ANG MUKHA niyang humingi ulit ng pera kahit hindi pa nagbabayad ng utang.",
+    "choices": [
+      "walang hiya",
+      "mahiyain",
+      "mataba ang pisngi",
+      "matapang"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"makapal ang mukha\" ay nangangahulugang walang hiya.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nLUMAKI ANG ULO ni Carlo mula nang siya ay ma-promote.",
+    "choices": [
+      "naging mayabang",
+      "naging matalino",
+      "tumaba",
+      "nagkasakit"
+    ],
+    "answer": 0,
+    "explanation": "Ang \"lumaki ang ulo\" ay nangangahulugang naging mayabang o mapagmataas.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nIpinaglalaban ng unyon ang karapatan ng mga ANAK-PAWIS.",
+    "choices": [
+      "mayayaman",
+      "mga bata",
+      "mga pulitiko",
+      "manggagawa"
+    ],
+    "answer": 3,
+    "explanation": "Ang \"anak-pawis\" ay tumutukoy sa mga manggagawa o mga taong nabubuhay sa sariling pagod.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nPANTAY NA ANG PAA ng matandang may-ari ng lupa.",
+    "choices": [
+      "magaling sumayaw",
+      "nakatayo nang tuwid",
+      "patay na",
+      "gumaling na sa sakit"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"pantay na ang paa\" ay nangangahulugang patay na.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-sawikain-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "sawikain",
+    "stem": "Ano ang kahulugan ng sawikaing nakasulat sa malalaking titik?\nTULOG-MANTIKA si Jose kaya hindi niya narinig ang alarma.",
+    "choices": [
+      "puyat na puyat",
+      "mahilig magprito",
+      "mahimbing matulog",
+      "madaling magising"
+    ],
+    "answer": 2,
+    "explanation": "Ang \"tulog-mantika\" ay tumutukoy sa taong napakahimbing matulog at mahirap gisingin.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

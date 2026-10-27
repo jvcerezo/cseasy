@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cse-ana-symbolic_logic-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the clerk signs the form, then the shipment arrives.\nThe clerk does not sign the form.\nWhich of the following must also be true?",
+    "choices": [
+      "The shipment arrives.",
+      "The clerk signs the form.",
+      "The shipment does not arrive.",
+      "None of these necessarily follows."
+    ],
+    "answer": 3,
+    "explanation": "The rule only says what happens when the condition is met; when it is not met, the result may or may not happen. Answer: None of these necessarily follows.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the project is finished, then the shipment arrives.\nIf the shipment arrives, then the clerk signs the form.\nThe project is finished.\nWhich of the following must also be true?",
+    "choices": [
+      "The shipment does not arrive.",
+      "None of these necessarily follows.",
+      "The clerk does not sign the form.",
+      "The clerk signs the form."
+    ],
+    "answer": 3,
+    "explanation": "The first rule gives the middle step, and the second rule carries it to the end. Answer: The clerk signs the form.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the shipment arrives, then the budget is approved.\nThe budget is not approved.\nWhich of the following must also be true?",
+    "choices": [
+      "The budget is approved.",
+      "The shipment does not arrive.",
+      "The shipment arrives.",
+      "None of these necessarily follows."
+    ],
+    "answer": 1,
+    "explanation": "The result did not happen, so the condition could not have been met. Answer: The shipment does not arrive.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the printer has ink, then the budget is approved.\nIf the budget is approved, then the shipment arrives.\nThe shipment does not arrive.\nWhich of the following must also be true?",
+    "choices": [
+      "The budget is approved.",
+      "The printer has no ink.",
+      "The printer has ink.",
+      "None of these necessarily follows."
+    ],
+    "answer": 1,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: The printer has no ink.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the store gives a discount, then Ben attends the seminar.\nIf Ben attends the seminar, then the plants are watered.\nThe plants are not watered.\nWhich of the following must also be true?",
+    "choices": [
+      "The store gives a discount.",
+      "Ben attends the seminar.",
+      "None of these necessarily follows.",
+      "The store does not give a discount."
+    ],
+    "answer": 3,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: The store does not give a discount.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the road is flooded, then the printer has ink.\nIf the printer has ink, then the library is open.\nThe road is flooded.\nWhich of the following must also be true?",
+    "choices": [
+      "The library is not open.",
+      "The library is open.",
+      "None of these necessarily follows.",
+      "The printer has no ink."
+    ],
+    "answer": 1,
+    "explanation": "The first rule gives the middle step, and the second rule carries it to the end. Answer: The library is open.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf Ana passes the exam, then the team wins.\nIf the team wins, then the project is finished.\nThe project is not finished.\nWhich of the following must also be true?",
+    "choices": [
+      "The team wins.",
+      "Ana does not pass the exam.",
+      "None of these necessarily follows.",
+      "Ana passes the exam."
+    ],
+    "answer": 1,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: Ana does not pass the exam.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If Carla gets a promotion, then the budget is approved.\"",
+    "choices": [
+      "If the budget is not approved, then Carla does not get a promotion.",
+      "If Carla does not get a promotion, then the budget is not approved.",
+      "If the budget is approved, then Carla gets a promotion.",
+      "If Carla gets a promotion, then the budget is not approved."
+    ],
+    "answer": 0,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If the budget is not approved, then Carla does not get a promotion.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf Ben attends the seminar, then the printer has ink.\nBen attends the seminar.\nWhich of the following must also be true?",
+    "choices": [
+      "The printer has ink.",
+      "None of these necessarily follows.",
+      "Ben does not attend the seminar.",
+      "The printer has no ink."
+    ],
+    "answer": 0,
+    "explanation": "The condition is met, so the result must follow. Answer: The printer has ink.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the bus is late, then the clerk signs the form.\nIf the clerk signs the form, then Carla gets a promotion.\nCarla does not get a promotion.\nWhich of the following must also be true?",
+    "choices": [
+      "The clerk signs the form.",
+      "The bus is not late.",
+      "The bus is late.",
+      "None of these necessarily follows."
+    ],
+    "answer": 1,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: The bus is not late.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the office opens early, then the shipment arrives.\nThe office does not open early.\nWhich of the following must also be true?",
+    "choices": [
+      "None of these necessarily follows.",
+      "The shipment arrives.",
+      "The shipment does not arrive.",
+      "The office opens early."
+    ],
+    "answer": 0,
+    "explanation": "The rule only says what happens when the condition is met; when it is not met, the result may or may not happen. Answer: None of these necessarily follows.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If Ben attends the seminar, then the alarm rings.\"",
+    "choices": [
+      "If Ben attends the seminar, then the alarm does not ring.",
+      "If the alarm rings, then Ben attends the seminar.",
+      "If Ben does not attend the seminar, then the alarm does not ring.",
+      "If the alarm does not ring, then Ben does not attend the seminar."
+    ],
+    "answer": 3,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If the alarm does not ring, then Ben does not attend the seminar.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If the team wins, then the library is open.\"",
+    "choices": [
+      "If the library is not open, then the team does not win.",
+      "If the library is open, then the team wins.",
+      "If the team does not win, then the library is not open.",
+      "If the team wins, then the library is not open."
+    ],
+    "answer": 0,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If the library is not open, then the team does not win.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the road is flooded, then the bus is late.\nIf the bus is late, then the printer has ink.\nThe printer has no ink.\nWhich of the following must also be true?",
+    "choices": [
+      "The bus is late.",
+      "None of these necessarily follows.",
+      "The road is flooded.",
+      "The road is not flooded."
+    ],
+    "answer": 3,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: The road is not flooded.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the shipment arrives, then the clerk signs the form.\nThe shipment does not arrive.\nWhich of the following must also be true?",
+    "choices": [
+      "The clerk does not sign the form.",
+      "The shipment arrives.",
+      "None of these necessarily follows.",
+      "The clerk signs the form."
+    ],
+    "answer": 2,
+    "explanation": "The rule only says what happens when the condition is met; when it is not met, the result may or may not happen. Answer: None of these necessarily follows.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If the library is open, then the shipment arrives.\"",
+    "choices": [
+      "If the shipment arrives, then the library is open.",
+      "If the library is not open, then the shipment does not arrive.",
+      "If the library is open, then the shipment does not arrive.",
+      "If the shipment does not arrive, then the library is not open."
+    ],
+    "answer": 3,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If the shipment does not arrive, then the library is not open.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the plants are watered, then the bus is late.\nIf the bus is late, then Ben attends the seminar.\nThe plants are watered.\nWhich of the following must also be true?",
+    "choices": [
+      "The bus is not late.",
+      "Ben does not attend the seminar.",
+      "None of these necessarily follows.",
+      "Ben attends the seminar."
+    ],
+    "answer": 3,
+    "explanation": "The first rule gives the middle step, and the second rule carries it to the end. Answer: Ben attends the seminar.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the clerk signs the form, then Ben attends the seminar.\nIf Ben attends the seminar, then the library is open.\nThe library is not open.\nWhich of the following must also be true?",
+    "choices": [
+      "The clerk signs the form.",
+      "The clerk does not sign the form.",
+      "Ben attends the seminar.",
+      "None of these necessarily follows."
+    ],
+    "answer": 1,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: The clerk does not sign the form.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither the bus is late or the project is finished (or both).\nThe bus is not late.\nWhich of the following must also be true?",
+    "choices": [
+      "The project is not finished.",
+      "The bus is late.",
+      "The project is finished.",
+      "None of these necessarily follows."
+    ],
+    "answer": 2,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: The project is finished.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither the clerk signs the form or Carla gets a promotion (or both).\nThe clerk does not sign the form.\nWhich of the following must also be true?",
+    "choices": [
+      "The clerk signs the form.",
+      "Carla gets a promotion.",
+      "None of these necessarily follows.",
+      "Carla does not get a promotion."
+    ],
+    "answer": 1,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: Carla gets a promotion.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf Carla gets a promotion, then Ana passes the exam.\nIf Ana passes the exam, then the budget is approved.\nThe budget is not approved.\nWhich of the following must also be true?",
+    "choices": [
+      "Carla gets a promotion.",
+      "Carla does not get a promotion.",
+      "None of these necessarily follows.",
+      "Ana passes the exam."
+    ],
+    "answer": 1,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: Carla does not get a promotion.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the bus is late, then the team wins.\nIf the team wins, then the budget is approved.\nThe budget is not approved.\nWhich of the following must also be true?",
+    "choices": [
+      "The bus is not late.",
+      "The team wins.",
+      "The bus is late.",
+      "None of these necessarily follows."
+    ],
+    "answer": 0,
+    "explanation": "The last result did not happen, so working backward neither earlier condition could have been met. Answer: The bus is not late.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the store gives a discount, then the road is flooded.\nThe road is flooded.\nWhich of the following must also be true?",
+    "choices": [
+      "None of these necessarily follows.",
+      "The store gives a discount.",
+      "The store does not give a discount.",
+      "The road is not flooded."
+    ],
+    "answer": 0,
+    "explanation": "Knowing the result happened says nothing about the condition: the result may have other causes. Answer: None of these necessarily follows.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the printer has ink, then the clerk signs the form.\nIf the clerk signs the form, then Ben attends the seminar.\nThe printer has ink.\nWhich of the following must also be true?",
+    "choices": [
+      "The clerk does not sign the form.",
+      "Ben does not attend the seminar.",
+      "None of these necessarily follows.",
+      "Ben attends the seminar."
+    ],
+    "answer": 3,
+    "explanation": "The first rule gives the middle step, and the second rule carries it to the end. Answer: Ben attends the seminar.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If the project is finished, then Carla gets a promotion.\"",
+    "choices": [
+      "If the project is not finished, then Carla does not get a promotion.",
+      "If Carla gets a promotion, then the project is finished.",
+      "If the project is finished, then Carla does not get a promotion.",
+      "If Carla does not get a promotion, then the project is not finished."
+    ],
+    "answer": 3,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If Carla does not get a promotion, then the project is not finished.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If the shipment arrives, then the bus is late.\"",
+    "choices": [
+      "If the bus is not late, then the shipment does not arrive.",
+      "If the shipment does not arrive, then the bus is not late.",
+      "If the bus is late, then the shipment arrives.",
+      "If the shipment arrives, then the bus is not late."
+    ],
+    "answer": 0,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If the bus is not late, then the shipment does not arrive.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the bus is late, then the team wins.\nThe team wins.\nWhich of the following must also be true?",
+    "choices": [
+      "The team does not win.",
+      "None of these necessarily follows.",
+      "The bus is not late.",
+      "The bus is late."
+    ],
+    "answer": 1,
+    "explanation": "Knowing the result happened says nothing about the condition: the result may have other causes. Answer: None of these necessarily follows.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither the clerk signs the form or the shipment arrives (or both).\nThe clerk does not sign the form.\nWhich of the following must also be true?",
+    "choices": [
+      "The clerk signs the form.",
+      "The shipment does not arrive.",
+      "The shipment arrives.",
+      "None of these necessarily follows."
+    ],
+    "answer": 2,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: The shipment arrives.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither the office opens early or the alarm rings (or both).\nThe office does not open early.\nWhich of the following must also be true?",
+    "choices": [
+      "The alarm does not ring.",
+      "The alarm rings.",
+      "None of these necessarily follows.",
+      "The office opens early."
+    ],
+    "answer": 1,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: The alarm rings.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither the budget is approved or Ben attends the seminar (or both).\nThe budget is not approved.\nWhich of the following must also be true?",
+    "choices": [
+      "None of these necessarily follows.",
+      "Ben attends the seminar.",
+      "Ben does not attend the seminar.",
+      "The budget is approved."
+    ],
+    "answer": 1,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: Ben attends the seminar.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-031",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If the office opens early, then the shipment arrives.\"",
+    "choices": [
+      "If the office does not open early, then the shipment does not arrive.",
+      "If the office opens early, then the shipment does not arrive.",
+      "If the shipment does not arrive, then the office does not open early.",
+      "If the shipment arrives, then the office opens early."
+    ],
+    "answer": 2,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If the shipment does not arrive, then the office does not open early.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-032",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither the team wins or the alarm rings (or both).\nThe team does not win.\nWhich of the following must also be true?",
+    "choices": [
+      "The team wins.",
+      "None of these necessarily follows.",
+      "The alarm does not ring.",
+      "The alarm rings."
+    ],
+    "answer": 3,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: The alarm rings.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-033",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither the printer has ink or the budget is approved (or both).\nThe printer has no ink.\nWhich of the following must also be true?",
+    "choices": [
+      "The printer has ink.",
+      "The budget is approved.",
+      "None of these necessarily follows.",
+      "The budget is not approved."
+    ],
+    "answer": 1,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: The budget is approved.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-034",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither Ben attends the seminar or the office opens early (or both).\nBen does not attend the seminar.\nWhich of the following must also be true?",
+    "choices": [
+      "None of these necessarily follows.",
+      "The office does not open early.",
+      "Ben attends the seminar.",
+      "The office opens early."
+    ],
+    "answer": 3,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: The office opens early.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-035",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither Ben attends the seminar or Carla gets a promotion (or both).\nBen does not attend the seminar.\nWhich of the following must also be true?",
+    "choices": [
+      "Carla gets a promotion.",
+      "Carla does not get a promotion.",
+      "None of these necessarily follows.",
+      "Ben attends the seminar."
+    ],
+    "answer": 0,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: Carla gets a promotion.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-036",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the printer has ink, then Ana passes the exam.\nIf Ana passes the exam, then the alarm rings.\nThe printer has ink.\nWhich of the following must also be true?",
+    "choices": [
+      "Ana does not pass the exam.",
+      "None of these necessarily follows.",
+      "The alarm rings.",
+      "The alarm does not ring."
+    ],
+    "answer": 2,
+    "explanation": "The first rule gives the middle step, and the second rule carries it to the end. Answer: The alarm rings.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-037",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Which statement means the same as: \"If the shipment arrives, then the team wins.\"",
+    "choices": [
+      "If the team wins, then the shipment arrives.",
+      "If the shipment arrives, then the team does not win.",
+      "If the shipment does not arrive, then the team does not win.",
+      "If the team does not win, then the shipment does not arrive."
+    ],
+    "answer": 3,
+    "explanation": "\"If P, then Q\" is equivalent only to its contrapositive, \"If not Q, then not P.\" Reversing it (\"If Q, then P\") or negating both parts (\"If not P, then not Q\") changes the meaning. Answer: If the team does not win, then the shipment does not arrive.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-symbolic_logic-038",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the printer has ink, then the team wins.\nThe printer has ink.\nWhich of the following must also be true?",
+    "choices": [
+      "The team wins.",
+      "The printer has no ink.",
+      "None of these necessarily follows.",
+      "The team does not win."
+    ],
+    "answer": 0,
+    "explanation": "The condition is met, so the result must follow. Answer: The team wins.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-039",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nEither Carla gets a promotion or the project is finished (or both).\nCarla does not get a promotion.\nWhich of the following must also be true?",
+    "choices": [
+      "None of these necessarily follows.",
+      "Carla gets a promotion.",
+      "The project is finished.",
+      "The project is not finished."
+    ],
+    "answer": 2,
+    "explanation": "At least one of the two must be true, and the first is ruled out, so the second must hold. Answer: The project is finished.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-symbolic_logic-040",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "symbolic_logic",
+    "stem": "Assume these statements are true:\nIf the alarm rings, then the library is open.\nThe library is not open.\nWhich of the following must also be true?",
+    "choices": [
+      "The alarm does not ring.",
+      "None of these necessarily follows.",
+      "The library is open.",
+      "The alarm rings."
+    ],
+    "answer": 0,
+    "explanation": "The result did not happen, so the condition could not have been met. Answer: The alarm does not ring.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  }
+]

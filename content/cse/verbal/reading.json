@@ -251,5 +251,465 @@
     "method": "llm",
     "status": "verified",
     "difficulty": 3
+  },
+  {
+    "id": "cse-vrb-reading-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nLong lines and repeated trips to government offices were once a common complaint among Filipinos. To address this, offices have been required to set clear processing times for each service and to publish them. Simple transactions are expected to be completed within three working days, while complex ones are given up to seven. Offices that fail to meet these standards without valid reason may face administrative sanctions. The goal is not only speed but also predictability: citizens should know in advance how long a transaction will take and what documents they will need.\n\nWhat is the main idea of the passage?",
+    "choices": [
+      "Long lines are caused by a lack of government employees.",
+      "Government offices are being required to make their services faster and more predictable.",
+      "All government transactions now take exactly three days.",
+      "Citizens should avoid complex transactions."
+    ],
+    "answer": 1,
+    "explanation": "The passage is about required processing times that make services both faster and predictable. It never blames a lack of employees.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-013",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nLong lines and repeated trips to government offices were once a common complaint among Filipinos. To address this, offices have been required to set clear processing times for each service and to publish them. Simple transactions are expected to be completed within three working days, while complex ones are given up to seven. Offices that fail to meet these standards without valid reason may face administrative sanctions. The goal is not only speed but also predictability: citizens should know in advance how long a transaction will take and what documents they will need.\n\nAccording to the passage, how long may a complex transaction take?",
+    "choices": [
+      "Three working days",
+      "Twenty working days",
+      "Up to seven working days",
+      "One month"
+    ],
+    "answer": 2,
+    "explanation": "The passage says complex transactions \"are given up to seven\" working days.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-014",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nLong lines and repeated trips to government offices were once a common complaint among Filipinos. To address this, offices have been required to set clear processing times for each service and to publish them. Simple transactions are expected to be completed within three working days, while complex ones are given up to seven. Offices that fail to meet these standards without valid reason may face administrative sanctions. The goal is not only speed but also predictability: citizens should know in advance how long a transaction will take and what documents they will need.\n\nAs used in the passage, \"predictability\" refers to:",
+    "choices": [
+      "punishing employees who are slow",
+      "finishing every transaction in one day",
+      "reducing the number of required documents",
+      "knowing beforehand how long a transaction will take"
+    ],
+    "answer": 3,
+    "explanation": "The passage explains it directly: citizens \"should know in advance how long a transaction will take.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-015",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nCities are often several degrees warmer than the countryside around them, a pattern known as the urban heat island effect. Concrete and asphalt absorb sunlight during the day and release the stored heat slowly at night, so cities stay warm even after sunset. Trees and green spaces counter this effect by providing shade and cooling the air as water evaporates from their leaves. For this reason, some city planners now require new developments to set aside space for parks and tree-lined streets.\n\nAccording to the passage, why do cities stay warm after sunset?",
+    "choices": [
+      "Concrete and asphalt release heat they absorbed during the day.",
+      "Cities receive more sunlight than the countryside.",
+      "Water evaporates more slowly in cities.",
+      "Trees release stored heat at night."
+    ],
+    "answer": 0,
+    "explanation": "The passage says concrete and asphalt \"release the stored heat slowly at night.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-016",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nCities are often several degrees warmer than the countryside around them, a pattern known as the urban heat island effect. Concrete and asphalt absorb sunlight during the day and release the stored heat slowly at night, so cities stay warm even after sunset. Trees and green spaces counter this effect by providing shade and cooling the air as water evaporates from their leaves. For this reason, some city planners now require new developments to set aside space for parks and tree-lined streets.\n\nWhy do some city planners require new developments to set aside space for parks?",
+    "choices": [
+      "To lower land prices",
+      "To attract tourists",
+      "To provide more parking",
+      "To reduce heat in the city"
+    ],
+    "answer": 3,
+    "explanation": "Parks and trees \"counter this effect,\" which is why planners require them (\"For this reason\").",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-017",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nCities are often several degrees warmer than the countryside around them, a pattern known as the urban heat island effect. Concrete and asphalt absorb sunlight during the day and release the stored heat slowly at night, so cities stay warm even after sunset. Trees and green spaces counter this effect by providing shade and cooling the air as water evaporates from their leaves. For this reason, some city planners now require new developments to set aside space for parks and tree-lined streets.\n\nWhich title best fits the passage?",
+    "choices": [
+      "Life in the Countryside",
+      "The History of City Planning",
+      "Why Cities Are Hotter and How Green Spaces Help",
+      "How Concrete Is Made"
+    ],
+    "answer": 2,
+    "explanation": "The passage explains the urban heat island effect and how trees and parks reduce it.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-018",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nThe traditional image of bayanihan shows neighbors carrying a whole house on bamboo poles to a new location. Few families move houses this way today, but the spirit behind the practice survives. After typhoons, residents often organize themselves to clear roads, cook for evacuees, and repair damaged homes long before outside help arrives. Some sociologists argue that this habit of mutual help is one reason Filipino communities recover from disasters as quickly as they do.\n\nAccording to the passage, what has survived from the traditional practice of bayanihan?",
+    "choices": [
+      "The spirit of neighbors helping one another",
+      "Building houses out of bamboo",
+      "Waiting for outside help after disasters",
+      "Moving houses on bamboo poles"
+    ],
+    "answer": 0,
+    "explanation": "The passage says few families move houses this way today, \"but the spirit behind the practice survives.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-019",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nThe traditional image of bayanihan shows neighbors carrying a whole house on bamboo poles to a new location. Few families move houses this way today, but the spirit behind the practice survives. After typhoons, residents often organize themselves to clear roads, cook for evacuees, and repair damaged homes long before outside help arrives. Some sociologists argue that this habit of mutual help is one reason Filipino communities recover from disasters as quickly as they do.\n\nWhat do some sociologists believe, according to the passage?",
+    "choices": [
+      "Bayanihan is no longer practiced in any form.",
+      "Typhoons have become less frequent.",
+      "Mutual help is one reason communities recover quickly from disasters.",
+      "Outside help usually arrives before community help."
+    ],
+    "answer": 2,
+    "explanation": "The last sentence says mutual help is \"one reason Filipino communities recover from disasters as quickly as they do.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-020",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nThe traditional image of bayanihan shows neighbors carrying a whole house on bamboo poles to a new location. Few families move houses this way today, but the spirit behind the practice survives. After typhoons, residents often organize themselves to clear roads, cook for evacuees, and repair damaged homes long before outside help arrives. Some sociologists argue that this habit of mutual help is one reason Filipino communities recover from disasters as quickly as they do.\n\nAs used in the passage, the word \"survives\" most nearly means:",
+    "choices": [
+      "continues to exist",
+      "is forgotten",
+      "grows stronger",
+      "is rescued"
+    ],
+    "answer": 0,
+    "explanation": "The spirit of bayanihan \"survives\" in the sense that it is still present today: it continues to exist.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-021",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nFalse stories spread faster online than accurate ones, partly because they are designed to provoke strong emotions such as anger or fear. Before sharing a post, readers can ask a few simple questions: Who published it? Is the same story reported by other reliable sources? Does the headline match the content of the article? Taking a minute to check can stop a false story from reaching hundreds of other people.\n\nWhat is the main purpose of the passage?",
+    "choices": [
+      "To describe how headlines are written",
+      "To encourage readers to check information before sharing it",
+      "To explain how news websites earn money",
+      "To argue that social media should be banned"
+    ],
+    "answer": 1,
+    "explanation": "The passage gives questions to ask \"before sharing a post\" and says checking can stop false stories from spreading.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-022",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nFalse stories spread faster online than accurate ones, partly because they are designed to provoke strong emotions such as anger or fear. Before sharing a post, readers can ask a few simple questions: Who published it? Is the same story reported by other reliable sources? Does the headline match the content of the article? Taking a minute to check can stop a false story from reaching hundreds of other people.\n\nWhich of the following is NOT one of the questions the passage suggests asking?",
+    "choices": [
+      "Is the same story reported by other reliable sources?",
+      "How many people have liked the post?",
+      "Who published it?",
+      "Does the headline match the content of the article?"
+    ],
+    "answer": 1,
+    "explanation": "The passage lists who published it, whether other reliable sources report it, and whether the headline matches. It never mentions likes.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-023",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nFalse stories spread faster online than accurate ones, partly because they are designed to provoke strong emotions such as anger or fear. Before sharing a post, readers can ask a few simple questions: Who published it? Is the same story reported by other reliable sources? Does the headline match the content of the article? Taking a minute to check can stop a false story from reaching hundreds of other people.\n\nAccording to the passage, why do false stories spread quickly?",
+    "choices": [
+      "They are always shorter than true stories.",
+      "They are designed to provoke strong emotions.",
+      "They are published by government agencies.",
+      "They are shared only by reliable sources."
+    ],
+    "answer": 1,
+    "explanation": "The first sentence says false stories spread faster \"partly because they are designed to provoke strong emotions.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-024",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nDuring the 2019 water shortage in Metro Manila, many households received water for only a few hours a day. Families stored water in drums and pails, reused laundry water to flush toilets, and collected rainwater whenever they could. Experts noted that if such habits continued after the crisis, the region would be far better prepared for the next dry season.\n\nAccording to the passage, what did households do during the water shortage?",
+    "choices": [
+      "They dug new wells.",
+      "They moved to other provinces.",
+      "They bought water from other countries.",
+      "They reused laundry water to flush toilets."
+    ],
+    "answer": 3,
+    "explanation": "The passage lists storing water, reusing laundry water to flush toilets, and collecting rainwater.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nDuring the 2019 water shortage in Metro Manila, many households received water for only a few hours a day. Families stored water in drums and pails, reused laundry water to flush toilets, and collected rainwater whenever they could. Experts noted that if such habits continued after the crisis, the region would be far better prepared for the next dry season.\n\nWhat did experts suggest, according to the passage?",
+    "choices": [
+      "Water-saving habits should continue even after the crisis.",
+      "Households should stop storing water.",
+      "Rainwater is unsafe to collect.",
+      "The dry season would no longer occur."
+    ],
+    "answer": 0,
+    "explanation": "Experts said the region would be better prepared \"if such habits continued after the crisis.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nA government employee who receives a gift from a client may think it harmless, especially if the gift is small and given after the service is done. However, even small gifts can create an expectation of special treatment in the future. They can also make other clients feel that service depends on what they give. For these reasons, public servants are generally advised to politely decline gifts connected with their official work.\n\nAccording to the passage, why should public servants decline gifts connected with their work?",
+    "choices": [
+      "Gifts can create an expectation of special treatment.",
+      "Gifts are usually expensive.",
+      "Gifts must be reported to the media.",
+      "Clients rarely give gifts."
+    ],
+    "answer": 0,
+    "explanation": "The passage says even small gifts \"can create an expectation of special treatment in the future.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nA government employee who receives a gift from a client may think it harmless, especially if the gift is small and given after the service is done. However, even small gifts can create an expectation of special treatment in the future. They can also make other clients feel that service depends on what they give. For these reasons, public servants are generally advised to politely decline gifts connected with their official work.\n\nThe tone of the passage is best described as:",
+    "choices": [
+      "humorous",
+      "indifferent",
+      "angry",
+      "advisory"
+    ],
+    "answer": 3,
+    "explanation": "The passage explains a risk and ends with what public servants \"are generally advised\" to do: its tone is advisory.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nPAGASA raises Tropical Cyclone Wind Signals to warn the public about the strength of winds expected in an area. The higher the signal number, the stronger the winds and the shorter the time before they arrive. Classes and work are often suspended under higher signals, but residents are reminded that the signal refers to wind, not rain. Heavy flooding can happen even when no wind signal is raised.\n\nWhat does the passage say about wind signals?",
+    "choices": [
+      "They measure the amount of rainfall.",
+      "They are raised only after flooding begins.",
+      "They warn about the strength of winds expected in an area.",
+      "They are issued by local governments."
+    ],
+    "answer": 2,
+    "explanation": "The first sentence says the signals warn \"about the strength of winds expected in an area.\" The passage stresses that they are about wind, not rain.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nPAGASA raises Tropical Cyclone Wind Signals to warn the public about the strength of winds expected in an area. The higher the signal number, the stronger the winds and the shorter the time before they arrive. Classes and work are often suspended under higher signals, but residents are reminded that the signal refers to wind, not rain. Heavy flooding can happen even when no wind signal is raised.\n\nWhich of the following can be inferred from the passage?",
+    "choices": [
+      "Residents should watch for flooding even when no wind signal is raised.",
+      "Flooding happens only under the highest signal.",
+      "Classes are never suspended under a low signal.",
+      "Rain stops once a signal is lifted."
+    ],
+    "answer": 0,
+    "explanation": "Since \"heavy flooding can happen even when no wind signal is raised,\" residents should not rely on signals alone to judge flood risk.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-vrb-reading-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nA survey of public library users found that most borrowed books for practical reasons: to review for exams, learn a skill, or research a job. Fewer borrowed novels or poetry. Librarians responded by adding more review materials and skills guides, but they also started a monthly reading club to introduce members to literature they might not otherwise pick up.\n\nAccording to the survey, why did most library users borrow books?",
+    "choices": [
+      "To donate them to schools",
+      "For practical purposes such as reviewing for exams",
+      "To read novels and poetry",
+      "To join a reading club"
+    ],
+    "answer": 1,
+    "explanation": "The survey found that most borrowed books \"for practical reasons: to review for exams, learn a skill, or research a job.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-vrb-reading-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "verbal",
+    "topic": "reading_comprehension",
+    "stem": "Read the passage, then answer the question.\n\nA survey of public library users found that most borrowed books for practical reasons: to review for exams, learn a skill, or research a job. Fewer borrowed novels or poetry. Librarians responded by adding more review materials and skills guides, but they also started a monthly reading club to introduce members to literature they might not otherwise pick up.\n\nWhy did the librarians start a monthly reading club?",
+    "choices": [
+      "To sell more books to members",
+      "Because members asked for fewer novels",
+      "To replace the review materials",
+      "To introduce members to literature they might not otherwise read"
+    ],
+    "answer": 3,
+    "explanation": "The club was started \"to introduce members to literature they might not otherwise pick up.\"",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
   }
 ]

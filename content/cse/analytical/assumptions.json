@@ -1,0 +1,662 @@
+[
+  {
+    "id": "cse-ana-assumptions-001",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"The city will hire more traffic enforcers to ease congestion during the holidays.\"",
+    "choices": [
+      "Additional traffic enforcers can help reduce congestion.",
+      "All drivers in the city violate traffic rules.",
+      "Traffic enforcers are paid more than other employees.",
+      "There will be no traffic after the holidays."
+    ],
+    "answer": 0,
+    "explanation": "Hiring enforcers \"to ease congestion\" only makes sense if more enforcers can actually help reduce it.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-002",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Please bring two valid IDs when you claim your package.\"",
+    "choices": [
+      "Packages can be claimed without visiting the office.",
+      "Most packages are lost in transit.",
+      "Identification is needed to confirm who is claiming the package.",
+      "Everyone owns more than five IDs."
+    ],
+    "answer": 2,
+    "explanation": "Asking for IDs assumes the office needs to confirm the identity of the person claiming.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-003",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Apply early to avoid the long lines on the last day of filing.\"",
+    "choices": [
+      "Many applicants file on the last day.",
+      "The filing deadline will be extended.",
+      "Lines are short on the last day.",
+      "Early applicants receive a discount."
+    ],
+    "answer": 0,
+    "explanation": "The advice assumes lines are long on the last day, which happens when many people file then.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-004",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"The school will offer free tutoring sessions to improve students' reading scores.\"",
+    "choices": [
+      "Tutoring can help improve students' reading.",
+      "Reading scores are not important.",
+      "Teachers do not know how to teach reading.",
+      "All students are currently failing reading."
+    ],
+    "answer": 0,
+    "explanation": "Offering tutoring \"to improve\" scores assumes tutoring can help. Nothing suggests that all students are failing.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-005",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Our water filter removes 99% of bacteria. Buy one to keep your family safe.\"",
+    "choices": [
+      "Tap water may contain harmful bacteria.",
+      "Bacteria can be seen with the naked eye.",
+      "Water filters are given away for free.",
+      "All families already own water filters."
+    ],
+    "answer": 0,
+    "explanation": "Removing bacteria keeps a family \"safe\" only if the water may contain harmful bacteria.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-006",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"The library extended its hours until 9 p.m. to serve working students.\"",
+    "choices": [
+      "Some working students can visit the library only in the evening.",
+      "The library will close on weekends.",
+      "Working students do not like to read.",
+      "Librarians prefer to work at night."
+    ],
+    "answer": 0,
+    "explanation": "Extending evening hours for working students assumes that some of them can come only after work or class.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-007",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Employees are reminded to turn off the lights and air conditioners before leaving, to reduce electricity costs.\"",
+    "choices": [
+      "Leaving appliances on adds to electricity costs.",
+      "Employees never go home on time.",
+      "The office has no air conditioners.",
+      "Electricity is free at night."
+    ],
+    "answer": 0,
+    "explanation": "The reminder assumes that appliances left on use electricity that adds to the bill.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-008",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"To reduce the spread of dengue, residents are urged to remove stagnant water around their homes.\"",
+    "choices": [
+      "Residents never clean their surroundings.",
+      "Dengue spreads through contaminated food.",
+      "Stagnant water can serve as a breeding place for mosquitoes.",
+      "Dengue only affects children."
+    ],
+    "answer": 2,
+    "explanation": "Removing stagnant water reduces dengue only if mosquitoes that spread it breed in such water.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-009",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"The company will post its job openings on social media to reach more applicants.\"",
+    "choices": [
+      "Newspapers are no longer printed.",
+      "The company has never hired anyone before.",
+      "Many potential applicants use social media.",
+      "Social media posts never contain errors."
+    ],
+    "answer": 2,
+    "explanation": "Posting on social media \"to reach more applicants\" assumes many potential applicants are there.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-010",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Read the instructions carefully before answering the test.\"",
+    "choices": [
+      "The test has no instructions.",
+      "The test is very easy.",
+      "Reading the instructions can help test takers answer correctly.",
+      "Test takers have seen the questions before."
+    ],
+    "answer": 2,
+    "explanation": "The advice assumes the instructions contain information that affects how to answer.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-011",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Bring an umbrella; the forecast says it will rain this afternoon.\"",
+    "choices": [
+      "The speaker owns several umbrellas.",
+      "Umbrellas are expensive.",
+      "It rains every afternoon.",
+      "The weather forecast is reasonably reliable."
+    ],
+    "answer": 3,
+    "explanation": "The advice relies on the forecast, so it assumes the forecast can be trusted.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-012",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"The agency replaced its paper forms with online forms to speed up processing.\"",
+    "choices": [
+      "Online forms can be processed faster than paper forms.",
+      "All of the paper forms were lost.",
+      "Online forms are longer than paper forms.",
+      "Clients prefer to visit the office in person."
+    ],
+    "answer": 0,
+    "explanation": "Switching \"to speed up processing\" assumes online forms are faster to process.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-013",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Wear a helmet; it could save your life in an accident.\"",
+    "choices": [
+      "Helmets are required only at night.",
+      "Every rider will have an accident.",
+      "Helmets can reduce the risk of serious head injury.",
+      "Riding a motorcycle is illegal."
+    ],
+    "answer": 2,
+    "explanation": "The claim that a helmet could save a life assumes helmets protect against serious injury. It does not assume accidents are certain.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-014",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"The new evacuation center will be built on higher ground.\"",
+    "choices": [
+      "The mayor lives on higher ground.",
+      "Evacuation centers are never used.",
+      "The old center was too large.",
+      "Higher ground is less likely to be flooded."
+    ],
+    "answer": 3,
+    "explanation": "Choosing higher ground for an evacuation center assumes it is safer from floods.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-015",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which of the following is an assumption implicit in the statement?\nStatement: \"Students who want to join the debate team must first pass an audition.\"",
+    "choices": [
+      "No student wants to join the debate team.",
+      "The debate team has won many awards.",
+      "The audition will be held online.",
+      "Not every student who wants to join will be accepted."
+    ],
+    "answer": 3,
+    "explanation": "Requiring an audition implies screening, which assumes some who want to join may not get in.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-assumptions-016",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nAll employees in the records section have completed the data privacy training. Jose works in the records section.",
+    "choices": [
+      "Jose will conduct the next training.",
+      "Jose has completed the data privacy training.",
+      "Jose is the head of the records section.",
+      "Only the records section took the training."
+    ],
+    "answer": 1,
+    "explanation": "If all records section employees completed the training and Jose is one of them, he completed it.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-017",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nIn a survey of 500 commuters, 80% said they would use a bike lane if one were built along the main road.",
+    "choices": [
+      "Commuters dislike public transportation.",
+      "The bike lane has already been built.",
+      "All residents of the city own bicycles.",
+      "Many of the surveyed commuters are open to biking along the main road."
+    ],
+    "answer": 3,
+    "explanation": "The survey only shows that most respondents said they would use a bike lane. It says nothing about all residents, or about the lane existing.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-018",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nSales of electric fans in the province this April were double those of last April.",
+    "choices": [
+      "More electric fans were sold this April than last April.",
+      "This April was the hottest month in history.",
+      "Every household in the province bought a new fan.",
+      "Air conditioners are no longer sold in the province."
+    ],
+    "answer": 0,
+    "explanation": "Doubled sales directly mean more fans were sold. The other choices may or may not be true; the data alone does not show them.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-019",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nSince the barangay installed streetlights on Mabini Street, reported thefts there have dropped by half.",
+    "choices": [
+      "The drop in thefts on Mabini Street came after the streetlights were installed.",
+      "Thefts have increased in other barangays.",
+      "No thefts occur on Mabini Street anymore.",
+      "Streetlights prevent every kind of crime."
+    ],
+    "answer": 0,
+    "explanation": "The information shows thefts fell by half after the lights went up. Thefts did not stop entirely, and nothing is said about other crimes or places.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-assumptions-020",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nOnly applicants with at least two years of experience will be interviewed. Maria has one year of experience.",
+    "choices": [
+      "Maria will be hired.",
+      "Maria will not be interviewed.",
+      "Maria has more experience than the other applicants.",
+      "Maria will be interviewed first."
+    ],
+    "answer": 1,
+    "explanation": "Maria has less than two years of experience, so she does not qualify for an interview.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-021",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nEvery committee member voted, and the proposal passed by a majority of the votes.",
+    "choices": [
+      "The proposal was rejected.",
+      "Some members did not vote.",
+      "All members voted in favor of the proposal.",
+      "More than half of the votes were in favor of the proposal."
+    ],
+    "answer": 3,
+    "explanation": "A majority means more than half. A majority does not require every vote, and every member did vote.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-022",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nThe bus leaves the terminal every 30 minutes, starting at 6:00 a.m. Ana arrived at the terminal at 7:10 a.m.",
+    "choices": [
+      "Ana arrived just in time for the 7:00 a.m. bus.",
+      "The next bus after Ana arrived leaves at 7:15 a.m.",
+      "The next bus after Ana arrived leaves at 8:00 a.m.",
+      "The next bus after Ana arrived leaves at 7:30 a.m."
+    ],
+    "answer": 3,
+    "explanation": "Buses leave at 6:00, 6:30, 7:00, 7:30, and so on. The 7:00 bus had already left when Ana arrived at 7:10, so the next is 7:30.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-023",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nRamon is older than Liza. Liza is older than Carlo.",
+    "choices": [
+      "Carlo is the oldest of the three.",
+      "Liza is the youngest of the three.",
+      "Ramon and Carlo are the same age.",
+      "Ramon is older than Carlo."
+    ],
+    "answer": 3,
+    "explanation": "Ramon > Liza > Carlo in age, so Ramon is older than Carlo.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-024",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nMost of the residents who attended the town hall meeting supported the new market project.",
+    "choices": [
+      "Every resident of the town supports the project.",
+      "The project had support among the residents who attended the meeting.",
+      "No one at the meeting opposed the project.",
+      "The project has been completed."
+    ],
+    "answer": 1,
+    "explanation": "\"Most\" of the attendees supported it. That does not mean every resident or every attendee did.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-025",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nOf the 40 employees in the office, 25 take the bus to work and 10 drive. The rest walk.",
+    "choices": [
+      "Fifteen employees walk to work.",
+      "Twenty-five employees walk to work.",
+      "Ten employees walk to work.",
+      "Five employees walk to work."
+    ],
+    "answer": 3,
+    "explanation": "40 − 25 − 10 = 5 employees walk.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  },
+  {
+    "id": "cse-ana-assumptions-026",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nDocuments submitted after the deadline will not be processed. Pedro's documents were processed.",
+    "choices": [
+      "Pedro submitted his documents on or before the deadline.",
+      "Pedro submitted his documents after the deadline.",
+      "Pedro was not required to submit documents.",
+      "Pedro's documents were incomplete."
+    ],
+    "answer": 0,
+    "explanation": "Late documents are never processed. Pedro's were processed, so they were not late.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-027",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nThe price of a sack of rice rose by 10% in January and then fell by 10% in February.",
+    "choices": [
+      "At the end of February, the price was the same as at the start of January.",
+      "At the end of February, the price was 20% lower than at the start of January.",
+      "At the end of February, the price was slightly lower than at the start of January.",
+      "At the end of February, the price was higher than at the start of January."
+    ],
+    "answer": 2,
+    "explanation": "A price of 100 becomes 110 after a 10% rise, then 110 × 0.90 = 99 after a 10% fall: slightly lower than the start.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-assumptions-028",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nIn a class of 30, every student who scored above 90 received a medal. Twelve students received medals.",
+    "choices": [
+      "At most twelve students scored above 90.",
+      "Eighteen students failed the test.",
+      "No student scored exactly 90.",
+      "Exactly twelve students scored above 90."
+    ],
+    "answer": 0,
+    "explanation": "Everyone above 90 got a medal, so there can be no more than 12 such students. Medals may also have gone to others, so it may be fewer than 12.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-ana-assumptions-029",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nWhenever the river rises above the warning level, classes in the town are suspended. Classes were held today.",
+    "choices": [
+      "Classes will be suspended tomorrow.",
+      "The river rose above the warning level today.",
+      "The river did not rise above the warning level today.",
+      "It did not rain today."
+    ],
+    "answer": 2,
+    "explanation": "If the river had risen above the warning level, classes would have been suspended. They were held, so it did not.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-ana-assumptions-030",
+    "exam": "cse",
+    "levels": [
+      "professional"
+    ],
+    "section": "analytical",
+    "topic": "assumptions_conclusions",
+    "stem": "Which conclusion is best supported by the information given?\nAna finished the report before Ben did. Carlo finished after Ben did.",
+    "choices": [
+      "Carlo finished first.",
+      "Ana and Carlo finished at the same time.",
+      "Ben finished last.",
+      "Ana finished before Carlo."
+    ],
+    "answer": 3,
+    "explanation": "The order is Ana, then Ben, then Carlo, so Ana finished before Carlo.",
+    "source": null,
+    "method": "llm",
+    "status": "verified",
+    "difficulty": 1
+  }
+]

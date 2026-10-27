@@ -57,16 +57,6 @@ class SyllogismEngine(unittest.TestCase):
 
 
 class IndependentChecks(unittest.TestCase):
-    def test_calendar_offsets(self):
-        days = analytical.DAYS
-        rng = random.Random("cal")
-        for _ in range(SAMPLES):
-            q = analytical.calendar(rng)
-            m = re.match(r"Today is (\w+)\. What day of the week will it be (\d+) days", q["stem"])
-            if m:
-                expected = days[(days.index(m[1]) + int(m[2])) % 7]
-                self.assertEqual(q["choices"][q["answer"]], expected)
-
     def test_filing_order_matches_sorted(self):
         rng = random.Random("file")
         ordinals = ["first", "second", "third", "fourth", "fifth"]
@@ -77,12 +67,55 @@ class IndependentChecks(unittest.TestCase):
             key = lambda s: tuple(re.match(r"(\w+), (\w+) (\w)\.", s).groups())  # noqa: E731
             self.assertEqual(q["choices"][q["answer"]], sorted(lines, key=key)[place])
 
-    def test_exact_copy_has_one_true_copy(self):
-        rng = random.Random("copy")
+    def test_misspellings_are_never_real_entries(self):
+        words = set(clerical.MISSPELLINGS)
+        for word, wrong in clerical.MISSPELLINGS.items():
+            with self.subTest(word=word):
+                self.assertEqual(len(set(wrong)), 3)
+                self.assertFalse(set(wrong) & words)
+                self.assertNotIn(word, wrong)
+
+    def test_spelling_has_exactly_one_key(self):
+        words = set(clerical.MISSPELLINGS)
+        rng = random.Random("spell")
         for _ in range(SAMPLES):
-            q = clerical.exact_copy(rng)
-            original = q["stem"].split("\n", 1)[1]
-            self.assertEqual([c for c in q["choices"] if c == original], [q["choices"][q["answer"]]])
+            q = clerical.GENERATORS["spelling"](rng)
+            key = q["choices"][q["answer"]]
+            correct = [c for c in q["choices"] if c in words]
+            if q["stem"].startswith("Which word is spelled correctly"):
+                self.assertEqual(correct, [key])
+            else:
+                self.assertEqual(len(correct), 3)
+                self.assertNotIn(key, words)
+
+    def test_symbolic_logic_textbook_answers(self):
+        negate = {pos: neg for pos, neg in analytical.CLAUSES} | {neg: pos for pos, neg in analytical.CLAUSES}
+        cap = lambda t: t[0].upper() + t[1:] + "."  # noqa: E731
+        rng = random.Random("logic")
+        for _ in range(SAMPLES):
+            q = analytical.symbolic_logic(rng)
+            key = q["choices"][q["answer"]]
+            m = re.search(r'means the same as: "If (.+), then (.+)\."', q["stem"])
+            if m:
+                self.assertEqual(key, f"If {negate[m[2]]}, then {negate[m[1]]}.")
+                continue
+            lines = q["stem"].split("\n")[1:-1]
+            rules = [re.match(r"If (.+), then (.+)\.$", line) for line in lines[:-1]]
+            fact = lines[-1]
+            if all(rules) and len(rules) == 1:
+                p_, q_ = rules[0][1], rules[0][2]
+                expected = {
+                    cap(p_): cap(q_),                  # modus ponens
+                    cap(negate[q_]): cap(negate[p_]),  # modus tollens
+                }.get(fact, analytical.NONE_FOLLOWS)   # affirming / denying: nothing follows
+                self.assertEqual(key, expected)
+            elif all(rules):
+                (p_, q1), (q2, r_) = rules[0].groups(), rules[1].groups()
+                self.assertEqual(q1, q2)
+                self.assertEqual(key, cap(r_) if fact == cap(p_) else cap(negate[p_]))
+            else:
+                either = re.match(r"Either (.+) or (.+) \(or both\)\.$", lines[0])
+                self.assertEqual(key, cap(either[2]))
 
 
 if __name__ == "__main__":

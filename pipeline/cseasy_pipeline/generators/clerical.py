@@ -1,7 +1,8 @@
 """Clerical-ability generators for the CSE Subprofessional level.
 
-Clerical items test speed and accuracy with records: spotting tiny copy
-errors and putting names in filing order. Both are fully computable.
+Clerical items cover the two areas CSC lists for the subtest: filing (names
+in alphabetical order, fully computable) and spelling (picking the right
+form from a curated list of words and their common misspellings).
 """
 
 from __future__ import annotations
@@ -24,81 +25,10 @@ SURNAMES = [
     "Flores", "Villanueva", "Ramos", "Navarro", "Aquino", "Salazar", "Mercado", "Aguilar",
     "Rivera", "Gonzales", "Lopez", "Pascual", "Domingo", "Soriano", "Valdez", "Manalo", "Cabrera",
 ]
-STREETS = ["Rizal", "Mabini", "Bonifacio", "Luna", "Burgos", "Del Pilar", "Quezon", "Magsaysay"]
-TOWNS = ["Quezon City", "Pasig City", "Tarlac City", "Malolos", "Calamba", "Iloilo City", "Tagum City"]
-
-CONFUSABLE = {"O": "0", "0": "O", "l": "1", "1": "l", "S": "5", "5": "S", "B": "8", "8": "B",
-              "e": "c", "c": "e", "n": "m", "m": "n", "u": "v", "v": "u", "a": "o", "o": "a"}
 
 
 def _q(rng: random.Random, topic: str, **kwargs) -> dict:
     return computed_question(rng, section="clerical", topic=topic, levels=LEVELS, fmt=str, **kwargs)
-
-
-def _record(rng: random.Random) -> str:
-    kind = rng.choice(["name", "address", "tin", "reference"])
-    if kind == "name":
-        return f"{rng.choice(GIVEN)} {rng.choice('ABCDEFGHJLMNPRSTV')}. {rng.choice(SURNAMES)}"
-    if kind == "address":
-        return f"{rng.randint(1, 999)} {rng.choice(STREETS)} St., Brgy. {rng.randint(1, 200)}, {rng.choice(TOWNS)}"
-    if kind == "tin":
-        return "-".join(f"{rng.randint(0, 999):03d}" for _ in range(3)) + "-000"
-    return f"OR-{rng.randint(2020, 2027)}-{rng.randint(0, 99999):05d}"
-
-
-def _mutate(rng: random.Random, text: str) -> str:
-    """One small copy error of the kind clerical items test for."""
-    while True:
-        chars = list(text)
-        i = rng.randrange(len(chars))
-        kind = rng.choice(["swap", "confuse", "digit", "drop"])
-        if kind == "swap" and i < len(chars) - 1 and chars[i] != chars[i + 1] and chars[i].isalnum() and chars[i + 1].isalnum():
-            chars[i], chars[i + 1] = chars[i + 1], chars[i]
-        elif kind == "confuse" and chars[i] in CONFUSABLE:
-            chars[i] = CONFUSABLE[chars[i]]
-        elif kind == "digit" and chars[i].isdigit():
-            chars[i] = str((int(chars[i]) + rng.randint(1, 9)) % 10)
-        elif kind == "drop" and chars[i] in ".-," :
-            del chars[i]
-        else:
-            continue
-        out = "".join(chars)
-        if out != text:
-            return out
-
-
-def exact_pair(rng: random.Random) -> dict:
-    originals = [_record(rng) for _ in range(4)]
-    pairs = [f"{o}  |  {o}" for o in originals[:1]] + [f"{o}  |  {_mutate(rng, o)}" for o in originals[1:]]
-    answer, wrong = pairs[0], pairs[1:]
-    return _q(
-        rng, "exact_match",
-        stem="Which pair is EXACTLY alike?",
-        answer=answer,
-        distractors=wrong,
-        explanation=(
-            f"Only \"{answer}\" matches character for character. Each other pair has one small difference "
-            "(a swapped, changed or missing character); compare left to right, one character at a time."
-        ),
-        difficulty=1,
-    )
-
-
-def exact_copy(rng: random.Random) -> dict:
-    original = _record(rng)
-    copies: list[str] = []
-    while len(copies) < 3:
-        m = _mutate(rng, original)
-        if m not in copies:
-            copies.append(m)
-    return _q(
-        rng, "exact_match",
-        stem=f"Which of the following is an exact copy of:\n{original}",
-        answer=original,
-        distractors=copies,
-        explanation=f"Only \"{original}\" matches exactly. The others each contain one small copying error.",
-        difficulty=1,
-    )
 
 
 def filing_order(rng: random.Random) -> dict:
@@ -131,7 +61,153 @@ def filing_order(rng: random.Random) -> dict:
     )
 
 
+# -------------------------------------------------------------------- spelling
+
+# Commonly misspelled words with three misspellings each, in American
+# spelling (the government standard). Words with accepted variant spellings
+# (judgment/judgement, license/licence, canceled/cancelled) are left out so
+# no "misspelling" can be defended as correct.
+MISSPELLINGS: dict[str, tuple[str, str, str]] = {
+    "accommodate": ("accomodate", "acommodate", "accommadate"),
+    "achievement": ("acheivement", "achievment", "achievemant"),
+    "acquire": ("aquire", "acquier", "accquire"),
+    "accessible": ("accesible", "accessable", "acessible"),
+    "allegiance": ("allegience", "alegiance", "allegance"),
+    "apparent": ("apparant", "aparent", "apparrent"),
+    "argument": ("arguement", "argumant", "arguemant"),
+    "beginning": ("begining", "beggining", "beginnig"),
+    "believe": ("beleive", "belive", "beleave"),
+    "bureaucracy": ("beaurocracy", "bureacracy", "burocracy"),
+    "business": ("buisness", "bussiness", "busines"),
+    "calendar": ("calender", "calandar", "calander"),
+    "category": ("catagory", "catigory", "categorie"),
+    "cemetery": ("cemetary", "cematery", "semetery"),
+    "colleague": ("collegue", "colleage", "colleauge"),
+    "commitment": ("committment", "comitment", "commitmant"),
+    "committee": ("comittee", "commitee", "committe"),
+    "conscience": ("concience", "conscence", "consciense"),
+    "conscientious": ("conscientous", "consciencious", "concientious"),
+    "convenience": ("convinience", "conveniance", "convenence"),
+    "correspondence": ("correspondance", "corespondence", "correspondense"),
+    "definitely": ("definately", "definitly", "defenitely"),
+    "desperate": ("desparate", "desperite", "despirate"),
+    "dilemma": ("dilemna", "dilema", "dillemma"),
+    "disappoint": ("dissapoint", "disapoint", "dissappoint"),
+    "discipline": ("dicipline", "disipline", "discipine"),
+    "eligible": ("eligable", "elligible", "eligibel"),
+    "embarrass": ("embarass", "embaress", "emberrass"),
+    "entrepreneur": ("entrepeneur", "entreprenuer", "entrepreneor"),
+    "environment": ("enviroment", "environmant", "envirnoment"),
+    "equipment": ("equiptment", "equipmant", "equippment"),
+    "especially": ("expecially", "especialy", "espescially"),
+    "exaggerate": ("exagerate", "exaggarate", "exxagerate"),
+    "existence": ("existance", "existense", "exsistence"),
+    "experience": ("experiance", "expirience", "experence"),
+    "familiar": ("familar", "famillar", "familliar"),
+    "February": ("Febuary", "Februray", "Febrary"),
+    "fluorescent": ("flourescent", "fluoresent", "fluorecent"),
+    "foreign": ("foriegn", "foreing", "forein"),
+    "government": ("goverment", "governmant", "govenment"),
+    "grammar": ("grammer", "gramar", "grammmar"),
+    "guarantee": ("garantee", "guarentee", "gaurantee"),
+    "harass": ("harrass", "harras", "haross"),
+    "hierarchy": ("heirarchy", "hierachy", "hiearchy"),
+    "immediately": ("immediatly", "imediately", "immediatley"),
+    "independent": ("independant", "independint", "indipendent"),
+    "indispensable": ("indispensible", "indespensable", "indispensabel"),
+    "interrupt": ("interupt", "interrput", "enterrupt"),
+    "irresistible": ("irresistable", "iresistible", "irrisistible"),
+    "knowledge": ("knowlege", "knowlage", "knowledege"),
+    "liaison": ("liason", "liasion", "laison"),
+    "library": ("libary", "librery", "liberary"),
+    "lieutenant": ("leutenant", "lieutenent", "lieutanant"),
+    "maintenance": ("maintainance", "maintenence", "maintanance"),
+    "manageable": ("managable", "manageble", "menageable"),
+    "millennium": ("millenium", "milennium", "millennuim"),
+    "miniature": ("miniture", "minature", "miniatur"),
+    "mischievous": ("mischievious", "mischevous", "mischeivous"),
+    "necessary": ("neccessary", "necessery", "neccesary"),
+    "negotiate": ("negociate", "negoshiate", "negotiatte"),
+    "noticeable": ("noticable", "noticeble", "notecable"),
+    "occasion": ("occassion", "ocasion", "occaision"),
+    "occasionally": ("occasionaly", "occassionally", "ocasionally"),
+    "occurred": ("occured", "ocurred", "occurrd"),
+    "occurrence": ("occurence", "occurrance", "ocurrence"),
+    "omission": ("ommission", "omision", "ommision"),
+    "parliament": ("parliment", "parlament", "parlaiment"),
+    "perseverance": ("perseverence", "perserverance", "persevereance"),
+    "personnel": ("personell", "personnell", "presonnel"),
+    "possession": ("posession", "possesion", "possessoin"),
+    "precede": ("preceed", "presede", "precide"),
+    "prejudice": ("predjudice", "prejudise", "prejidice"),
+    "privilege": ("privilage", "priviledge", "privelege"),
+    "procedure": ("proceedure", "procedue", "procedur"),
+    "proceed": ("procede", "proceede", "prossed"),
+    "pronunciation": ("pronounciation", "pronunsiation", "pronuncation"),
+    "publicly": ("publically", "publicaly", "publicley"),
+    "pursue": ("persue", "pursew", "pursoo"),
+    "questionnaire": ("questionaire", "questionnair", "questionnare"),
+    "receipt": ("reciept", "receit", "recipt"),
+    "receive": ("recieve", "receve", "receeve"),
+    "recommend": ("reccommend", "recomend", "reccomend"),
+    "reference": ("referance", "refference", "referrence"),
+    "referred": ("refered", "reffered", "referd"),
+    "rehearsal": ("rehersal", "rehearsel", "reahearsal"),
+    "relevant": ("relevent", "revelant", "relavant"),
+    "restaurant": ("restaraunt", "resturant", "restaurent"),
+    "rhythm": ("rythm", "rhythym", "rythem"),
+    "schedule": ("schedual", "scedule", "shedule"),
+    "secretary": ("secretery", "secertary", "secratary"),
+    "separate": ("seperate", "separete", "saparate"),
+    "sergeant": ("sargeant", "sergent", "seargent"),
+    "similar": ("similiar", "simmilar", "similer"),
+    "sincerely": ("sincerly", "sincerley", "sinceerly"),
+    "souvenir": ("souvenier", "suvenir", "souveneer"),
+    "successful": ("succesful", "successfull", "sucessful"),
+    "technique": ("tecnique", "techneque", "techinique"),
+    "temperament": ("temperment", "temparament", "tempermant"),
+    "tendency": ("tendancy", "tendensy", "tendencey"),
+    "threshold": ("threshhold", "treshold", "threshould"),
+    "tomorrow": ("tommorow", "tomorow", "tommorrow"),
+    "transferred": ("transfered", "tranferred", "transferrd"),
+    "truly": ("truely", "truley", "trully"),
+    "unanimous": ("unanimus", "unanimouse", "unaminous"),
+    "until": ("untill", "untile", "unntil"),
+    "vacuum": ("vacume", "vaccum", "vacuume"),
+    "vehicle": ("vehical", "vehicel", "vechicle"),
+    "vicious": ("viscious", "vicous", "vicioous"),
+    "weird": ("wierd", "weerd", "wiered"),
+    "withhold": ("withold", "witthold", "withholde"),
+}
+
+
+def spelling_correct(rng: random.Random) -> dict:
+    word = rng.choice(sorted(MISSPELLINGS))
+    return _q(
+        rng, "spelling",
+        stem="Which word is spelled correctly?",
+        answer=word,
+        distractors=list(MISSPELLINGS[word]),
+        explanation=f"The correct spelling is \"{word}\".",
+        difficulty=1,
+    )
+
+
+def spelling_misspelled(rng: random.Random) -> dict:
+    correct = rng.sample(sorted(MISSPELLINGS), 4)
+    target = correct.pop()
+    wrong = rng.choice(MISSPELLINGS[target])
+    return _q(
+        rng, "spelling",
+        stem="Which word is MISSPELLED?",
+        answer=wrong,
+        distractors=correct,
+        explanation=f"\"{wrong}\" should be spelled \"{target}\". The other words are spelled correctly.",
+        difficulty=2,
+    )
+
+
 GENERATORS: dict[str, Callable[[random.Random], dict]] = {
-    "exact_match": lambda rng: (exact_pair if rng.random() < 0.5 else exact_copy)(rng),
     "filing_order": filing_order,
+    "spelling": lambda rng: (spelling_correct if rng.random() < 0.5 else spelling_misspelled)(rng),
 }
