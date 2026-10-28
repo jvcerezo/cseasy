@@ -28,7 +28,7 @@ Raise the build number (`+N`) for every upload: in `app/pubspec.yaml` (`version:
 ```sh
 cd app
 flutter build appbundle --release \
-  --build-number=1 \
+  --build-number=1
 ```
 
 Output: `app/build/app/outputs/bundle/release/app-release.aab`. Flutter may print "failed to strip debug symbols". On this PC, that's a false alarm caused by the space in the Android SDK path. The bundle is still signed and valid.
