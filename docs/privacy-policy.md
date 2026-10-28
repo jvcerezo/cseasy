@@ -2,7 +2,7 @@
 
 _Last updated: [DATE OF PUBLICATION]_
 
-CSEasy ("the app") is an exam reviewer published by [YOUR NAME OR BUSINESS NAME] ("we"). This policy explains what information the app handles.
+CSEasy ("the app") is an exam reviewer published by Tajie Tech ("we"). This policy explains what information the app handles.
 
 ## Information that stays on your device
 Your study data never leaves your device. This includes your answers, scores, review schedule, streaks, mock exam results, and chosen exam level. We do not run servers that receive it, and we cannot see it. If you uninstall the app, this data is deleted.

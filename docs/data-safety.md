@@ -18,4 +18,4 @@ These answers match the current build: study data local only, Google Play Billin
 - **Financial features**: None.
 - **Health**: None.
 - **News app**: No.
-- **Privacy policy URL**: required. Host `docs/privacy-policy.md` publicly after filling in the bracketed fields.
+- **Privacy policy URL**: required. Host `docs/privacy-policy.md` publicly after setting the publication date.
