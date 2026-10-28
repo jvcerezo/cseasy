@@ -56,7 +56,6 @@ abstract final class Strings {
   static const unlockTitle = 'Unlock full access';
   static const unlockBenefitAll = 'Every question in every topic';
   static const unlockBenefitMocks = 'Unlimited full-length mock exams';
-  static const unlockBenefitAds = 'No ads';
   static const unlockBenefitOnce = 'One-time payment. No subscription.';
   static const restorePurchase = 'Restore purchase';
   static const priceLoading = 'Loading price…';

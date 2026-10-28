@@ -6,7 +6,7 @@ CSEasy: Civil Service Reviewer
 Keep "Civil Service Reviewer" in the name. It's the phrase people search for. Add the year when the next exam cycle opens (for example, "CSEasy: Civil Service 2027").
 
 ## Short description (80 chars max)
-Offline CSE reviewer with nearly 1,000 checked questions and timed mock exams.
+Offline CSE reviewer: 1,200+ checked questions, timed mock exams, and no ads.
 
 ## Full description (4,000 chars max)
 
@@ -17,7 +17,7 @@ CSEasy is an offline reviewer for the Career Service Examination (CSE-PPT), Prof
 WHY CSEASY
 ✔ Checked answers. Math and logic answers are computed, not typed by hand. Questions on laws quote the actual text of the Constitution or the law they test.
 ✔ Works offline. No signal, no problem. Review on the jeep, at work, or during brownouts.
-✔ No ads in the middle of a question. Ever.
+✔ No ads. Ever. Not even in the free version.
 ✔ Learns what you miss. Questions you get wrong come back for review, and the ones you master step aside.
 
 WHAT'S INSIDE
@@ -34,7 +34,7 @@ TRACK YOUR PROGRESS
 Daily streaks, accuracy per topic, and a review queue keep you consistent until exam day.
 
 FREE TO START
-Practice the first 10 questions of every topic, take unlimited mini mocks and one full mock exam, all free. Unlock full access once for every question, unlimited full mock exams, and no ads. It's a one-time payment, not a subscription.
+Practice the first 10 questions of every topic, take unlimited mini mocks and one full mock exam, all free. Unlock full access once for every question and unlimited full mock exams. It's a one-time payment, not a subscription.
 
 FOUND A MISTAKE?
 Tap "Report a problem" under any explanation. Every report is read and fixed.

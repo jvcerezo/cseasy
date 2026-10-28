@@ -1,8 +1,5 @@
 // Drives every screen and modal on a small phone with large text, so
 // overflows and runtime errors in real layouts fail the test.
-//
-// Run with the report link enabled:
-//   flutter test test/screens_smoke_test.dart --dart-define=SUPPORT_EMAIL=test@example.com
 
 import 'dart:async';
 import 'dart:io';
@@ -16,7 +13,6 @@ import 'package:cseasy/core/theme/app_theme.dart';
 import 'package:cseasy/data/app_database.dart';
 import 'package:cseasy/data/progress_providers.dart';
 import 'package:cseasy/data/settings_providers.dart';
-import 'package:cseasy/features/ads/ads.dart';
 import 'package:cseasy/features/home/home_screen.dart';
 import 'package:cseasy/features/onboarding/level_picker_screen.dart';
 import 'package:cseasy/features/premium/entitlement_controller.dart';
@@ -73,7 +69,6 @@ Future<void> _pumpApp(
       questionBankProvider.overrideWith((ref) async => _bank),
       appDatabaseProvider.overrideWithValue(db),
       storeProvider.overrideWithValue(_OfflineStore()),
-      adsReadyProvider.overrideWith((ref) async => false),
     ],
     child: MaterialApp(theme: buildTheme(Brightness.light), home: home),
   ));

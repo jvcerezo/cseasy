@@ -4,7 +4,6 @@ import '../../core/quiz/mock_exam.dart';
 import '../../core/strings.dart';
 import '../../core/theme/app_theme.dart';
 import '../../shared/widgets/question_parts.dart';
-import '../ads/ads.dart';
 import '../practice/results_view.dart' show passingRatio;
 
 class MockResultsView extends StatelessWidget {
@@ -107,8 +106,6 @@ class MockResultsView extends StatelessWidget {
                   style: FilledButton.styleFrom(minimumSize: const Size.fromHeight(52)),
                   child: const Text(Strings.backToHome),
                 ),
-                const SizedBox(height: 16),
-                const BannerAdSlot(),
               ],
             ),
           );

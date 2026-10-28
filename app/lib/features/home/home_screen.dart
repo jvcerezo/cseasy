@@ -9,7 +9,6 @@ import '../../data/progress_providers.dart';
 import '../../data/progress_repository.dart';
 import '../../core/quiz/mock_exam.dart';
 import '../../data/settings_providers.dart';
-import '../ads/ads.dart';
 import '../mock/mock_screen.dart';
 import '../premium/entitlement_controller.dart';
 import '../premium/paywall_screen.dart';
@@ -34,9 +33,6 @@ class HomeScreen extends ConsumerWidget {
     final study = ref.watch(studyBankProvider);
     final level = ref.watch(examLevelProvider);
     final isPremium = ref.watch(isPremiumProvider);
-    // Start consent and ads setup at launch, so any consent form appears here
-    // rather than popping up over the first results screen.
-    ref.watch(adsReadyProvider);
     return Scaffold(
       appBar: AppBar(
         title: const Text(Strings.appName),

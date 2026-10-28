@@ -55,10 +55,10 @@ flutter run
 - Spaced-repetition review queue, streaks, and per-topic accuracy.
 - Timed mock exams in the CSC format, plus 50-item mini mocks, with scores by section.
 - Free tier (first 10 items per topic, one full mock) and a one-time `cseasy_full_access` unlock.
-- AdMob banner on results screens only, behind Google's UMP consent flow.
-- "Report a problem" via prefilled email; requires `--dart-define=SUPPORT_EMAIL=...`.
+- No ads or analytics; the ₱199 one-time unlock is the only revenue.
+- "Report a problem" via prefilled email to the support address in `report_sheet.dart`.
 
-Release builds read `app/android/key.properties` (gitignored) for the upload keystore and AdMob app ID. See `docs/release-checklist.md`.
+Release builds read `app/android/key.properties` (gitignored) for the upload keystore. See `docs/release-checklist.md`.
 
 ## Launch constraints
 

@@ -4,7 +4,6 @@ import '../../core/quiz/quiz_session.dart';
 import '../../core/strings.dart';
 import '../../core/theme/app_theme.dart';
 import '../../shared/widgets/question_parts.dart';
-import '../ads/ads.dart';
 
 /// The CSE passing mark: a general rating of at least 80%.
 const passingRatio = 0.8;
@@ -84,8 +83,6 @@ class ResultsView extends StatelessWidget {
                   style: OutlinedButton.styleFrom(minimumSize: const Size.fromHeight(52)),
                   child: const Text(Strings.backToTopics),
                 ),
-                const SizedBox(height: 16),
-                const BannerAdSlot(),
               ],
             ),
           );

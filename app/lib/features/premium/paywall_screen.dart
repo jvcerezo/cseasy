@@ -42,7 +42,6 @@ class PaywallScreen extends ConsumerWidget {
             for (final benefit in const [
               Strings.unlockBenefitAll,
               Strings.unlockBenefitMocks,
-              Strings.unlockBenefitAds,
               Strings.unlockBenefitOnce,
             ])
               Padding(

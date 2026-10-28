@@ -7,8 +7,8 @@ import '../../core/content/content_providers.dart';
 import '../../core/content/question.dart';
 import '../../core/strings.dart';
 
-/// Set with --dart-define=SUPPORT_EMAIL=... ; reporting is hidden without it.
-const supportEmail = String.fromEnvironment('SUPPORT_EMAIL');
+/// Override with --dart-define=SUPPORT_EMAIL=... ; reporting is hidden if empty.
+const supportEmail = String.fromEnvironment('SUPPORT_EMAIL', defaultValue: 'jetjetcerezo@gmail.com');
 
 /// "Report a problem" link under an explanation. Reports go out as a
 /// prefilled email carrying the question id and content version, so they
