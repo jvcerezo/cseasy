@@ -20,7 +20,7 @@ Monetize → Products → In-app products → Create:
 - Activate it. The first AAB upload enables billing for the app.
 
 ## 4. Privacy policy
-Set the publication date in `docs/privacy-policy.md`, host it publicly, and put the URL in Play Console → App content.
+Hosted at https://cseasy.jettimothycerezo.dev/privacy (portfolio repo, `public/cseasy/privacy.html`). Keep it in sync with `docs/privacy-policy.md`, and put the URL in Play Console → App content.
 
 ## 5. Build the release bundle
 Raise the build number (`+N`) for every upload: in `app/pubspec.yaml` (`version: 0.1.0+1`), or with `--build-number`.

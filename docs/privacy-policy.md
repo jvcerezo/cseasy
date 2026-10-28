@@ -1,6 +1,6 @@
 # CSEasy Privacy Policy
 
-_Last updated: [DATE OF PUBLICATION]_
+_Last updated: October 28, 2026_
 
 CSEasy ("the app") is an exam reviewer published by Tajie Tech ("we"). This policy explains what information the app handles.
 
