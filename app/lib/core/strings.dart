@@ -33,7 +33,7 @@ abstract final class Strings {
   static const mockExams = 'Mock exams';
   static const mockDescription = 'Timed, full-format practice. Answers are revealed after you submit.';
   static const fullMock = 'Full';
-  static const miniMock = 'Mini (50)';
+  static const miniMock = 'Mini';
   static const lastScore = 'Last score';
   static const noMockYet = 'No mock exam taken yet';
   static const previous = 'Previous';
@@ -83,8 +83,9 @@ abstract final class Strings {
   static String unansweredWarning(int n) => n == 0
       ? 'You have answered every item.'
       : 'You have $n unanswered ${n == 1 ? 'item' : 'items'}. Unanswered items count as wrong.';
-  static String mockMeta(int items, Duration d) =>
-      '$items items · ${d.inHours > 0 ? '${d.inHours}h ' : ''}${d.inMinutes % 60}m';
+  /// Two short lines, so the label fits a half-width button on a small phone.
+  static String mockButton(String name, int items, Duration d) =>
+      '$name ($items)\n${d.inHours > 0 ? '${d.inHours}h ' : ''}${d.inMinutes % 60}m';
   static String unlockCta(String price) => 'Unlock for $price';
   static String unlockBanner(int total) => 'Unlock all $total questions';
   static String freeTopicProgress(int seen, int free, int total, int accuracyPct) => seen == 0

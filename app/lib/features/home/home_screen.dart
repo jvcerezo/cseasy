@@ -214,7 +214,7 @@ class _MockExamCard extends ConsumerWidget {
                   child: FilledButton(
                     onPressed: () => fullAllowed ? open(full) : _showFullMockLocked(context),
                     child: Text(
-                      '${Strings.fullMock}\n${Strings.mockMeta(full.itemCount, full.duration)}',
+                      Strings.mockButton(Strings.fullMock, full.itemCount, full.duration),
                       textAlign: TextAlign.center,
                     ),
                   ),
@@ -224,7 +224,7 @@ class _MockExamCard extends ConsumerWidget {
                   child: OutlinedButton(
                     onPressed: () => open(mini),
                     child: Text(
-                      '${Strings.miniMock}\n${Strings.mockMeta(mini.itemCount, mini.duration)}',
+                      Strings.mockButton(Strings.miniMock, mini.itemCount, mini.duration),
                       textAlign: TextAlign.center,
                     ),
                   ),

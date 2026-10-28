@@ -101,7 +101,7 @@ Future<void> _unmount(WidgetTester tester) async {
 }
 
 final _mini = MockExamSpec.mini(ExamLevel.professional);
-final _miniLabel = '${Strings.miniMock}\n${Strings.mockMeta(_mini.itemCount, _mini.duration)}';
+final _miniLabel = Strings.mockButton(Strings.miniMock, _mini.itemCount, _mini.duration);
 
 void main() {
   testWidgets('level picker (first launch)', (tester) async {
