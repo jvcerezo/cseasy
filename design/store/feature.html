@@ -1,0 +1,41 @@
+<!doctype html>
+<!-- Play Store feature graphic (1024x500). pipeline/render_store_graphics.py fills the
+     icon and two screenshot placeholders. Google may overlay a play button in the
+     centre and crop edges, so text stays in the left half. -->
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&display=block" rel="stylesheet">
+<style>
+  html, body { margin: 0; width: 1024px; height: 500px; overflow: hidden; }
+  body { font-family: 'Plus Jakarta Sans', sans-serif; position: relative;
+         background: radial-gradient(90% 120% at 0% 0%, #3b7bea 0%, #1f5fbf 40%, #0e3a8a 78%, #0a2458 100%); }
+  .ring { position: absolute; border-radius: 50%; border: 26px solid rgba(255,255,255,.06); }
+  .r1 { width: 420px; height: 420px; right: -120px; top: -160px; }
+  .r2 { width: 260px; height: 260px; left: 330px; top: 330px; }
+
+  .copy { position: absolute; left: 64px; top: 70px; width: 470px; }
+  .brand { display: flex; align-items: center; gap: 18px; }
+  .brand img { width: 76px; height: 76px; border-radius: 19px; box-shadow: 0 10px 24px rgba(0,0,0,.3); }
+  .brand span { color: #fff; font-weight: 800; font-size: 44px; letter-spacing: -1px; }
+  h1 { margin: 30px 0 0; color: #fff; font-weight: 800; font-size: 52px; line-height: 1.08; letter-spacing: -1.4px; }
+  h1 em { font-style: normal; color: #ffc53d; }
+  .chips { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 10px; }
+  .chips b { padding: 9px 16px; border-radius: 999px; background: rgba(255,255,255,.13);
+             color: #fff; font-weight: 600; font-size: 19px; }
+
+  .phone { position: absolute; width: 270px; background: #0b0f1a; border-radius: 40px; padding: 10px;
+           box-sizing: border-box; box-shadow: 0 30px 60px rgba(3,12,40,.55), inset 0 0 0 2px #2a3247; }
+  .phone div { border-radius: 31px; overflow: hidden; }
+  .phone img { display: block; width: 100%; }
+  .pa { left: 590px; top: 70px; transform: rotate(-7deg); }
+  .pb { left: 745px; top: 40px; transform: rotate(6deg); }
+</style></head>
+<body>
+<div class="ring r1"></div><div class="ring r2"></div>
+<div class="copy">
+  <div class="brand"><img src="{{icon}}"><span>CSEasy</span></div>
+  <h1>Pass the <em>Civil Service Exam</em>.</h1>
+  <div class="chips"><b>1,200+ checked questions</b><b>Timed mocks</b><b>Offline</b><b>No ads</b></div>
+</div>
+<div class="phone pa"><div><img src="{{shot_a}}"></div></div>
+<div class="phone pb"><div><img src="{{shot_b}}"></div></div>
+</body></html>

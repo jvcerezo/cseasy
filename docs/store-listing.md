@@ -47,8 +47,9 @@ CSEasy is an independent reviewer. It is not affiliated with, endorsed by, or co
 
 ## Graphics
 - App icon: `docs/store/play-icon-512.png`
-- Feature graphic: `docs/store/feature-graphic-1024x500.png` (no text yet; add a tagline if you like)
-- Phone screenshots: `docs/store/screenshots/play-1.png` to `play-6.png` (1080x1920, upload in that order). Regenerate with `flutter test test_screenshots/play_screenshots_test.dart` in `app/`, then `python pipeline/frame_screenshots.py`.
+- Feature graphic: `docs/store/feature-graphic-1024x500.png`
+- To regenerate any of these, see `pipeline/render_store_graphics.py` (designs live in `design/store/`).
+- Phone screenshots: `docs/store/screenshots/play-1.png` to `play-6.png` (1080x1920, upload in that order).
 
 ## Search keywords to cover in the description
 civil service reviewer, CSE reviewer, civil service exam, professional, subprofessional, CSE-PPT, reviewer 2026, reviewer 2027, offline reviewer, Philippine Constitution, RA 6713

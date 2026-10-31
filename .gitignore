@@ -9,3 +9,4 @@ __pycache__/
 key.properties
 content/sources/raw/
 pipeline/out/
+design/store/out/

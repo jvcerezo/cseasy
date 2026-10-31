@@ -9,6 +9,9 @@ import '../../data/progress_providers.dart';
 import '../../data/settings_providers.dart';
 import '../premium/study_bank.dart';
 
+/// Wall-clock time for exam start and submit; overridable in tests.
+final mockNowProvider = Provider<DateTime Function()>((ref) => DateTime.now);
+
 final mockControllerProvider =
     NotifierProvider.autoDispose.family<MockController, MockSession?, MockExamSpec>(
   MockController.new,
@@ -24,7 +27,7 @@ class MockController extends AutoDisposeFamilyNotifier<MockSession?, MockExamSpe
     final bank = ref.read(studyBankProvider).requireValue;
     final cards = ref.read(cardsProvider).valueOrNull ?? const {};
     final questions = assembleMockExam(bank, spec, cards: cards);
-    return questions.isEmpty ? null : MockSession.start(spec, questions, DateTime.now());
+    return questions.isEmpty ? null : MockSession.start(spec, questions, ref.read(mockNowProvider)());
   }
 
   void select(int choice) => state = state?.select(choice);
@@ -38,7 +41,7 @@ class MockController extends AutoDisposeFamilyNotifier<MockSession?, MockExamSpe
   void submit() {
     final session = state;
     if (session == null || session.isSubmitted) return;
-    final submitted = session.submit(DateTime.now());
+    final submitted = session.submit(ref.read(mockNowProvider)());
     state = submitted;
     final level = ref.read(examLevelProvider) ?? ExamLevel.professional;
     unawaited(

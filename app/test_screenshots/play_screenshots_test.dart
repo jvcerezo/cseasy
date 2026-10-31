@@ -1,7 +1,7 @@
 // Renders raw Play Store phone screenshots (1080x1920) with real fonts.
 // Not part of `flutter test`; run it explicitly, then frame the output:
 //   flutter test test_screenshots/play_screenshots_test.dart
-//   python ../pipeline/frame_screenshots.py
+//   python ../pipeline/render_store_graphics.py
 
 // Lives outside test/, so the analyzer doesn't treat it as a test file.
 // ignore_for_file: invalid_use_of_visible_for_testing_member
@@ -18,6 +18,7 @@ import 'package:cseasy/data/app_database.dart';
 import 'package:cseasy/data/progress_providers.dart';
 import 'package:cseasy/data/settings_providers.dart';
 import 'package:cseasy/features/home/home_screen.dart';
+import 'package:cseasy/features/mock/mock_controller.dart';
 import 'package:cseasy/features/premium/entitlement_controller.dart';
 import 'package:cseasy/features/premium/store.dart';
 import 'package:drift/drift.dart' show DatabaseConnection;
@@ -48,6 +49,9 @@ class _OfflineStore implements Store {
 final _bank = parseQuestionBank(File('assets/content/cse.json').readAsStringSync());
 final _outDir = Directory('build/play_screenshots')..createSync(recursive: true);
 final _boundaryKey = GlobalKey();
+
+/// Mock exam clock, advanced by hand so results show a realistic time used.
+var _mockNow = DateTime.now();
 
 Future<void> _loadFonts() async {
   final cache = '${File(Platform.resolvedExecutable).parent.parent.parent.path}/material_fonts';
@@ -81,6 +85,7 @@ Future<void> _pumpApp(WidgetTester tester, {String level = 'professional'}) asyn
         questionBankProvider.overrideWith((ref) async => _bank),
         appDatabaseProvider.overrideWithValue(db),
         storeProvider.overrideWithValue(_OfflineStore()),
+        mockNowProvider.overrideWithValue(() => _mockNow),
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
@@ -179,7 +184,7 @@ void main() {
         await tester.pumpAndSettle();
       }
     }
-    await tester.pump(const Duration(minutes: 41));
+    _mockNow = _mockNow.add(const Duration(minutes: 41));
     await tester.tap(find.byTooltip('All items'));
     await tester.pumpAndSettle();
     await tester.tap(find.text('Submit').last);
