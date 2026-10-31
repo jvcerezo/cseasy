@@ -320,7 +320,7 @@
       "Most students who audition are good speakers.",
       "Students who pass the audition will win debates.",
       "The debate team has more members than other clubs.",
-      "Not every student who wants to join will be accepted."
+      "Some students who want to join may not be accepted."
     ],
     "answer": 3,
     "explanation": "Requiring an audition implies screening, which assumes some who want to join may not get in.",
@@ -455,7 +455,7 @@
       "More than half of the votes were in favor of the proposal."
     ],
     "answer": 3,
-    "explanation": "A majority means more than half. A majority does not require every vote, and every member did vote.",
+    "explanation": "A majority means more than half of the votes were in favor. It does not mean every vote was in favor, the statement says every member voted, and the proposal passed rather than being rejected.",
     "source": null,
     "method": "llm",
     "status": "verified",
@@ -521,7 +521,7 @@
       "The project will be approved by the town council."
     ],
     "answer": 1,
-    "explanation": "\"Most\" of the attendees supported it. That does not mean every resident or every attendee did.",
+    "explanation": "The statement covers only the residents who attended. They may not represent the whole town, so it does not show that most residents support the project or that those who stayed away oppose it, and council approval is never mentioned.",
     "source": null,
     "method": "llm",
     "status": "verified",

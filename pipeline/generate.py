@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import json
 import random
+import re
 from typing import Callable
 
 from cseasy_pipeline.generators import analytical, clerical, numerical
@@ -25,10 +26,15 @@ SECTIONS: dict[str, tuple[str, dict[str, Callable[[random.Random], dict]]]] = {
 }
 
 
+_NAME = re.compile(r"(" + "|".join(numerical.NAMES) + r")")
+
+
 def dedup_key(q: dict) -> str:
     # Data-interpretation and spelling items share stems and differ only in
-    # their table or choices.
-    return q["stem"] + json.dumps([q.get("table"), sorted(q["choices"])], sort_keys=True)
+    # their table or choices. Names are masked, so "Ana and Ben" and "Rico and
+    # Tess" with the same numbers count as one question.
+    stem = _NAME.sub("_", q["stem"])
+    return stem + json.dumps([q.get("table"), sorted(q["choices"])], sort_keys=True)
 
 
 def generate_topic(section: str, topic: str, count: int) -> list[dict]:

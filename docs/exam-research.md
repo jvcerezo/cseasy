@@ -83,3 +83,14 @@ What the real Career Service Exam (CSE-PPT) covers, compared with the CSEasy ban
   (one solver slip on a filing item, key rechecked by hand).
 - Still in scope only: no ARTA, history or geography items, since the CSC coverage above
   doesn't list them.
+
+## Full content audit (2026-10-31)
+
+All 1,342 shipped items were re-checked. Every filing key was re-sorted by a script; the
+other 1,252 items were blind-solved by Opus (answers written before seeing keys), then
+reviewed with keys, explanations and source texts. No blind answer disagreed with a key.
+Fixes: grammar items whose (A)-(D) labels didn't match the choice order now use brackets;
+one Constitution distractor that was arguably true was replaced; Filipino and assumptions
+explanations clarified; generator fixes (age and fraction explanation steps, a "0%"
+distractor, unrealistic pipe times and speeds, duplicates that differed only in names,
+symbolic-logic stem punctuation). The 124 regenerated items were audited again the same way.

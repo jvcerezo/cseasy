@@ -39,7 +39,7 @@
       "5/17"
     ],
     "answer": 1,
-    "explanation": "Use a common denominator: 3/8 + 2/9 = 27/72 + 16/72 = 43/72.",
+    "explanation": "Use the least common denominator, 72: 3/8 + 2/9 = 27/72 + 16/72 = 43/72.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -62,7 +62,7 @@
       "1/2"
     ],
     "answer": 1,
-    "explanation": "Multiply by the reciprocal: 5/9 × 3/4 = 5/12.",
+    "explanation": "Multiply by the reciprocal: 5/9 × 3/4 = 15/36 = 5/12.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -108,7 +108,7 @@
       "1/4"
     ],
     "answer": 2,
-    "explanation": "Use a common denominator: 1/6 + 3/2 = 2/12 + 18/12 = 5/3.",
+    "explanation": "Use the least common denominator, 6: 1/6 + 3/2 = 1/6 + 9/6 = 10/6 = 5/3.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -131,7 +131,7 @@
       "28/15"
     ],
     "answer": 0,
-    "explanation": "Multiply across: (4 × 7) / (9 × 6) = 14/27.",
+    "explanation": "Multiply across: (4 × 7) / (9 × 6) = 28/54 = 14/27.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -177,7 +177,7 @@
       "3/8"
     ],
     "answer": 3,
-    "explanation": "Multiply across: (3 × 5) / (5 × 8) = 3/8.",
+    "explanation": "Multiply across: (3 × 5) / (5 × 8) = 15/40 = 3/8.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -200,7 +200,7 @@
       "1/9"
     ],
     "answer": 3,
-    "explanation": "Multiply by the reciprocal: 1/2 × 2/9 = 1/9.",
+    "explanation": "Multiply by the reciprocal: 1/2 × 2/9 = 2/18 = 1/9.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -223,7 +223,7 @@
       "1/3"
     ],
     "answer": 1,
-    "explanation": "Use a common denominator: 7/9 + 5/4 = 28/36 + 45/36 = 73/36.",
+    "explanation": "Use the least common denominator, 36: 7/9 + 5/4 = 28/36 + 45/36 = 73/36.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -246,7 +246,7 @@
       "3/2"
     ],
     "answer": 2,
-    "explanation": "Use a common denominator: 8/3 + 1/2 = 16/6 + 3/6 = 19/6.",
+    "explanation": "Use the least common denominator, 6: 8/3 + 1/2 = 16/6 + 3/6 = 19/6.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -269,7 +269,7 @@
       "37/14"
     ],
     "answer": 3,
-    "explanation": "Use a common denominator: 1/7 + 5/2 = 2/14 + 35/14 = 37/14.",
+    "explanation": "Use the least common denominator, 14: 1/7 + 5/2 = 2/14 + 35/14 = 37/14.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -292,7 +292,7 @@
       "53/10"
     ],
     "answer": 3,
-    "explanation": "Use a common denominator: 7/2 + 9/5 = 35/10 + 18/10 = 53/10.",
+    "explanation": "Use the least common denominator, 10: 7/2 + 9/5 = 35/10 + 18/10 = 53/10.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -315,7 +315,7 @@
       "19/12"
     ],
     "answer": 3,
-    "explanation": "Use a common denominator: 3/4 + 5/6 = 18/24 + 20/24 = 19/12.",
+    "explanation": "Use the least common denominator, 12: 3/4 + 5/6 = 9/12 + 10/12 = 19/12.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -361,7 +361,7 @@
       "2/3"
     ],
     "answer": 1,
-    "explanation": "Use a common denominator: 1/2 + 7/6 = 6/12 + 14/12 = 5/3.",
+    "explanation": "Use the least common denominator, 6: 1/2 + 7/6 = 3/6 + 7/6 = 10/6 = 5/3.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -430,7 +430,7 @@
       "62/35"
     ],
     "answer": 3,
-    "explanation": "Use a common denominator: 4/7 + 6/5 = 20/35 + 42/35 = 62/35.",
+    "explanation": "Use the least common denominator, 35: 4/7 + 6/5 = 20/35 + 42/35 = 62/35.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -476,7 +476,7 @@
       "15/8"
     ],
     "answer": 3,
-    "explanation": "Use a common denominator: 3/8 + 3/2 = 6/16 + 24/16 = 15/8.",
+    "explanation": "Use the least common denominator, 8: 3/8 + 3/2 = 3/8 + 12/8 = 15/8.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -499,7 +499,7 @@
       "7/9"
     ],
     "answer": 0,
-    "explanation": "Multiply by the reciprocal: 5/7 × 9/5 = 9/7.",
+    "explanation": "Multiply by the reciprocal: 5/7 × 9/5 = 45/35 = 9/7.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -545,7 +545,7 @@
       "8/9"
     ],
     "answer": 3,
-    "explanation": "Multiply across: (7 × 8) / (9 × 7) = 8/9.",
+    "explanation": "Multiply across: (7 × 8) / (9 × 7) = 56/63 = 8/9.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -568,7 +568,7 @@
       "5/6"
     ],
     "answer": 2,
-    "explanation": "Use a common denominator: 2/3 + 8/9 = 18/27 + 24/27 = 14/9.",
+    "explanation": "Use the least common denominator, 9: 2/3 + 8/9 = 6/9 + 8/9 = 14/9.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -637,7 +637,7 @@
       "5/36"
     ],
     "answer": 0,
-    "explanation": "Use a common denominator: 2/9 + 5/8 = 16/72 + 45/72 = 61/72.",
+    "explanation": "Use the least common denominator, 72: 2/9 + 5/8 = 16/72 + 45/72 = 61/72.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -706,7 +706,7 @@
       "7/6"
     ],
     "answer": 0,
-    "explanation": "Use a common denominator: 7/9 + 3/2 = 14/18 + 27/18 = 41/18.",
+    "explanation": "Use the least common denominator, 18: 7/9 + 3/2 = 14/18 + 27/18 = 41/18.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -752,7 +752,7 @@
       "1/4"
     ],
     "answer": 3,
-    "explanation": "Multiply across: (3 × 1) / (2 × 6) = 1/4.",
+    "explanation": "Multiply across: (3 × 1) / (2 × 6) = 3/12 = 1/4.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -798,7 +798,7 @@
       "4/21"
     ],
     "answer": 2,
-    "explanation": "Multiply by the reciprocal: 4/3 × 7/8 = 7/6.",
+    "explanation": "Multiply by the reciprocal: 4/3 × 7/8 = 28/24 = 7/6.",
     "source": null,
     "method": "computed",
     "status": "verified",

@@ -37,7 +37,7 @@
       "JR"
     ],
     "answer": 0,
-    "explanation": "The first letters go forward (E, F, G, H) while the second letters go backward from the end of the alphabet (V, U, T, S). Next is IR.",
+    "explanation": "The first letters go forward (E, F, G, H) while the second letters go backward one letter at a time (V, U, T, S). Next is IR.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -103,7 +103,7 @@
       "JQ"
     ],
     "answer": 3,
-    "explanation": "The first letters go forward (F, G, H, I) while the second letters go backward from the end of the alphabet (U, T, S, R). Next is JQ.",
+    "explanation": "The first letters go forward (F, G, H, I) while the second letters go backward one letter at a time (U, T, S, R). Next is JQ.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -257,7 +257,7 @@
       "OL"
     ],
     "answer": 0,
-    "explanation": "The first letters go forward (H, I, J, K) while the second letters go backward from the end of the alphabet (S, R, Q, P). Next is LO.",
+    "explanation": "The first letters go forward (H, I, J, K) while the second letters go backward one letter at a time (S, R, Q, P). Next is LO.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -279,7 +279,7 @@
       "IS"
     ],
     "answer": 1,
-    "explanation": "The first letters go forward (D, E, F, G) while the second letters go backward from the end of the alphabet (W, V, U, T). Next is HS.",
+    "explanation": "The first letters go forward (D, E, F, G) while the second letters go backward one letter at a time (W, V, U, T). Next is HS.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -433,7 +433,7 @@
       "FV"
     ],
     "answer": 0,
-    "explanation": "The first letters go forward (A, B, C, D) while the second letters go backward from the end of the alphabet (Z, Y, X, W). Next is EV.",
+    "explanation": "The first letters go forward (A, B, C, D) while the second letters go backward one letter at a time (Z, Y, X, W). Next is EV.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -873,7 +873,7 @@
       "MO"
     ],
     "answer": 1,
-    "explanation": "The first letters go forward (I, J, K, L) while the second letters go backward from the end of the alphabet (R, Q, P, O). Next is MN.",
+    "explanation": "The first letters go forward (I, J, K, L) while the second letters go backward one letter at a time (R, Q, P, O). Next is MN.",
     "source": null,
     "method": "computed",
     "status": "verified",

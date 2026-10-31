@@ -39,7 +39,7 @@
       "44"
     ],
     "answer": 2,
-    "explanation": "Let Dina = x, so Tess = 3x. In 11 years: 3x + 11 = 2(x + 11). So x = 11, x = 11. Tess is 3 × 11 = 33.",
+    "explanation": "Let Dina = x, so Tess = 3x. In 11 years: 3x + 11 = 2(x + 11). So x = 11. Tess is 3 × 11 = 33.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -200,7 +200,7 @@
       "84"
     ],
     "answer": 1,
-    "explanation": "Let Ana = x, so Ben = 4x. In 7 years: 4x + 7 = 3(x + 7). So x = 14, x = 14. Ben is 4 × 14 = 56.",
+    "explanation": "Let Ana = x, so Ben = 4x. In 7 years: 4x + 7 = 3(x + 7). So x = 14. Ben is 4 × 14 = 56.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -292,7 +292,7 @@
       "48"
     ],
     "answer": 1,
-    "explanation": "Let Ella = x, so Nina = 3x. In 8 years: 3x + 8 = 2(x + 8). So x = 8, x = 8. Nina is 3 × 8 = 24.",
+    "explanation": "Let Ella = x, so Nina = 3x. In 8 years: 3x + 8 = 2(x + 8). So x = 8. Nina is 3 × 8 = 24.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -315,7 +315,7 @@
       "36"
     ],
     "answer": 0,
-    "explanation": "Let Ben = x, so Rico = 3x. In 6 years: 3x + 6 = 2(x + 6). So x = 6, x = 6. Rico is 3 × 6 = 18.",
+    "explanation": "Let Ben = x, so Rico = 3x. In 6 years: 3x + 6 = 2(x + 6). So x = 6. Rico is 3 × 6 = 18.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -499,7 +499,7 @@
       "21"
     ],
     "answer": 3,
-    "explanation": "Let Liza = x, so Paolo = 3x. In 7 years: 3x + 7 = 2(x + 7). So x = 7, x = 7. Paolo is 3 × 7 = 21.",
+    "explanation": "Let Liza = x, so Paolo = 3x. In 7 years: 3x + 7 = 2(x + 7). So x = 7. Paolo is 3 × 7 = 21.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -568,7 +568,7 @@
       "84"
     ],
     "answer": 1,
-    "explanation": "Let Jun = x, so Dina = 3x. In 14 years: 3x + 14 = 2(x + 14). So x = 14, x = 14. Dina is 3 × 14 = 42.",
+    "explanation": "Let Jun = x, so Dina = 3x. In 14 years: 3x + 14 = 2(x + 14). So x = 14. Dina is 3 × 14 = 42.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -591,7 +591,7 @@
       "81"
     ],
     "answer": 0,
-    "explanation": "Let Joy = x, so Ella = 4x. In 9 years: 4x + 9 = 3(x + 9). So x = 18, x = 18. Ella is 4 × 18 = 72.",
+    "explanation": "Let Joy = x, so Ella = 4x. In 9 years: 4x + 9 = 3(x + 9). So x = 18. Ella is 4 × 18 = 72.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -683,7 +683,7 @@
       "84"
     ],
     "answer": 1,
-    "explanation": "Let Rico = x, so Tess = 4x. In 7 years: 4x + 7 = 3(x + 7). So x = 14, x = 14. Tess is 4 × 14 = 56.",
+    "explanation": "Let Rico = x, so Tess = 4x. In 7 years: 4x + 7 = 3(x + 7). So x = 14. Tess is 4 × 14 = 56.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -729,7 +729,7 @@
       "6"
     ],
     "answer": 1,
-    "explanation": "Let Ana = x, so Ben = 4x. In 3 years: 4x + 3 = 3(x + 3). So x = 6, x = 6. Ben is 4 × 6 = 24.",
+    "explanation": "Let Ana = x, so Ben = 4x. In 3 years: 4x + 3 = 3(x + 3). So x = 6. Ben is 4 × 6 = 24.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -890,7 +890,7 @@
       "12"
     ],
     "answer": 2,
-    "explanation": "Let Liza = x, so Rico = 3x. In 2 years: 3x + 2 = 2(x + 2). So x = 2, x = 2. Rico is 3 × 2 = 6.",
+    "explanation": "Let Liza = x, so Rico = 3x. In 2 years: 3x + 2 = 2(x + 2). So x = 2. Rico is 3 × 2 = 6.",
     "source": null,
     "method": "computed",
     "status": "verified",

@@ -415,7 +415,7 @@ def letter_series(rng: random.Random) -> dict:
         shown, ans = pairs[:4], pairs[4]
         explanation = (
             "The first letters go forward (" + ", ".join(p[0] for p in pairs[:4])
-            + ") while the second letters go backward from the end of the alphabet ("
+            + ") while the second letters go backward one letter at a time ("
             + ", ".join(p[1] for p in pairs[:4]) + f"). Next is {ans}."
         )
         distractors = [ans[0] + L[25 - start - 3], L[start + 5] + ans[1], ans[::-1]]
@@ -504,7 +504,7 @@ def symbolic_logic(rng: random.Random) -> dict:
     if_ = lambda a, b: f"If {a[1](clauses)}, then {b[1](clauses)}."  # noqa: E731
 
     if form == "contrapositive":
-        stem = f"Which statement means the same as: \"{if_(P, Q)}\""
+        stem = f"Which statement means the same as the following?\n\"{if_(P, Q)}\""
         options = {
             if_(nQ, nP): imp(nQ[0], nP[0]),
             if_(Q, P): imp(Q[0], P[0]),

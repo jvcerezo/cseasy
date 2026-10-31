@@ -560,7 +560,7 @@
     ],
     "section": "verbal",
     "topic": "grammar",
-    "stem": "Identify the error in the sentence.\nThe new employees (A) has been (B) assigned to (C) the records section (D).",
+    "stem": "Which bracketed part of the sentence contains an error?\n[The new employees] [has been] [assigned to] [the records section].",
     "choices": [
       "The new employees",
       "has been",
@@ -583,7 +583,7 @@
     ],
     "section": "verbal",
     "topic": "grammar",
-    "stem": "Identify the error in the sentence.\nMy colleague and me (A) were sent (B) to the regional office (C) last week (D).",
+    "stem": "Which bracketed part of the sentence contains an error?\n[My colleague and me] [were sent] [to the regional office] [last week].",
     "choices": [
       "to the regional office",
       "last week",
@@ -606,7 +606,7 @@
     ],
     "section": "verbal",
     "topic": "grammar",
-    "stem": "Identify the error in the sentence.\nThe report must be submitted (A) by Friday, (B) irregardless of (C) the delay in data gathering (D).",
+    "stem": "Which bracketed part of the sentence contains an error?\n[The report must be submitted] [by Friday,] [irregardless of] [the delay in data gathering].",
     "choices": [
       "irregardless of",
       "must be submitted",
@@ -629,7 +629,7 @@
     ],
     "section": "verbal",
     "topic": "grammar",
-    "stem": "Identify the error in the sentence.\nThe supervisor (A) gave the instructions (B) to Ana and I (C) this morning (D).",
+    "stem": "Which bracketed part of the sentence contains an error?\n[The supervisor] [gave the instructions] [to Ana and I] [this morning].",
     "choices": [
       "this morning",
       "to Ana and I",

@@ -133,7 +133,7 @@ class IndependentChecks(unittest.TestCase):
         for _ in range(SAMPLES):
             q = analytical.symbolic_logic(rng)
             key = q["choices"][q["answer"]]
-            m = re.search(r'means the same as: "If (.+), then (.+)\."', q["stem"])
+            m = re.search(r'means the same as the following\?\n"If (.+), then (.+)\."', q["stem"])
             if m:
                 self.assertEqual(key, f"If {negate[m[2]]}, then {negate[m[1]]}.")
                 continue

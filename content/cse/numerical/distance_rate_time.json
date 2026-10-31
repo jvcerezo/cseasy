@@ -8,15 +8,15 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 20 km/h and returns along the same road at 80 km/h. What is its average speed for the whole trip?",
+    "stem": "A car travels from town A to town B at 30 km/h and returns along the same road at 90 km/h. What is its average speed for the whole trip?",
     "choices": [
-      "50 km/h",
-      "32 km/h",
-      "100 km/h",
-      "37 km/h"
+      "60 km/h",
+      "45 km/h",
+      "120 km/h",
+      "50 km/h"
     ],
     "answer": 1,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 20 × 80 ÷ (20 + 80) = 32 km/h.",
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 30 × 90 ÷ (30 + 90) = 45 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -100,15 +100,15 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 60 km/h and returns along the same road at 30 km/h. What is its average speed for the whole trip?",
+    "stem": "A car travels from town A to town B at 60 km/h and returns along the same road at 40 km/h. What is its average speed for the whole trip?",
     "choices": [
-      "90 km/h",
-      "45 km/h",
-      "35 km/h",
-      "40 km/h"
+      "100 km/h",
+      "50 km/h",
+      "53 km/h",
+      "48 km/h"
     ],
     "answer": 3,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 60 × 30 ÷ (60 + 30) = 40 km/h.",
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 60 × 40 ÷ (60 + 40) = 48 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
@@ -116,29 +116,6 @@
   },
   {
     "id": "cse-num-distance_rate_time-006",
-    "exam": "cse",
-    "levels": [
-      "professional",
-      "subprofessional"
-    ],
-    "section": "numerical",
-    "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 30 km/h and returns along the same road at 45 km/h. What is its average speed for the whole trip?",
-    "choices": [
-      "36 km/h",
-      "41 km/h",
-      "75 km/h",
-      "37.5 km/h"
-    ],
-    "answer": 0,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 30 × 45 ÷ (30 + 45) = 36 km/h.",
-    "source": null,
-    "method": "computed",
-    "status": "verified",
-    "difficulty": 3
-  },
-  {
-    "id": "cse-num-distance_rate_time-007",
     "exam": "cse",
     "levels": [
       "professional",
@@ -161,7 +138,7 @@
     "difficulty": 1
   },
   {
-    "id": "cse-num-distance_rate_time-008",
+    "id": "cse-num-distance_rate_time-007",
     "exam": "cse",
     "levels": [
       "professional",
@@ -169,22 +146,22 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 90 km/h and returns along the same road at 45 km/h. What is its average speed for the whole trip?",
+    "stem": "A car travels from town A to town B at 75 km/h and returns along the same road at 50 km/h. What is its average speed for the whole trip?",
     "choices": [
       "65 km/h",
-      "135 km/h",
-      "67.5 km/h",
+      "125 km/h",
+      "62.5 km/h",
       "60 km/h"
     ],
     "answer": 3,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 90 × 45 ÷ (90 + 45) = 60 km/h.",
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 75 × 50 ÷ (75 + 50) = 60 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
     "difficulty": 3
   },
   {
-    "id": "cse-num-distance_rate_time-009",
+    "id": "cse-num-distance_rate_time-008",
     "exam": "cse",
     "levels": [
       "professional",
@@ -207,7 +184,7 @@
     "difficulty": 1
   },
   {
-    "id": "cse-num-distance_rate_time-010",
+    "id": "cse-num-distance_rate_time-009",
     "exam": "cse",
     "levels": [
       "professional",
@@ -230,7 +207,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-011",
+    "id": "cse-num-distance_rate_time-010",
     "exam": "cse",
     "levels": [
       "professional",
@@ -253,7 +230,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-012",
+    "id": "cse-num-distance_rate_time-011",
     "exam": "cse",
     "levels": [
       "professional",
@@ -276,6 +253,29 @@
     "difficulty": 2
   },
   {
+    "id": "cse-num-distance_rate_time-012",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "distance_rate_time",
+    "stem": "A car travels from town A to town B at 90 km/h and returns along the same road at 60 km/h. What is its average speed for the whole trip?",
+    "choices": [
+      "77 km/h",
+      "150 km/h",
+      "75 km/h",
+      "72 km/h"
+    ],
+    "answer": 3,
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 90 × 60 ÷ (90 + 60) = 72 km/h.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
     "id": "cse-num-distance_rate_time-013",
     "exam": "cse",
     "levels": [
@@ -284,19 +284,19 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 45 km/h and returns along the same road at 5 km/h. What is its average speed for the whole trip?",
+    "stem": "Two buses leave towns 480 km apart at the same time and drive toward each other, one at 65 km/h and the other at 55 km/h. After how many hours do they meet?",
     "choices": [
-      "9 km/h",
-      "50 km/h",
-      "25 km/h",
-      "14 km/h"
+      "4 hours",
+      "7.38 hours",
+      "5 hours",
+      "48 hours"
     ],
     "answer": 0,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 45 × 5 ÷ (45 + 5) = 9 km/h.",
+    "explanation": "They close the gap at 65 + 55 = 120 km/h. Time = 480 ÷ 120 = 4 hours.",
     "source": null,
     "method": "computed",
     "status": "verified",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": "cse-num-distance_rate_time-014",
@@ -307,19 +307,19 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "Two buses leave towns 315 km apart at the same time and drive toward each other, one at 55 km/h and the other at 50 km/h. After how many hours do they meet?",
+    "stem": "A car travels from town A to town B at 60 km/h and returns along the same road at 30 km/h. What is its average speed for the whole trip?",
     "choices": [
-      "5.73 hours",
-      "3 hours",
-      "63 hours",
-      "4 hours"
+      "45 km/h",
+      "40 km/h",
+      "90 km/h",
+      "35 km/h"
     ],
     "answer": 1,
-    "explanation": "They close the gap at 55 + 50 = 105 km/h. Time = 315 ÷ 105 = 3 hours.",
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 60 × 30 ÷ (60 + 30) = 40 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "id": "cse-num-distance_rate_time-015",
@@ -330,19 +330,19 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "Two buses leave towns 700 km apart at the same time and drive toward each other, one at 60 km/h and the other at 80 km/h. After how many hours do they meet?",
+    "stem": "A car travels at a steady 40 km/h for 45 minutes. How far does it go?",
     "choices": [
-      "6 hours",
-      "5 hours",
-      "8.75 hours",
-      "35 hours"
+      "30 km",
+      "18 km",
+      "1,800 km",
+      "40 km"
     ],
-    "answer": 1,
-    "explanation": "They close the gap at 60 + 80 = 140 km/h. Time = 700 ÷ 140 = 5 hours.",
+    "answer": 0,
+    "explanation": "45 minutes = 0.75 hours. Distance = 40 × 0.75 = 30 km.",
     "source": null,
     "method": "computed",
     "status": "verified",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "id": "cse-num-distance_rate_time-016",
@@ -353,45 +353,22 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "Two buses leave towns 600 km apart at the same time and drive toward each other, one at 65 km/h and the other at 55 km/h. After how many hours do they meet?",
+    "stem": "A car travels from town A to town B at 90 km/h and returns along the same road at 30 km/h. What is its average speed for the whole trip?",
     "choices": [
-      "9.23 hours",
-      "6 hours",
-      "60 hours",
-      "5 hours"
+      "50 km/h",
+      "60 km/h",
+      "45 km/h",
+      "120 km/h"
     ],
-    "answer": 3,
-    "explanation": "They close the gap at 65 + 55 = 120 km/h. Time = 600 ÷ 120 = 5 hours.",
+    "answer": 2,
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 90 × 30 ÷ (90 + 30) = 45 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "id": "cse-num-distance_rate_time-017",
-    "exam": "cse",
-    "levels": [
-      "professional",
-      "subprofessional"
-    ],
-    "section": "numerical",
-    "topic": "distance_rate_time",
-    "stem": "Two buses leave towns 170 km apart at the same time and drive toward each other, one at 35 km/h and the other at 50 km/h. After how many hours do they meet?",
-    "choices": [
-      "3.4 hours",
-      "2 hours",
-      "11.33 hours",
-      "3 hours"
-    ],
-    "answer": 1,
-    "explanation": "They close the gap at 35 + 50 = 85 km/h. Time = 170 ÷ 85 = 2 hours.",
-    "source": null,
-    "method": "computed",
-    "status": "verified",
-    "difficulty": 2
-  },
-  {
-    "id": "cse-num-distance_rate_time-018",
     "exam": "cse",
     "levels": [
       "professional",
@@ -414,7 +391,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-019",
+    "id": "cse-num-distance_rate_time-018",
     "exam": "cse",
     "levels": [
       "professional",
@@ -437,7 +414,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-020",
+    "id": "cse-num-distance_rate_time-019",
     "exam": "cse",
     "levels": [
       "professional",
@@ -460,7 +437,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-021",
+    "id": "cse-num-distance_rate_time-020",
     "exam": "cse",
     "levels": [
       "professional",
@@ -483,7 +460,7 @@
     "difficulty": 1
   },
   {
-    "id": "cse-num-distance_rate_time-022",
+    "id": "cse-num-distance_rate_time-021",
     "exam": "cse",
     "levels": [
       "professional",
@@ -506,7 +483,7 @@
     "difficulty": 1
   },
   {
-    "id": "cse-num-distance_rate_time-023",
+    "id": "cse-num-distance_rate_time-022",
     "exam": "cse",
     "levels": [
       "professional",
@@ -514,22 +491,22 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 30 km/h and returns along the same road at 90 km/h. What is its average speed for the whole trip?",
+    "stem": "A car travels from town A to town B at 45 km/h and returns along the same road at 90 km/h. What is its average speed for the whole trip?",
     "choices": [
-      "50 km/h",
-      "60 km/h",
-      "120 km/h",
-      "45 km/h"
+      "65 km/h",
+      "67.5 km/h",
+      "135 km/h",
+      "60 km/h"
     ],
     "answer": 3,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 30 × 90 ÷ (30 + 90) = 45 km/h.",
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 45 × 90 ÷ (45 + 90) = 60 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
     "difficulty": 3
   },
   {
-    "id": "cse-num-distance_rate_time-024",
+    "id": "cse-num-distance_rate_time-023",
     "exam": "cse",
     "levels": [
       "professional",
@@ -552,7 +529,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-025",
+    "id": "cse-num-distance_rate_time-024",
     "exam": "cse",
     "levels": [
       "professional",
@@ -575,7 +552,7 @@
     "difficulty": 1
   },
   {
-    "id": "cse-num-distance_rate_time-026",
+    "id": "cse-num-distance_rate_time-025",
     "exam": "cse",
     "levels": [
       "professional",
@@ -583,22 +560,22 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 20 km/h and returns along the same road at 30 km/h. What is its average speed for the whole trip?",
+    "stem": "A car travels from town A to town B at 30 km/h and returns along the same road at 70 km/h. What is its average speed for the whole trip?",
     "choices": [
+      "100 km/h",
       "50 km/h",
-      "25 km/h",
-      "24 km/h",
-      "29 km/h"
+      "42 km/h",
+      "47 km/h"
     ],
     "answer": 2,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 20 × 30 ÷ (20 + 30) = 24 km/h.",
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 30 × 70 ÷ (30 + 70) = 42 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
     "difficulty": 3
   },
   {
-    "id": "cse-num-distance_rate_time-027",
+    "id": "cse-num-distance_rate_time-026",
     "exam": "cse",
     "levels": [
       "professional",
@@ -621,7 +598,7 @@
     "difficulty": 1
   },
   {
-    "id": "cse-num-distance_rate_time-028",
+    "id": "cse-num-distance_rate_time-027",
     "exam": "cse",
     "levels": [
       "professional",
@@ -644,7 +621,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-029",
+    "id": "cse-num-distance_rate_time-028",
     "exam": "cse",
     "levels": [
       "professional",
@@ -667,7 +644,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-030",
+    "id": "cse-num-distance_rate_time-029",
     "exam": "cse",
     "levels": [
       "professional",
@@ -675,22 +652,22 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 30 km/h and returns along the same road at 15 km/h. What is its average speed for the whole trip?",
+    "stem": "A car travels from town A to town B at 45 km/h and returns along the same road at 30 km/h. What is its average speed for the whole trip?",
     "choices": [
-      "22.5 km/h",
-      "20 km/h",
-      "45 km/h",
-      "25 km/h"
+      "37.5 km/h",
+      "36 km/h",
+      "75 km/h",
+      "41 km/h"
     ],
     "answer": 1,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 30 × 15 ÷ (30 + 15) = 20 km/h.",
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 45 × 30 ÷ (45 + 30) = 36 km/h.",
     "source": null,
     "method": "computed",
     "status": "verified",
     "difficulty": 3
   },
   {
-    "id": "cse-num-distance_rate_time-031",
+    "id": "cse-num-distance_rate_time-030",
     "exam": "cse",
     "levels": [
       "professional",
@@ -713,7 +690,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-032",
+    "id": "cse-num-distance_rate_time-031",
     "exam": "cse",
     "levels": [
       "professional",
@@ -736,7 +713,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-033",
+    "id": "cse-num-distance_rate_time-032",
     "exam": "cse",
     "levels": [
       "professional",
@@ -759,30 +736,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-034",
-    "exam": "cse",
-    "levels": [
-      "professional",
-      "subprofessional"
-    ],
-    "section": "numerical",
-    "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 45 km/h and returns along the same road at 30 km/h. What is its average speed for the whole trip?",
-    "choices": [
-      "41 km/h",
-      "36 km/h",
-      "75 km/h",
-      "37.5 km/h"
-    ],
-    "answer": 1,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 45 × 30 ÷ (45 + 30) = 36 km/h.",
-    "source": null,
-    "method": "computed",
-    "status": "verified",
-    "difficulty": 3
-  },
-  {
-    "id": "cse-num-distance_rate_time-035",
+    "id": "cse-num-distance_rate_time-033",
     "exam": "cse",
     "levels": [
       "professional",
@@ -805,7 +759,7 @@
     "difficulty": 1
   },
   {
-    "id": "cse-num-distance_rate_time-036",
+    "id": "cse-num-distance_rate_time-034",
     "exam": "cse",
     "levels": [
       "professional",
@@ -828,7 +782,7 @@
     "difficulty": 2
   },
   {
-    "id": "cse-num-distance_rate_time-037",
+    "id": "cse-num-distance_rate_time-035",
     "exam": "cse",
     "levels": [
       "professional",
@@ -851,6 +805,52 @@
     "difficulty": 2
   },
   {
+    "id": "cse-num-distance_rate_time-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "distance_rate_time",
+    "stem": "A car travels from town A to town B at 70 km/h and returns along the same road at 30 km/h. What is its average speed for the whole trip?",
+    "choices": [
+      "50 km/h",
+      "100 km/h",
+      "47 km/h",
+      "42 km/h"
+    ],
+    "answer": 3,
+    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 70 × 30 ÷ (70 + 30) = 42 km/h.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 3
+  },
+  {
+    "id": "cse-num-distance_rate_time-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "numerical",
+    "topic": "distance_rate_time",
+    "stem": "Two buses leave towns 340 km apart at the same time and drive toward each other, one at 40 km/h and the other at 45 km/h. After how many hours do they meet?",
+    "choices": [
+      "68 hours",
+      "5 hours",
+      "7.56 hours",
+      "4 hours"
+    ],
+    "answer": 3,
+    "explanation": "They close the gap at 40 + 45 = 85 km/h. Time = 340 ÷ 85 = 4 hours.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
     "id": "cse-num-distance_rate_time-038",
     "exam": "cse",
     "levels": [
@@ -859,19 +859,19 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 80 km/h and returns along the same road at 20 km/h. What is its average speed for the whole trip?",
+    "stem": "Two buses leave towns 900 km apart at the same time and drive toward each other, one at 70 km/h and the other at 80 km/h. After how many hours do they meet?",
     "choices": [
-      "37 km/h",
-      "50 km/h",
-      "32 km/h",
-      "100 km/h"
+      "7 hours",
+      "11.25 hours",
+      "90 hours",
+      "6 hours"
     ],
-    "answer": 2,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 80 × 20 ÷ (80 + 20) = 32 km/h.",
+    "answer": 3,
+    "explanation": "They close the gap at 70 + 80 = 150 km/h. Time = 900 ÷ 150 = 6 hours.",
     "source": null,
     "method": "computed",
     "status": "verified",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": "cse-num-distance_rate_time-039",
@@ -882,19 +882,19 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 60 km/h and returns along the same road at 20 km/h. What is its average speed for the whole trip?",
+    "stem": "A car travels at a steady 90 km/h for 150 minutes. How far does it go?",
     "choices": [
-      "40 km/h",
-      "80 km/h",
-      "35 km/h",
-      "30 km/h"
+      "90 km",
+      "225 km",
+      "13,500 km",
+      "135 km"
     ],
-    "answer": 3,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 60 × 20 ÷ (60 + 20) = 30 km/h.",
+    "answer": 1,
+    "explanation": "150 minutes = 2.5 hours. Distance = 90 × 2.5 = 225 km.",
     "source": null,
     "method": "computed",
     "status": "verified",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "id": "cse-num-distance_rate_time-040",
@@ -905,18 +905,18 @@
     ],
     "section": "numerical",
     "topic": "distance_rate_time",
-    "stem": "A jeepney travels from town A to town B at 30 km/h and returns along the same road at 20 km/h. What is its average speed for the whole trip?",
+    "stem": "Two buses leave towns 625 km apart at the same time and drive toward each other, one at 60 km/h and the other at 65 km/h. After how many hours do they meet?",
     "choices": [
-      "24 km/h",
-      "29 km/h",
-      "50 km/h",
-      "25 km/h"
+      "125 hours",
+      "5 hours",
+      "6 hours",
+      "9.62 hours"
     ],
-    "answer": 0,
-    "explanation": "Average speed = total distance ÷ total time, not the average of the two speeds. For equal distances it is 2 × 30 × 20 ÷ (30 + 20) = 24 km/h.",
+    "answer": 1,
+    "explanation": "They close the gap at 60 + 65 = 125 km/h. Time = 625 ÷ 125 = 5 hours.",
     "source": null,
     "method": "computed",
     "status": "verified",
-    "difficulty": 3
+    "difficulty": 2
   }
 ]

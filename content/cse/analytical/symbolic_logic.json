@@ -161,7 +161,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If Carla gets a promotion, then the budget is approved.\"",
+    "stem": "Which statement means the same as the following?\n\"If Carla gets a promotion, then the budget is approved.\"",
     "choices": [
       "If the budget is not approved, then Carla does not get a promotion.",
       "If Carla does not get a promotion, then the budget is not approved.",
@@ -249,7 +249,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If Ben attends the seminar, then the alarm rings.\"",
+    "stem": "Which statement means the same as the following?\n\"If Ben attends the seminar, then the alarm rings.\"",
     "choices": [
       "If Ben attends the seminar, then the alarm does not ring.",
       "If the alarm rings, then Ben attends the seminar.",
@@ -271,7 +271,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If the team wins, then the library is open.\"",
+    "stem": "Which statement means the same as the following?\n\"If the team wins, then the library is open.\"",
     "choices": [
       "If the library is not open, then the team does not win.",
       "If the library is open, then the team wins.",
@@ -337,7 +337,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If the library is open, then the shipment arrives.\"",
+    "stem": "Which statement means the same as the following?\n\"If the library is open, then the shipment arrives.\"",
     "choices": [
       "If the shipment arrives, then the library is open.",
       "If the library is not open, then the shipment does not arrive.",
@@ -535,7 +535,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If the project is finished, then Carla gets a promotion.\"",
+    "stem": "Which statement means the same as the following?\n\"If the project is finished, then Carla gets a promotion.\"",
     "choices": [
       "If the project is not finished, then Carla does not get a promotion.",
       "If Carla gets a promotion, then the project is finished.",
@@ -557,7 +557,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If the shipment arrives, then the bus is late.\"",
+    "stem": "Which statement means the same as the following?\n\"If the shipment arrives, then the bus is late.\"",
     "choices": [
       "If the bus is not late, then the shipment does not arrive.",
       "If the shipment does not arrive, then the bus is not late.",
@@ -667,7 +667,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If the office opens early, then the shipment arrives.\"",
+    "stem": "Which statement means the same as the following?\n\"If the office opens early, then the shipment arrives.\"",
     "choices": [
       "If the office does not open early, then the shipment does not arrive.",
       "If the office opens early, then the shipment does not arrive.",
@@ -799,7 +799,7 @@
     ],
     "section": "analytical",
     "topic": "symbolic_logic",
-    "stem": "Which statement means the same as: \"If the shipment arrives, then the team wins.\"",
+    "stem": "Which statement means the same as the following?\n\"If the shipment arrives, then the team wins.\"",
     "choices": [
       "If the team wins, then the shipment arrives.",
       "If the shipment arrives, then the team does not win.",

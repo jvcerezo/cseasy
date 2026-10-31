@@ -16,7 +16,7 @@
       "na"
     ],
     "answer": 1,
-    "explanation": "Ginagamit ang \"nang\" bilang pang-abay na naglalarawan kung paano ginawa ang kilos (tumakbo nang mabilis).",
+    "explanation": "Ginagamit ang \"nang\" upang iugnay ang pandiwa sa pang-abay na pamaraan na nagsasabi kung paano ginawa ang kilos (tumakbo nang mabilis).",
     "source": null,
     "method": "llm",
     "status": "verified",
@@ -450,7 +450,7 @@
     ],
     "section": "verbal",
     "topic": "filipino_grammar",
-    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nBukas, ___ kami sa probinsya.",
+    "stem": "Piliin ang angkop na salita upang mabuo ang pangungusap.\nBukas, ___ kami sa probinsiya.",
     "choices": [
       "nagpunta",
       "pupunta",

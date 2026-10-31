@@ -8,6 +8,7 @@ distractors from the mistakes test-takers actually make.
 
 from __future__ import annotations
 
+import math
 import random
 from fractions import Fraction
 from typing import Callable
@@ -29,10 +30,6 @@ ITEMS = [
 def _op(d: int) -> str:
     """6 -> '+ 6', -7 -> '− 7' for readable worked solutions."""
     return f"+ {d}" if d >= 0 else f"− {-d}"
-
-
-def _coef(k: int) -> str:
-    return "" if k == 1 else str(k)
 
 
 def _q(rng: random.Random, topic: str, **kwargs) -> dict:
@@ -185,7 +182,7 @@ def percentage(rng: random.Random) -> dict:
             rng, "percentage",
             stem=f"{part:,} is what percent of {whole:,}?",
             answer=p,
-            distractors=[100 - p, p + 5, p * 2],
+            distractors=[100 - p, p * 10, Fraction(p, 10), p * 2],
             explanation=f"{part:,} ÷ {whole:,} = {p / 100:g}, which is {p}%.",
             difficulty=1, fmt=fmt.pct, filler_step=5,
         )
@@ -290,7 +287,9 @@ def _clean_pairs(limit: int, combine: Callable[[int, int], Fraction]) -> list[tu
 
 
 TOGETHER = _clean_pairs(61, lambda x, y: Fraction(x * y, x + y))
-FILL_DRAIN = _clean_pairs(61, lambda x, y: Fraction(x * y, y - x))
+# Fill times capped at two days: a drain almost as fast as the inlet gives
+# technically right but absurd answers (hundreds of hours).
+FILL_DRAIN = [p for p in _clean_pairs(61, lambda x, y: Fraction(x * y, y - x)) if p[2] <= 48]
 
 
 def work(rng: random.Random) -> dict:
@@ -336,7 +335,7 @@ def work(rng: random.Random) -> dict:
 ROUND_TRIPS = [
     (x, y, avg)
     for x, y, avg in _clean_pairs(91, lambda x, y: Fraction(2 * x * y, x + y))
-    if x % 5 == 0 and y % 5 == 0
+    if x % 5 == 0 and y % 5 == 0 and x >= 20  # no walking-pace trips
 ]
 
 
@@ -350,7 +349,7 @@ def motion(rng: random.Random) -> dict:
         return _q(
             rng, "distance_rate_time",
             stem=(
-                f"A jeepney travels from town A to town B at {a} km/h and returns along the same road "
+                f"A car travels from town A to town B at {a} km/h and returns along the same road "
                 f"at {b} km/h. What is its average speed for the whole trip?"
             ),
             answer=avg,
@@ -417,7 +416,8 @@ def age(rng: random.Random) -> dict:
             distractors=[younger, older + n, k * (younger + n)],
             explanation=(
                 f"Let {b} = x, so {a} = {k}x. In {n} years: {k}x + {n} = {m}(x + {n}). "
-                f"So {_coef(k - m)}x = {n * (m - 1)}, x = {younger}. {a} is {k} × {younger} = {older}."
+                + (f"So x = {younger}. " if k - m == 1 else f"So {k - m}x = {n * (m - 1)}, x = {younger}. ")
+                + f"{a} is {k} × {younger} = {older}."
             ),
             difficulty=3, fmt=fmt.num,
         )
@@ -555,6 +555,22 @@ def average(rng: random.Random) -> dict:
 
 # ------------------------------------------------------------------- fractions
 
+def _reduce_step(num: int, den: int) -> str:
+    """"num/den", followed by its lowest terms when that differs."""
+    raw = f"{num}/{den}"
+    reduced = fmt.frac(Fraction(num, den))
+    return raw if reduced == raw else f"{raw} = {reduced}"
+
+
+def _add_explanation(x: Fraction, y: Fraction) -> str:
+    lcd = math.lcm(x.denominator, y.denominator)
+    a, b = x.numerator * (lcd // x.denominator), y.numerator * (lcd // y.denominator)
+    return (
+        f"Use the least common denominator, {lcd}: {fmt.frac(x)} + {fmt.frac(y)} = "
+        f"{a}/{lcd} + {b}/{lcd} = " + _reduce_step(a + b, lcd) + "."
+    )
+
+
 def fractions(rng: random.Random) -> dict:
     kind = rng.choice(["add", "multiply", "divide", "order_of_operations"])
 
@@ -595,11 +611,7 @@ def fractions(rng: random.Random) -> dict:
                 x * y,
                 Fraction(x.numerator + y.numerator, x.denominator * y.denominator),
             ],
-            explanation=(
-                f"Use a common denominator: {xs} + {ys} = "
-                f"{x.numerator * y.denominator}/{x.denominator * y.denominator} + "
-                f"{y.numerator * x.denominator}/{x.denominator * y.denominator} = {fmt.frac(ans)}."
-            ),
+            explanation=_add_explanation(x, y),
             difficulty=1, fmt=fmt.frac, filler_step=Fraction(1, ans.denominator),
         )
 
@@ -610,7 +622,10 @@ def fractions(rng: random.Random) -> dict:
             stem=f"Simplify: {xs} × {ys}",
             answer=ans,
             distractors=[x / y, x + y, Fraction(x.numerator * y.numerator, x.denominator + y.denominator)],
-            explanation=f"Multiply across: ({x.numerator} × {y.numerator}) / ({x.denominator} × {y.denominator}) = {fmt.frac(ans)}.",
+            explanation=(
+                f"Multiply across: ({x.numerator} × {y.numerator}) / ({x.denominator} × {y.denominator}) = "
+                + _reduce_step(x.numerator * y.numerator, x.denominator * y.denominator) + "."
+            ),
             difficulty=1, fmt=fmt.frac, filler_step=Fraction(1, ans.denominator),
         )
 
@@ -620,7 +635,10 @@ def fractions(rng: random.Random) -> dict:
         stem=f"Simplify: {xs} ÷ {ys}",
         answer=ans,
         distractors=[x * y, y / x, x - y],
-        explanation=f"Multiply by the reciprocal: {xs} × {y.denominator}/{y.numerator} = {fmt.frac(ans)}.",
+        explanation=(
+            f"Multiply by the reciprocal: {xs} × {y.denominator}/{y.numerator} = "
+            + _reduce_step(x.numerator * y.denominator, x.denominator * y.numerator) + "."
+        ),
         difficulty=2, fmt=fmt.frac, filler_step=Fraction(1, ans.denominator),
     )
 
