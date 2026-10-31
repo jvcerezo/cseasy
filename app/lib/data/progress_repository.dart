@@ -4,6 +4,7 @@ import 'package:drift/drift.dart';
 
 import '../core/content/question.dart';
 import '../core/quiz/mock_exam.dart';
+import '../core/quiz/readiness.dart' show Tally;
 import '../core/quiz/scheduler.dart';
 import 'app_database.dart';
 
@@ -173,6 +174,23 @@ class ProgressRepository {
                 attempts: r.read<int>('attempts'),
                 correct: r.read<int>('correct'),
               ),
+          },
+        );
+  }
+
+  /// Per-topic tallies of answers given at or after [since].
+  Stream<Map<String, Tally>> watchTopicTalliesSince(DateTime since) {
+    return _db
+        .customSelect(
+          'SELECT topic, COUNT(*) AS attempts, SUM(correct) AS correct '
+          'FROM attempts WHERE answered_at >= ? GROUP BY topic',
+          variables: [Variable.withDateTime(since)],
+          readsFrom: {_db.attempts},
+        )
+        .watch()
+        .map(
+          (rows) => {
+            for (final r in rows) r.read<String>('topic'): Tally(r.read<int>('attempts'), r.read<int>('correct')),
           },
         );
   }

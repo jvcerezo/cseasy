@@ -6,6 +6,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../core/content/question.dart';
 import '../../core/content/topic_labels.dart';
 import '../../core/quiz/quiz_session.dart';
+import '../../core/quiz/readiness.dart';
 import '../../core/quiz/round_picker.dart';
 import '../../core/strings.dart';
 import '../../data/progress_providers.dart';
@@ -66,6 +67,20 @@ class ReviewScope extends PracticeScope {
   int get hashCode => (ReviewScope).hashCode;
 }
 
+/// A round aimed at the user's weakest recent topics.
+class WeakSpotScope extends PracticeScope {
+  const WeakSpotScope();
+
+  @override
+  String get title => Strings.weakSpotDrill;
+
+  @override
+  bool operator ==(Object other) => other is WeakSpotScope;
+
+  @override
+  int get hashCode => (WeakSpotScope).hashCode;
+}
+
 final practiceControllerProvider =
     NotifierProvider.autoDispose.family<PracticeController, QuizSession?, PracticeScope>(
   PracticeController.new,
@@ -89,6 +104,13 @@ class PracticeController extends AutoDisposeFamilyNotifier<QuizSession?, Practic
         pickRound(bank.bySection(section), cards, count: practiceRoundSize),
       ReviewScope() =>
         pickReview(bank.byId, cards, now: DateTime.now(), count: practiceRoundSize),
+      WeakSpotScope() => pickWeakSpots(
+          bank.questions,
+          cards,
+          {for (final w in ref.read(readinessProvider)?.weakTopics ?? const <WeakTopic>[]) w.topic},
+          now: DateTime.now(),
+          count: practiceRoundSize,
+        ),
     };
     return questions.isEmpty ? null : QuizSession.of(questions);
   }

@@ -18,6 +18,8 @@ import 'package:cseasy/features/onboarding/level_picker_screen.dart';
 import 'package:cseasy/features/premium/entitlement_controller.dart';
 import 'package:cseasy/features/premium/paywall_screen.dart';
 import 'package:cseasy/features/premium/store.dart';
+import 'package:cseasy/features/progress/progress_screen.dart';
+import 'package:cseasy/features/settings/settings_screen.dart';
 import 'package:cseasy/features/report/report_sheet.dart';
 import 'package:drift/drift.dart' show DatabaseConnection;
 import 'package:drift/native.dart';
@@ -49,6 +51,7 @@ Future<void> _pumpApp(
   Widget home, {
   String level = 'professional',
   bool premium = false,
+  Map<String, Object> prefsExtra = const {},
 }) async {
   tester.view.physicalSize = const Size(320 * 3, 568 * 3);
   tester.view.devicePixelRatio = 3;
@@ -59,6 +62,7 @@ Future<void> _pumpApp(
   SharedPreferences.setMockInitialValues({
     'exam_level': level,
     if (premium) 'has_full_access': true,
+    ...prefsExtra,
   });
   final prefs = await SharedPreferences.getInstance();
   final db = AppDatabase(DatabaseConnection(NativeDatabase.memory(), closeStreamsSynchronously: true));
@@ -188,6 +192,65 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Send report by email'), findsOneWidget);
     tester.view.resetViewInsets();
+    await _unmount(tester);
+  });
+
+  testWidgets('home with exam date, met goal and largest text size', (tester) async {
+    await _pumpApp(tester, const HomeScreen(), prefsExtra: {
+      'exam_date': '2027-03-14',
+      'daily_goal': 10,
+      'text_scale': 'larger',
+    });
+    expect(find.textContaining('to your exam'), findsOneWidget);
+    await tester.scrollUntilVisible(find.text(Strings.yourReadiness), 200, scrollable: find.byType(Scrollable).first);
+    await _unmount(tester);
+  });
+
+  testWidgets('weak-spot drill with no history explains itself', (tester) async {
+    await _pumpApp(tester, const HomeScreen());
+    await _tapText(tester, Strings.weakSpotDrill);
+    expect(find.text(Strings.noWeakSpots), findsOneWidget);
+    await _unmount(tester);
+  });
+
+  testWidgets('practice feeds the progress screen', (tester) async {
+    await _pumpApp(tester, const HomeScreen());
+    await _tapText(tester, 'Percentage');
+    for (var i = 0; i < 10; i++) {
+      await _tapText(tester, 'A');
+      await tester.tap(find.text(i == 9 ? 'See results' : 'Next'));
+      await _settle(tester);
+    }
+    await _tapText(tester, 'Back to topics');
+    // Home is still scrolled down to the topic; the readiness card is above.
+    await tester.scrollUntilVisible(
+      find.textContaining('Weakest: Percentage'),
+      -300,
+      scrollable: find.byType(Scrollable).first,
+    );
+    await tester.pumpAndSettle();
+    await _tapText(tester, Strings.seeProgress);
+    expect(find.text(Strings.progressTitle), findsOneWidget);
+    await tester.drag(find.byType(ListView).first, const Offset(0, -3000));
+    await tester.pumpAndSettle();
+    await _unmount(tester);
+  });
+
+  testWidgets('progress screen, empty and premium', (tester) async {
+    await _pumpApp(tester, const ProgressScreen(), premium: true, prefsExtra: {'exam_date': '2027-03-14'});
+    expect(find.textContaining('more questions across all sections'), findsOneWidget);
+    await tester.drag(find.byType(ListView).first, const Offset(0, -3000));
+    await tester.pumpAndSettle();
+    await _unmount(tester);
+  });
+
+  testWidgets('settings: change goal, theme and text size', (tester) async {
+    await _pumpApp(tester, const SettingsScreen());
+    await _tapText(tester, '30');
+    await _tapText(tester, Strings.themeDark);
+    await _tapText(tester, TextSize.larger.label);
+    await tester.drag(find.byType(ListView).first, const Offset(0, -3000));
+    await tester.pumpAndSettle();
     await _unmount(tester);
   });
 }

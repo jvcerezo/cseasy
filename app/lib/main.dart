@@ -49,9 +49,29 @@ class _CSEasyAppState extends ConsumerState<CSEasyApp> {
       title: Strings.appName,
       theme: buildTheme(Brightness.light),
       darkTheme: buildTheme(Brightness.dark),
+      themeMode: ref.watch(themeModeProvider),
+      builder: (context, child) => _AppTextSize(factor: ref.watch(textSizeProvider).factor, child: child!),
       home: ExitGuard(
         child: ref.watch(examLevelProvider) == null ? const LevelPickerScreen() : const HomeScreen(),
       ),
+    );
+  }
+}
+
+/// Scales text by the in-app size setting on top of the system font size.
+class _AppTextSize extends StatelessWidget {
+  final double factor;
+  final Widget child;
+
+  const _AppTextSize({required this.factor, required this.child});
+
+  @override
+  Widget build(BuildContext context) {
+    if (factor == 1.0) return child;
+    final media = MediaQuery.of(context);
+    return MediaQuery(
+      data: media.copyWith(textScaler: TextScaler.linear(media.textScaler.scale(1) * factor)),
+      child: child,
     );
   }
 }

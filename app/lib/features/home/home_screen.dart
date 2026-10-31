@@ -5,9 +5,11 @@ import '../../core/content/question.dart';
 import '../../core/content/question_bank.dart';
 import '../../core/content/topic_labels.dart';
 import '../../core/strings.dart';
+import '../../core/theme/app_theme.dart';
 import '../../data/progress_providers.dart';
 import '../../data/progress_repository.dart';
 import '../../core/quiz/mock_exam.dart';
+import '../../core/quiz/readiness.dart';
 import '../../data/settings_providers.dart';
 import '../mock/mock_screen.dart';
 import '../premium/entitlement_controller.dart';
@@ -17,6 +19,8 @@ import '../premium/study_bank.dart';
 import '../onboarding/level_picker_screen.dart';
 import '../practice/practice_controller.dart';
 import '../practice/practice_screen.dart';
+import '../progress/progress_screen.dart';
+import '../settings/settings_screen.dart';
 
 void _openPractice(BuildContext context, PracticeScope scope) {
   Navigator.of(context).push(
@@ -48,6 +52,11 @@ class HomeScreen extends ConsumerWidget {
             ),
             icon: const Icon(Icons.swap_horiz, size: 18),
             label: Text(level?.shortLabel ?? ''),
+          ),
+          IconButton(
+            tooltip: Strings.settings,
+            icon: const Icon(Icons.settings_outlined),
+            onPressed: () => SettingsScreen.open(context),
           ),
         ],
       ),
@@ -89,6 +98,8 @@ class _TopicList extends ConsumerWidget {
           child: Text(Strings.tagline),
         ),
         const _ActivityCard(),
+        const SizedBox(height: 12),
+        const _ReadinessCard(),
         if (!isPremium) ...[
           const SizedBox(height: 12),
           _UnlockCard(total: bank.questions.length),
@@ -123,7 +134,11 @@ class _ActivityCard extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final activity = ref.watch(activityProvider).valueOrNull ?? Activity.empty;
     final due = ref.watch(dueCountProvider);
+    final goal = ref.watch(dailyGoalProvider);
+    final examDate = ref.watch(examDateProvider);
+    final now = ref.watch(clockProvider);
     final textTheme = Theme.of(context).textTheme;
+    final goalMet = activity.answeredToday >= goal;
 
     return Card.filled(
       margin: const EdgeInsets.symmetric(horizontal: 16),
@@ -138,7 +153,33 @@ class _ActivityCard extends ConsumerWidget {
                   child: _Stat(value: '${activity.streakDays}', label: Strings.dayStreak),
                 ),
                 Expanded(
-                  child: _Stat(value: '${activity.answeredToday}', label: Strings.answeredToday),
+                  child: _Stat(
+                    value: Strings.goalProgress(activity.answeredToday, goal),
+                    label: Strings.todaysGoal,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            LinearProgressIndicator(
+              value: (activity.answeredToday / goal).clamp(0.0, 1.0),
+              borderRadius: BorderRadius.circular(2),
+              color: goalMet ? QuizColors.of(context).correct : null,
+            ),
+            if (goalMet) ...[
+              const SizedBox(height: 4),
+              Text(Strings.goalMet, style: textTheme.bodySmall),
+            ],
+            const SizedBox(height: 8),
+            Wrap(
+              crossAxisAlignment: WrapCrossAlignment.center,
+              spacing: 8,
+              children: [
+                const Icon(Icons.event, size: 18),
+                if (examDate != null) Text(Strings.examCountdown(daysUntil(examDate, now))),
+                TextButton(
+                  onPressed: () => pickExamDate(context, ref),
+                  child: Text(examDate == null ? Strings.setExamDate : Strings.change),
                 ),
               ],
             ),
@@ -162,6 +203,56 @@ class _ActivityCard extends ConsumerWidget {
                 FilledButton.tonal(
                   onPressed: due == 0 ? null : () => _openPractice(context, const ReviewScope()),
                   child: const Text(Strings.startReview),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _ReadinessCard extends ConsumerWidget {
+  const _ReadinessCard();
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final readiness = ref.watch(readinessProvider);
+    if (readiness == null) return const SizedBox.shrink();
+    final textTheme = Theme.of(context).textTheme;
+    final weakest = readiness.weakTopics.firstOrNull;
+
+    return Card.outlined(
+      margin: const EdgeInsets.symmetric(horizontal: 16),
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(Strings.yourReadiness, style: textTheme.titleMedium),
+            const SizedBox(height: 4),
+            EstimateView(readiness: readiness),
+            if (weakest != null) ...[
+              const SizedBox(height: 4),
+              Text(
+                Strings.weakest(topicLabel(weakest.topic), (weakest.tally.accuracy * 100).round()),
+                style: textTheme.bodyMedium,
+              ),
+            ],
+            const SizedBox(height: 12),
+            Wrap(
+              spacing: 8,
+              runSpacing: 8,
+              children: [
+                FilledButton.tonalIcon(
+                  onPressed: () => _openPractice(context, const WeakSpotScope()),
+                  icon: const Icon(Icons.fitness_center),
+                  label: const Text(Strings.weakSpotDrill),
+                ),
+                OutlinedButton(
+                  onPressed: () => ProgressScreen.open(context),
+                  child: const Text(Strings.seeProgress),
                 ),
               ],
             ),

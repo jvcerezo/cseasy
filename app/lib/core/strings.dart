@@ -77,6 +77,67 @@ abstract final class Strings {
   static const passedRound = 'Passing score. The CSE needs at least 80%.';
   static const failedRound = 'Below passing. The CSE needs at least 80%.';
 
+  static const weakSpotDrill = 'Drill weak spots';
+  static const noWeakSpots =
+      'No weak spots yet. A topic counts as weak once you have answered at least 5 of its questions '
+      'in the last 30 days and scored below 80%.';
+  static const yourReadiness = 'Your readiness';
+  static const estimatedScore = 'estimated score';
+  static const estimateBasis =
+      'The average of your section scores over the last 30 days. It is a guide, not a guarantee; '
+      'take a full mock exam for the real test of readiness.';
+  static const seeProgress = 'See progress';
+  static const progressTitle = 'Progress';
+  static const bySectionRecent = 'By section, last 30 days';
+  static const weakestTopics = 'Weakest topics';
+  static const noWeakTopics = 'No weak topics right now. Every topic you have practiced lately is at 80% or better.';
+  static const mockHistory = 'Mock exam history';
+  static const coverage = 'Coverage';
+  static const setExamDate = 'Set exam date';
+  static const change = 'Change';
+  static const todaysGoal = "today's goal";
+  static const goalMet = 'Daily goal met. Nice work!';
+  static const settings = 'Settings';
+  static const examLevel = 'Exam level';
+  static const examDate = 'Exam date';
+  static const notSet = 'Not set';
+  static const clear = 'Clear';
+  static const dailyGoal = 'Daily goal';
+  static const dailyGoalHint = 'Questions to answer each day.';
+  static const appearance = 'Appearance';
+  static const theme = 'Theme';
+  static const themeSystem = 'System';
+  static const themeLight = 'Light';
+  static const themeDark = 'Dark';
+  static const textSize = 'Text size';
+  static const textSizeHint = "Applied on top of your phone's font size.";
+  static const about = 'About';
+  static const version = 'Version';
+  static const privacyPolicy = 'Privacy policy';
+  static const privacyPolicyUrl = 'https://cseasy.jettimothycerezo.dev/privacy';
+  static const examDateHelp = 'When is your exam?';
+  static const textPreview = 'Which word is closest in meaning to DILIGENT?';
+
+  static String estimateNeeds(int n) =>
+      'Answer $n more ${n == 1 ? 'question' : 'questions'} across all sections to see your estimated score.';
+  static String sectionNeeds(int n) => '$n more ${n == 1 ? 'answer' : 'answers'} needed';
+  static String sectionTally(int correct, int attempts) => '$correct / $attempts correct';
+  static String weakest(String topic, int pct) => 'Weakest: $topic ($pct%)';
+  static String topicAccuracy(int pct, int attempts) => '$pct% of $attempts recent answers';
+  static String examCountdown(int days) => switch (days) {
+        < 0 => 'Your exam date has passed',
+        0 => 'Exam day. Good luck!',
+        1 => 'Exam is tomorrow',
+        _ => '$days days to your exam',
+      };
+  static String goalProgress(int answered, int goal) => '$answered / $goal';
+  static String seenOf(int seen, int total) => '$seen of $total questions seen';
+  static String masteredCount(int n) => '$n learned (answered right across spaced reviews)';
+  static String pace(int perDay) =>
+      'See about $perDay new ${perDay == 1 ? 'question' : 'questions'} a day to cover everything before exam day.';
+  static String mockLabel(bool full, int items) => full ? 'Full mock · $items items' : 'Mini mock · $items items';
+  static String percent(double ratio) => '${(ratio * 100).round()}%';
+
   static String questionCount(int n) => n == 1 ? '1 question' : '$n questions';
   static String topicProgress(int seen, int total, int accuracyPct) =>
       seen == 0 ? '$total questions' : '$seen of $total seen · $accuracyPct% correct';

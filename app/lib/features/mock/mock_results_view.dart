@@ -4,7 +4,7 @@ import '../../core/quiz/mock_exam.dart';
 import '../../core/strings.dart';
 import '../../core/theme/app_theme.dart';
 import '../../shared/widgets/question_parts.dart';
-import '../practice/results_view.dart' show passingRatio;
+import '../../core/quiz/readiness.dart' show passingRatio;
 
 class MockResultsView extends StatelessWidget {
   final MockSession session;

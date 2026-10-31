@@ -29,10 +29,13 @@ class PracticeScreen extends ConsumerWidget {
     if (session == null) {
       return Scaffold(
         appBar: AppBar(title: Text(scope.title)),
-        body: const Center(
+        body: Center(
           child: Padding(
-            padding: EdgeInsets.all(32),
-            child: Text(Strings.nothingDue, textAlign: TextAlign.center),
+            padding: const EdgeInsets.all(32),
+            child: Text(
+              scope is WeakSpotScope ? Strings.noWeakSpots : Strings.nothingDue,
+              textAlign: TextAlign.center,
+            ),
           ),
         ),
       );
@@ -91,7 +94,7 @@ extension on PracticeScreen {
     final (free, all) = switch (scope) {
       TopicScope(:final topic) => (study.byTopic(topic), full.byTopic(topic)),
       SectionScope(:final section) => (study.bySection(section), full.bySection(section)),
-      ReviewScope() => (const <Question>[], const <Question>[]),
+      ReviewScope() || WeakSpotScope() => (const <Question>[], const <Question>[]),
     };
     return all.length > free.length && free.every((q) => cards.containsKey(q.id));
   }

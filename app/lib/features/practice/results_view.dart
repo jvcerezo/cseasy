@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 
 import '../../core/quiz/quiz_session.dart';
+import '../../core/quiz/readiness.dart' show passingRatio;
 import '../../core/strings.dart';
 import '../../core/theme/app_theme.dart';
 import '../../shared/widgets/question_parts.dart';
-
-/// The CSE passing mark: a general rating of at least 80%.
-const passingRatio = 0.8;
 
 class ResultsView extends StatelessWidget {
   final QuizSession session;

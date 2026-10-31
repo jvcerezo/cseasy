@@ -1,6 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../core/content/question.dart';
+import '../core/quiz/readiness.dart';
 import '../core/quiz/scheduler.dart';
 import 'app_database.dart';
 import 'progress_repository.dart';
@@ -38,4 +39,17 @@ final activityProvider = StreamProvider<Activity>((ref) {
 final mockResultsProvider = StreamProvider<List<MockResultSummary>>((ref) {
   final level = ref.watch(examLevelProvider) ?? ExamLevel.professional;
   return ref.watch(progressRepositoryProvider).watchMockResults(level);
+});
+
+/// Per-topic tallies over the readiness window, ending at [clockProvider].
+final recentTalliesProvider = StreamProvider<Map<String, Tally>>((ref) {
+  final since = ref.watch(clockProvider).subtract(readinessWindow);
+  return ref.watch(progressRepositoryProvider).watchTopicTalliesSince(since);
+});
+
+/// Readiness for the chosen level; null while the bank is loading.
+final readinessProvider = Provider<Readiness?>((ref) {
+  final bank = ref.watch(examBankProvider).valueOrNull;
+  if (bank == null) return null;
+  return computeReadiness(bank, ref.watch(recentTalliesProvider).valueOrNull ?? const {});
 });
