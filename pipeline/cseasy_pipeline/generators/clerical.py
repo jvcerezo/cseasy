@@ -41,7 +41,7 @@ def filing_order(rng: random.Random) -> dict:
         }
         if len(people) == 5 and len({p[0] for p in people}) < 5:
             break
-    people = list(people)
+    people = sorted(people)  # set order follows the hash seed; sort before shuffling
     rng.shuffle(people)
     filed = sorted(people)
     place = rng.randrange(5)

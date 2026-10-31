@@ -623,5 +623,505 @@
     "difficulty": 3,
     "source_doc": "ra_9729",
     "quote": "the State has adopted the Philippine Agenda 21 framework which espouses sustainable development"
+  },
+  {
+    "id": "cse-gen-environment-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, how often must the National Solid Waste Management Commission meet?",
+    "choices": [
+      "At least once a month",
+      "At least once a year",
+      "At least twice a year",
+      "At least once every three months"
+    ],
+    "answer": 0,
+    "explanation": "Section 6 of RA 9003 provides: \"The Commission shall meet at least once a month.\"",
+    "source": "RA 9003, Sec. 6",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "The Commission shall meet at least once a month."
+  },
+  {
+    "id": "cse-gen-environment-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, the collection of which wastes is the responsibility of the municipality or city rather than the barangay?",
+    "choices": [
+      "Biodegradable wastes",
+      "Compostable wastes",
+      "Non-recyclable materials and special wastes",
+      "Reusable wastes"
+    ],
+    "answer": 2,
+    "explanation": "Section 10 assigns segregation and collection of biodegradable, compostable and reusable wastes to the barangay, while \"the collection of non-recyclable materials and special wastes shall be the responsibility of the municipality or city.\"",
+    "source": "RA 9003, Sec. 10",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "the collection of non-recyclable materials and special wastes shall be the responsibility of the municipality or city"
+  },
+  {
+    "id": "cse-gen-environment-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, the Provincial Solid Waste Management Board is chaired by the:",
+    "choices": [
+      "DENR regional director",
+      "governor",
+      "provincial environment and natural resources officer",
+      "provincial engineer"
+    ],
+    "answer": 1,
+    "explanation": "Section 11 establishes a Provincial Solid Waste Management Board in every province, \"to be chaired by the governor.\"",
+    "source": "RA 9003, Sec. 11",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "ra_9003",
+    "quote": "A Provincial Solid Waste Management board shall be established in every province, to be chaired by the governor."
+  },
+  {
+    "id": "cse-gen-environment-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, who heads the City or Municipal Solid Waste Management Board?",
+    "choices": [
+      "The city or municipal mayor",
+      "The DENR community environment officer",
+      "The president of the Association of Barangay Councils",
+      "The city or municipal engineer"
+    ],
+    "answer": 0,
+    "explanation": "Section 12 provides that the board \"shall be composed of the city or municipal mayor as head.\" The president of the Association of Barangay Councils is only a member.",
+    "source": "RA 9003, Sec. 12",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "ra_9003",
+    "quote": "The City or Municipal Solid Waste Management Board shall be composed of the city or municipal mayor as head"
+  },
+  {
+    "id": "cse-gen-environment-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, solid waste containers shall be marked for on-site collection as \"compostable\", \"non-recyclable\", \"recyclable\" or:",
+    "choices": [
+      "\"imported\"",
+      "\"special waste\"",
+      "\"residual\"",
+      "\"burnable\""
+    ],
+    "answer": 1,
+    "explanation": "Section 22(b) lists the markings \"compostable\", \"non-recyclable\", \"recyclable\" or \"special waste\", or any other classification the Commission may set.",
+    "source": "RA 9003, Sec. 22",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "properly marked or identified for on-site collection as \"compostable\", \"non-recyclable\", \"recyclable\" or \"special waste\""
+  },
+  {
+    "id": "cse-gen-environment-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, which agency formulates and implements a coding system (eco-labeling) for packaging materials and products?",
+    "choices": [
+      "Department of Health (DOH)",
+      "Department of Trade and Industry (DTI)",
+      "Department of Environment and Natural Resources (DENR)",
+      "Department of Science and Technology (DOST)"
+    ],
+    "answer": 1,
+    "explanation": "Section 27 states: \"The DTI shall formulate and implement a coding system for packaging materials and products to facilitate waste and recycling and re-use.\"",
+    "source": "RA 9003, Sec. 27",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "The DTI shall formulate and implement a coding system for packaging materials and products"
+  },
+  {
+    "id": "cse-gen-environment-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, the presence of non-environmentally acceptable packaging in a commercial establishment constitutes:",
+    "choices": [
+      "grounds for automatic closure of the establishment",
+      "conclusive proof of a violation",
+      "a minor infraction punished by a warning only",
+      "a rebuttable presumption of intent to sell it at retail"
+    ],
+    "answer": 3,
+    "explanation": "Section 30 provides that such packaging in the establishment \"shall constitute a rebuttable presumption of intent to sell or convey the same at retail to customers.\" A rebuttable presumption can be disproved by evidence.",
+    "source": "RA 9003, Sec. 30",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 3,
+    "source_doc": "ra_9003",
+    "quote": "shall constitute a rebuttable presumption of intent to sell or convey the same at retail to customers"
+  },
+  {
+    "id": "cse-gen-environment-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, a person convicted of littering or dumping waste in public places (Sec. 48, par. 1) may be fined:",
+    "choices": [
+      "₱300 to ₱1,000, or made to render community service of 1 to 15 days, or both",
+      "₱5,000 to ₱10,000 with no option for community service",
+      "₱10,000 to ₱200,000 for every day of violation",
+      "₱1,000 to ₱3,000, or imprisoned for 15 days to 6 months, or both"
+    ],
+    "answer": 0,
+    "explanation": "Section 49(a) punishes violations of Sec. 48 paragraph (1) with a fine of ₱300 to ₱1,000 or community service of 1 to 15 days, or both. The ₱10,000 to ₱200,000 daily fine belongs to the Clean Water Act.",
+    "source": "RA 9003, Sec. 49",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 3,
+    "source_doc": "ra_9003",
+    "quote": "fine of not less than Three hundred pesos (P300.00) but not more than One thousand pesos (P1,000.00) or render community service for not less than one (1) day to not more than fifteen (15) days"
+  },
+  {
+    "id": "cse-gen-environment-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under RA 9003, a citizen suit may be filed only after how many days' notice has been given to the public officer and the alleged violator?",
+    "choices": [
+      "60 days",
+      "30 days",
+      "90 days",
+      "15 days"
+    ],
+    "answer": 1,
+    "explanation": "Section 52 states that no suit can be filed \"until after thirty-day (30) notice has been given to the public officer and the alleged violator concerned and no appropriate action has been taken thereon.\"",
+    "source": "RA 9003, Sec. 52",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9003",
+    "quote": "no suit can be filed until after thirty-day (30) notice has been given to the public officer and the alleged violator concerned"
+  },
+  {
+    "id": "cse-gen-environment-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Air Act, the Governing Board for each airshed is headed by the:",
+    "choices": [
+      "Secretary of Environment and Natural Resources",
+      "Secretary of Health",
+      "governor of the largest province in the airshed",
+      "Secretary of Transportation and Communications"
+    ],
+    "answer": 0,
+    "explanation": "Section 9 of RA 8749 provides: \"The Board shall be headed by the Secretary of the Department of Environment and Natural Resources as chairman.\" Governors and mayors of the areas in the airshed are members.",
+    "source": "RA 8749, Sec. 9",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_8749",
+    "quote": "The Board shall be headed by the Secretary of the Department of Environment and Natural Resources as chairman."
+  },
+  {
+    "id": "cse-gen-environment-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "The Clean Air Act prohibits the manufacture, import and sale of:",
+    "choices": [
+      "leaded gasoline",
+      "diesel fuel",
+      "liquefied petroleum gas",
+      "unleaded gasoline"
+    ],
+    "answer": 0,
+    "explanation": "Section 29 of RA 8749 bans the manufacture, import, sale and distribution of \"leaded gasoline and engines and components requiring the use of leaded gasoline.\"",
+    "source": "RA 8749, Sec. 29",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "ra_8749",
+    "quote": "no person shall manufacture, import, sell, offer for sale, introduce into commerce, convey or otherwise dispose of, in any manner, leaded gasoline"
+  },
+  {
+    "id": "cse-gen-environment-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "The Clean Air Act directs the DENR to phase out ozone-depleting substances consistent with which international agreement?",
+    "choices": [
+      "Paris Agreement",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Basel Convention"
+    ],
+    "answer": 2,
+    "explanation": "Section 30 of RA 8749 refers to \"the Montreal Protocol on Substances that Deplete the Ozone Layer.\" The Kyoto Protocol and Paris Agreement deal with greenhouse gases; the Basel Convention deals with hazardous waste shipments.",
+    "source": "RA 8749, Sec. 30",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "ra_8749",
+    "quote": "Consistent with the terms and conditions of the Montreal Protocol on Substances that Deplete the Ozone Layer"
+  },
+  {
+    "id": "cse-gen-environment-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Air Act, who may file a civil, criminal or administrative action to enforce the law?",
+    "choices": [
+      "Only a person directly injured by the pollution",
+      "Only the local government unit concerned",
+      "Only the DENR",
+      "Any citizen"
+    ],
+    "answer": 3,
+    "explanation": "Section 41 (Citizen Suits) provides that \"any citizen may file an appropriate civil, criminal or administrative action in the proper courts.\"",
+    "source": "RA 8749, Sec. 41",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "ra_8749",
+    "quote": "any citizen may file an appropriate civil, criminal or administrative action in the proper courts"
+  },
+  {
+    "id": "cse-gen-environment-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Section 21 of the Clean Air Act (RA 8749) assigns the implementation of the emission standards for motor vehicles to which agency?",
+    "choices": [
+      "Department of Health (DOH)",
+      "Department of Transportation and Communications (DOTC), now the DOTr",
+      "Department of Energy (DOE)",
+      "Department of Trade and Industry (DTI)"
+    ],
+    "answer": 1,
+    "explanation": "Section 21(a) of RA 8749 states: \"The DOTC shall implement the emission standards for motor vehicles.\" The DENR sets and reviews the standards themselves. The DOTC has since become the Department of Transportation (DOTr).",
+    "source": "RA 8749, Sec. 21",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_8749",
+    "quote": "The DOTC shall implement the emission standards for motor vehicles"
+  },
+  {
+    "id": "cse-gen-environment-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "The Clean Water Act primarily applies to the abatement and control of pollution from:",
+    "choices": [
+      "land-based sources",
+      "ships at sea",
+      "foreign countries",
+      "air emissions of factories"
+    ],
+    "answer": 0,
+    "explanation": "Section 3 of RA 9275 says the Act \"shall primarily apply to the abatement and control of pollution from land based sources,\" though its standards and penalties apply whatever the source.",
+    "source": "RA 9275, Sec. 3",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9275",
+    "quote": "it shall primarily apply to the abatement and control of pollution from land based sources"
+  },
+  {
+    "id": "cse-gen-environment-041",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Water Act, the legal authorization granted by the DENR to discharge wastewater is the:",
+    "choices": [
+      "discharge permit",
+      "mayor's permit",
+      "certificate of non-coverage",
+      "environmental compliance certificate"
+    ],
+    "answer": 0,
+    "explanation": "Section 14 of RA 9275: \"The discharge permit shall be the legal authorization granted by the Department to discharge wastewater.\"",
+    "source": "RA 9275, Sec. 14",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9275",
+    "quote": "The discharge permit shall be the legal authorization granted by the Department to discharge wastewater"
+  },
+  {
+    "id": "cse-gen-environment-042",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Water Act, a person who commits a prohibited act may be fined:",
+    "choices": [
+      "₱10,000 to ₱200,000 for every day of violation",
+      "₱300 to ₱1,000 per violation",
+      "₱1,000 to ₱10,000 for every day of violation",
+      "₱50,000 to ₱500,000 per year"
+    ],
+    "answer": 0,
+    "explanation": "Section 28 of RA 9275 sets a fine of \"not less than Ten thousand pesos (P10,000.00) nor more than Two hundred thousand pesos (P200,000.00) for every day of violation,\" increased by 10% every two years for inflation.",
+    "source": "RA 9275, Sec. 28",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9275",
+    "quote": "not less than Ten thousand pesos (P10,000.00) nor more than Two hundred thousand pesos (P200,000.00) for every day of violation"
+  },
+  {
+    "id": "cse-gen-environment-043",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Clean Water Act, which agency prepares the national program on sewerage and septage management?",
+    "choices": [
+      "Department of Trade and Industry (DTI)",
+      "Department of Health (DOH)",
+      "Department of the Interior and Local Government (DILG)",
+      "Department of Public Works and Highways (DPWH)"
+    ],
+    "answer": 3,
+    "explanation": "Section 7 of RA 9275 assigns the National Sewerage and Septage Management Program to the DPWH, in coordination with the DENR, LGUs and other agencies.",
+    "source": "RA 9275, Sec. 7",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9275",
+    "quote": "The Department of Public Works and Highways (DPWH), through its relevant attached agencies, in coordination with the Department, local government units (LGUs) and other concerned agencies"
+  },
+  {
+    "id": "cse-gen-environment-044",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Climate Change Act, how often does the Climate Change Commission meet?",
+    "choices": [
+      "Once a month",
+      "Twice a year",
+      "Once every three months, or as often as the Chairperson deems necessary",
+      "Once a year, during the President's State of the Nation Address"
+    ],
+    "answer": 2,
+    "explanation": "Section 6 of RA 9729: \"The Commission shall meet once every three (3) months, or as often as may be deemed necessary by the Chairperson.\"",
+    "source": "RA 9729, Sec. 6",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9729",
+    "quote": "The Commission shall meet once every three (3) months, or as often as may be deemed necessary by the Chairperson."
+  },
+  {
+    "id": "cse-gen-environment-045",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "environment",
+    "stem": "Under the Climate Change Act, the adjustment in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities, is called:",
+    "choices": [
+      "adaptation",
+      "climate variability",
+      "mitigation",
+      "adaptive capacity"
+    ],
+    "answer": 0,
+    "explanation": "Section 3(a) of RA 9729 defines \"Adaptation\" in these words. Adaptive capacity is the ability of systems to adjust; mitigation reduces greenhouse gas emissions.",
+    "source": "RA 9729, Sec. 3(a)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_9729",
+    "quote": "\"Adaptation\" refers to the adjustment in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities."
   }
 ]

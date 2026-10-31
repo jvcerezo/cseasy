@@ -873,5 +873,255 @@
     "difficulty": 2,
     "source_doc": "ra_6713",
     "quote": "Any violation hereof proven in a proper administrative proceeding shall be sufficient cause for removal or dismissal of a public official or employee, even if no criminal prosecution is instituted against him."
+  },
+  {
+    "id": "cse-gen-code_of_conduct-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, public officials and employees must attend to anyone who wants to avail of their office's services and must, at all times, act:",
+    "choices": [
+      "only during scheduled appointments",
+      "promptly and expeditiously",
+      "in order of the client's social standing",
+      "only after clearance from the head of office"
+    ],
+    "answer": 1,
+    "explanation": "Section 5(d) requires officials to \"attend to anyone who wants to avail himself of the services of their offices and must, at all times, act promptly and expeditiously.\"",
+    "source": "RA 6713, Sec. 5(d)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "ra_6713",
+    "quote": "All public officials and employees must attend to anyone who wants to avail himself of the services of their offices and must, at all times, act promptly and expeditiously."
+  },
+  {
+    "id": "cse-gen-code_of_conduct-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, public documents must be made accessible to, and readily available for inspection by, the public:",
+    "choices": [
+      "only upon a court order",
+      "only to employees of the office",
+      "only after the end of the fiscal year",
+      "within reasonable working hours"
+    ],
+    "answer": 3,
+    "explanation": "Section 5(e) provides: \"All public documents must be made accessible to, and readily available for inspection by, the public within reasonable working hours.\"",
+    "source": "RA 6713, Sec. 5(e)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "ra_6713",
+    "quote": "All public documents must be made accessible to, and readily available for inspection by, the public within reasonable working hours."
+  },
+  {
+    "id": "cse-gen-code_of_conduct-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, the reply of a public office to a letter or request from the public must contain:",
+    "choices": [
+      "the action taken on the request",
+      "a copy of the office's citizen's charter",
+      "the signature of the head of agency",
+      "a notarized certification"
+    ],
+    "answer": 0,
+    "explanation": "Section 5(a) requires a response within 15 working days and states: \"The reply must contain the action taken on the request.\"",
+    "source": "RA 6713, Sec. 5(a)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_6713",
+    "quote": "The reply must contain the action taken on the request."
+  },
+  {
+    "id": "cse-gen-code_of_conduct-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, if the duly authorized signatories of an official document are absent, who signs for and in their behalf?",
+    "choices": [
+      "The local mayor",
+      "The head of the agency's legal office",
+      "Any employee of the office",
+      "The official next-in-rank or officer in charge"
+    ],
+    "answer": 3,
+    "explanation": "Section 5(c) provides: \"In the absence of duly authorized signatories, the official next-in-rank or officer in charge shall sign for and in their behalf.\"",
+    "source": "RA 6713, Sec. 5(c)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_6713",
+    "quote": "In the absence of duly authorized signatories, the official next-in-rank or officer in charge shall sign for and in their behalf."
+  },
+  {
+    "id": "cse-gen-code_of_conduct-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, public officials must identify and disclose their relatives in the government in the form, manner and frequency prescribed by the:",
+    "choices": [
+      "Civil Service Commission",
+      "Commission on Audit",
+      "Department of Justice",
+      "Office of the Ombudsman"
+    ],
+    "answer": 0,
+    "explanation": "Section 8(B) requires every public official or employee to disclose relatives in the government \"in the form, manner and frequency prescribed by the Civil Service Commission.\"",
+    "source": "RA 6713, Sec. 8(B)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_6713",
+    "quote": "his relatives in the Government in the form, manner and frequency prescribed by the Civil Service Commission"
+  },
+  {
+    "id": "cse-gen-code_of_conduct-041",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, statements such as the SALN become available for copying or reproduction how long after they are filed?",
+    "choices": [
+      "30 working days",
+      "5 working days",
+      "10 working days",
+      "60 working days"
+    ],
+    "answer": 2,
+    "explanation": "Section 8(C)(2): \"Such statements shall be made available for copying or reproduction after ten (10) working days from the time they are filed.\" Separately, they stay available to the public for ten years.",
+    "source": "RA 6713, Sec. 8(C)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 3,
+    "source_doc": "ra_6713",
+    "quote": "Such statements shall be made available for copying or reproduction after ten (10) working days from the time they are filed as required by law."
+  },
+  {
+    "id": "cse-gen-code_of_conduct-042",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, which use of a filed statement of assets and liabilities is unlawful?",
+    "choices": [
+      "Using it for a commercial purpose other than dissemination to the public by news media",
+      "Inspecting it at reasonable hours",
+      "A newspaper publishing it to inform the general public",
+      "Requesting a certified copy and paying the reproduction fee"
+    ],
+    "answer": 0,
+    "explanation": "Section 8(D) makes it unlawful to use a statement for any purpose contrary to morals or public policy, or \"any commercial purpose other than by news and communications media for dissemination to the general public.\"",
+    "source": "RA 6713, Sec. 8(D)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_6713",
+    "quote": "any commercial purpose other than by news and communications media for dissemination to the general public"
+  },
+  {
+    "id": "cse-gen-code_of_conduct-043",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "Under RA 6713, an administrative fine imposed on an erring public official may not exceed the equivalent of:",
+    "choices": [
+      "one month's salary",
+      "one year's salary",
+      "three months' salary",
+      "six months' salary"
+    ],
+    "answer": 3,
+    "explanation": "Section 11(a) provides a fine \"not exceeding the equivalent of six (6) months' salary or suspension not exceeding one (1) year, or removal depending on the gravity of the offense.\"",
+    "source": "RA 6713, Sec. 11(a)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_6713",
+    "quote": "shall be punished with a fine not exceeding the equivalent of six (6) months' salary or suspension not exceeding one (1) year"
+  },
+  {
+    "id": "cse-gen-code_of_conduct-044",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "The penalties under RA 6713 apply to a public official or employee who holds office in which capacity?",
+    "choices": [
+      "Regular and permanent capacity only",
+      "Permanent capacity only",
+      "Elective positions only",
+      "Any capacity, whether casual, temporary, holdover, permanent or regular"
+    ],
+    "answer": 3,
+    "explanation": "Section 11(a) covers any public official or employee \"regardless of whether or not he holds office or employment in a casual, temporary, holdover, permanent or regular capacity.\"",
+    "source": "RA 6713, Sec. 11(a)",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "ra_6713",
+    "quote": "regardless of whether or not he holds office or employment in a casual, temporary, holdover, permanent or regular capacity"
+  },
+  {
+    "id": "cse-gen-code_of_conduct-045",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "code_of_conduct",
+    "stem": "An agency has its own regulation that sets stricter standards of conduct for its employees than RA 6713. Under Section 13 of RA 6713:",
+    "choices": [
+      "the regulation needs the approval of Congress",
+      "RA 6713's less strict standards prevail",
+      "the agency regulation is void",
+      "the agency's stricter standards remain in force"
+    ],
+    "answer": 3,
+    "explanation": "Section 13 states that nothing in the Act \"shall be construed to derogate from any law, or any regulation prescribed by any body or agency, which provides for more stringent standards for its official and employees.\"",
+    "source": "RA 6713, Sec. 13",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 3,
+    "source_doc": "ra_6713",
+    "quote": "Nothing in this Act shall be construed to derogate from any law, or any regulation prescribed by any body or agency, which provides for more stringent standards for its official and employees."
   }
 ]

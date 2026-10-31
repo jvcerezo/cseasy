@@ -70,3 +70,16 @@ What the real Career Service Exam (CSE-PPT) covers, compared with the CSEasy ban
   walisan/walisin, punasan/punasin, pahiran/pahirin), where common usage differs from the
   KWF rule, and a "Neither ... were" error item. Both answers are defensible in each case.
 
+
+## Changes made (2026-10-31)
+
+- General Information: human rights 24 -> 51 (more UDHR articles, the rest of the Bill of
+  Rights, the Commission on Human Rights), environment 25 -> 45 (RA 9003, 8749, 9275, 9729),
+  RA 6713 35 -> 45. Every item quotes its source verbatim and passed two independent
+  blind solves (Sonnet, then Opus).
+- Clerical (Sub-Professional): filing and spelling 60 -> 90 each. The filing generator
+  depended on Python's hash seed (it listed a set unsorted); it is now deterministic, with a
+  test, so the filing set was regenerated before launch. The new items passed a blind solve
+  (one solver slip on a filing item, key rechecked by hand).
+- Still in scope only: no ARTA, history or geography items, since the CSC coverage above
+  doesn't list them.

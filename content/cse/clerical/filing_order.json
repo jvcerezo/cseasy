@@ -7,7 +7,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCruz, Jose C.\nGarcia, Juan P.\nGarcia, Ana H.\nMendoza, Joy D.\nMendoza, Rhea B.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMendoza, Rhea B.\nGarcia, Juan P.\nGarcia, Ana H.\nMendoza, Joy D.\nCruz, Jose C.\nWhich name comes third?",
     "choices": [
       "Garcia, Ana H.",
       "Garcia, Juan P.",
@@ -29,7 +29,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nAquino, Juan F.\nAquino, Ana B.\nAquino, Elena L.\nAquino, Ramon M.\nGonzales, Elena B.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nAquino, Ana B.\nAquino, Ramon M.\nAquino, Elena L.\nAquino, Juan F.\nGonzales, Elena B.\nWhich name comes third?",
     "choices": [
       "Aquino, Ramon M.",
       "Aquino, Juan F.",
@@ -51,7 +51,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Grace B.\nLopez, Vincent F.\nLopez, Jose R.\nFlores, Ana M.\nGonzales, Joy T.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Vincent F.\nFlores, Grace B.\nFlores, Ana M.\nGonzales, Joy T.\nLopez, Jose R.\nWhich name comes third?",
     "choices": [
       "Lopez, Jose R.",
       "Flores, Ana M.",
@@ -73,7 +73,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nBautista, Joy V.\nNavarro, Ana T.\nNavarro, Rodel V.\nBautista, Ana S.\nBautista, Juan B.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nBautista, Juan B.\nNavarro, Ana T.\nBautista, Joy V.\nNavarro, Rodel V.\nBautista, Ana S.\nWhich name comes third?",
     "choices": [
       "Bautista, Ana S.",
       "Bautista, Juan B.",
@@ -95,7 +95,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSalazar, Jose P.\nFlores, Vincent P.\nMercado, Ana H.\nFlores, Ramon T.\nFlores, Elena C.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMercado, Ana H.\nSalazar, Jose P.\nFlores, Ramon T.\nFlores, Vincent P.\nFlores, Elena C.\nWhich name comes second?",
     "choices": [
       "Mercado, Ana H.",
       "Flores, Vincent P.",
@@ -117,7 +117,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Miguel L.\nVillanueva, Ramon L.\nGonzales, Miguel H.\nGonzales, Rhea E.\nFlores, Andrea R.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGonzales, Miguel H.\nGonzales, Rhea E.\nFlores, Miguel L.\nVillanueva, Ramon L.\nFlores, Andrea R.\nWhich name comes second?",
     "choices": [
       "Gonzales, Rhea E.",
       "Flores, Andrea R.",
@@ -139,7 +139,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nDomingo, Rodel R.\nLopez, Paolo L.\nDomingo, Ana L.\nDomingo, Andrea V.\nDomingo, Noel F.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nDomingo, Andrea V.\nDomingo, Noel F.\nLopez, Paolo L.\nDomingo, Ana L.\nDomingo, Rodel R.\nWhich name comes first?",
     "choices": [
       "Domingo, Andrea V.",
       "Domingo, Rodel R.",
@@ -161,7 +161,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Andrea S.\nRivera, Grace C.\nAguilar, Liza N.\nAguilar, Jose V.\nTorres, Liza N.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nAguilar, Jose V.\nAguilar, Liza N.\nTorres, Andrea S.\nTorres, Liza N.\nRivera, Grace C.\nWhich name comes fourth?",
     "choices": [
       "Aguilar, Liza N.",
       "Rivera, Grace C.",
@@ -183,7 +183,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Liza D.\nMendoza, Teresa D.\nMendoza, Liza A.\nRamos, Liza P.\nLopez, Cristina L.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Liza D.\nMendoza, Teresa D.\nLopez, Cristina L.\nMendoza, Liza A.\nRamos, Liza P.\nWhich name comes fifth?",
     "choices": [
       "Ramos, Liza P.",
       "Lopez, Cristina L.",
@@ -205,7 +205,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMercado, Cristina R.\nValdez, Rhea L.\nAguilar, Rhea E.\nAguilar, Elena M.\nMercado, Elena C.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nAguilar, Rhea E.\nValdez, Rhea L.\nAguilar, Elena M.\nMercado, Cristina R.\nMercado, Elena C.\nWhich name comes third?",
     "choices": [
       "Mercado, Elena C.",
       "Aguilar, Elena M.",
@@ -227,7 +227,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Vincent H.\nVillanueva, Joy A.\nTorres, Ramon G.\nVillanueva, Rhea B.\nTorres, Paolo S.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Paolo S.\nTorres, Vincent H.\nVillanueva, Rhea B.\nVillanueva, Joy A.\nTorres, Ramon G.\nWhich name comes fourth?",
     "choices": [
       "Torres, Vincent H.",
       "Villanueva, Joy A.",
@@ -271,7 +271,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nOcampo, Noel C.\nRamos, Ana R.\nAquino, Juan V.\nAquino, Andrea M.\nAquino, Teresa N.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nOcampo, Noel C.\nAquino, Juan V.\nAquino, Teresa N.\nRamos, Ana R.\nAquino, Andrea M.\nWhich name comes second?",
     "choices": [
       "Aquino, Juan V.",
       "Ocampo, Noel C.",
@@ -293,7 +293,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nDomingo, Jose P.\nDomingo, Cristina L.\nVillanueva, Maria G.\nDomingo, Ana D.\nDomingo, Maria R.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nVillanueva, Maria G.\nDomingo, Cristina L.\nDomingo, Maria R.\nDomingo, Jose P.\nDomingo, Ana D.\nWhich name comes fourth?",
     "choices": [
       "Domingo, Cristina L.",
       "Domingo, Maria R.",
@@ -315,7 +315,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Vincent R.\nDomingo, Andrea R.\nDomingo, Rhea D.\nDomingo, Mark P.\nNavarro, Juan C.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Vincent R.\nNavarro, Juan C.\nDomingo, Rhea D.\nDomingo, Andrea R.\nDomingo, Mark P.\nWhich name comes second?",
     "choices": [
       "Domingo, Mark P.",
       "Navarro, Juan C.",
@@ -337,7 +337,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Joy T.\nPascual, Liza M.\nDomingo, Jose R.\nPascual, Ramon H.\nPascual, Ana C.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Ana C.\nPascual, Ramon H.\nPascual, Joy T.\nDomingo, Jose R.\nPascual, Liza M.\nWhich name comes second?",
     "choices": [
       "Pascual, Liza M.",
       "Pascual, Joy T.",
@@ -359,7 +359,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSoriano, Andrea E.\nBautista, Andrea A.\nBautista, Joy S.\nRivera, Andrea N.\nRivera, Paolo V.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSoriano, Andrea E.\nRivera, Andrea N.\nRivera, Paolo V.\nBautista, Andrea A.\nBautista, Joy S.\nWhich name comes second?",
     "choices": [
       "Bautista, Andrea A.",
       "Rivera, Andrea N.",
@@ -381,7 +381,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMendoza, Joy C.\nMendoza, Ana J.\nVillanueva, Rhea S.\nRivera, Rodel M.\nRivera, Jose C.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMendoza, Ana J.\nRivera, Jose C.\nVillanueva, Rhea S.\nRivera, Rodel M.\nMendoza, Joy C.\nWhich name comes fourth?",
     "choices": [
       "Mendoza, Ana J.",
       "Mendoza, Joy C.",
@@ -403,7 +403,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Paolo B.\nNavarro, Noel F.\nDomingo, Andrea F.\nNavarro, Teresa F.\nFlores, Liza T.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Liza T.\nNavarro, Noel F.\nDomingo, Andrea F.\nNavarro, Teresa F.\nNavarro, Paolo B.\nWhich name comes third?",
     "choices": [
       "Navarro, Noel F.",
       "Navarro, Paolo B.",
@@ -425,7 +425,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Teresa M.\nFlores, Cristina J.\nValdez, Elena V.\nRivera, Rodel T.\nFlores, Cristina C.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Cristina J.\nValdez, Elena V.\nFlores, Cristina C.\nFlores, Teresa M.\nRivera, Rodel T.\nWhich name comes second?",
     "choices": [
       "Flores, Teresa M.",
       "Flores, Cristina J.",
@@ -447,7 +447,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSoriano, Ana C.\nSoriano, Teresa H.\nSoriano, Elena P.\nFlores, Rodel V.\nSoriano, Ana E.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSoriano, Ana E.\nSoriano, Teresa H.\nSoriano, Elena P.\nFlores, Rodel V.\nSoriano, Ana C.\nWhich name comes fifth?",
     "choices": [
       "Soriano, Ana C.",
       "Flores, Rodel V.",
@@ -469,7 +469,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCruz, Miguel V.\nSoriano, Ana D.\nCruz, Elena A.\nCruz, Jose H.\nValdez, Ana E.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCruz, Miguel V.\nSoriano, Ana D.\nCruz, Jose H.\nCruz, Elena A.\nValdez, Ana E.\nWhich name comes first?",
     "choices": [
       "Cruz, Miguel V.",
       "Soriano, Ana D.",
@@ -491,7 +491,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Joy C.\nTorres, Paolo V.\nSantos, Elena A.\nTorres, Liza B.\nSantos, Andrea G.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Liza B.\nTorres, Joy C.\nSantos, Elena A.\nTorres, Paolo V.\nSantos, Andrea G.\nWhich name comes fourth?",
     "choices": [
       "Santos, Andrea G.",
       "Santos, Elena A.",
@@ -513,7 +513,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGarcia, Rodel L.\nPascual, Elena L.\nPascual, Rhea C.\nGarcia, Vincent E.\nGarcia, Rhea B.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGarcia, Rhea B.\nGarcia, Rodel L.\nGarcia, Vincent E.\nPascual, Rhea C.\nPascual, Elena L.\nWhich name comes second?",
     "choices": [
       "Garcia, Vincent E.",
       "Garcia, Rodel L.",
@@ -535,7 +535,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Juan H.\nGonzales, Grace E.\nTorres, Noel M.\nGonzales, Liza C.\nSalazar, Miguel P.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Juan H.\nSalazar, Miguel P.\nGonzales, Liza C.\nTorres, Noel M.\nGonzales, Grace E.\nWhich name comes third?",
     "choices": [
       "Salazar, Miguel P.",
       "Gonzales, Liza C.",
@@ -557,7 +557,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nReyes, Jose H.\nCastillo, Grace F.\nSalazar, Andrea J.\nSalazar, Ramon C.\nSalazar, Teresa S.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSalazar, Ramon C.\nSalazar, Teresa S.\nSalazar, Andrea J.\nReyes, Jose H.\nCastillo, Grace F.\nWhich name comes third?",
     "choices": [
       "Reyes, Jose H.",
       "Salazar, Andrea J.",
@@ -579,7 +579,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Rodel J.\nMendoza, Juan V.\nFlores, Juan A.\nRamos, Teresa H.\nMendoza, Paolo S.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMendoza, Juan V.\nRamos, Teresa H.\nFlores, Rodel J.\nFlores, Juan A.\nMendoza, Paolo S.\nWhich name comes fifth?",
     "choices": [
       "Flores, Rodel J.",
       "Mendoza, Juan V.",
@@ -601,7 +601,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Ana F.\nNavarro, Carlo C.\nRivera, Noel S.\nNavarro, Joy A.\nGarcia, Rodel E.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Joy A.\nNavarro, Ana F.\nRivera, Noel S.\nGarcia, Rodel E.\nNavarro, Carlo C.\nWhich name comes fourth?",
     "choices": [
       "Navarro, Carlo C.",
       "Navarro, Joy A.",
@@ -623,7 +623,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCruz, Paolo J.\nManalo, Vincent T.\nManalo, Grace L.\nManalo, Elena V.\nLopez, Paolo E.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Paolo E.\nManalo, Elena V.\nManalo, Vincent T.\nCruz, Paolo J.\nManalo, Grace L.\nWhich name comes third?",
     "choices": [
       "Lopez, Paolo E.",
       "Manalo, Elena V.",
@@ -645,7 +645,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nOcampo, Rodel V.\nTorres, Cristina L.\nTorres, Rhea S.\nSalazar, Liza L.\nTorres, Mark J.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nOcampo, Rodel V.\nTorres, Cristina L.\nTorres, Rhea S.\nTorres, Mark J.\nSalazar, Liza L.\nWhich name comes third?",
     "choices": [
       "Torres, Mark J.",
       "Torres, Cristina L.",
@@ -667,7 +667,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nValdez, Miguel B.\nValdez, Carlo C.\nVillanueva, Rodel M.\nValdez, Teresa N.\nBautista, Teresa M.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nValdez, Carlo C.\nBautista, Teresa M.\nValdez, Teresa N.\nVillanueva, Rodel M.\nValdez, Miguel B.\nWhich name comes third?",
     "choices": [
       "Valdez, Miguel B.",
       "Bautista, Teresa M.",
@@ -689,7 +689,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Cristina E.\nSantos, Rhea C.\nPascual, Noel A.\nPascual, Rodel R.\nSantos, Teresa V.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSantos, Teresa V.\nPascual, Cristina E.\nSantos, Rhea C.\nPascual, Noel A.\nPascual, Rodel R.\nWhich name comes third?",
     "choices": [
       "Santos, Rhea C.",
       "Pascual, Rodel R.",
@@ -711,7 +711,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Liza M.\nNavarro, Carlo M.\nSoriano, Grace H.\nSoriano, Miguel F.\nRivera, Carlo S.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRivera, Carlo S.\nNavarro, Liza M.\nSoriano, Grace H.\nNavarro, Carlo M.\nSoriano, Miguel F.\nWhich name comes fifth?",
     "choices": [
       "Soriano, Miguel F.",
       "Navarro, Liza M.",
@@ -733,7 +733,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nReyes, Joy D.\nReyes, Rhea J.\nMendoza, Jose D.\nBautista, Andrea A.\nMendoza, Cristina H.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nReyes, Rhea J.\nMendoza, Jose D.\nReyes, Joy D.\nBautista, Andrea A.\nMendoza, Cristina H.\nWhich name comes fifth?",
     "choices": [
       "Mendoza, Jose D.",
       "Mendoza, Cristina H.",
@@ -755,7 +755,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCruz, Miguel G.\nRivera, Juan C.\nRivera, Paolo L.\nFlores, Maria E.\nRivera, Ramon M.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRivera, Paolo L.\nRivera, Juan C.\nCruz, Miguel G.\nFlores, Maria E.\nRivera, Ramon M.\nWhich name comes fourth?",
     "choices": [
       "Rivera, Paolo L.",
       "Rivera, Juan C.",
@@ -777,7 +777,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Liza J.\nManalo, Ramon B.\nFlores, Ramon F.\nFlores, Carlo R.\nManalo, Ramon G.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nManalo, Ramon B.\nFlores, Ramon F.\nFlores, Carlo R.\nManalo, Ramon G.\nFlores, Liza J.\nWhich name comes second?",
     "choices": [
       "Flores, Ramon F.",
       "Flores, Liza J.",
@@ -799,7 +799,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Teresa L.\nCruz, Jose D.\nNavarro, Miguel E.\nAquino, Rodel A.\nCruz, Andrea G.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCruz, Jose D.\nNavarro, Miguel E.\nCruz, Andrea G.\nNavarro, Teresa L.\nAquino, Rodel A.\nWhich name comes third?",
     "choices": [
       "Cruz, Jose D.",
       "Cruz, Andrea G.",
@@ -821,7 +821,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nAguilar, Noel H.\nAguilar, Ramon R.\nOcampo, Juan P.\nMendoza, Maria T.\nOcampo, Mark S.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nOcampo, Mark S.\nAguilar, Ramon R.\nMendoza, Maria T.\nAguilar, Noel H.\nOcampo, Juan P.\nWhich name comes third?",
     "choices": [
       "Aguilar, Noel H.",
       "Ocampo, Juan P.",
@@ -843,7 +843,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nOcampo, Grace P.\nOcampo, Rhea A.\nGarcia, Noel C.\nGarcia, Grace G.\nGarcia, Mark F.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nOcampo, Grace P.\nGarcia, Grace G.\nOcampo, Rhea A.\nGarcia, Mark F.\nGarcia, Noel C.\nWhich name comes fourth?",
     "choices": [
       "Ocampo, Grace P.",
       "Garcia, Noel C.",
@@ -865,7 +865,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Elena A.\nCruz, Juan L.\nLopez, Elena T.\nLopez, Rhea S.\nCruz, Juan G.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Elena T.\nCruz, Juan G.\nLopez, Elena A.\nLopez, Rhea S.\nCruz, Juan L.\nWhich name comes first?",
     "choices": [
       "Lopez, Elena T.",
       "Lopez, Elena A.",
@@ -887,7 +887,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Cristina S.\nOcampo, Noel J.\nOcampo, Carlo L.\nPascual, Liza P.\nOcampo, Joy E.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Cristina S.\nOcampo, Noel J.\nPascual, Liza P.\nOcampo, Carlo L.\nOcampo, Joy E.\nWhich name comes third?",
     "choices": [
       "Ocampo, Noel J.",
       "Pascual, Cristina S.",
@@ -909,7 +909,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGarcia, Rodel N.\nSantos, Elena C.\nSantos, Carlo A.\nSantos, Mark G.\nGarcia, Mark M.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGarcia, Mark M.\nSantos, Elena C.\nGarcia, Rodel N.\nSantos, Carlo A.\nSantos, Mark G.\nWhich name comes fourth?",
     "choices": [
       "Garcia, Rodel N.",
       "Santos, Elena C.",
@@ -931,7 +931,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Grace P.\nBautista, Liza H.\nFlores, Carlo E.\nRamos, Rhea S.\nFlores, Juan L.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Carlo E.\nBautista, Liza H.\nFlores, Juan L.\nFlores, Grace P.\nRamos, Rhea S.\nWhich name comes third?",
     "choices": [
       "Flores, Carlo E.",
       "Bautista, Liza H.",
@@ -953,7 +953,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCastillo, Maria T.\nAquino, Mark C.\nSoriano, Teresa T.\nSoriano, Elena A.\nSoriano, Grace M.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSoriano, Grace M.\nSoriano, Teresa T.\nCastillo, Maria T.\nSoriano, Elena A.\nAquino, Mark C.\nWhich name comes second?",
     "choices": [
       "Castillo, Maria T.",
       "Soriano, Grace M.",
@@ -975,7 +975,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSalazar, Vincent H.\nAguilar, Juan V.\nFlores, Miguel G.\nAguilar, Juan S.\nFlores, Cristina R.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Cristina R.\nAguilar, Juan S.\nFlores, Miguel G.\nSalazar, Vincent H.\nAguilar, Juan V.\nWhich name comes first?",
     "choices": [
       "Flores, Miguel G.",
       "Aguilar, Juan S.",
@@ -997,7 +997,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Cristina J.\nCruz, Cristina P.\nRivera, Andrea J.\nPascual, Maria M.\nRivera, Juan V.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Maria M.\nRivera, Juan V.\nPascual, Cristina J.\nRivera, Andrea J.\nCruz, Cristina P.\nWhich name comes second?",
     "choices": [
       "Pascual, Maria M.",
       "Cruz, Cristina P.",
@@ -1019,7 +1019,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Maria N.\nReyes, Grace L.\nRamos, Paolo F.\nRamos, Paolo N.\nRamos, Ana H.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Paolo N.\nRamos, Maria N.\nRamos, Paolo F.\nRamos, Ana H.\nReyes, Grace L.\nWhich name comes second?",
     "choices": [
       "Ramos, Paolo F.",
       "Ramos, Maria N.",
@@ -1041,7 +1041,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Paolo P.\nGonzales, Ana V.\nReyes, Grace P.\nReyes, Rhea F.\nGonzales, Grace C.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nReyes, Rhea F.\nTorres, Paolo P.\nGonzales, Grace C.\nReyes, Grace P.\nGonzales, Ana V.\nWhich name comes fifth?",
     "choices": [
       "Reyes, Grace P.",
       "Torres, Paolo P.",
@@ -1063,7 +1063,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Mark M.\nSantos, Rodel J.\nSantos, Noel G.\nSantos, Joy S.\nPascual, Ana V.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSantos, Noel G.\nPascual, Ana V.\nRamos, Mark M.\nSantos, Rodel J.\nSantos, Joy S.\nWhich name comes fifth?",
     "choices": [
       "Santos, Rodel J.",
       "Pascual, Ana V.",
@@ -1085,7 +1085,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nManalo, Paolo D.\nManalo, Vincent E.\nMercado, Carlo N.\nBautista, Vincent F.\nManalo, Mark S.\nWhich name comes third?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMercado, Carlo N.\nBautista, Vincent F.\nManalo, Mark S.\nManalo, Paolo D.\nManalo, Vincent E.\nWhich name comes third?",
     "choices": [
       "Manalo, Vincent E.",
       "Bautista, Vincent F.",
@@ -1107,7 +1107,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Mark S.\nTorres, Ramon R.\nNavarro, Miguel D.\nTorres, Ana B.\nMercado, Miguel H.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Ramon R.\nMercado, Miguel H.\nTorres, Ana B.\nTorres, Mark S.\nNavarro, Miguel D.\nWhich name comes first?",
     "choices": [
       "Torres, Ana B.",
       "Torres, Mark S.",
@@ -1129,7 +1129,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSalazar, Miguel L.\nSalazar, Maria A.\nSalazar, Noel D.\nReyes, Elena G.\nSalazar, Vincent J.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSalazar, Miguel L.\nReyes, Elena G.\nSalazar, Maria A.\nSalazar, Noel D.\nSalazar, Vincent J.\nWhich name comes fourth?",
     "choices": [
       "Salazar, Miguel L.",
       "Reyes, Elena G.",
@@ -1151,7 +1151,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Miguel B.\nRamos, Rhea H.\nRamos, Miguel S.\nManalo, Jose T.\nRamos, Grace F.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Rhea H.\nRamos, Miguel S.\nManalo, Jose T.\nRamos, Miguel B.\nRamos, Grace F.\nWhich name comes fourth?",
     "choices": [
       "Ramos, Grace F.",
       "Ramos, Miguel S.",
@@ -1173,7 +1173,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSalazar, Teresa G.\nNavarro, Miguel F.\nCastillo, Liza J.\nSalazar, Jose V.\nNavarro, Paolo A.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSalazar, Jose V.\nCastillo, Liza J.\nSalazar, Teresa G.\nNavarro, Miguel F.\nNavarro, Paolo A.\nWhich name comes second?",
     "choices": [
       "Navarro, Paolo A.",
       "Salazar, Jose V.",
@@ -1195,7 +1195,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nAquino, Teresa S.\nTorres, Mark G.\nTorres, Mark J.\nTorres, Elena L.\nTorres, Joy J.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Mark J.\nTorres, Joy J.\nTorres, Mark G.\nTorres, Elena L.\nAquino, Teresa S.\nWhich name comes first?",
     "choices": [
       "Aquino, Teresa S.",
       "Torres, Mark G.",
@@ -1217,7 +1217,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSantos, Teresa M.\nLopez, Liza A.\nSantos, Joy V.\nLopez, Mark B.\nVillanueva, Vincent R.\nWhich name comes fifth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Liza A.\nVillanueva, Vincent R.\nSantos, Joy V.\nLopez, Mark B.\nSantos, Teresa M.\nWhich name comes fifth?",
     "choices": [
       "Santos, Joy V.",
       "Lopez, Liza A.",
@@ -1239,7 +1239,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGonzales, Joy B.\nSantos, Noel A.\nGonzales, Juan T.\nDomingo, Ramon D.\nGonzales, Rhea N.\nWhich name comes second?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGonzales, Joy B.\nGonzales, Rhea N.\nSantos, Noel A.\nDomingo, Ramon D.\nGonzales, Juan T.\nWhich name comes second?",
     "choices": [
       "Gonzales, Joy B.",
       "Domingo, Ramon D.",
@@ -1261,7 +1261,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nValdez, Ana S.\nRamos, Ana C.\nRamos, Teresa M.\nRamos, Maria M.\nRamos, Rodel V.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nValdez, Ana S.\nRamos, Rodel V.\nRamos, Maria M.\nRamos, Ana C.\nRamos, Teresa M.\nWhich name comes first?",
     "choices": [
       "Ramos, Rodel V.",
       "Ramos, Ana C.",
@@ -1283,7 +1283,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nVillanueva, Vincent L.\nMendoza, Mark F.\nRivera, Vincent F.\nMendoza, Andrea R.\nMendoza, Maria G.\nWhich name comes fourth?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRivera, Vincent F.\nVillanueva, Vincent L.\nMendoza, Mark F.\nMendoza, Andrea R.\nMendoza, Maria G.\nWhich name comes fourth?",
     "choices": [
       "Mendoza, Mark F.",
       "Mendoza, Andrea R.",
@@ -1305,7 +1305,7 @@
     ],
     "section": "clerical",
     "topic": "filing_order",
-    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGonzales, Liza T.\nSalazar, Grace B.\nSalazar, Ramon A.\nCabrera, Vincent B.\nCabrera, Teresa J.\nWhich name comes first?",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCabrera, Teresa J.\nCabrera, Vincent B.\nSalazar, Ramon A.\nGonzales, Liza T.\nSalazar, Grace B.\nWhich name comes first?",
     "choices": [
       "Gonzales, Liza T.",
       "Salazar, Grace B.",
@@ -1314,6 +1314,666 @@
     ],
     "answer": 3,
     "explanation": "Filing order: Cabrera, Teresa J.; Cabrera, Vincent B.; Gonzales, Liza T.; Salazar, Grace B.; Salazar, Ramon A.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-061",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGonzales, Mark J.\nPascual, Ramon C.\nGonzales, Rodel E.\nGonzales, Teresa T.\nPascual, Rhea G.\nWhich name comes fourth?",
+    "choices": [
+      "Gonzales, Mark J.",
+      "Gonzales, Rodel E.",
+      "Gonzales, Teresa T.",
+      "Pascual, Ramon C."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Gonzales, Mark J.; Gonzales, Rodel E.; Gonzales, Teresa T.; Pascual, Ramon C.; Pascual, Rhea G.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-062",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMendoza, Elena R.\nMendoza, Rodel R.\nMendoza, Joy B.\nVillanueva, Cristina P.\nCruz, Jose J.\nWhich name comes first?",
+    "choices": [
+      "Mendoza, Joy B.",
+      "Mendoza, Elena R.",
+      "Mendoza, Rodel R.",
+      "Cruz, Jose J."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Cruz, Jose J.; Mendoza, Elena R.; Mendoza, Joy B.; Mendoza, Rodel R.; Villanueva, Cristina P.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-063",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMercado, Mark C.\nAquino, Maria L.\nAquino, Vincent N.\nMercado, Rodel P.\nMercado, Cristina R.\nWhich name comes second?",
+    "choices": [
+      "Mercado, Mark C.",
+      "Aquino, Vincent N.",
+      "Mercado, Cristina R.",
+      "Aquino, Maria L."
+    ],
+    "answer": 1,
+    "explanation": "Filing order: Aquino, Maria L.; Aquino, Vincent N.; Mercado, Cristina R.; Mercado, Mark C.; Mercado, Rodel P.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-064",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nDomingo, Juan S.\nRivera, Rodel J.\nRivera, Ramon D.\nDomingo, Juan F.\nOcampo, Elena V.\nWhich name comes first?",
+    "choices": [
+      "Domingo, Juan F.",
+      "Domingo, Juan S.",
+      "Ocampo, Elena V.",
+      "Rivera, Ramon D."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Domingo, Juan F.; Domingo, Juan S.; Ocampo, Elena V.; Rivera, Ramon D.; Rivera, Rodel J.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-065",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCabrera, Carlo L.\nVillanueva, Vincent S.\nCabrera, Miguel D.\nCabrera, Rhea G.\nCabrera, Rodel R.\nWhich name comes fourth?",
+    "choices": [
+      "Cabrera, Rhea G.",
+      "Cabrera, Miguel D.",
+      "Cabrera, Rodel R.",
+      "Cabrera, Carlo L."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Cabrera, Carlo L.; Cabrera, Miguel D.; Cabrera, Rhea G.; Cabrera, Rodel R.; Villanueva, Vincent S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-066",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGarcia, Juan L.\nGarcia, Ramon T.\nManalo, Rhea F.\nVillanueva, Joy T.\nVillanueva, Grace N.\nWhich name comes fourth?",
+    "choices": [
+      "Garcia, Juan L.",
+      "Garcia, Ramon T.",
+      "Manalo, Rhea F.",
+      "Villanueva, Grace N."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Garcia, Juan L.; Garcia, Ramon T.; Manalo, Rhea F.; Villanueva, Grace N.; Villanueva, Joy T.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-067",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSantos, Elena H.\nCruz, Ramon L.\nSantos, Juan S.\nCruz, Ramon G.\nManalo, Joy F.\nWhich name comes fourth?",
+    "choices": [
+      "Santos, Elena H.",
+      "Cruz, Ramon G.",
+      "Cruz, Ramon L.",
+      "Manalo, Joy F."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Cruz, Ramon G.; Cruz, Ramon L.; Manalo, Joy F.; Santos, Elena H.; Santos, Juan S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-068",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMendoza, Noel B.\nBautista, Grace J.\nBautista, Paolo L.\nFlores, Paolo E.\nMendoza, Rhea V.\nWhich name comes third?",
+    "choices": [
+      "Bautista, Grace J.",
+      "Mendoza, Noel B.",
+      "Bautista, Paolo L.",
+      "Flores, Paolo E."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Bautista, Grace J.; Bautista, Paolo L.; Flores, Paolo E.; Mendoza, Noel B.; Mendoza, Rhea V.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-069",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRivera, Jose E.\nLopez, Ana E.\nLopez, Ramon C.\nManalo, Ramon V.\nLopez, Joy S.\nWhich name comes fifth?",
+    "choices": [
+      "Rivera, Jose E.",
+      "Lopez, Joy S.",
+      "Lopez, Ana E.",
+      "Lopez, Ramon C."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Lopez, Ana E.; Lopez, Joy S.; Lopez, Ramon C.; Manalo, Ramon V.; Rivera, Jose E.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-070",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCabrera, Grace J.\nCabrera, Jose P.\nCruz, Rodel G.\nGonzales, Carlo S.\nCruz, Miguel F.\nWhich name comes second?",
+    "choices": [
+      "Cruz, Miguel F.",
+      "Cruz, Rodel G.",
+      "Cabrera, Jose P.",
+      "Cabrera, Grace J."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Cabrera, Grace J.; Cabrera, Jose P.; Cruz, Miguel F.; Cruz, Rodel G.; Gonzales, Carlo S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-071",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMercado, Teresa S.\nMercado, Juan F.\nMercado, Noel C.\nAguilar, Rhea L.\nAguilar, Maria L.\nWhich name comes fifth?",
+    "choices": [
+      "Aguilar, Rhea L.",
+      "Mercado, Juan F.",
+      "Mercado, Teresa S.",
+      "Aguilar, Maria L."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Aguilar, Maria L.; Aguilar, Rhea L.; Mercado, Juan F.; Mercado, Noel C.; Mercado, Teresa S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-072",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGarcia, Noel F.\nGarcia, Joy B.\nGarcia, Mark B.\nDomingo, Grace N.\nRamos, Liza R.\nWhich name comes first?",
+    "choices": [
+      "Garcia, Joy B.",
+      "Garcia, Mark B.",
+      "Garcia, Noel F.",
+      "Domingo, Grace N."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Domingo, Grace N.; Garcia, Joy B.; Garcia, Mark B.; Garcia, Noel F.; Ramos, Liza R.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-073",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Noel L.\nOcampo, Rhea C.\nOcampo, Ramon T.\nOcampo, Maria H.\nOcampo, Carlo B.\nWhich name comes second?",
+    "choices": [
+      "Ocampo, Maria H.",
+      "Ocampo, Ramon T.",
+      "Ocampo, Rhea C.",
+      "Ocampo, Carlo B."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Ocampo, Carlo B.; Ocampo, Maria H.; Ocampo, Ramon T.; Ocampo, Rhea C.; Ramos, Noel L.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-074",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nLopez, Cristina P.\nGarcia, Elena B.\nVillanueva, Teresa N.\nGarcia, Miguel N.\nGarcia, Miguel B.\nWhich name comes second?",
+    "choices": [
+      "Lopez, Cristina P.",
+      "Garcia, Miguel B.",
+      "Garcia, Elena B.",
+      "Garcia, Miguel N."
+    ],
+    "answer": 1,
+    "explanation": "Filing order: Garcia, Elena B.; Garcia, Miguel B.; Garcia, Miguel N.; Lopez, Cristina P.; Villanueva, Teresa N.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-075",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nReyes, Paolo C.\nReyes, Andrea L.\nAquino, Rodel L.\nReyes, Mark H.\nAquino, Ana E.\nWhich name comes third?",
+    "choices": [
+      "Reyes, Andrea L.",
+      "Aquino, Ana E.",
+      "Aquino, Rodel L.",
+      "Reyes, Mark H."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Aquino, Ana E.; Aquino, Rodel L.; Reyes, Andrea L.; Reyes, Mark H.; Reyes, Paolo C.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-076",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nVillanueva, Jose N.\nVillanueva, Rhea T.\nSantos, Teresa C.\nVillanueva, Grace V.\nSoriano, Teresa M.\nWhich name comes first?",
+    "choices": [
+      "Santos, Teresa C.",
+      "Villanueva, Jose N.",
+      "Villanueva, Grace V.",
+      "Soriano, Teresa M."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Santos, Teresa C.; Soriano, Teresa M.; Villanueva, Grace V.; Villanueva, Jose N.; Villanueva, Rhea T.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-077",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nTorres, Grace F.\nTorres, Elena M.\nLopez, Elena S.\nTorres, Paolo M.\nVillanueva, Cristina S.\nWhich name comes third?",
+    "choices": [
+      "Torres, Paolo M.",
+      "Lopez, Elena S.",
+      "Torres, Elena M.",
+      "Torres, Grace F."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Lopez, Elena S.; Torres, Elena M.; Torres, Grace F.; Torres, Paolo M.; Villanueva, Cristina S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-078",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nGonzales, Miguel R.\nNavarro, Cristina E.\nNavarro, Cristina R.\nNavarro, Grace T.\nGonzales, Rhea M.\nWhich name comes fourth?",
+    "choices": [
+      "Gonzales, Miguel R.",
+      "Gonzales, Rhea M.",
+      "Navarro, Cristina R.",
+      "Navarro, Cristina E."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Gonzales, Miguel R.; Gonzales, Rhea M.; Navarro, Cristina E.; Navarro, Cristina R.; Navarro, Grace T.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-079",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCastillo, Elena N.\nOcampo, Elena F.\nOcampo, Elena M.\nSoriano, Rodel G.\nSoriano, Rhea H.\nWhich name comes third?",
+    "choices": [
+      "Soriano, Rhea H.",
+      "Ocampo, Elena F.",
+      "Ocampo, Elena M.",
+      "Castillo, Elena N."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Castillo, Elena N.; Ocampo, Elena F.; Ocampo, Elena M.; Soriano, Rhea H.; Soriano, Rodel G.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-080",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nAquino, Paolo M.\nAquino, Andrea N.\nNavarro, Rodel S.\nSantos, Ramon L.\nAquino, Maria C.\nWhich name comes third?",
+    "choices": [
+      "Aquino, Paolo M.",
+      "Aquino, Andrea N.",
+      "Navarro, Rodel S.",
+      "Aquino, Maria C."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Aquino, Andrea N.; Aquino, Maria C.; Aquino, Paolo M.; Navarro, Rodel S.; Santos, Ramon L.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-081",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCabrera, Rhea N.\nManalo, Liza S.\nLopez, Elena P.\nCabrera, Ramon C.\nCabrera, Cristina G.\nWhich name comes first?",
+    "choices": [
+      "Cabrera, Cristina G.",
+      "Cabrera, Ramon C.",
+      "Cabrera, Rhea N.",
+      "Lopez, Elena P."
+    ],
+    "answer": 0,
+    "explanation": "Filing order: Cabrera, Cristina G.; Cabrera, Ramon C.; Cabrera, Rhea N.; Lopez, Elena P.; Manalo, Liza S.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-082",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nMendoza, Ana M.\nCastillo, Vincent V.\nMendoza, Paolo C.\nMendoza, Rodel T.\nNavarro, Mark M.\nWhich name comes fifth?",
+    "choices": [
+      "Mendoza, Paolo C.",
+      "Navarro, Mark M.",
+      "Castillo, Vincent V.",
+      "Mendoza, Ana M."
+    ],
+    "answer": 1,
+    "explanation": "Filing order: Castillo, Vincent V.; Mendoza, Ana M.; Mendoza, Paolo C.; Mendoza, Rodel T.; Navarro, Mark M.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-083",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Joy L.\nRamos, Vincent F.\nRamos, Joy D.\nTorres, Noel D.\nTorres, Liza N.\nWhich name comes third?",
+    "choices": [
+      "Ramos, Joy L.",
+      "Ramos, Joy D.",
+      "Ramos, Vincent F.",
+      "Torres, Liza N."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Ramos, Joy D.; Ramos, Joy L.; Ramos, Vincent F.; Torres, Liza N.; Torres, Noel D.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-084",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCruz, Ramon S.\nGarcia, Liza B.\nGarcia, Ramon R.\nGarcia, Paolo P.\nCruz, Carlo P.\nWhich name comes fourth?",
+    "choices": [
+      "Cruz, Carlo P.",
+      "Cruz, Ramon S.",
+      "Garcia, Paolo P.",
+      "Garcia, Liza B."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Cruz, Carlo P.; Cruz, Ramon S.; Garcia, Liza B.; Garcia, Paolo P.; Garcia, Ramon R.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-085",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nNavarro, Vincent G.\nNavarro, Noel H.\nLopez, Vincent C.\nNavarro, Vincent R.\nRivera, Vincent V.\nWhich name comes second?",
+    "choices": [
+      "Lopez, Vincent C.",
+      "Navarro, Vincent G.",
+      "Navarro, Vincent R.",
+      "Navarro, Noel H."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Lopez, Vincent C.; Navarro, Noel H.; Navarro, Vincent G.; Navarro, Vincent R.; Rivera, Vincent V.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-086",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nCastillo, Ana C.\nAquino, Jose H.\nAquino, Andrea P.\nAquino, Maria E.\nCastillo, Grace D.\nWhich name comes third?",
+    "choices": [
+      "Aquino, Andrea P.",
+      "Aquino, Maria E.",
+      "Aquino, Jose H.",
+      "Castillo, Ana C."
+    ],
+    "answer": 1,
+    "explanation": "Filing order: Aquino, Andrea P.; Aquino, Jose H.; Aquino, Maria E.; Castillo, Ana C.; Castillo, Grace D.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-087",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nSoriano, Rhea V.\nDomingo, Juan T.\nManalo, Mark J.\nSoriano, Rodel C.\nManalo, Grace V.\nWhich name comes second?",
+    "choices": [
+      "Manalo, Mark J.",
+      "Domingo, Juan T.",
+      "Soriano, Rhea V.",
+      "Manalo, Grace V."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Domingo, Juan T.; Manalo, Grace V.; Manalo, Mark J.; Soriano, Rhea V.; Soriano, Rodel C.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-088",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nFlores, Teresa P.\nFlores, Mark P.\nFlores, Teresa V.\nPascual, Ana F.\nPascual, Miguel G.\nWhich name comes fourth?",
+    "choices": [
+      "Flores, Mark P.",
+      "Flores, Teresa P.",
+      "Pascual, Ana F.",
+      "Flores, Teresa V."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Flores, Mark P.; Flores, Teresa P.; Flores, Teresa V.; Pascual, Ana F.; Pascual, Miguel G.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-089",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nRamos, Carlo N.\nMendoza, Rhea V.\nRamos, Miguel L.\nRamos, Carlo V.\nMendoza, Jose R.\nWhich name comes first?",
+    "choices": [
+      "Mendoza, Rhea V.",
+      "Ramos, Carlo V.",
+      "Mendoza, Jose R.",
+      "Ramos, Carlo N."
+    ],
+    "answer": 2,
+    "explanation": "Filing order: Mendoza, Jose R.; Mendoza, Rhea V.; Ramos, Carlo N.; Ramos, Carlo V.; Ramos, Miguel L.",
+    "source": null,
+    "method": "computed",
+    "status": "verified",
+    "difficulty": 2
+  },
+  {
+    "id": "cse-cle-filing_order-090",
+    "exam": "cse",
+    "levels": [
+      "subprofessional"
+    ],
+    "section": "clerical",
+    "topic": "filing_order",
+    "stem": "Arrange these names in alphabetical filing order (surname, then first name, then middle initial):\nPascual, Carlo J.\nBautista, Ana G.\nValdez, Liza G.\nBautista, Maria N.\nPascual, Ramon D.\nWhich name comes fifth?",
+    "choices": [
+      "Bautista, Maria N.",
+      "Pascual, Carlo J.",
+      "Bautista, Ana G.",
+      "Valdez, Liza G."
+    ],
+    "answer": 3,
+    "explanation": "Filing order: Bautista, Ana G.; Bautista, Maria N.; Pascual, Carlo J.; Pascual, Ramon D.; Valdez, Liza G.",
     "source": null,
     "method": "computed",
     "status": "verified",

@@ -598,5 +598,680 @@
     "difficulty": 2,
     "source_doc": "constitution_1987",
     "quote": "No involuntary servitude in any form shall exist except as a punishment for a crime whereof the party shall have been duly convicted."
+  },
+  {
+    "id": "cse-gen-human_rights-025",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 2 of the UDHR, everyone is entitled to the rights and freedoms in the Declaration:",
+    "choices": [
+      "without distinction of any kind, such as race, colour, sex or religion",
+      "subject to the approval of their national government",
+      "only if they are citizens of an independent state",
+      "only after reaching the age of majority"
+    ],
+    "answer": 0,
+    "explanation": "Article 2 entitles everyone to the Declaration's rights \"without distinction of any kind, such as race, colour, sex, language, religion,\" and adds that no distinction may be made based on the status of a person's country or territory.",
+    "source": "UDHR, Art. 2",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind"
+  },
+  {
+    "id": "cse-gen-human_rights-026",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 6 of the UDHR states that everyone has the right to recognition everywhere as:",
+    "choices": [
+      "a voter in free elections",
+      "a citizen of the country of his birth",
+      "a member of a family",
+      "a person before the law"
+    ],
+    "answer": 3,
+    "explanation": "Article 6 reads: \"Everyone has the right to recognition everywhere as a person before the law.\"",
+    "source": "UDHR, Art. 6",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right to recognition everywhere as a person before the law."
+  },
+  {
+    "id": "cse-gen-human_rights-027",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "According to Article 7 of the UDHR, all are equal before the law and are entitled without any discrimination to:",
+    "choices": [
+      "the same wage for any kind of work",
+      "equal protection of the law",
+      "an equal share of national wealth",
+      "equal political power"
+    ],
+    "answer": 1,
+    "explanation": "Article 7 provides that \"All are equal before the law and are entitled without any discrimination to equal protection of the law.\"",
+    "source": "UDHR, Art. 7",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "All are equal before the law and are entitled without any discrimination to equal protection of the law."
+  },
+  {
+    "id": "cse-gen-human_rights-028",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 8 of the UDHR, a person whose fundamental rights granted by the constitution or by law are violated has the right to:",
+    "choices": [
+      "an effective remedy by the competent national tribunals",
+      "compensation paid by the United Nations",
+      "asylum in any country of his choice",
+      "a pardon from the head of state"
+    ],
+    "answer": 0,
+    "explanation": "Article 8 gives everyone \"the right to an effective remedy by the competent national tribunals\" for acts violating fundamental rights granted by the constitution or by law.",
+    "source": "UDHR, Art. 8",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law."
+  },
+  {
+    "id": "cse-gen-human_rights-029",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 10 of the UDHR entitles everyone, in full equality, to a fair and public hearing by:",
+    "choices": [
+      "a jury of government officials",
+      "an international court only",
+      "an independent and impartial tribunal",
+      "the head of his local government"
+    ],
+    "answer": 2,
+    "explanation": "Article 10 provides for \"a fair and public hearing by an independent and impartial tribunal\" in determining a person's rights, obligations and any criminal charge.",
+    "source": "UDHR, Art. 10",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal"
+  },
+  {
+    "id": "cse-gen-human_rights-030",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 17 of the UDHR provides that no one shall be arbitrarily deprived of his:",
+    "choices": [
+      "employment",
+      "right to vote",
+      "property",
+      "membership in a trade union"
+    ],
+    "answer": 2,
+    "explanation": "Article 17 recognizes the right to own property alone or with others and states: \"No one shall be arbitrarily deprived of his property.\"",
+    "source": "UDHR, Art. 17",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "No one shall be arbitrarily deprived of his property."
+  },
+  {
+    "id": "cse-gen-human_rights-031",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 18 of the UDHR, the right to freedom of thought, conscience and religion includes the freedom to:",
+    "choices": [
+      "change his religion or belief",
+      "establish an official state religion",
+      "be exempt from taxes on religious grounds",
+      "refuse to obey any law that conflicts with his faith"
+    ],
+    "answer": 0,
+    "explanation": "Article 18 states that the right \"includes freedom to change his religion or belief\" and to manifest it in teaching, practice, worship and observance.",
+    "source": "UDHR, Art. 18",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "this right includes freedom to change his religion or belief"
+  },
+  {
+    "id": "cse-gen-human_rights-032",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 19 of the UDHR states that the freedom of opinion and expression includes the freedom to seek, receive and impart information and ideas through any media and:",
+    "choices": [
+      "only through licensed media outlets",
+      "only within one's own country",
+      "only with prior government approval",
+      "regardless of frontiers"
+    ],
+    "answer": 3,
+    "explanation": "Article 19 protects the freedom \"to seek, receive and impart information and ideas through any media and regardless of frontiers.\"",
+    "source": "UDHR, Art. 19",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "to seek, receive and impart information and ideas through any media and regardless of frontiers"
+  },
+  {
+    "id": "cse-gen-human_rights-033",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article 22 of the UDHR, everyone, as a member of society, has the right to:",
+    "choices": [
+      "free housing provided by the State",
+      "a guaranteed government job",
+      "social security",
+      "exemption from all taxes"
+    ],
+    "answer": 2,
+    "explanation": "Article 22 begins: \"Everyone, as a member of society, has the right to social security.\"",
+    "source": "UDHR, Art. 22",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "Everyone, as a member of society, has the right to social security"
+  },
+  {
+    "id": "cse-gen-human_rights-034",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 25 of the UDHR states that which two are entitled to special care and assistance?",
+    "choices": [
+      "Soldiers and veterans",
+      "Refugees and migrants",
+      "Motherhood and childhood",
+      "Old age and disability"
+    ],
+    "answer": 2,
+    "explanation": "Article 25(2) reads: \"Motherhood and childhood are entitled to special care and assistance.\" Old age and disability appear in Article 25(1) only as circumstances in which a person has a right to security.",
+    "source": "UDHR, Art. 25",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Motherhood and childhood are entitled to special care and assistance."
+  },
+  {
+    "id": "cse-gen-human_rights-035",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "According to Article 25 of the UDHR, all children, whether born in or out of wedlock, shall enjoy:",
+    "choices": [
+      "citizenship in the country of their birth",
+      "free education up to college",
+      "the same inheritance from both parents",
+      "the same social protection"
+    ],
+    "answer": 3,
+    "explanation": "Article 25(2) provides: \"All children, whether born in or out of wedlock, shall enjoy the same social protection.\"",
+    "source": "UDHR, Art. 25",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "udhr",
+    "quote": "All children, whether born in or out of wedlock, shall enjoy the same social protection."
+  },
+  {
+    "id": "cse-gen-human_rights-036",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Which right does Article 27 of the UDHR recognize?",
+    "choices": [
+      "To receive free university education",
+      "To a paid vacation every month",
+      "To own land in any country",
+      "To participate freely in the cultural life of the community"
+    ],
+    "answer": 3,
+    "explanation": "Article 27 gives everyone the right \"freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.\"",
+    "source": "UDHR, Art. 27",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "Everyone has the right freely to participate in the cultural life of the community"
+  },
+  {
+    "id": "cse-gen-human_rights-037",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article 30 of the UDHR states that nothing in the Declaration may be interpreted as implying any right to:",
+    "choices": [
+      "engage in any activity aimed at the destruction of the rights and freedoms set forth in it",
+      "leave one's own country",
+      "criticize the government",
+      "form or join a political party"
+    ],
+    "answer": 0,
+    "explanation": "Article 30 bars reading the Declaration as giving any State, group or person a right \"to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.\" Criticizing the government, leaving one's country and joining associations are protected rights.",
+    "source": "UDHR, Art. 30",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "udhr",
+    "quote": "any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein"
+  },
+  {
+    "id": "cse-gen-human_rights-038",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Which statement is consistent with Article III, Section 5 of the 1987 Constitution?",
+    "choices": [
+      "A religious test may be required before a person can vote.",
+      "The State shall adopt an official national religion.",
+      "No law shall be made respecting an establishment of religion.",
+      "Religious groups need a government license before holding worship services."
+    ],
+    "answer": 2,
+    "explanation": "Section 5 provides that \"No law shall be made respecting an establishment of religion, or prohibiting the free exercise thereof,\" and that no religious test shall be required for the exercise of civil or political rights.",
+    "source": "1987 Constitution, Art. III, Sec. 5",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "No law shall be made respecting an establishment of religion, or prohibiting the free exercise thereof."
+  },
+  {
+    "id": "cse-gen-human_rights-039",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 6 of the Constitution, the right to travel may be impaired only in the interest of:",
+    "choices": [
+      "tourism and foreign relations",
+      "economic development and trade",
+      "national security, public safety, or public health",
+      "political stability during elections"
+    ],
+    "answer": 2,
+    "explanation": "Section 6 states that the right to travel shall not be impaired \"except in the interest of national security, public safety, or public health, as may be provided by law.\"",
+    "source": "1987 Constitution, Art. III, Sec. 6",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Neither shall the right to travel be impaired except in the interest of national security, public safety, or public health, as may be provided by law."
+  },
+  {
+    "id": "cse-gen-human_rights-040",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 8 of the Constitution, the right to form unions, associations or societies for purposes not contrary to law belongs to the people, including those employed in:",
+    "choices": [
+      "the private sector only",
+      "the public and private sectors",
+      "the military and police only",
+      "government-owned corporations only"
+    ],
+    "answer": 1,
+    "explanation": "Section 8 protects the right of the people, \"including those employed in the public and private sectors,\" to form unions, associations, or societies for purposes not contrary to law.",
+    "source": "1987 Constitution, Art. III, Sec. 8",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The right of the people, including those employed in the public and private sectors, to form unions, associations, or societies for purposes not contrary to law shall not be abridged."
+  },
+  {
+    "id": "cse-gen-human_rights-041",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article III, Section 11 of the Constitution provides that free access to the courts and adequate legal assistance shall not be denied to any person by reason of:",
+    "choices": [
+      "lack of formal education",
+      "poverty",
+      "a prior criminal record",
+      "residence abroad"
+    ],
+    "answer": 1,
+    "explanation": "Section 11 reads: \"Free access to the courts and quasi-judicial bodies and adequate legal assistance shall not be denied to any person by reason of poverty.\"",
+    "source": "1987 Constitution, Art. III, Sec. 11",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "Free access to the courts and quasi-judicial bodies and adequate legal assistance shall not be denied to any person by reason of poverty."
+  },
+  {
+    "id": "cse-gen-human_rights-042",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 14 of the Constitution, after arraignment, trial may proceed even if the accused is absent, provided that:",
+    "choices": [
+      "he has been duly notified and his failure to appear is unjustifiable",
+      "the prosecution has already presented all its evidence",
+      "the offense is punishable by a fine only",
+      "his lawyer consents in writing"
+    ],
+    "answer": 0,
+    "explanation": "Section 14(2) allows trial in absentia after arraignment \"Provided, that he has been duly notified and his failure to appear is unjustifiable.\"",
+    "source": "1987 Constitution, Art. III, Sec. 14",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "after arraignment, trial may proceed notwithstanding the absence of the accused: Provided, that he has been duly notified and his failure to appear is unjustifiable."
+  },
+  {
+    "id": "cse-gen-human_rights-043",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article III, Section 15 of the Constitution allows the privilege of the writ of habeas corpus to be suspended only in cases of:",
+    "choices": [
+      "widespread crime in a region",
+      "a severe economic crisis",
+      "invasion or rebellion, when the public safety requires it",
+      "a declared state of calamity"
+    ],
+    "answer": 2,
+    "explanation": "Section 15 reads: \"The privilege of the writ of habeas corpus shall not be suspended except in cases of invasion or rebellion, when the public safety requires it.\"",
+    "source": "1987 Constitution, Art. III, Sec. 15",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The privilege of the writ of habeas corpus shall not be suspended except in cases of invasion or rebellion, when the public safety requires it."
+  },
+  {
+    "id": "cse-gen-human_rights-044",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 13 of the Constitution, which persons are NOT entitled to bail before conviction?",
+    "choices": [
+      "All persons arrested during a suspension of the writ of habeas corpus",
+      "Those charged with offenses punishable by reclusion perpetua when evidence of guilt is strong",
+      "All persons charged with offenses punishable by more than six years of imprisonment",
+      "Those charged with offenses punishable by reclusion perpetua, however weak the evidence"
+    ],
+    "answer": 1,
+    "explanation": "Section 13 makes all persons bailable before conviction \"except those charged with offenses punishable by reclusion perpetua when evidence of guilt is strong.\" It also says the right to bail is not impaired even when the writ of habeas corpus is suspended.",
+    "source": "1987 Constitution, Art. III, Sec. 13",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "All persons, except those charged with offenses punishable by reclusion perpetua when evidence of guilt is strong, shall, before conviction, be bailable by sufficient sureties"
+  },
+  {
+    "id": "cse-gen-human_rights-045",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Article III, Section 16 of the Constitution guarantees all persons the right to a speedy disposition of their cases before:",
+    "choices": [
+      "the Supreme Court only",
+      "the Office of the Ombudsman only",
+      "all judicial, quasi-judicial, or administrative bodies",
+      "criminal courts only"
+    ],
+    "answer": 2,
+    "explanation": "Section 16 covers cases \"before all judicial, quasi-judicial, or administrative bodies,\" not only courts.",
+    "source": "1987 Constitution, Art. III, Sec. 16",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "All persons shall have the right to a speedy disposition of their cases before all judicial, quasi-judicial, or administrative bodies."
+  },
+  {
+    "id": "cse-gen-human_rights-046",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "\"No person shall be compelled to be a witness against himself.\" Article III, Section 17 of the Constitution protects the right against:",
+    "choices": [
+      "ex post facto laws",
+      "double jeopardy",
+      "unreasonable searches and seizures",
+      "self-incrimination"
+    ],
+    "answer": 3,
+    "explanation": "Being compelled to testify against oneself is self-incrimination. Double jeopardy is Section 21, unreasonable searches Section 2, and ex post facto laws Section 22.",
+    "source": "1987 Constitution, Art. III, Sec. 17",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 1,
+    "source_doc": "constitution_1987",
+    "quote": "No person shall be compelled to be a witness against himself."
+  },
+  {
+    "id": "cse-gen-human_rights-047",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 12 of the Constitution, which form of detention is expressly prohibited?",
+    "choices": [
+      "Detention of an accused charged with a non-bailable offense",
+      "Incommunicado detention",
+      "Detention after conviction by final judgment",
+      "Detention in a provincial jail"
+    ],
+    "answer": 1,
+    "explanation": "Section 12(2) provides: \"Secret detention places, solitary, incommunicado, or other similar forms of detention are prohibited.\"",
+    "source": "1987 Constitution, Art. III, Sec. 12",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Secret detention places, solitary, incommunicado, or other similar forms of detention are prohibited."
+  },
+  {
+    "id": "cse-gen-human_rights-048",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under Article III, Section 12 of the Constitution, a person under investigation may waive the right to remain silent and to counsel only:",
+    "choices": [
+      "in writing before a notary public",
+      "orally before the investigating officer",
+      "in writing and in the presence of counsel",
+      "in the presence of a family member"
+    ],
+    "answer": 2,
+    "explanation": "Section 12(1) states that these rights \"cannot be waived except in writing and in the presence of counsel.\"",
+    "source": "1987 Constitution, Art. III, Sec. 12",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "These rights cannot be waived except in writing and in the presence of counsel."
+  },
+  {
+    "id": "cse-gen-human_rights-049",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Under the 1987 Constitution, the Commission on Human Rights is composed of:",
+    "choices": [
+      "seven Members elected by Congress",
+      "a Chairman and six Members",
+      "a Chairman and four Members",
+      "a Chairman and two Members"
+    ],
+    "answer": 2,
+    "explanation": "Article XIII, Section 17 provides that the Commission \"shall be composed of a Chairman and four Members who must be natural-born citizens of the Philippines.\"",
+    "source": "1987 Constitution, Art. XIII, Sec. 17",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "The Commission shall be composed of a Chairman and four Members who must be natural-born citizens of the Philippines and a majority of whom shall be members of the Bar."
+  },
+  {
+    "id": "cse-gen-human_rights-050",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "The Commission on Human Rights exercises visitorial powers over:",
+    "choices": [
+      "schools and universities",
+      "private homes and businesses",
+      "courts and quasi-judicial bodies",
+      "jails, prisons, or detention facilities"
+    ],
+    "answer": 3,
+    "explanation": "Article XIII, Section 18(4) gives the Commission the power to \"Exercise visitorial powers over jails, prisons, or detention facilities.\"",
+    "source": "1987 Constitution, Art. XIII, Sec. 18",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 2,
+    "source_doc": "constitution_1987",
+    "quote": "Exercise visitorial powers over jails, prisons, or detention facilities;"
+  },
+  {
+    "id": "cse-gen-human_rights-051",
+    "exam": "cse",
+    "levels": [
+      "professional",
+      "subprofessional"
+    ],
+    "section": "general_info",
+    "topic": "human_rights",
+    "stem": "Which power does the Commission on Human Rights have under Article XIII, Section 18 of the Constitution?",
+    "choices": [
+      "Prosecute and convict violators of human rights",
+      "Grant immunity from prosecution to a person whose testimony is necessary to determine the truth in its investigation",
+      "Reverse decisions of the Supreme Court in human rights cases",
+      "Issue warrants of arrest against suspected violators"
+    ],
+    "answer": 1,
+    "explanation": "Section 18(8) lets the Commission grant immunity from prosecution to anyone whose testimony or evidence is necessary or convenient to determine the truth in its investigation. It investigates, but it cannot convict, issue arrest warrants or overturn court rulings.",
+    "source": "1987 Constitution, Art. XIII, Sec. 18",
+    "method": "llm-grounded",
+    "status": "verified",
+    "difficulty": 3,
+    "source_doc": "constitution_1987",
+    "quote": "Grant immunity from prosecution to any person whose testimony or whose possession of documents or other evidence is necessary or convenient to determine the truth in any investigation conducted by it or under its authority;"
   }
 ]
